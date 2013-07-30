@@ -1,0 +1,322 @@
+NPSL; 1967; Atlanta; 4; 16; Baltimore; a; 0,1; ; ; 8434
+NPSL; 1967; Atlanta; ; 22; Los Angeles; h; 1,1; ; Woosnam; 11293
+NPSL; 1967; Atlanta; ; 30; Los Angeles; a; 3,0; ; Bloomfield, Kapengwe, Woosnam; 5094
+NPSL; 1967; Atlanta; ; 3; Oakland; a; 1,2; ; Bloomfield; 2503
+NPSL; 1967; Atlanta; ; 10; Toronto; h; 3,2; ; Kapengwe, Mwikuta, Newton; 6579
+NPSL; 1967; Atlanta; ; 13; New York; h; 2,0; ; Newman, Newton; 5704
+NPSL; 1967; Atlanta; ; 21; New York; a; 2,2; ; Bloomfield, McParland; 3938
+NPSL; 1967; Atlanta; ; 23; Toronto; a; 4,1; ; Cummings, McParland, Woosnam 2; 2876
+NPSL; 1967; Atlanta; ; 27; Pittsburgh; h; 2,1; ; Woosnam 2; 13132
+NPSL; 1967; Atlanta; ; 31; Philadelphia; a; 2,3; ; Bedford, McParland; 414
+NPSL; 1967; Atlanta; ; 4; Chicago; h; 4,4; ; Bedford, Newman, Woosnam 2; 3608
+NPSL; 1967; Atlanta; ; 6; Baltimore; a; 1,2; ; Kapengwe; 3417
+NPSL; 1967; Atlanta; ; 14; Philadelphia; h; 3,0; ; Bedford, Own Goal, McParland; 11375
+NPSL; 1967; Atlanta; ; 16; Pittsburgh; a; 0,1; ; ; 2488
+NPSL; 1967; Atlanta; ; 20; St. Louis; a; 2,1; ; Newton 2; 6434
+NPSL; 1967; Atlanta; ; 25; Oakland; a; 0,2; ; ; 3816
+NPSL; 1967; Atlanta; ; 28; Los Angeles; a; 1,2; ; Bedford; 2131
+NPSL; 1967; Atlanta; ; 2; Los Angeles; h; 1,1; ; Mwila; 5742
+NPSL; 1967; Atlanta; ; 4; Toronto; a; 1,2; ; Riley; 2723
+NPSL; 1967; Atlanta; ; 6; Oakland; h; 0,3; ; ; 5120
+NPSL; 1967; Atlanta; ; 12; Philadelphia; h; 2,0; ; Mwila, Newton; 5863
+NPSL; 1967; Atlanta; ; 14; Chicago; a; 1,2; ; Mwila; 3546
+NPSL; 1967; Atlanta; ; 19; Toronto; h; 4,1; ; Newman, Newton 3; 6965
+NPSL; 1967; Atlanta; ; 22; New York; a; 2,2; ; Crowe, Own Goal; 3334
+NPSL; 1967; Atlanta; ; 30; Philadelphia; a; 1,1; ; Kapengwe; 4236
+NPSL; 1967; Atlanta; ; 2; New York; h; 1,1; ; Bloomfield; 5942
+NPSL; 1967; Atlanta; ; 5; Baltimore; h; 2,2; ; McParland, Mwila; 7230
+NPSL; 1967; Atlanta; ; 9; St. Louis; h; 2,3; ; Kapengwe, Riley; 5583
+NPSL; 1967; Atlanta; ; 11; Pittsburgh; a; 2,3; ; Own Goal 2; 1461
+NPSL; 1967; Atlanta; ; 20; Baltimore; h; 0,0; ; ; 4361
+NPSL; 1967; Atlanta; ; 26; Oakland; h; 1,0; ; McParland; 5919
+NPSL; 1967; Baltimore; 4; 16; Atlanta; h; 1,0; ; St. Vil; 8434
+NPSL; 1967; Baltimore; ; 19; St. Louis; h; 1,3; ; Chilinque; 4409
+NPSL; 1967; Baltimore; ; 23; Philadelphia; a; 0,0; ; ; 4815
+NPSL; 1967; Baltimore; ; 28; Chicago; a; 2,0; ; Chilinque 2; 3753
+NPSL; 1967; Baltimore; ; 3; Pittsburgh; h; 3,5; ; Dos Santos, Own Goal, Asher Welch; 5325
+NPSL; 1967; Baltimore; ; 13; Chicago; h; 2,2; ; Garcete, Viollet; 3521
+NPSL; 1967; Baltimore; ; 19; Philadelphia; h; 3,2; ; Speca, Art Welch, Viollet; 3740
+NPSL; 1967; Baltimore; ; 24; New York; a; 0,0; ; ; 2351
+NPSL; 1967; Baltimore; ; 28; St. Louis; a; 2,0; ; Mayoral, Art Welch; 5908
+NPSL; 1967; Baltimore; ; 31; Toronto; h; 0,2; ; ; 4024
+NPSL; 1967; Baltimore; ; 4; Philadelphia; a; 0,0; ; ; 5127
+NPSL; 1967; Baltimore; ; 6; Atlanta; h; 2,1; ; Cohen, Santisteban; 3741
+NPSL; 1967; Baltimore; ; 10; Toronto; h; 3,2; ; Santisteban, Art Welch 2; 4736
+NPSL; 1967; Baltimore; ; 14; Pittsburgh; h; 4,1; ; Azevedo 2, Badu, St. Vil; 6643
+NPSL; 1967; Baltimore; ; 18; Oakland; a; 1,3; ; St. Vil; 3480
+NPSL; 1967; Baltimore; ; 21; Los Angeles; a; 1,0; ; St. Vil; 3463
+NPSL; 1967; Baltimore; ; 27; Pittsburgh; a; 2,2; ; Azevedo, Cohen; 3286
+NPSL; 1967; Baltimore; ; 30; Toronto; a; 1,2; ; Badu; 3016
+NPSL; 1967; Baltimore; ; 3; Oakland; h; 1,0; ; Azevedo; 8792
+NPSL; 1967; Baltimore; ; 9; St. Louis; a; 2,2; ; Azevedo, Art Welch; 5135
+NPSL; 1967; Baltimore; ; 11; Toronto; a; 4,2; ; Claesson 3, Azevedo; 4723
+NPSL; 1967; Baltimore; ; 16; New York; h; 1,2; ; Uriel; 6422
+NPSL; 1967; Baltimore; ; 23; Chicago; h; 2,1; ; Cohen, Viollet; 4347
+NPSL; 1967; Baltimore; ; 26; Los Angeles; h; 3,2; ; Azevedo, St. Vil, Viollet; 6422
+NPSL; 1967; Baltimore; ; 28; Chicago; a; 1,3; ; St. Vil; 7243
+NPSL; 1967; Baltimore; ; 30; New York; h; 3,3; ; Cohen, Badu, St. Vil; 5925
+NPSL; 1967; Baltimore; ; 5; Atlanta; a; 2,2; ; Azevedo, Dos Santos; 7230
+NPSL; 1967; Baltimore; ; 9; New York; a; 1,0; ; Badu; 5807
+NPSL; 1967; Baltimore; ; 13; St. Louis; h; 3,1; ; Claesson, St. Vil, Uriel; 5604
+NPSL; 1967; Baltimore; ; 16; Philadelphia; h; 0,1; ; ; 11329
+NPSL; 1967; Baltimore; ; 20; Atlanta; a; 0,0; ; ; 4361
+NPSL; 1967; Baltimore; ; 27; Pittsburgh; a; 2,3; ; Chilinque, Dos Santos; 892
+NPSL Playoffs; 1967; Baltimore; ; 3; Oakland; h; 1,0; ; Viollet; 16329
+NPSL Playoffs; 1967; Baltimore; ; 9; Oakland; a; 1,4; ; St. Vil; 9037
+NPSL; 1967; Chicago; 4; 16; St. Louis; h; 2,1; ; Roy 2; 4720
+NPSL; 1967; Chicago; ; 18; Toronto; h; 1,0; ; Roy; 811
+NPSL; 1967; Chicago; ; 22; New York; a; 1,2; ; Roy; 7766
+NPSL; 1967; Chicago; ; 28; Baltimore; h; 0,2; ; ; 3753
+NPSL; 1967; Chicago; 5; 2; Philadelphia; h; 0,0; ; ; 879
+NPSL; 1967; Chicago; ; 7; St. Louis; a; 1,2; ; Roy; 11529
+NPSL; 1967; Chicago; ; 13; Baltimore; a; 2,2; ; Roy 2; 3521
+NPSL; 1967; Chicago; ; 16; Los Angeles; h; 1,1; ; Glock; 2267
+NPSL; 1967; Chicago; ; 20; Pittsburgh; a; 1,3; ; Roy; 2103
+NPSL; 1967; Chicago; ; 24; Oakland; a; 1,1; ; Campos; 2538
+NPSL; 1967; Chicago; ; 28; Los Angeles; a; 1,1; ; Grbic; 2577
+NPSL; 1967; Chicago; ; 30; New York; h; 0,0; ; ; 3741
+NPSL; 1967; Chicago; 6; 4; Atlanta; a; 4,4; ; Roy, Own Goal, Barber, Kaszubski; 3608
+NPSL; 1967; Chicago; ; 6; Toronto; a; 1,4; ; Roy; 2264
+NPSL; 1967; Chicago; ; 9; Oakland; h; 1,2; ; Glock; 1355
+NPSL; 1967; Chicago; ; 13; Los Angeles; h; 0,3; ; ; 870
+NPSL; 1967; Chicago; ; 18; Philadelphia; h; 3,1; ; Barber 2, Winchester; 2125
+NPSL; 1967; Chicago; ; 25; Philadelphia; a; 2,0; ; Winchester 2; 2986
+NPSL; 1967; Chicago; ; 30; Oakland; h; 1,1; ; Glock; 1349
+NPSL; 1967; Chicago; 7; 3; Pittsburgh; h; 2,2; ; Winchester 2; 1615
+NPSL; 1967; Chicago; ; 9; New York; a; 3,2; ; DeBrito, Symaniak, Winchester; 2932
+NPSL; 1967; Chicago; ; 14; Atlanta; h; 2,1; ; Roy, DeBrito; 3546
+NPSL; 1967; Chicago; ; 23; Baltimore; a; 1,2; ; Winchester; 4347
+NPSL; 1967; Chicago; ; 28; Baltimore; h; 3,1; ; Barber, Roy, Winchester; 7243
+NPSL; 1967; Chicago; ; 1; Toronto; a; 3,3; ; Curia, Roy, Winchester; 3982
+NPSL; 1967; Chicago; ; 6; St. Louis; h; 2,1; ; Barber, Roy; 3354
+NPSL; 1967; Chicago; ; 9; Philadelphia; a; 3,2; ; Roy, Winchester 2; 4845
+NPSL; 1967; Chicago; ; 11; Los Angeles; a; 2,1; ; Winchester, Barber; 1817
+NPSL; 1967; Chicago; ; 16; Oakland; a; 1,3; ; Barber; 5715
+NPSL; 1967; Chicago; ; 18; Toronto; h; 1,2; ; O'Connor; 1518
+NPSL; 1967; Chicago; ; 22; New York; h; 3,3; ; Winchester, Roy, Barber; 2754
+NPSL; 1967; Chicago; ; 25; St. Louis; a; 1,2; ; Roy; 1353
+NPSL; 1967; Los Angeles; 4; 16; New York; h; 3,2; ; Djukic, Durante 2; 9048
+NPSL; 1967; Los Angeles; ; 19; Pittsburgh; h; 2,2; ; Coskun, Durante; 1610
+NPSL; 1967; Los Angeles; ; 22; Atlanta; a; 1,1; ; Durante; 11293
+NPSL; 1967; Los Angeles; ; 26; St. Louis; a; 1,1; ; Coskun; 3007
+NPSL; 1967; Los Angeles; ; 30; Atlanta; h; 0,3; ; ; 5094
+NPSL; 1967; Los Angeles; ; 3; Toronto; h; 1,3; ; Reyes; 2570
+NPSL; 1967; Los Angeles; ; 10; New York; a; 2,0; ; Coskun, Durante; 4830
+NPSL; 1967; Los Angeles; ; 13; Oakland; a; 0,4; ; ; 5511
+NPSL; 1967; Los Angeles; ; 16; Chicago; a; 1,1; ; Durante; 2267
+NPSL; 1967; Los Angeles; ; 21; Oakland; h; 2,0; ; Fernandez, Zeltser; 3555
+NPSL; 1967; Los Angeles; ; 24; Philadelphia; a; 0,1; ; ; 4020
+NPSL; 1967; Los Angeles; ; 28; Chicago; h; 1,1; ; Durante; 2577
+NPSL; 1967; Los Angeles; ; 31; St. Louis; h; 1,1; ; Coskun; 1883
+NPSL; 1967; Los Angeles; ; 3; Pittsburgh; a; 0,0; ; ; 4115
+NPSL; 1967; Los Angeles; ; 11; Pittsburgh; h; 3,0; ; Coskun 2, Durante; 2719
+NPSL; 1967; Los Angeles; ; 13; Chicago; a; 3,0; ; Durante, Fernandez, Zeltser; 870
+NPSL; 1967; Los Angeles; ; 18; St. Louis; a; 1,0; ; Meszaros; 5604
+NPSL; 1967; Los Angeles; ; 21; Baltimore; h; 0,1; ; ; 3463
+NPSL; 1967; Los Angeles; ; 28; Atlanta; h; 2,1; ; Crisp, Fernandez; 2131
+NPSL; 1967; Los Angeles; ; 2; Atlanta; a; 1,1; ; Meszaros; 5642
+NPSL; 1967; Los Angeles; ; 4; New York; a; 1,2; ; Zeltser; 3492
+NPSL; 1967; Los Angeles; ; 9; Oakland; a; 0,2; ; ; 5108
+NPSL; 1967; Los Angeles; ; 15; Oakland; h; 0,0; ; ; 11158
+NPSL; 1967; Los Angeles; ; 22; St. Louis; h; 3,4; ; Durante, Fernandez, Reyes; 2652
+NPSL; 1967; Los Angeles; ; 26; Baltimore; a; 2,3; ; Reyes, Lenzinger; 6422
+NPSL; 1967; Los Angeles; ; 28; Toronto; a; 1,6; ; Meszaros; 4271
+NPSL; 1967; Los Angeles; ; 2; Pittsburgh; a; 1,4; ; Zeltser; 1610
+NPSL; 1967; Los Angeles; ; 4; Philadelphia; h; 1,3; ; Zeltser; 2197
+NPSL; 1967; Los Angeles; ; 9; Toronto; h; 1,1; ; Durante; 2700
+NPSL; 1967; Los Angeles; ; 11; Chicago; h; 1,2; ; Durante; 1817
+NPSL; 1967; Los Angeles; ; 16; New York; h; 4,6; ; Reyes 2, Durante 2; 2339
+NPSL; 1967; Los Angeles; ; 25; Toronto; a; 2,5; ; Durante, Reyes; 3426
+NPSL; 1967; New York; 4; 16; Los Angeles; a; 2,3; ; Archibald, Mahy; 9048
+NPSL; 1967; New York; ; 18; Oakland; a; 0,1; ; ; 2552
+NPSL; 1967; New York; ; 22; Chicago; h; 2,1; ; Menotti, Silveira; 7766
+NPSL; 1967; New York; ; 30; Philadelphia; a; 0,2; ; ; 5105
+NPSL; 1967; New York; ; 10; Los Angeles; h; 0,2; ; ; 4830
+NPSL; 1967; New York; ; 13; Atlanta; a; 0,2; ; (wrong); 5704
+NPSL; 1967; New York; ; 18; Pittsburgh; a; 3,5; ; Alas, Mahy, Vestergard; 1162
+NPSL; 1967; New York; ; 21; Atlanta; h; 2,2; ; Ash 2; 3938
+NPSL; 1967; New York; ; 24; Baltimore; h; 0,0; ; ; 2351
+NPSL; 1967; New York; ; 27; Oakland; h; 3,0; ; Mahy, Menotti 2; 3027
+NPSL; 1967; New York; ; 30; Chicago; a; 0,0; ; ; 3741
+NPSL; 1967; New York; ; 2; Toronto; a; 1,2; ; Alas; 1861
+NPSL; 1967; New York; ; 14; St. Louis; h; 1,2; ; Ash; 3809
+NPSL; 1967; New York; ; 17; Toronto; h; 5,3; ; Alas, Ash, Mahy, Manfredi, Pla; 2047
+NPSL; 1967; New York; ; 28; Philadelphia; a; 4,1; ; Archibald 2, Manfredi, Vorbe; 3456
+NPSL; 1967; New York; ; 1; Philadelphia; h; 1,1; ; Manfredi; 4324
+NPSL; 1967; New York; ; 4; Los Angeles; h; 2,1; ; Kirby 2; 3492
+NPSL; 1967; New York; ; 9; Chicago; h; 2,3; ; Mahy, Kirby; 2932
+NPSL; 1967; New York; ; 12; Pittsburgh; a; 4,1; ; Kirby 2, Mahy, Alas; 3191
+NPSL; 1967; New York; ; 16; Baltimore; a; 2,1; ; Kirby 2; 6422
+NPSL; 1967; New York; ; 19; Pittsburgh; h; 2,1; ; Alas, Kirby; 5611
+NPSL; 1967; New York; ; 22; Atlanta; h; 2,2; ; Kirby 2; 3334
+NPSL; 1967; New York; ; 28; St. Louis; a; 2,3; ; Manfredi 2; 4521
+NPSL; 1967; New York; ; 30; Baltimore; a; 3,3; ; Alas, Ash, Kirby; 5925
+NPSL; 1967; New York; ; 2; Atlanta; a; 1,1; ; Alas; 5942
+NPSL; 1967; New York; ; 6; Pittsburgh; h; 3,1; ; DeLeon 3; 5008
+NPSL; 1967; New York; ; 9; Baltimore; h; 0,1; ; ; 5807
+NPSL; 1967; New York; ; 12; Oakland; h; 1,0; ; Menotti; 6652
+NPSL; 1967; New York; ; 16; Los Angeles; a; 6,4; ; Archibald 3, Kirby, Manfredi, Mahy; 2339
+NPSL; 1967; New York; ; 20; Oakland; a; 2,4; ; Archibald, Kirby; 5090
+NPSL; 1967; New York; ; 22; Chicago; a; 3,3; ; Finken, Mahy, Mas; 2754
+NPSL; 1967; New York; ; 26; Philadelphia; h; 1,2; ; Kirby; 2821
+NPSL; 1967; Oakland; 4; 16; Pittsburgh; h; 3,3; ; Marin, Saccone 2; 9771
+NPSL; 1967; Oakland; ; 18; New York; h; 1,0; ; Milosevic; 2552
+NPSL; 1967; Oakland; ; 23; St. Louis; a; 1,2; ; Mitic; 20985
+NPSL; 1967; Oakland; ; 30; Toronto; h; 2,1; ; Milosevic 2; 7727
+NPSL; 1967; Oakland; ; 3; Atlanta; h; 2,1; ; Baesso, Cop; 2503
+NPSL; 1967; Oakland; ; 13; Los Angeles; h; 4,0; ; Baesso 2, Cop, Rowan; 5511
+NPSL; 1967; Oakland; ; 21; Los Angeles; a; 0,2; ; ; 3555
+NPSL; 1967; Oakland; ; 24; Chicago; h; 1,1; ; Milosevic; 2538
+NPSL; 1967; Oakland; ; 27; New York; a; 0,3; ; ; 3027
+NPSL; 1967; Oakland; ; 31; Pittsburgh; a; 3,2; ; Baesso, Mitic, Lukic; 1629
+NPSL; 1967; Oakland; ; 4; St. Louis; h; 2,1; ; Gavric, Saccone; 3753
+NPSL; 1967; Oakland; ; 7; Pittsburgh; h; 3,1; ; Baesso, Cop, Davidovic; 2526
+NPSL; 1967; Oakland; ; 9; Chicago; a; 2,1; ; Marin, Milosevic; 1355
+NPSL; 1967; Oakland; ; 13; Toronto; a; 3,0; ; Marin, Milosevic, Mitic; 4116
+NPSL; 1967; Oakland; ; 18; Baltimore; h; 3,1; ; Milosevic 2, Baesso; 4480
+NPSL; 1967; Oakland; ; 25; Atlanta; h; 2,0; ; Marin, Milosevic; 3818
+NPSL; 1967; Oakland; ; 30; Chicago; a; 1,1; ; Baesso; 1349
+NPSL; 1967; Oakland; ; 3; Baltimore; a; 0,1; ; ; 8792
+NPSL; 1967; Oakland; ; 6; Atlanta; a; 3,0; ; Lievano, Milosevic, Saccone; 5120
+NPSL; 1967; Oakland; ; 9; Los Angeles; h; 2,0; ; Baesso, Milosevic; 5108
+NPSL; 1967; Oakland; ; 15; Los Angeles; a; 0,0; ; ; 11158
+NPSL; 1967; Oakland; ; 18; St. Louis; a; 1,3; ; Marin; 6107
+NPSL; 1967; Oakland; ; 21; Toronto; a; 2,1; ; Marin, Scott; 4982
+NPSL; 1967; Oakland; ; 26; St. Louis; h; 9,0; ; Baesso, Gavric, Marin 2, Mitic 2, Saccone, Djukic 2; 4965
+NPSL; 1967; Oakland; ; 2; Philadelphia; h; 2,2; ; Mitic, Saccone; 3707
+NPSL; 1967; Oakland; ; 6; Toronto; h; 2,0; ; Mitic 2; 9516
+NPSL; 1967; Oakland; ; 8; Pittsburgh; a; 2,0; ; Mitic, Djukic; 6273
+NPSL; 1967; Oakland; ; 12; New York; a; 0,1; ; ; 6652
+NPSL; 1967; Oakland; ; 16; Chicago; h; 3,1; ; Mitic 3; 5715
+NPSL; 1967; Oakland; ; 20; New York; h; 4,2; ; Baesso 2, Milosevic, Mitic; 5090
+NPSL; 1967; Oakland; ; 23; Philadelphia; a; 1,2; ; Djukic; 8009
+NPSL; 1967; Oakland; ; 26; Atlanta; a; 0,1; ; ; 5919
+NPSL Playoffs; 1967; Oakland; ; 3; Baltimore; a; 0,1; ; ; 16329
+NPSL Playoffs; 1967; Oakland; ; 9; Baltimore; h; 4,1; ; Djukic 3, Marin; 9037
+NPSL; 1967; Philadelphia; 4; 16; Toronto; h; 2,0; ; Short 2; 14163
+NPSL; 1967; Philadelphia; ; 23; Baltimore; h; 0,0; ; ; 4815
+NPSL; 1967; Philadelphia; ; 30; New York; h; 2,0; ; Albrecht, Garro; 5105
+NPSL; 1967; Philadelphia; ; 2; Chicago; a; 0,0; ; ; 897
+NPSL; 1967; Philadelphia; ; 9; St. Louis; a; 1,2; ; Best; 6491
+NPSL; 1967; Philadelphia; ; 19; Baltimore; a; 2,3; ; ; 3740
+NPSL; 1967; Philadelphia; ; 24; Los Angeles; h; 1,0; ; Garro; 4020
+NPSL; 1967; Philadelphia; ; 28; Toronto; a; 7,2; ; Albrecht, Garro 2, Kaszas, Szalay 3; 2664
+NPSL; 1967; Philadelphia; ; 31; Atlanta; h; 3,2; ; Garcia, Garro, Szalay; 4414
+NPSL; 1967; Philadelphia; ; 4; Baltimore; h; 0,0; ; ; 5127
+NPSL; 1967; Philadelphia; ; 11; St. Louis; h; 0,0; ; ; 4837
+NPSL; 1967; Philadelphia; ; 14; Atlanta; a; 0,3; ; ; 11375
+NPSL; 1967; Philadelphia; ; 18; Chicago; a; 1,3; ; Navarro; 2125
+NPSL; 1967; Philadelphia; ; 23; Pittsburgh; a; 4,5; ; Albrecht, Vidal, Kazdoba, Garcia; 3151
+NPSL; 1967; Philadelphia; ; 25; Chicago; h; 0,2; ; ; 2986
+NPSL; 1967; Philadelphia; ; 28; New York; h; 1,4; ; Garro; 3456
+NPSL; 1967; Philadelphia; ; 1; New York; a; 1,1; ; Tinney; 4324
+NPSL; 1967; Philadelphia; ; 5; St. Louis; h; 3,2; ; Chyzowych, Kaszas, Vidal; 3462
+NPSL; 1967; Philadelphia; ; 8; Pittsburgh; h; 0,0; ; ; 6032
+NPSL; 1967; Philadelphia; ; 12; Atlanta; a; 0,2; ; ; 5863
+NPSL; 1967; Philadelphia; ; 15; Toronto; h; 0,0; ; ; 4214
+NPSL; 1967; Philadelphia; ; 22; Pittsburgh; h; 4,1; ; Own Goal, Short, Albrecht, Vidal; 4476
+NPSL; 1967; Philadelphia; ; 24; Pittsburgh; a; 4,1; ; Chyzowych, Garro, Szalay, Zerillo; 1498
+NPSL; 1967; Philadelphia; ; 30; Atlanta; h; 1,1; ; Vidal; 4236
+NPSL; 1967; Philadelphia; ; 2; Oakland; a; 2,2; ; Garro, Chyzowych; 3707
+NPSL; 1967; Philadelphia; ; 4; Los Angeles; a; 3,1; ; Garcia, Short, Vidal; 2197
+NPSL; 1967; Philadelphia; ; 9; Chicago; h; 2,3; ; Garro, Zerillo; 4825
+NPSL; 1967; Philadelphia; ; 11; Toronto; a; 3,1; ; Garro, Kaszas, Szalay; 3104
+NPSL; 1967; Philadelphia; ; 16; Baltimore; a; 1,0; ; Szalay; 11329
+NPSL; 1967; Philadelphia; ; 19; St. Louis; a; 1,0; ; Garcia; 5839
+NPSL; 1967; Philadelphia; ; 23; Oakland; h; 2,1; ; Albrecht, Szalay; 8009
+NPSL; 1967; Philadelphia; ; 26; New York; a; 2,1; ; Garro, Kuzman; 2821
+NPSL; 1967; Pittsburgh; 4; 16; Oakland; a; 3,3; ; Laseroms, Prins, Rummel; 9771
+NPSL; 1967; Pittsburgh; ; 19; Los Angeles; a; 2,2; ; Rummel, Seissler; 1610
+NPSL; 1967; Pittsburgh; ; 22; Toronto; h; 4,3; ; Perau, Prins 2, Seissler; 6359
+NPSL; 1967; Pittsburgh; ; 28; St. Louis; h; 1,4; ; Laseroms; 5298
+NPSL; 1967; Pittsburgh; ; 3; Baltimore; a; 5,3; ; Laseroms, Prins, Rummel 2, Seissler; 5325
+NPSL; 1967; Pittsburgh; ; 14; Toronto; a; 2,1; ; Cocks, Seissler; 7460
+NPSL; 1967; Pittsburgh; ; 18; New York; h; 5,3; ; DeGroot 2, Cocks, Prins, Rummel; 1162
+NPSL; 1967; Pittsburgh; ; 20; Chicago; h; 3,1; ; Cocks 3; 2603
+NPSL; 1967; Pittsburgh; ; 23; St. Louis; a; 1,3; ; DeVries; 7091
+NPSL; 1967; Pittsburgh; ; 27; Atlanta; a; 1,2; ; Rummel; 13132
+NPSL; 1967; Pittsburgh; ; 31; Oakland; h; 2,3; ; Rummel 2; 1629
+NPSL; 1967; Pittsburgh; ; 3; Los Angeles; h; 0,0; ; ; 4115
+NPSL; 1967; Pittsburgh; ; 7; Oakland; a; 1,3; ; Cocks; 2526
+NPSL; 1967; Pittsburgh; ; 11; Los Angeles; a; 0,3; ; ; 2719
+NPSL; 1967; Pittsburgh; ; 14; Baltimore; a; 1,4; ; Wiedemeier; 6643
+NPSL; 1967; Pittsburgh; ; 16; Atlanta; h; 1,0; ; Prins; 2488
+NPSL; 1967; Pittsburgh; ; 23; Philadelphia; h; 5,4; ; Perau, Prins 2, Cocks, Seissler; 3151
+NPSL; 1967; Pittsburgh; ; 27; Baltimore; h; 2,2; ; Cocks, Perau; 3286
+NPSL; 1967; Pittsburgh; ; 30; St. Louis; a; 3,3; ; Rummel, Seissler, Szczepaniak; 5717
+NPSL; 1967; Pittsburgh; ; 3; Chicago; a; 2,2; ; Rummel 2; 1615
+NPSL; 1967; Pittsburgh; ; 8; Philadelphia; a; 0,0; ; ; 6032
+NPSL; 1967; Pittsburgh; ; 12; New York; h; 1,4; ; Perau; 3191
+NPSL; 1967; Pittsburgh; ; 16; St. Louis; h; 0,1; ; ; 4943
+NPSL; 1967; Pittsburgh; ; 19; New York; a; 1,2; ; Seissler; 5611
+NPSL; 1967; Pittsburgh; ; 22; Philadelphia; a; 1,4; ; Seissler; 4476
+NPSL; 1967; Pittsburgh; ; 24; Philadelphia; h; 1,4; ; Seissler; 1498
+NPSL; 1967; Pittsburgh; ; 2; Los Angeles; h; 4,1; ; Perau 2, Rummel, Cocks; 1610
+NPSL; 1967; Pittsburgh; ; 6; New York; a; 1,3; ; Rummel; 5008
+NPSL; 1967; Pittsburgh; ; 8; Oakland; h; 0,2; ; ; 6273
+NPSL; 1967; Pittsburgh; ; 11; Atlanta; h; 3,2; ; Cocks, Seissler, Smit; 1461
+NPSL; 1967; Pittsburgh; ; 27; Baltimore; h; 3,2; ; Perau 2, Rummel; 892
+NPSL; 1967; St. Louis; 4; 16; Chicago; a; 1,2; ; Kostic; 4720
+NPSL; 1967; St. Louis; ; 19; Baltimore; a; 3,1; ; Kostic 2, Pogrzeba; 4409
+NPSL; 1967; St. Louis; ; 23; Oakland; h; 2,1; ; Hahn 2; 20985
+NPSL; 1967; St. Louis; ; 26; Los Angeles; h; 1,1; ; Kolbl; 3007
+NPSL; 1967; St. Louis; ; 28; Pittsburgh; a; 4,1; ; Kolbl 3, Pogrzeba; 5298
+NPSL; 1967; St. Louis; ; 7; Chicago; h; 2,1; ; Kolbl, Pogrzeba; 11529
+NPSL; 1967; St. Louis; ; 9; Philadelphia; h; 2,1; ; Kolbl, McBride; 6491
+NPSL; 1967; St. Louis; ; 21; Toronto; h; 0,0; ; ; 7721
+NPSL; 1967; St. Louis; ; 23; Pittsburgh; h; 3,1; ; Kolbl, Kostic, Puls; 7091
+NPSL; 1967; St. Louis; ; 28; Baltimore; h; 0,2; ; ; 5908
+NPSL; 1967; St. Louis; ; 31; Los Angeles; a; 1,1; ; Frankiewicz; 1629
+NPSL; 1967; St. Louis; ; 4; Oakland; a; 1,2; ; Pogrzeba; 3753
+NPSL; 1967; St. Louis; ; 11; Philadelphia; a; 0,0; ; ; 4837
+NPSL; 1967; St. Louis; ; 14; New York; a; 2,1; ; Kostic, Pogrzeba; 3809
+NPSL; 1967; St. Louis; ; 18; Los Angeles; h; 0,1; ; ; 5604
+NPSL; 1967; St. Louis; ; 20; Atlanta; h; 1,2; ; Kolbl; 6435
+NPSL; 1967; St. Louis; ; 23; Toronto; a; 1,3; ; Gentile; 5934
+NPSL; 1967; St. Louis; ; 30; Pittsburgh; h; 3,3; ; Frankiewicz, Kolbl, Tojacic; 5717
+NPSL; 1967; St. Louis; ; 5; Philadelphia; a; 2,3; ; Kostic, Pogrzeba; 3462
+NPSL; 1967; St. Louis; ; 9; Baltimore; h; 2,2; ; Kolbl, McNab; 5135
+NPSL; 1967; St. Louis; ; 16; Pittsburgh; a; 1,0; ; Kolbl; 4943
+NPSL; 1967; St. Louis; ; 18; Oakland; h; 3,1; ; Kolbl 2, Beck; 6107
+NPSL; 1967; St. Louis; ; 22; Los Angeles; a; 4,3; ; Kolbl, Beck, Pogrzeba 2; 2652
+NPSL; 1967; St. Louis; ; 26; Oakland; a; 0,9; ; ; 4965
+NPSL; 1967; St. Louis; ; 28; New York; h; 3,2; ; Kostic 2, Pogrzeba; 4521
+NPSL; 1967; St. Louis; ; 6; Chicago; a; 1,2; ; Kostic; 3354
+NPSL; 1967; St. Louis; ; 9; Atlanta; a; 3,2; ; Pogrzeba 2, Sekularac; 5583
+NPSL; 1967; St. Louis; ; 13; Baltimore; a; 1,3; ; Kostic; 5604
+NPSL; 1967; St. Louis; ; 15; Toronto; a; 1,0; ; Puls; 3273
+NPSL; 1967; St. Louis; ; 19; Philadelphia; h; 0,1; ; ; 5839
+NPSL; 1967; St. Louis; ; 22; Toronto; h; 4,4; ; Frankiewicz, Kostic, Puls, Nowak; 6188
+NPSL; 1967; St. Louis; ; 25; Chicago; h; 2,1; ; Kostic, Popovic; 13531
+NPSL; 1967; Toronto; 4; 16; Philadelphia; a; 0,2; ; ; 14163
+NPSL; 1967; Toronto; ; 18; Chicago; a; 0,1; ; ; 811
+NPSL; 1967; Toronto; ; 22; Pittsburgh; a; 3,4; ; Turner, Vargas, Rondanini; 6359
+NPSL; 1967; Toronto; ; 30; Oakland; a; 1,2; ; Daucik; 7727
+NPSL; 1967; Toronto; ; 3; Los Angeles; a; 3,1; ; Daucik 2, Demaine; 2570
+NPSL; 1967; Toronto; ; 10; Atlanta; a; 2,3; ; Daucik 2; 3560
+NPSL; 1967; Toronto; ; 14; Pittsburgh; h; 1,2; ; Lopez; 7460
+NPSL; 1967; Toronto; ; 21; St. Louis; a; 0,0; ; ; 7721
+NPSL; 1967; Toronto; ; 23; Atlanta; h; 1,4; ; Lopez; 2876
+NPSL; 1967; Toronto; ; 28; Philadelphia; h; 2,7; ; Vargas, Garcia; 2664
+NPSL; 1967; Toronto; ; 31; Baltimore; a; 2,0; ; Garcia, Daucik; 4204
+NPSL; 1967; Toronto; ; 2; New York; h; 2,1; ; Lopez, L. Kaubala; 1861
+NPSL; 1967; Toronto; ; 6; Chicago; h; 4,1; ; Vargas, Lopez, Bentivegna, B. Kubala; 2264
+NPSL; 1967; Toronto; ; 10; Baltimore; a; 2,3; ; Daucik 2; 4736
+NPSL; 1967; Toronto; ; 13; Oakland; h; 0,3; ; ; 4116
+NPSL; 1967; Toronto; ; 17; New York; a; 3,5; ; Daucik, Demaine, B. Kubala; 2047
+NPSL; 1967; Toronto; ; 23; St. Louis; h; 3,1; ; Vargas, Lopez, B. Kubala; 5934
+NPSL; 1967; Toronto; ; 30; Baltimore; h; 2,1; ; Daucik, L. Kubala; 3016
+NPSL; 1967; Toronto; ; 4; Atlanta; h; 2,1; ; Lopez, L. Kaubala; 2723
+NPSL; 1967; Toronto; ; 11; Baltimore; h; 2,4; ; Lopez, Demaine; 4723
+NPSL; 1967; Toronto; ; 15; Philadelphia; a; 0,0; ; ; 4214
+NPSL; 1967; Toronto; ; 19; Atlanta; a; 1,4; ; Daucik; 6965
+NPSL; 1967; Toronto; ; 21; Oakland; h; 1,2; ; Lopez; 4982
+NPSL; 1967; Toronto; ; 28; Los Angeles; h; 6,1; ; Own Goal, Lopez, Bentivegna 2, Rondanini, Daucik; 4271
+NPSL; 1967; Toronto; ; 1; Chicago; h; 3,3; ; Lopez, Bentivegna, Daucik; 3982
+NPSL; 1967; Toronto; ; 6; Oakland; a; 0,2; ; ; 9516
+NPSL; 1967; Toronto; ; 9; Los Angeles; a; 1,1; ; Rondanini; 2700
+NPSL; 1967; Toronto; ; 11; Philadelphia; h; 1,3; ; Lopez; 3104
+NPSL; 1967; Toronto; ; 15; St. Louis; h; 0,1; ; ; 3273
+NPSL; 1967; Toronto; ; 18; Chicago; a; 2,1; ; Lopez, L. Kubala; 1518
+NPSL; 1967; Toronto; ; 22; St. Louis; a; 4,4; ; Bentivegna, Daucik 3; 6188
+NPSL; 1967; Toronto; ; 25; Los Angeles; h; 5,2; ; Daucik 4, L. Kubala; 3426

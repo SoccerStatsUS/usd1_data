@@ -1,0 +1,80 @@
+name	year	team	position	games_played	games_started	minutes	goals	assists	points	shots	shots_on_goal	blocks	fouls_committed	fouls_suffered	offsides	pk_goals	pk_attempts	pks_drawn	pks_committed
+Nowak, Peter	2002	Chicago Fire	M	16	16	1377	3	4	10	23	9		14	43	5			0	0
+Nowak, Peter	2001	Chicago Fire	M	18	18	1560	6	10	22	39	16		15	48	5			0	0
+Nowak, Peter	2000	Chicago Fire	M	28	28	2402	5	14	24	36	17		41	70	2				
+Nowak, Peter	1999	Chicago Fire	M	28	28	2480	6	8	20	35	15		50	61	5				
+Nowak, Peter	1998	Chicago Fire	M	24	24	1921	6	12	24	38	20		22	61	3				
+Soehn, Tom	2000	Chicago Fire	D	19	11	1091	1	0	2	2	1	1	13	8					
+Soehn, Tom	1999	Chicago Fire	D	23	14	1359	1	1	3	3	1		18	20					
+Soehn, Tom	1998	Chicago Fire	D	6	6	523			0	0			14	3					
+Soehn, Tom	1998	FC Dallas	D	14	11	1020			0	2			19	9					
+Soehn, Tom	1997	FC Dallas	D	25	21	1948		2	2	7	5		29	18	0				
+Onalfo, Curt	1999	D.C. United	D	1	0	7			0				0	0	0				
+Onalfo, Curt	1998	D.C. United	D	3	0	72			0				0	1					
+Onalfo, Curt	1997	San Jose Earthquakes	D	6	3	179			0				5	1					
+Onalfo, Curt	1996	Los Angeles Galaxy	D	13	7	688		1	1	5	1		23	6					
+Johnston, Mo	2001	Sporting Kansas City	F	11	10	864	1	3	5	14	7		18	10	2			0	0
+Johnston, Mo	2000	Sporting Kansas City	M/F	25	22	1982	4	7	15	46	18		39	49	10				
+Johnston, Mo	1999	Sporting Kansas City	F	29	29	2537	3	4	10	44	18	0	49	36	9				
+Johnston, Mo	1998	Sporting Kansas City	M/F	26	23	2080	11	2	24	60	34		34	23	9				
+Johnston, Mo	1997	Sporting Kansas City	M/F	29	29	2564	6	9	21	56	33		52	31	14	0	1		
+Johnston, Mo	1996	Sporting Kansas City	M/F	29	29	2573	6	3	15	54	28		34	24	23				
+Williams, Richie	2003	Metrostars	M	26	26	2337		2	2	12	4	1	51	36	2				1
+Williams, Richie	2002	D.C. United	M	26	25	2307	0	3	3	8	6	2	57	31	0			0	0
+Williams, Richie	2001	Metrostars	M	21	21	1868	0	2	2	4	2		48	33	0			0	0
+Williams, Richie	2000	D.C. United	M	29	27	2445		2	2	11	4	1	68	37	2				
+Williams, Richie	1999	D.C. United	M	23	23	1996	2	6	10	12	6	0	56	22	0				
+Williams, Richie	1998	D.C. United	M	31	30	2672	3	4	10	27	10	0	66	32	2				
+Williams, Richie	1997	D.C. United	M	30	29	2606	2	9	13	22	8		56	39	3				
+Williams, Richie	1996	D.C. United	M	30	30	2570	1	5	7	29	8		49	38	5				
+Bliss, Brian	1998	Sporting Kansas City	D	3	1	106			0	1			2	0					
+Bliss, Brian	1997	Columbus Crew	D	12	10	847	1	0	2	7	1		19	12	1				
+Bliss, Brian	1997	Metrostars	D	16	14	1200		2	2	6	0		19	15	2				
+Bliss, Brian	1996	Columbus Crew	D	19	19	1566	1	0	2	12	4		27	26	2				
+Vermes, Peter	2002	Sporting Kansas City	D	13	13	1181			0				18	10				0	0
+Vermes, Peter	2001	Sporting Kansas City	D	20	20	1826		2	2	10	1	1	20	18	0			0	0
+Vermes, Peter	2000	Sporting Kansas City	D	32	32	2916	2	3	7	14	5	1	39	35	0				
+Vermes, Peter	1999	Colorado Rapids	D	32	32	2880		2	2	7	0	1	29	38	2				
+Vermes, Peter	1998	Colorado Rapids	D	31	31	2675	2	5	9	9	3	3	32	32	1	0	1		
+Vermes, Peter	1997	Colorado Rapids	D	26	25	2206	6	4	16	29	12		37	42	1				
+Vermes, Peter	1996	Metrostars	D	30	30	2700	1	1	3	40	16		59	40	5	0	1		
+Morrow, Steve	2003	FC Dallas	D	17	17	1484			0	6	2	1	22	5					
+Morrow, Steve	2002	FC Dallas	D	24	24	2199	3	0	6	12	6	1	26	14	0			0	0
+Warzycha, Robert	2002	Columbus Crew	M	15	3	495		2	2	6	1		4	9				0	0
+Warzycha, Robert	2001	Columbus Crew	M	11	9	710	3	2	8	13	5	1	11	17	0			0	0
+Warzycha, Robert	2000	Columbus Crew	M	30	29	2646	6	13	25	63	26	3	43	55	1	2	2		
+Warzycha, Robert	1999	Columbus Crew	M	28	23	2077	3	12	18	48	16	1	29	41	3				
+Warzycha, Robert	1998	Columbus Crew	M	25	19	1752	2	10	14	52	17	2	27	29	3				
+Warzycha, Robert	1997	Columbus Crew	M	31	31	2722	3	11	17	92	29		36	71	14				
+Warzycha, Robert	1996	Columbus Crew	M	20	20	1747	2	11	15	45	17		34	53	1				
+Yallop, Frank	1998	Tampa Bay Mutiny	D	32	29	2703	1	1	3	11	3		26	18	0				
+Yallop, Frank	1997	Tampa Bay Mutiny	D	27	27	2430			0	6	1		24	10	0				
+Yallop, Frank	1996	Tampa Bay Mutiny	D	29	28	2513			0	3	0		15	9					
+Jones, Cobi	2004	Los Angeles Galaxy	M/F	23	20	1751	0	5	5	19	6	0	12	30	15			0	0
+Jones, Cobi	2003	Los Angeles Galaxy	M	28	28	2574	2	8	12	34	8		21	65	7			2	
+Jones, Cobi	2002	Los Angeles Galaxy	M/F	19	18	1638	3	13	19	31	21		14	43	7			1	0
+Jones, Cobi	2001	Los Angeles Galaxy	M/F	22	22	1890	6	10	22	41	23		22	58	15			0	0
+Jones, Cobi	2000	Los Angeles Galaxy	M	25	25	2291	7	6	20	46	24	2	30	67	18				
+Jones, Cobi	1999	Los Angeles Galaxy	M	28	28	2488	8	8	24	62	32		34	80	32	0	1		
+Jones, Cobi	1998	Los Angeles Galaxy	M	24	24	2136	19	13	51	63	41		19	51	21	0	1		
+Jones, Cobi	1997	Los Angeles Galaxy	M	26	25	2228	7	9	23	53	35		27	74	16				
+Jones, Cobi	1996	Los Angeles Galaxy	M	28	27	2375	7	4	18	48	24		26	76	15				
+Kinnear, Dominic	2000	Tampa Bay Mutiny	M	23	12	1275	1	8	10	12	3		29	19	0				
+Kinnear, Dominic	1999	Tampa Bay Mutiny	M	28	27	2151	0	7	7	10	5	1	36	40	1				
+Kinnear, Dominic	1998	Tampa Bay Mutiny	M	24	8	868	3	5	11	13	6		15	13	1				
+Kinnear, Dominic	1997	San Jose Earthquakes	M	28	24	1939	2	4	8	17	6		39	39	1				
+Kinnear, Dominic	1996	Colorado Rapids	M	14	11	973			0	12	4		15	17	2				
+Hamlett, Denis	1996	Colorado Rapids	D	31	31	2790		1	1	3	1		45	25	1				
+Preki	2004	Sporting Kansas City	M	2	1	90	0	0	0	2	0	0	0	1	2			0	0
+Preki	2003	Sporting Kansas City	M	30	30	2678	12	17	41	92	34		20	60	3	5	6	1	
+Preki	2002	Sporting Kansas City	M	25	24	2141	7	10	24	84	44		17	46	6	2	2	0	0
+Preki	2001	Miami Fusion	M	24	24	2139	8	14	30	80	40		19	48	2	2	3	0	0
+Preki	2000	Sporting Kansas City	M	31	29	2485	3	15	21	95	31		23	57	2				
+Preki	1999	Sporting Kansas City	M	30	28	2572	7	11	25	97	31		24	77	1	1	2		
+Preki	1998	Sporting Kansas City	M	25	24	2164	10	13	33	86	33		22	38	5	3	4		
+Preki	1997	Sporting Kansas City	M	27	27	2330	12	17	41	84	44		27	32	8	3	5		
+Preki	1996	Sporting Kansas City	M	32	32	2880	18	13	49	140	61		26	44	7	7	8		
+Preki	2005	Sporting Kansas City	M	16	4	0479	2	2	6	13	5		2	7	
+Vasquez, Martin	1998	San Jose Earthquakes	M	28	24	2076	0	7	7	14	4	1	55	25	1				
+Vasquez, Martin	1997	Tampa Bay Mutiny	M	28	28	2475	4	3	11	43	19		41	46	2	0	1		
+Vasquez, Martin	1996	Tampa Bay Mutiny	M	31	31	2700	5	6	16	51	25		49	36	2				
