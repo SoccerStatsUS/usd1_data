@@ -7,12 +7,12 @@ import re
 
 from utils import get_id
 
-nasl_games_filename = '/home/chris/www/ussfd1/data/games/league/jose/nasl'
-nasl0_games_filename = '/home/chris/www/ussfd1/data/games/league/jose/npsl'
+nasl_games_filename = '/home/chris/www/usd1/data/games/league/jose/nasl'
+nasl0_games_filename = '/home/chris/www/usd1/data/games/league/jose/npsl'
 
-NASL_ROSTERS_DIR = '/home/chris/www/ussfd1/data/rosters/nasl'
+NASL_ROSTERS_DIR = '/home/chris/www/usd1/data/rosters/nasl'
 
-# Merge into alias?
+# Merge into alias.
 foreign_map = {
     'Varzim': 'Varzim S.C.',
     'varzim': 'Varzim S.C.',
@@ -30,18 +30,17 @@ foreign_map = {
     'hapoel': 'Hapoel Tel Aviv F.C.',
     'Hapoel': 'Hapoel Tel Aviv F.C.',
     'Hearts': 'Heart of Midlothian F.C.',
-
 }
 
+
+# These should take place in normalize.
+# Not in this part at all.
 simple_map = {
     'Baltimore': 'Baltimore Bays',
     'Calgary': 'Calgary Boomers',
-    #'Chicago': 'Chicago Mustangs',
     'California': 'California Surf',
     'Cleveland': 'Cleveland Stokers',
     'Dallas': 'Dallas Tornado',
-    #'Detroit': 'Detroit Cougars',
-    #'Detroit': 'Detroit Express',
     'Edmonton': 'Edmonton Drillers',
     'Golden Bay': 'Golden Bay Earthquakes',
     'Kansas City': 'Kansas City Spurs',
@@ -69,10 +68,11 @@ simple_map = {
 }
 
 
+
+
 # Map of ambiguous names, these apply to multiple teams, but
 # should be preempted by the season_map.
 ambig_map = {
-
     'Boston': 'Boston Minutemen',
     'Detroit': 'Detroit Express',
     'Houston': 'Houston Hurricane',
