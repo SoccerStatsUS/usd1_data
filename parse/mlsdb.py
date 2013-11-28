@@ -46,12 +46,12 @@ import os
 import re
 import sys
 
-
+from usd1.settings import ROOT_DIR
 
 
 get_date = lambda s: datetime.datetime.strptime (s, "%Y-%m-%d")
 
-LINEUPS_DIR = "/home/chris/www/soccerdata/data/games/domestic/country/usa/mls"
+LINEUPS_DIR = os.path.join(ROOT_DIR, 'soccerdata/data/games/domestic/country/usa/mls')
 
 
 # scaryice specific team mappings.

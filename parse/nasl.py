@@ -7,10 +7,13 @@ import re
 
 from utils import get_id
 
-nasl_games_filename = '/home/chris/www/usd1/data/games/league/jose/nasl'
-nasl0_games_filename = '/home/chris/www/usd1/data/games/league/jose/npsl'
+from usd1.settings import ROOT_DIR
 
-NASL_ROSTERS_DIR = '/home/chris/www/usd1/data/rosters/nasl'
+nasl_games_filename = os.path.join(ROOT_DIR, 'usd1/data/games/league/jose/nasl')
+nasl0_games_filename = os.path.join(ROOT_DIR, 'usd1/data/games/league/jose/npsl')
+
+NASL_ROSTERS_DIR = os.path.join(ROOT_DIR, 'usd1/data/rosters/nasl')
+NASL_STATS_DIR = os.path.join(ROOT_DIR, 'soccerdata/data/stats/d2')
 
 # Merge into alias.
 foreign_map = {
@@ -185,7 +188,7 @@ def process_stats():
     Process modern NASL stats taken from nasl.com
     """
 
-    NASL_STATS_DIR = '/home/chris/www/soccerdata/data/stats/d2'
+
 
     lst = []
     for fn in ('2011', '2012'):

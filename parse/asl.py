@@ -1,12 +1,15 @@
 # Process Golden Age ASL scores.
 
 import datetime
+import os
 import re
 
 from utils import get_id
 
-games_filename = '/home/chris/www/usd1/data/games/league/jose/asl'
-stats_filename = '/home/chris/www/usd1/data/stats/asl'
+from usd1.settings import ROOT_DIR
+
+games_filename = os.path.join(ROOT_DIR, 'usd1/data/games/league/jose/asl')
+stats_filename = os.path.join(ROOT_DIR, 'usd1/data/stats/asl')
 
 
 # Pull this out into lift.py
