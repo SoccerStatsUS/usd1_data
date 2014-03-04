@@ -171,6 +171,7 @@ def load_stat(line):
     season_games, cup_games, other_cup_games, season_goals, cup_goals, other_cup_goals = stats
 
 
+
     if "-" in season:
         start, end = season.split("-")
         season = "19%s-19%s" % (start, end)
@@ -263,6 +264,10 @@ class GameProcessor(object):
         else:
             start_year = end_year = int(re.match('^(\d+).*$', sx).groups()[0])
 
+        round = ''
+        if 'Half' in season:
+            season, round = season.split(' ', 1)
+
         # Skipping minigames for now.
         if day in ('M', 'SO', 'OT', 'SO-M'):
             return {}
@@ -329,6 +334,7 @@ class GameProcessor(object):
             'team2_score': away_score,
             'home_team': home_team,
             'sources': ['American Soccer League (1921-1931)',],
+            'round': round,
             }
 
         goal_list = []
