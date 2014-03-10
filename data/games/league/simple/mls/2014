@@ -4,31 +4,31 @@ Season: 2014
 
 Date: 3/8/2014
 
-; Seattle Sounders; 1 - 0 ; Sporting KC; CenturyLink Field
-*3:00PM EST
+; Seattle Sounders; 1 - 0 ; Sporting KC; CenturyLink Field; 39240
+Time: 3:00PM EST
 
-; D.C. United; 0 - 3; Columbus Crew; RFK Stadium
-*7:00PM EST
+; D.C. United; 0 - 3; Columbus Crew; RFK Stadium; 13840
+Time: 7:00PM EST
 
-; Vancouver Whitecaps; 4 - 1; New York Red Bulls; BC Place
-*7:30PM EST
+; Vancouver Whitecaps; 4 - 1; New York Red Bulls; BC Place; 21000
+Time: 7:30PM EST
 
-; FC Dallas; 3 - 2; Montreal Impact; Toyota Stadium
-*8:30PM EST
+; FC Dallas; 3 - 2; Montreal Impact; Toyota Stadium; 22320
+Time: 8:30PM EST
 
-; Houston Dynamo; 4 - 0; New England Revolution; BBVA Compass Stadium
-*8:30PM EST
+; Houston Dynamo; 4 - 0; New England Revolution; BBVA Compass Stadium; 18011
+Time: 8:30PM EST
 
-; Portland Timbers; 1 - 1; Philadelphia Union; Providence Park
-*10:30PM EST
+; Portland Timbers; 1 - 1; Philadelphia Union; Providence Park; 20674
+Time: 10:30PM EST
 
-; LA Galaxy; 0 - 1; Real Salt Lake; StubHub Center
-*10:30PM EST
+; LA Galaxy; 0 - 1; Real Salt Lake; StubHub Center; 25634
+Time: 10:30PM EST
 
 Date: 3/9/2014
 
-; Chivas USA; v; Chicago Fire; StubHub Center
-*3:00PM EDT
+; Chivas USA; 3-2; Chicago Fire; StubHub Center
+Time: 3:00PM EDT
 
 Date: 3/15/2014
 
@@ -63,7 +63,7 @@ Date: 3/22/2014
 ; New England Revolution; v; Vancouver Whitecaps; Gillette Stadium
 Time: 2:00PM EDT
 
-; Montreal Impact; v; Seattle Sounders; Olympic Stadium
+; Montreal Impact; v; Seattle Sounders; Olympic Stadium (Montreal)
 Time: 4:00PM EDT
 
 ; Real Salt Lake; v; LA Galaxy; Rio Tinto Stadium
@@ -72,7 +72,7 @@ Time: 4:00PM EDT
 ; Toronto FC; v; D.C. United; BMO Field
 Time: 4:30PM EDT
 
-; Columbus Crew; v; Philadelphia Union; Columbus Crew; Stadium
+; Columbus Crew; v; Philadelphia Union; Columbus Crew Stadium
 Time: 6:00PM EDT
 
 ; Colorado Rapids; v; Portland Timbers; Dick's Sporting Goods Park
@@ -125,13 +125,13 @@ Date: 4/5/2014
 ; Portland Timbers; v; Seattle Sounders; Providence Park
 Time: 3:00PM EDT
 
-; Montreal Impact; v; New York Red Bulls; Olympic Stadium
+; Montreal Impact; v; New York Red Bulls; Olympic Stadium (Montreal)
 Time: 4:00PM EDT
 
 ; Chicago Fire; v; Philadelphia Union; Toyota Park
 Time: 5:00PM EDT
 
-; Columbus Crew; v; Toronto FC; Columbus Crew; Stadium
+; Columbus Crew; v; Toronto FC; Columbus Crew Stadium
 Time: 6:00PM EDT
 
 ; Vancouver Whitecaps; v; Colorado Rapids; BC Place
@@ -159,7 +159,7 @@ Time: 4:00PM EDT
 ; Toronto FC; v; Colorado Rapids; BMO Field
 Time: 4:00PM EDT
 
-; Montreal Impact; v; Chicago Fire; Olympic Stadium
+; Montreal Impact; v; Chicago Fire; Olympic Stadium (Montreal)
 Time: 4:00PM EDT
 
 ; New England Revolution; v; Houston Dynamo; Gillette Stadium
@@ -201,7 +201,7 @@ Time: 6:00PM EDT
 ; Vancouver Whitecaps; v; LA Galaxy; BC Place
 Time: 7:00PM EDT
 
-; Columbus Crew; v; D.C. United; Columbus Crew; Stadium
+; Columbus Crew; v; D.C. United; Columbus Crew Stadium
 Time: 7:30PM EDT
 
 ; FC Dallas; v; Toronto FC; Toyota Stadium
@@ -235,7 +235,7 @@ Time: 7:00PM EDT
 ; New England Revolution; v; Sporting KC; Gillette Stadium
 Time: 7:30PM EDT
 
-; Columbus Crew; v; New York Red Bulls; Columbus Crew; Stadium
+; Columbus Crew; v; New York Red Bulls; Columbus Crew Stadium
 Time: 7:30PM EDT
 
 ; Real Salt Lake; v; Vancouver Whitecaps; Rio Tinto Stadium
@@ -302,7 +302,7 @@ Time: 4:00PM EDT
 ; New York Red Bulls; v; Chicago Fire; Red Bull Arena
 Time: 7:00PM EDT
 
-; Columbus Crew; v; Vancouver Whitecaps; Columbus Crew; Stadium
+; Columbus Crew; v; Vancouver Whitecaps; Columbus Crew Stadium
 Time: 7:30PM EDT
 
 ; San Jose Earthquakes; v; FC Dallas; Buck Shaw Stadium
@@ -379,7 +379,7 @@ Time: 7:00PM EDT
 ; Vancouver Whitecaps; v; Seattle Sounders; BC Place
 Time: 7:00PM EDT
 
-; Columbus Crew; v; Chicago Fire; Columbus Crew; Stadium
+; Columbus Crew; v; Chicago Fire; Columbus Crew Stadium
 Time: 7:30PM EDT
 
 ; New England Revolution; v; D.C. United; Gillette Stadium
@@ -441,7 +441,7 @@ Time: 9:00PM EDT
 
 Date: 6/4/2014
 
-; Columbus Crew; v; Real Salt Lake; Columbus Crew; Stadium
+; Columbus Crew; v; Real Salt Lake; Columbus Crew Stadium
 Time: 7:30PM EDT
 
 ; Colorado Rapids; v; Chicago Fire; Dick's Sporting Goods Park
@@ -521,7 +521,7 @@ Time: 7:00PM EDT
 Time: 7:30PM EDT
 
 
-; Columbus Crew; v; FC Dallas; Columbus Crew; Stadium
+; Columbus Crew; v; FC Dallas; Columbus Crew Stadium
 Time: 8:00PM EDT
 
 
@@ -654,7 +654,7 @@ Date: 7/16/2014
 Time: 7:00PM EDT
 
 
-; Columbus Crew; v; Sporting KC; Columbus Crew; Stadium
+; Columbus Crew; v; Sporting KC; Columbus Crew Stadium
 Time: 7:30PM EDT
 
 
@@ -685,7 +685,7 @@ Time: 6:00PM EDT
 Time: 7:00PM EDT
 
 
-; Columbus Crew; v; Montreal Impact; Columbus Crew; Stadium
+; Columbus Crew; v; Montreal Impact; Columbus Crew Stadium
 Time: 7:30PM EDT
 
 
@@ -835,7 +835,7 @@ Date: 8/9/2014
 Time: 7:00PM EDT
 
 
-; Columbus Crew; v; Toronto FC; Columbus Crew; Stadium
+; Columbus Crew; v; Toronto FC; Columbus Crew Stadium
 Time: 7:30PM EDT
 
 
@@ -888,7 +888,7 @@ Time: 6:30PM EDT
 Time: 7:30PM EDT
 
 
-; Columbus Crew; v; LA Galaxy; Columbus Crew; Stadium
+; Columbus Crew; v; LA Galaxy; Columbus Crew Stadium
 Time: 7:30PM EDT
 
 
@@ -943,7 +943,7 @@ Time: 7:00PM EDT
 Time: 7:30PM EDT
 
 
-; Columbus Crew; v; Houston Dynamo; Columbus Crew; Stadium
+; Columbus Crew; v; Houston Dynamo; Columbus Crew Stadium
 Time: 7:30PM EDT
 
 
@@ -1065,7 +1065,7 @@ Time: 10:00PM EDT
 Date: 9/7/2014
 
 
-; Columbus Crew; v; Chivas USA; Columbus Crew; Stadium
+; Columbus Crew; v; Chivas USA; Columbus Crew Stadium
 Time: 3:00PM EDT
 
 
@@ -1140,7 +1140,7 @@ Time: 7:00PM EDT
 ; Montreal Impact; v; San Jose Earthquakes; Stade Saputo
 Time: 7:30PM EDT
 
-; Columbus Crew; v; New England Revolution; Columbus Crew; Stadium
+; Columbus Crew; v; New England Revolution; Columbus Crew Stadium
 Time: 7:30PM EDT
 
 ; Chicago Fire; v; D.C. United; Toyota Park
@@ -1178,7 +1178,7 @@ Time: 4:00PM EDT
 ; Vancouver Whitecaps; v; Real Salt Lake; BC Place
 Time: 7:00PM EDT
 
-; Columbus Crew; v; Montreal Impact; Columbus Crew; Stadium
+; Columbus Crew; v; Montreal Impact; Columbus Crew Stadium
 Time: 7:30PM EDT
 
 ; Colorado Rapids; v; San Jose Earthquakes; Dick's Sporting Goods Park
@@ -1339,7 +1339,7 @@ Date: 10/26/2014
 ; Chivas USA; v; San Jose Earthquakes; StubHub Center
 Time: 3:00PM EDT
 
-; Columbus Crew; v; Philadelphia Union; Columbus Crew; Stadium
+; Columbus Crew; v; Philadelphia Union; Columbus Crew Stadium
 Time: 5:00PM EDT
 
 ; Sporting KC; v; New York Red Bulls; Sporting Park
