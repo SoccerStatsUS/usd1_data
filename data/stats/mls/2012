@@ -1,4 +1,6 @@
-team	season	name	position	games_played	games_started	minutes	goals	assists	shots	shots_on_goal	game_winning_goals	pkg/pka	home_goals	road_goals	Goals/90	sc%
+Competition: Major League Soccer
+Key: team	season	name	position	games_played	games_started	minutes	goals	assists	shots	shots_on_goal	game_winning_goals	pkg/pka	home_goals	road_goals	Goals/90	sc%
+
 Chicago Fire	1998	Ante Razov	F	30	24	2091	10	9	88	41	2	0/0	7	3	0.43	11.4
 Chicago Fire	1998	Roman Kosecki	F	25	25	1999	9	9	70	35	2	0/0	6	3	0.41	12.9
 Chicago Fire	1998	Josh Wolff	F	14	4	651	8	3	23	14	3	0/0	7	1	1.11	34.8
