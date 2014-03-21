@@ -47,19 +47,19 @@ def get_full_name_stats(team, season):
         #Complicateds
         # 'Bridgeport', # Bridgeport is missing or something.
         ('Boston', ['1924-1925', '1925-1926', '1926-1927', '1927-1928', '1927-1928 First Half', '1927-1928 Second Half', '1928-1929', '1928-1929 First Half', '1928-1929 Second Half'], 'Boston Wonder Workers'),
-        ('Boston', ['1929 Fall', '1929 First Half', '1929-1930', '1931 Fall', '1931 Spring', '1931 First Half', '1931 Spring'], 'Boston Bears'),
+        ('Boston', ['1929 Fall', '1929 First Half', '1930 Spring', '1931 Fall', '1931 Spring', '1931 First Half', '1931 Spring'], 'Boston Bears'),
         ('Fall River', ['1921-1922'], 'Fall River United'),
-        ('Fall River', ['1922-1923', '1923-1924', '1924-1925', '1925-1926', '1926-1927', '1927-1928', '1928-1929', '1929 Fall', '1929-1930', '1930 Fall'], 'Fall River Marksmen'),
+        ('Fall River', ['1922-1923', '1923-1924', '1924-1925', '1925-1926', '1926-1927', '1927-1928', '1928-1929', '1929 Fall', '1930 Spring', '1930 Fall'], 'Fall River Marksmen'),
         ('Fall River', ['1931 Fall', '1931 Spring', '1932 Fall'], 'Fall River Football Club'),
         ('Jersey City', ['1921-1922'], 'Jersey City Celtics'),
         ('Jersey City', ['1925-1926'], 'Jersey City ?'), # Can't find.
         ('Jersey City', ['1928-1929', '1928-1929 Second Half'], 'Jersey City'),
-        ('Newark', ['1922-1923', '1923-1924', '1924-1925', '1925-1926', '1926-1927', '1927-1928', '1927-1928 First Half', '1927-1928 Second Half', '1928-1929', '1928-1929 First Half', '1929 Fall', '1929-1930'], 'Newark Skeeters'),
+        ('Newark', ['1922-1923', '1923-1924', '1924-1925', '1925-1926', '1926-1927', '1927-1928', '1927-1928 First Half', '1927-1928 Second Half', '1928-1929', '1928-1929 First Half', '1929 Fall', '1930 Spring'], 'Newark Skeeters'),
         ('Newark', ['1930 Fall', '1931 Fall', '1931 Spring', '1931 Fall', '1931 Spring'], 'Newark Americans'),
         ('Philadelphia', ['1921-1922', '1922-1923', '1923-1924', '1924-1925', '1925-1926', '1926-1927', '1928-1929', '1928-1929 First Half', '1928-1929 Second Half', '1929 Fall', '1929 Fall'], 'Philadelphia Field Club'),
         ('Philadelphia', ['1927-1928', '1927-1928 First Half'], 'Philadelphia Celtic'),
         ('Providence', ['1924-1925', '1925-1926', '1926-1927', '1927-1928', '1927-1928 First Half', '1927-1928 Second Half'], 'Providence Clamdiggers'),
-        ('Providence', ['1928-1929', '1928-1929 First Half', '1928-1929 Second Half', '1929 Fall', '1929 Fall', '1929-1930', '1930 Fall'], 'Providence Gold Bugs')
+        ('Providence', ['1928-1929', '1928-1929 First Half', '1928-1929 Second Half', '1929 Fall', '1929 Fall', '1930 Spring', '1930 Fall'], 'Providence Gold Bugs')
         ]
 
     
@@ -112,8 +112,6 @@ team_map = {
     'Bridgeport Hungaria': 'Bridgeport Hungaria',
     'New York SC': 'New York SC',
     'New York Giants': 'New York Giants',
-    'Newark 1929-1930': 'Newark 1929-1930',
-    'Boston 1929-1930': 'Boston 1929-1930',
     'Boston Wonder Workers': 'Boston Wonder Workers',
     'Boston Bears': 'Boston Bears',
     'Brooklyn Wanderers': 'Brooklyn Wanderers',
@@ -138,7 +136,7 @@ LEWIS_CUP_YEARS = set([
     '1926-1927',
     '1927-1928',
     '1928-1929',
-    '1929-1930',
+    '1930 Spring',
     ])
 
 
@@ -175,6 +173,9 @@ def load_stat(line):
     if "-" in season:
         start, end = season.split("-")
         season = "19%s-19%s" % (start, end)
+
+    if season == '1929-1930':
+        season = '1930 Spring'
 
 
     team_name = get_full_name_stats(team, season)
