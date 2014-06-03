@@ -1,0 +1,132 @@
+Competition: MLS Reserve League
+Season: 2005
+
+Key: position; team; games; wins; losses; ties; goals_for; goals_against; goal_difference; points
+
+
+1     ;  D.C. United Reserves           ; 12  ;    8   ;    4   ;    0   ;    26   ;   21  ;    +5  ;    24
+2     ;  Metrostars Reserves            ; 12  ;       5;       3;       4;       16;      1;2      +;4      19
+2     ;  New England Revolution Reserves; 12  ;    5   ;    3   ;    4   ;    20   ;   18  ;    +2  ;    19
+2     ;  FC Dallas Reserves             ; 12  ;     6  ;     5  ;     1  ;     24  ;    24 ;     0  ;     19
+5     ;  Colorado Rapids Reserves       ; 12  ;    5   ;    4   ;    3   ;    29   ;   22  ;    +7  ;    18
+5     ;  Chicago Fire Reserves          ; 12  ;    5   ;    4   ;    3   ;    24   ;   20  ;    +4  ;    18
+5     ;  San Jose Earthquakes Reserves  ; 12  ;    5   ;    4   ;    3   ;    23   ;   20  ;    +3  ;    18
+5     ;  Kansas City Wizards Reserves   ; 12  ;    5   ;    4   ;    3   ;    19   ;   17  ;    +2  ;    18
+9     ;  Los Angeles Galaxy Reserves    ; 12  ;    4   ;    5   ;    3   ;    20   ;   28  ;    −8  ;    15
+10    ;  Real Salt Lake Reserves        ; 12  ;    4   ;    6   ;    2   ;    29   ;   34  ;    −5  ;    14
+11    ;  Columbus Crew Reserves         ; 12  ;    4   ;    7   ;    1   ;    19   ;   25  ;    −6  ;    13
+12    ;  Chivas USA Reserves            ; 12  ;    2   ;    9   ;    1   ;    15   ;   23  ;    −8  ;    7
+
+Season: 2006
+
+
+1     ;  Colorado Rapids Reserves       ; 12  ;    9   ;    3   ;    0   ;    24   ;   14  ;    +10 ;    27
+2     ;  Kansas City Wizards Reserves   ; 12  ;    7   ;    3   ;    2   ;    25   ;   16  ;    +9  ;    23
+3     ;  Houston Dynamo Reserves        ; 12  ;    7   ;    5   ;    0   ;    24   ;   17  ;    +7  ;    21
+3     ;  Real Salt Lake Reserves        ; 12  ;    6   ;    3   ;    3   ;    23   ;   20  ;    +3  ;    21
+5     ;  D.C. United Reserves           ; 12  ;    6   ;    5   ;    1   ;    22   ;   11  ;    +11 ;    19
+6     ;  FC Dallas Reserves             ; 12  ;    4   ;    3   ;    5   ;    20   ;   13  ;    +7  ;    17
+7     ;  New York Red Bulls Reserves    ; 12  ;    5   ;    6   ;    1   ;    15   ;   25  ;    −10 ;    16
+8     ;  Chivas USA Reserves            ; 12  ;    4   ;    5   ;    3   ;    18   ;   23  ;    −5  ;    15
+9     ;  Los Angeles Galaxy Reserves    ; 12  ;    4   ;    6   ;    2   ;    20   ;   19  ;    +1  ;    14
+9     ;  Chicago Fire Reserves          ; 11  ;    4   ;    5   ;    2   ;    16   ;   18  ;    −2  ;    14
+11    ;  Columbus Crew Reserves         ; 12  ;    3   ;    8   ;    1   ;    14   ;   23  ;    −9  ;    10
+12    ;  New England Revolution Reserves; 11  ;    0   ;    7   ;    4   ;    9    ;   31  ;    −22 ;    4
+
+
+Season: 2007
+
+
+1     ;  Colorado Rapids Reserves       ; 10  ;    7   ;    0   ;    3   ;    22   ;   8   ;    +14 ;    24
+2     ;  Chivas USA Reserves            ; 11  ;    6   ;    3   ;    2   ;    25   ;   23  ;    +2  ;    20
+2     ;  New England Revolution Reserves; 12  ;    6   ;    4   ;    2   ;    20   ;   14  ;    +6  ;    20
+4     ;  Kansas City Wizards Reserves   ; 12  ;    6   ;    5   ;    1   ;    22   ;   19  ;    +3  ;    19
+5     ;  D.C. United Reserves           ; 12  ;    4   ;    3   ;    5   ;    16   ;   12  ;    +4  ;    17
+6     ;  FC Dallas Reserves             ; 12  ;    4   ;    4   ;    4   ;    17   ;   18  ;    −1  ;    16
+7     ;  Columbus Crew Reserves         ; 11  ;    4   ;    4   ;    3   ;    17   ;   14  ;    +3  ;    15
+7     ;  New York Red Bulls Reserves    ; 9   ;    5   ;    4   ;    0   ;    14   ;   15  ;    −1  ;    15
+7     ;  Real Salt Lake Reserves        ; 11  ;    5   ;    6   ;    0   ;    19   ;   17  ;    +2  ;    15
+10    ;  Toronto FC Reserves            ; 12  ;    3   ;    5   ;    4   ;    14   ;   19  ;    −5  ;    13
+11    ;  Houston Dynamo Reserves        ; 12  ;    3   ;    6   ;    3   ;    16   ;   21  ;    −5  ;    12
+12    ;  Chicago Fire Reserves          ; 11  ;    2   ;    6   ;    3   ;    12   ;   19  ;    −7  ;    9
+13    ;  Los Angeles Galaxy Reserves    ; 11  ;    2   ;    7   ;    2   ;    14   ;   29  ;    −15 ;    8
+
+
+Season: 2008
+
+
+1     ;  Houston Dynamo Reserves        ; 12  ;    9   ;    1   ;    2   ;    33   ;   15  ;    +18 ;    26
+2     ;  Kansas City Wizards Reserves   ; 11  ;    8   ;    1   ;    2   ;    31   ;   13  ;    +18 ;    26
+3     ;  Real Salt Lake Reserves        ; 12  ;    7   ;    3   ;    2   ;    31   ;   24  ;    +7  ;    23
+4     ;  Chicago Fire Reserves          ; 12  ;    5   ;    5   ;    2   ;    25   ;   22  ;    +3  ;    17
+5     ;  D.C. United Reserves           ; 10  ;    5   ;    4   ;    1   ;    19   ;   21  ;    −2  ;    16
+5     ;  Toronto FC Reserves            ; 10  ;    5   ;    4   ;    1   ;    12   ;   19  ;    −7  ;    16
+7     ;  Chivas USA Reserves            ; 12  ;    4   ;    5   ;    3   ;    19   ;   21  ;    −2  ;    15
+7     ;  San Jose Earthquakes           ; 12  ;    4   ;    5   ;    3   ;    18   ;   22  ;    −4  ;    15
+7     ;  FC Dallas Reserves             ; 12  ;    4   ;    5   ;    3   ;    19   ;   24  ;    −5  ;    15
+10    ;  Columbus Crew Reserves         ; 11  ;    4   ;    5   ;    2   ;    13   ;   13  ;    0   ;    14
+11    ;  Colorado Rapids Reserves       ; 12  ;    4   ;    6   ;    2   ;    16   ;   21  ;    −5  ;    14
+12    ;  New York Red Bulls Reserves    ; 12  ;    3   ;    7   ;    2   ;    16   ;   23  ;    −7  ;    11
+13    ;  New England Revolution Reserves; 10  ;    2   ;    6   ;    2   ;    11   ;   16  ;    −5  ;    8
+14    ;  Los Angeles Galaxy Reserves    ; 12  ;    1   ;    8   ;    3   ;    15   ;   23  ;    −8  ;    6
+
+
+Season: 2011
+
+*Eastern
+
+1     ;  Columbus Crew Reserves         ; 10  ;    9   ;    1   ;    0   ;    29   ;   10  ;    +19 ;    27
+2     ;  D.C. United Reserves           ; 10  ;    5   ;    1   ;    4   ;    21   ;   14  ;    +7  ;    19
+3     ;  New England Revolution Reserves; 10  ;    4   ;    5   ;    1   ;    14   ;   22  ;    −8  ;    13
+4     ;  New York Red Bulls Reserves    ; 9   ;    2   ;    5   ;    2   ;    10   ;   20  ;    −10 ;    9
+5     ;  Toronto FC Reserves            ; 9   ;    2   ;    5   ;    2   ;    15   ;   15  ;    0   ;    8
+6     ;  Philadelphia Union Reserves    ; 10  ;    2   ;    7   ;    1   ;    9    ;   17  ;    −8  ;    7
+
+*Central/Mountain
+
+1     ;  Chicago Fire Reserves          ; 10  ;    7   ;    2   ;    1   ;    19   ;   10  ;    +9  ;    22
+2     ;  Houston Dynamo Reserves        ; 10  ;    6   ;    4   ;    0   ;    11   ;   5   ;    +6  ;    18
+2     ;  FC Dallas Reserves             ; 10  ;    6   ;    4   ;    0   ;    18   ;   21  ;    −3  ;    18
+4     ;  Sporting K.C. Reserves         ; 10  ;    3   ;    5   ;    2   ;    11   ;   4   ;    −3  ;    11
+5     ;  Colorado Rapids Reserves       ; 10  ;    3   ;    6   ;    1   ;    12   ;   11  ;    +1  ;    10
+6     ;  Real Salt Lake Reserves        ; 10  ;    3   ;    7   ;    0   ;    10   ;   10  ;    0   ;    9
+
+*Western
+
+1     ;  Seattle Sounders Reserves      ; 10  ;    8   ;    1   ;    1   ;    21   ;   11  ;    +10 ;    25
+2     ;  Portland Timbers Reserves      ; 10  ;    6   ;    2   ;    2   ;    24   ;   16  ;    +8  ;    20
+3     ;  Chivas USA Reserves            ; 10  ;    3   ;    3   ;    4   ;    18   ;   21  ;    −3  ;    13
+4     ;  San Jose Earthquakes Reserves  ; 9   ;    3   ;    5   ;    1   ;    11   ;   12  ;    −1  ;    10
+5     ;  Vancouver Whitecaps Reserves   ; 10  ;    2   ;    6   ;    2   ;    10   ;   14  ;    −5  ;    8
+6     ;  Los Angeles Galaxy Reserves    ; 9   ;    1   ;    6   ;    2   ;    11   ;   20  ;    −9  ;    5
+
+
+Season: 2012
+
+*Eastern
+
+1     ;  Columbus Crew Reserves         ; 10  ;    7   ;    2   ;    1   ;    21   ;   9   ;    +12 ;    22
+2     ;  Montreal Impact Reserves       ; 10  ;    7   ;    2   ;    1   ;    19   ;   10  ;    +9  ;    22
+3     ;  Philadelphia Union Reserves    ; 10  ;    4   ;    4   ;    2   ;    20   ;   20  ;    0   ;    14
+4     ;  New York Red Bulls Reserves    ; 10  ;    3   ;    5   ;    2   ;    14   ;   16  ;    −2  ;    11
+5     ;  D.C. United Reserves           ; 9   ;    3   ;    5   ;    1   ;    9    ;   19  ;    -10 ;    10
+6     ;  New England Revolution Reserves; 10  ;    2   ;    5   ;    3   ;    9    ;   15  ;    −6  ;    9
+7     ;  Toronto FC Reserves            ; 9   ;    2   ;    5   ;    2   ;    13   ;   16  ;    −3  ;    8
+
+*Central/Mountain
+
+1     ;  Houston Dynamo Reserves        ; 10  ;    6   ;    2   ;    2   ;    19   ;   11  ;    +8  ;    20
+2     ;  FC Dallas Reserves             ; 10  ;    6   ;    3   ;    1   ;    17   ;   11  ;    +6  ;    18
+3     ;  Colorado Rapids Reserves       ; 10  ;    5   ;    4   ;    1   ;    12   ;   10  ;    +2  ;    16
+4     ;  Chicago Fire Reserves          ; 10  ;    4   ;    6   ;    0   ;    12   ;   15  ;    −3  ;    12
+5     ;  Real Salt Lake Reserves        ; 10  ;    3   ;    5   ;    2   ;    10   ;   17  ;    −7  ;    11
+6     ;  Sporting K.C. Reserves         ; 10  ;    2   ;    6   ;    2   ;    8    ;   16  ;    −8  ;    8
+
+*Western
+
+1     ;  Los Angeles Galaxy Reserves    ; 10  ;    6   ;    3   ;    1   ;    22   ;   11  ;    +11 ;    19
+2     ;  San Jose Earthquakes Reserves  ; 10  ;    5   ;    3   ;    2   ;    15   ;   12  ;    +3  ;    17
+3     ;  Seattle Sounders Reserves      ; 10  ;    4   ;    5   ;    1   ;    18   ;   19  ;    -1  ;    13
+3     ;  Portland Timbers Reserves      ; 10  ;    4   ;    5   ;    1   ;    17   ;   18  ;    -1  ;    13
+5     ;  Chivas USA Reserves            ; 10  ;    3   ;    4   ;    3   ;    21   ;   21  ;    0   ;    12
+6     ;  Vancouver Whitecaps Reserves   ; 10  ;    3   ;    5   ;    2   ;    11   ;   22  ;    −11 ;    11
