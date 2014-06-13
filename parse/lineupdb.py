@@ -52,7 +52,7 @@ get_date = lambda s: datetime.datetime.strptime (s, "%Y-%m-%d")
 
 
 
-LINEUPS_DIR = os.path.join(ROOT_DIR, 'soccerdata/data/games/domestic/country/usa/mls')
+LINEUPS_DIR = os.path.join(ROOT_DIR, 'usd1/data/games/league/lineupdb')
 
 
 # scaryice specific team mappings.
