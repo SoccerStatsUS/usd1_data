@@ -142,11 +142,11 @@ season_map = {
 
 # Put this in competition aliases?
 competition_map = {
-    'NASL': 'North American Soccer League',
-    'NASL Playoffs': 'North American Soccer League Playoffs',
-    'USA': 'United Soccer Association',
-    'NPSL': 'National Professional Soccer League',
-    'NPSL Playoffs': 'National Professional Soccer League Playoffs',
+    'NASL': ('North American Soccer League', None),
+    'NASL Playoffs': ('North American Soccer League', 'Playoffs'),
+    'USA': ('United Soccer Association', None),
+    'NPSL': ('National Professional Soccer League', None),
+    'NPSL Playoffs': ('National Professional Soccer League', 'Playoffs'),
     }
 
 
@@ -341,7 +341,7 @@ class GameProcessor(object):
 
         team_score,  opponent_score = [int(e) for e in score.split(',')]
 
-        competition = competition_map[competition]
+        competition, stage = competition_map[competition]
 
         team = get_full_name(team, season)
         opponent = get_full_name(opponent, season)
@@ -382,6 +382,7 @@ class GameProcessor(object):
         game_data = {
             'gid': gid,
             'competition': competition,
+            'stage': stage,
             'season': season,
             'date': d,
             'team1': home_team,
@@ -392,6 +393,7 @@ class GameProcessor(object):
             'attendance': attendance,
             'shootout_winner': shootout_winner,
             'source': 'NASL - A Complete Record of the North American Soccer League',
+
             }
 
         goal_list = []

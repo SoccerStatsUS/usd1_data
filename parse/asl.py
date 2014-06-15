@@ -52,7 +52,7 @@ def get_full_name_stats(team, season):
         ('Fall River', ['1922-1923', '1923-1924', '1924-1925', '1925-1926', '1926-1927', '1927-1928', '1928-1929', '1929 Fall', '1930 Spring', '1930 Fall'], 'Fall River Marksmen'),
         ('Fall River', ['1931 Fall', '1931 Spring', '1932 Fall'], 'Fall River Football Club'),
         ('Jersey City', ['1921-1922'], 'Jersey City Celtics'),
-        ('Jersey City', ['1925-1926'], 'Jersey City ?'), # Can't find.
+        #('Jersey City', ['1925-1926'], 'Jersey City ?'), # Can't find.
         ('Jersey City', ['1928-1929', '1928-1929 Second Half'], 'Jersey City'),
         ('Newark', ['1922-1923', '1923-1924', '1924-1925', '1925-1926', '1926-1927', '1927-1928', '1927-1928 First Half', '1927-1928 Second Half', '1928-1929', '1928-1929 First Half', '1929 Fall', '1930 Spring'], 'Newark Skeeters'),
         ('Newark', ['1930 Fall', '1931 Fall', '1931 Spring', '1931 Fall', '1931 Spring'], 'Newark Americans'),
