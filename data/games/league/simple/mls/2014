@@ -1,6 +1,7 @@
 BlockSource: 
 Competition: Major League Soccer
 Season: 2014
+Timezone: EST
 
 Date: 3/8/2014
 
@@ -407,14 +408,14 @@ Time: 3:00PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-05-04-fc-dallas-vs-new-york-red-bulls/feed
 
 ; Sporting KC; 2-0; Columbus Crew; Sporting Park; 20565
-Jacob Peterson 10, Claudio Bieler (Graham Zusi) 90+5
+Jacob Peterson 10, Claudio Bieler (Graham Zusi) 90+5;
 Time: 4:00PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-05-04-sporting-kansas-city-vs-columbus-crew/feed
 
 Date: 5/7/2014
 
 ; Houston Dynamo; 1-0; Columbus Crew; BBVA Compass Stadium; 15030
-Will Bruin (Brad Davis) 50
+Will Bruin (Brad Davis) 50;
 Time: 8:00PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-05-07-houston-dynamo-vs-columbus-crew/feed
 
@@ -430,7 +431,7 @@ Source: http://matchcenter.mlssoccer.com/matchcenter/2014-05-07-san-jose-earthqu
 Date: 5/10/2014
 
 ; Montreal Impact; 0-3; Sporting KC; Stade Saputo; 16529
-; Dom Dwyer (pk) 18, Paulo Nagamura (Chance Myers) 34, Dom Dwyer (Toni) 64;
+; Dom Dwyer (pk) 18, Paulo Nagamura (Chance Myers) 34, Dom Dwyer (Toni) 64
 Time: 4:00PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-05-10-montreal-impact-vs-sporting-kansas-city/feed
 
@@ -440,7 +441,7 @@ Time: 4:00PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-05-10-philadelphia-union-vs-dc-united/feed
 
 ; New York Red Bulls; 4-5; Chicago Fire; Red Bull Arena; 23776
-Tim Cahill (Eric Alexander) 6, Bradley Wright-Phillips (Thierry Henry) 39, Bradley Wright-Phillips (Lloyd Sam, Jonathan Steele) 67, Bradley Wright-Phillips (pk) 78
+Tim Cahill (Eric Alexander) 6, Bradley Wright-Phillips (Thierry Henry) 39, Bradley Wright-Phillips (Lloyd Sam, Jonathan Steele) 67, Bradley Wright-Phillips (pk) 78;
 Time: 7:00PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-05-10-new-york-red-bulls-vs-chicago-fire/feed
 
@@ -486,7 +487,7 @@ Source: http://matchcenter.mlssoccer.com/matchcenter/2014-05-14-sporting-kansas-
 Date: 5/17/2014
        
 ; Toronto FC; 2-0; New York Red Bulls; BMO Field; 22591
-Jermain Defoe (Bradley Orr) 12, Luke Moore (Joe Bendik) 90+5
+Jermain Defoe (Bradley Orr) 12, Luke Moore (Joe Bendik) 90+5;
 Time: 4:30PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-05-17-toronto-fc-vs-new-york-red-bulls/feed
 
@@ -564,7 +565,7 @@ Time: 7:00PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-05-24-vancouver-whitecaps-fc-vs-seattle-sounders-fc/feed
 
 ; Columbus Crew; 2-0; Chicago Fire; Columbus Crew Stadium; 15290
-Ethan Finlay (Federico Higuain) 10, Jairo Arrieta (Federico Higuain) 25
+Ethan Finlay (Federico Higuain) 10, Jairo Arrieta (Federico Higuain) 25;
 Time: 7:30PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-05-24-columbus-crew-vs-chicago-fire/feed
 
@@ -643,7 +644,7 @@ Source: http://matchcenter.mlssoccer.com/matchcenter/2014-05-31-chivas-usa-vs-ph
 Date: 6/1/2014
 
 ; Colorado Rapids; 3-0; Houston Dynamo; Dick's Sporting Goods Park; 17470
-Deshorn Brown (Marvell Wynne) 5, Deshorn Brown (Dillon Powers) 35, Kamani Hill (Dillon Powers) 51
+Deshorn Brown (Marvell Wynne) 5, Deshorn Brown (Dillon Powers) 35, Kamani Hill (Dillon Powers) 51;
 Time: 8:00PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-06-01-colorado-rapids-vs-houston-dynamo/feed
 
@@ -846,319 +847,308 @@ Erick Torres 90+4;
 Time: 10:30PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-07-05-chivas-usa-vs-montreal-impact/feed
 
-Date: 7/6/2014
-
-; Sporting KC; 1-1; Chicago Fire; Sporting Park; 20858
+7/6/2014 1500; Sporting KC; 1-1; Chicago Fire; Sporting Park; 20858
 Dom Dwyer 33; Mike Magee (Alex) 40
-Time: 3:00PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-07-06-sporting-kansas-city-vs-chicago-fire/feed
 
-Date: 7/11/2014
 
-
-; San Jose Earthquakes; v; D.C. United; Buck Shaw Stadium
+7/11/2014 2300; San Jose Earthquakes; 1-2; D.C. United; Buck Shaw Stadium; 10525
+Chris Wondolowski (Khari Stephenson) 39; Eddie Johnson (pk) 12, Luis Silva (Chris Rolfe) 25
 Time: 11:00PM EDT
+Source: http://matchcenter.mlssoccer.com/matchcenter/2014-07-11-san-jose-earthquakes-vs-dc-united/feed
 
 
-Date: 7/12/2014
-
-       
-
-; New York Red Bulls; v; Columbus Crew; Red Bull Arena
+7/12/2014; New York Red Bulls; 4-1; Columbus Crew; Red Bull Arena; 17028
+Bradley Wright-Phillips (Thierry Henry, Eric Alexander) 17, Thierry Henry 45, Lloyd Sam (Thierry Henry) 56, Eric Alexander (Thierry Henry) 90+1; Adam Bedell (Ethan Finlay) 39
 Time: 7:00PM EDT
 
-
-; Toronto FC; v; Houston Dynamo; BMO Field
+7/12/2014; Toronto FC; 4-2; Houston Dynamo; BMO Field; 22591
+Jonathan Osorio 39, Dominic Oduro 45+1, Jermain Defoe (Jonathan Osorio, Jackson) 63, Jermain Defoe 89; Brad Davis (Giles Barnes) 13, Brad Davis (Giles Barnes) 30
 Time: 7:00PM EDT
+Source: http://matchcenter.mlssoccer.com/matchcenter/2014-07-12-toronto-fc-vs-houston-dynamo/feed
 
-
-; Philadelphia Union; v; Colorado Rapids; PPL Park
+7/12/2014; Philadelphia Union; 3-3; Colorado Rapids; PPL Park; 18679
+Conor Casey (Ray Gaddis) 16, Sheanon Williams (Cristian Maidana) 31, Andrew Wenger 74; Dillon Serna (Dillon Powers) 18, Dillon Powers (pk) 79, Deshorn Brown (Gabriel Torres) 86
 Time: 7:00PM EDT
+Source: http://matchcenter.mlssoccer.com/matchcenter/2014-07-12-philadelphia-union-vs-colorado-rapids/feed
 
-
-; New England Revolution; v; Chicago Fire; Gillette Stadium
+7/12/2014; New England Revolution; 0-1; Chicago Fire; Gillette Stadium; 15406
+; Quincy Amarikwa (Mike Magee) 3
 Time: 7:30PM EDT
+Source: http://matchcenter.mlssoccer.com/matchcenter/2014-07-12-new-england-revolution-vs-chicago-fire/feed
 
-
-; Montreal Impact; v; Sporting KC; Stade Saputo
+7/12/2014; Montreal Impact; 1-2; Sporting KC; Stade Saputo; 17155
+Marco Di Vaio (Justin Mapp, Patrice Bernier) 28; Dom Dwyer (Matt Besler) 4, Dom Dwyer 89
 Time: 7:30PM EDT
+Source: http://matchcenter.mlssoccer.com/matchcenter/2014-07-12-montreal-impact-vs-sporting-kansas-city/feed
 
-; Vancouver Whitecaps; v; Chivas USA; BC Place
+7/12/2014; Vancouver Whitecaps; 1-3; Chivas USA; BC Place; 19383
+Carlyle Mitchell (Pedro Morales) 27; Agustin Pelletieri (Mauro Rosales) 47, Erick Torres (Marco Delgado, Mauro Rosales) 81, Leandro Barrera (Mauro Rosales) 90+4
 Time: 10:00PM EDT
+Source: http://matchcenter.mlssoccer.com/matchcenter/2014-07-12-vancouver-whitecaps-fc-vs-chivas-usa/recap
 
-
-; LA Galaxy; v; Real Salt Lake; StubHub Center
+7/12/2014; LA Galaxy; 1-0; Real Salt Lake; StubHub Center; 19882
+Gyasi Zardes (Marcelo Sarvas) 20; 
 Time: 10:30PM EDT
+Source: http://matchcenter.mlssoccer.com/matchcenter/2014-07-12-la-galaxy-vs-real-salt-lake/feed
 
 
-Date: 7/13/2014
-
-
-; Seattle Sounders; v; Portland Timbers; CenturyLink Field
+7/13/2014; Seattle Sounders; 2-0; Portland Timbers; CenturyLink Field; 64207
+Clint Dempsey (Gonzalo Pineda) 71, Marco Pappa (Lamar Neagle) 86;
 Time: 10:00PM EDT
+Source: http://matchcenter.mlssoccer.com/matchcenter/2014-07-13-seattle-sounders-fc-vs-portland-timbers/recap
 
 
-Date: 7/16/2014
-
-
-; Philadelphia Union; v; New York Red Bulls; PPL Park
+7/16/2014; Philadelphia Union; 3-1; New York Red Bulls; PPL Park; 18541
+Conor Casey (Andrew Wenger) 9, Fred (Conor Casey, Sheanon Williams) 51, Sebastien Le Toux (pk) 69; Bradley Wright-Phillips (Thierry Henry, Ambroise Oyongo Bitolo) 60
 Time: 7:00PM EDT
+Source: http://matchcenter.mlssoccer.com/matchcenter/2014-07-16-philadelphia-union-vs-new-york-red-bulls/feed
 
-
-; Columbus Crew; v; Sporting KC; Columbus Crew Stadium
+7/16/2014; Columbus Crew; 1-2; Sporting KC; Columbus Crew Stadium; 13643
+Igor Juliao (og) 69; CJ Sapong (Benny Feilhaber) 42, Benny Feilhaber (Jacob Peterson, Igor Juliao) 90+3
 Time: 7:30PM EDT
+Source: http://matchcenter.mlssoccer.com/matchcenter/2014-07-16-columbus-crew-vs-sporting-kansas-city/recap
 
-
-; Toronto FC; v; Vancouver Whitecaps; BMO Field
+7/16/2014; Toronto FC; 1-1; Vancouver Whitecaps; BMO Field; 22591
+Jermain Defoe (pk) 64; Darren Mattocks (Russell Teibert, Pedro Morales) 50
 Time: 8:00PM EDT
+Source: http://matchcenter.mlssoccer.com/matchcenter/2014-07-16-toronto-fc-vs-vancouver-whitecaps-fc/recap
 
-
-; LA Galaxy; v; New England Revolution; StubHub Center
+7/16/2014; LA Galaxy; 5-1; New England Revolution; StubHub Center; 17741
+Robbie Keane (Baggio Husidic) 10, Gyasi Zardes (Robbie Keane, Stefan Ishizaki) 18, Gyasi Zardes (Robbie Keane) 48, Stefan Ishizaki (ua) 75, Robbie Keane (ua) 78; Lee Nguyen (pk) 38
 Time: 10:30PM EDT
+Source: http://matchcenter.mlssoccer.com/matchcenter/2014-07-16-la-galaxy-vs-new-england-revolution/feed
 
 
-Date: 7/18/2014
 
 
-; Portland Timbers; v; Colorado Rapids; Providence Park
+7/18/2014; Portland Timbers; v; Colorado Rapids; Providence Park
 Time: 11:00PM EDT
 
 
-Date: 7/19/2014
+
 
        
 
-; Sporting KC; v; LA Galaxy; Sporting Park
+7/19/2014; Sporting KC; v; LA Galaxy; Sporting Park
 Time: 6:00PM EDT
 
 
-; New York Red Bulls; v; San Jose Earthquakes; Red Bull Arena
+7/19/2014; New York Red Bulls; v; San Jose Earthquakes; Red Bull Arena
 Time: 7:00PM EDT
 
 
-; Columbus Crew; v; Montreal Impact; Columbus Crew Stadium
+7/19/2014; Columbus Crew; v; Montreal Impact; Columbus Crew Stadium
 Time: 7:30PM EDT
 
 
-; Chicago Fire; v; Philadelphia Union; Toyota Park
+7/19/2014; Chicago Fire; v; Philadelphia Union; Toyota Park
 Time: 8:30PM EDT
 
 
-; Houston Dynamo; v; Toronto FC; BBVA Compass Stadium
+7/19/2014; Houston Dynamo; v; Toronto FC; BBVA Compass Stadium
 Time: 9:00PM EDT
 
 
-; FC Dallas; v; New England Revolution; Toyota Stadium
+7/19/2014; FC Dallas; v; New England Revolution; Toyota Stadium
 Time: 9:00PM EDT
 
 
-; Real Salt Lake; v; Vancouver Whitecaps; Rio Tinto Stadium
+7/19/2014; Real Salt Lake; v; Vancouver Whitecaps; Rio Tinto Stadium
 Time: 10:00PM EDT
 
 
-Date: 7/20/2014
 
 
-; D.C. United; v; Chivas USA; RFK Stadium
+
+7/20/2014; D.C. United; v; Chivas USA; RFK Stadium
 Time: 8:00PM EDT
 
 
-Date: 7/23/2014
 
 
-; San Jose Earthquakes; v; Chicago Fire; Buck Shaw Stadium
+
+7/23/2014; San Jose Earthquakes; v; Chicago Fire; Buck Shaw Stadium
 Time: 11:00PM EDT
 
 
-Date: 7/24/2014
+
 
        
 
-; Real Salt Lake; v; Montreal Impact; Rio Tinto Stadium
+7/24/2014; Real Salt Lake; v; Montreal Impact; Rio Tinto Stadium
 Time: 10:00PM EDT
 
 
-Date: 7/26/2014
+
 
        
 
-; Toronto FC; v; Sporting KC; BMO Field
+7/26/2014; Toronto FC; v; Sporting KC; BMO Field
 Time: 7:00PM EDT
 
 
-; New England Revolution; v; Columbus Crew; Gillette Stadium
+7/26/2014; New England Revolution; v; Columbus Crew; Gillette Stadium
 Time: 7:30PM EDT
 
 
-; Colorado Rapids; v; Chivas USA; Dick's Sporting Goods Park
+7/26/2014; Colorado Rapids; v; Chivas USA; Dick's Sporting Goods Park
 Time: 9:00PM EDT
 
 
-; Seattle Sounders; v; LA Galaxy; CenturyLink Field
+7/26/2014; Seattle Sounders; v; LA Galaxy; CenturyLink Field
 Time: 10:00PM EDT
 
 
-Date: 7/27/2014
 
 
-; Vancouver Whitecaps; v; FC Dallas; BC Place
+
+7/27/2014; Vancouver Whitecaps; v; FC Dallas; BC Place
 Time: 5:00PM EDT
 
 
-; Montreal Impact; v; Portland Timbers; Stade Saputo
+7/27/2014; Montreal Impact; v; Portland Timbers; Stade Saputo
 Time: 8:00PM EDT
 
 
-Date: 7/30/2014
 
 
-; D.C. United; v; Toronto FC; RFK Stadium
+
+7/30/2014; D.C. United; v; Toronto FC; RFK Stadium
 Time: 7:00PM EDT
 
 
-; New England Revolution; v; Colorado Rapids; Gillette Stadium
+7/30/2014; New England Revolution; v; Colorado Rapids; Gillette Stadium
 Time: 7:30PM EDT
 
 
-; Chicago Fire; v; Vancouver Whitecaps; Toyota Park
+7/30/2014; Chicago Fire; v; Vancouver Whitecaps; Toyota Park
 Time: 8:30PM EDT
 
 
-; Real Salt Lake; v; New York Red Bulls; Rio Tinto Stadium
+7/30/2014; Real Salt Lake; v; New York Red Bulls; Rio Tinto Stadium
 Time: 9:00PM EDT
  
 
-Date: 8/1/2014
 
 
-; Sporting KC; v; Philadelphia Union; Sporting Park
+
+8/1/2014; Sporting KC; v; Philadelphia Union; Sporting Park
 Time: 8:00PM EDT
 
 
-Date: 8/2/2014
 
 
-; LA Galaxy; v; Portland Timbers; StubHub Center
+
+8/2/2014; LA Galaxy; v; Portland Timbers; StubHub Center
 Time: 2:30PM EDT
 
 
-; New York Red Bulls; v; New England Revolution; Red Bull Arena
+8/2/2014; New York Red Bulls; v; New England Revolution; Red Bull Arena
 Time: 7:00PM EDT
 
 
-; Chicago Fire; v; Columbus Crew; Toyota Park
+8/2/2014; Chicago Fire; v; Columbus Crew; Toyota Park
 Time: 8:30PM EDT
 
 
-; Colorado Rapids; v; Real Salt Lake; Dick's Sporting Goods Park
+8/2/2014; Colorado Rapids; v; Real Salt Lake; Dick's Sporting Goods Park
 Time: 9:00PM EDT
 
 
-; San Jose Earthquakes; v; Seattle Sounders; Levi's Stadium
+8/2/2014; San Jose Earthquakes; v; Seattle Sounders; Levi's Stadium
 Time: 10:30PM EDT
 
 
-Date: 8/3/2014
 
 
-; Montreal Impact; v; Toronto FC; Stade Saputo
+8/3/2014; Montreal Impact; v; Toronto FC; Stade Saputo
 Time: 6:00PM EDT
 
-; Houston Dynamo; v; D.C. United; BBVA Compass Stadium
+8/3/2014; Houston Dynamo; v; D.C. United; BBVA Compass Stadium
 Time: 8:00PM EDT
 
 
-; Chivas USA; v; FC Dallas; StubHub Center
+8/3/2014; Chivas USA; v; FC Dallas; StubHub Center
 Time: 10:00PM EDT
 
 
-Date: 8/8/2014
 
 
-; LA Galaxy; v; San Jose Earthquakes; StubHub Center
+
+8/8/2014; LA Galaxy; v; San Jose Earthquakes; StubHub Center
 Time: 10:30PM EDT
 
 
-Date: 8/9/2014
 
 
-; Philadelphia Union; v; Montreal Impact; PPL Park
+8/9/2014; Philadelphia Union; v; Montreal Impact; PPL Park
 Time: 7:00PM EDT
 
 
-; Columbus Crew; v; Toronto FC; Columbus Crew Stadium
+8/9/2014; Columbus Crew; v; Toronto FC; Columbus Crew Stadium
 Time: 7:30PM EDT
 
 
-; FC Dallas; v; Colorado Rapids; Toyota Stadium
+8/9/2014; FC Dallas; v; Colorado Rapids; Toyota Stadium
 Time: 9:00PM EDT
 
 
-; Real Salt Lake; v; D.C. United; Rio Tinto Stadium
+8/9/2014; Real Salt Lake; v; D.C. United; Rio Tinto Stadium
 Time: 10:00PM EDT
 
 
-; Portland Timbers; v; Chivas USA; Providence Park
+8/9/2014; Portland Timbers; v; Chivas USA; Providence Park
 Time: 10:30PM EDT
 
 
-Date: 8/10/2014
 
-
-; Vancouver Whitecaps; v; Sporting KC; BC Place
+8/10/2014; Vancouver Whitecaps; v; Sporting KC; BC Place
 Time: 8:00PM EDT
 
 
-; Chicago Fire; v; New York Red Bulls; Toyota Park
+8/10/2014; Chicago Fire; v; New York Red Bulls; Toyota Park
 Time: 8:00PM EDT
 
 
-; Seattle Sounders; v; Houston Dynamo; CenturyLink Field
+8/10/2014; Seattle Sounders; v; Houston Dynamo; CenturyLink Field
 Time: 10:30PM EDT
 
 
-Date: 8/15/2014
 
-
-; Houston Dynamo; v; Philadelphia Union; BBVA Compass Stadium
+8/15/2014; Houston Dynamo; v; Philadelphia Union; BBVA Compass Stadium
 Time: 9:00PM EDT
 
 
-Date: 8/16/2014
-
-
-; Real Salt Lake; v; Seattle Sounders; Rio Tinto Stadium
+8/16/2014; Real Salt Lake; v; Seattle Sounders; Rio Tinto Stadium
 Time: 2:30PM EDT
 
 
-; Montreal Impact; v; Chicago Fire; Stade Saputo
+8/16/2014; Montreal Impact; v; Chicago Fire; Stade Saputo
 Time: 6:30PM EDT
 
 
-; New England Revolution; v; Portland Timbers; Gillette Stadium
+8/16/2014; New England Revolution; v; Portland Timbers; Gillette Stadium
 Time: 7:30PM EDT
 
 
-; Columbus Crew; v; LA Galaxy; Columbus Crew Stadium
+8/16/2014; Columbus Crew; v; LA Galaxy; Columbus Crew Stadium
 Time: 7:30PM EDT
 
 
-; Sporting KC; v; Toronto FC; Sporting Park
+8/16/2014; Sporting KC; v; Toronto FC; Sporting Park
 Time: 8:30PM EDT
 
 
-; Chivas USA; v; Vancouver Whitecaps; StubHub Center
+8/16/2014; Chivas USA; v; Vancouver Whitecaps; StubHub Center
 Time: 10:30PM EDT
 
 
-; San Jose Earthquakes; v; FC Dallas; Buck Shaw Stadium
+8/16/2014; San Jose Earthquakes; v; FC Dallas; Buck Shaw Stadium
 Time: 10:30PM EDT
 
 
-Date: 8/17/2014
-
-
-; D.C. United; v; Colorado Rapids; RFK Stadium
+8/17/2014; D.C. United; v; Colorado Rapids; RFK Stadium
 Time: 8:00PM EDT
 
 
