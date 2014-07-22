@@ -78,7 +78,7 @@ Newark Skeeters; 38; 5; 6; 27; 15; 30; 124;
 Season: 1926-1927
 
 Bethlehem Steel; 44; 29; 8; 7; 66; 114; 52; 
-Boston Wonder Workers; 44; 25; 7; 12; 55; 90; 59; 
+Boston Wonder Workers; 44; 25; 7; 12; 57; 90; 59; 
 Fall River Marksmen; 44; 24; 8; 12; 56; 98; 72; 
 New Bedford Whalers; 44; 24; 6; 14; 54; 124; 72; 
 New York Giants; 44; 21; 7; 16; 49; 120; 102; 
@@ -100,7 +100,7 @@ Springfield Babes; 27; 7; 7; 13; 21; 44; 74;
 
 
 Season: 1927-1928
-Round: First Half
+Stage: first half
 
 Boston Wonder Workers; 29; 18; 7; 4; 43; 65; 36; 
 Bethlehem Steel; 29; 18; 5; 6; 41; 70; 49; 
@@ -115,7 +115,7 @@ New York Nationals; 30; 7; 3; 20; 17; 41; 77;
 Hartford Americans; 11; 4; 2; 5; 10; 14; 14; 
 Philadelphia Celtic; 10; 2; 1; 7; 5; 17; 35; 
 
-Round: Second Half
+Stage: second half
 
 New Bedford Whalers; 25; 13; 8; 4; 34; 52; 31; 
 Fall River Marksmen; 26; 15; 5; 6; 35; 55; 30; 
@@ -134,7 +134,7 @@ Newark Skeeters; 17; 2; 1; 14; 5; 18; 46;
 
 
 Season: 1928-1929
-Round: First Half
+Stage: first half
 
 Fall River Marksmen; 31; 17; 9; 5; 43; 64; 36; 
 Brooklyn Wanderers; 31; 18; 6; 7; 42; 79; 61; 
@@ -153,7 +153,7 @@ Bethlehem Steel; 6; 3; 0; 3; 6; 12; 8;
 Newark Skeeters; 7; 0; 1; 6; 0; 7; 30; 
 
 
-Round: Second Half
+Stage: second half
 
 Fall River Marksmen; 22; 11; 6; 5; 28; 38; 24; 
 Providence Gold Bugs; 22; 12; 3; 7; 27; 46; 37; 
@@ -163,6 +163,7 @@ Brooklyn Wanderers; 20; 5; 6; 9; 18; 42; 50;
 Philadelphia Field Club; 18; 6; 3; 9; 15; 36; 54; 
 Boston Wonder Workers; 25; 7; 4; 14; 18; 45; 55; 
 New Bedford Whalers; 14; 7; 1; 6; 15; 37; 28; 
+Notes: dropped out mid-season to join the Eastern Soccer League
 Jersey City; 7; 2; 0; 5; 4; 11; 23; 
 
 
@@ -170,7 +171,7 @@ Season: 1929 Fall
 
 Fall River Marksmen; 22; 15; 3; 4; 33; 65; 40; 
 Providence Gold Bugs; 22; 14; 2; 6; 30; 50; 34; 
-Boston Bears; 21; 12; 3; 6; 27; 44; 22; 
+Boston Wonder Workers; 21; 12; 3; 6; 27; 44; 22; 
 New York Nationals; 21; 10; 3; 8; 23; 58; 53; 
 Pawtucket Rangers; 19; 8; 2; 9; 18; 32; 41; 
 New Bedford Whalers; 21; 7; 2; 12; 16; 38; 47; 
@@ -206,7 +207,7 @@ Newark Americans; 28; 11; 6; 11; 28; 62; 55;
 New York Soccer Club Giants; 27; 12; 3; 12; 27; 51; 55; 
 Providence Gold Bugs; 29; 12; 3; 14; 27; 46; 29; 
 Brooklyn Wanderers; 30; 10; 7; 13; 27; 57; 58; 
-New York National Giants; 31; 9; 7; 15; 27; 64; 86; 
+New York Nationals; 31; 9; 7; 15; 27; 64; 86; 
 Pawtucket Rangers; 31; 9; 8; 14; 26; 54; 26; 
 
 
