@@ -21,46 +21,20 @@ def get_full_name_stats(team, season):
         #Uniques
         ('B. Hakoah', [], 'Hakoah All-Stars'),
         ('B/Newark', [], 'Bridgeport Hungaria/Newark'), # Need to fix this one.
-        ('Bethlehem', [], 'Bethlehem Steel'),
-        ('Brooklyn', [], 'Brooklyn Wanderers'),
         ('Fleischer', [], 'Fleisher Yarn'), # I misspelled Fleisher in Excel.
-        ('Hakoah', [], 'Hakoah All-Stars'),
         ('Harrison', [], 'Harrison Soccer Club'),
         ('Hartford', [], 'Hartford Americans'),
         ('Holyoke', [], 'Holyoke Falcons'),
-        ('Indiana', [], 'Indiana Flooring'),
-        ('J&P Coats', [], 'J & P Coats'),
         ('NY Americans', [], 'New York Americans'),
         ('NY Giants', [], 'New York Giants'),
         ('NY Nationals', [], 'New York Nationals'),
         ('NY Yankees', [], 'New York Yankees'),
-        ('New Bedford', [], 'New Bedford Whalers'),
         ('New York', [], 'New York Field Club'), # Different teams?
         ('New York FC', [], 'New York Field Club'), # Different teams?
         ('New York SC', [], 'New York Soccer Club'),
-        ('Paterson', [], 'Paterson Silk Sox'),
-        ('Pawtucket', [], 'Pawtucket Rangers'),
-        ('Shawsheen', [], 'Shawsheen Indians'),
-        ('Springfield', [], 'Springfield Babes'),
         ('Todd', [], 'Todd Shipyards F.C.'),
-
-        #Complicateds
-        # 'Bridgeport', # Bridgeport is missing or something.
-        ('Boston', ['1924-1925', '1925-1926', '1926-1927', '1927-1928', '1927-1928 First Half', '1927-1928 Second Half', '1928-1929', '1928-1929 First Half', '1928-1929 Second Half'], 'Boston Wonder Workers'),
-        ('Boston', ['1929 Fall', '1929 First Half', '1930 Spring', '1931 Fall', '1931 Spring', '1931 First Half', '1931 Spring'], 'Boston Bears'),
-        ('Fall River', ['1921-1922'], 'Fall River United'),
-        ('Fall River', ['1922-1923', '1923-1924', '1924-1925', '1925-1926', '1926-1927', '1927-1928', '1928-1929', '1929 Fall', '1930 Spring', '1930 Fall'], 'Fall River Marksmen'),
-        ('Fall River', ['1931 Fall', '1931 Spring', '1932 Fall'], 'Fall River Football Club'),
-        ('Jersey City', ['1921-1922'], 'Jersey City Celtics'),
-        #('Jersey City', ['1925-1926'], 'Jersey City ?'), # Can't find.
-        ('Jersey City', ['1928-1929', '1928-1929 Second Half'], 'Jersey City'),
-        ('Newark', ['1922-1923', '1923-1924', '1924-1925', '1925-1926', '1926-1927', '1927-1928', '1927-1928 First Half', '1927-1928 Second Half', '1928-1929', '1928-1929 First Half', '1929 Fall', '1930 Spring'], 'Newark Skeeters'),
-        ('Newark', ['1930 Fall', '1931 Fall', '1931 Spring', '1931 Fall', '1931 Spring'], 'Newark Americans'),
-        ('Philadelphia', ['1921-1922', '1922-1923', '1923-1924', '1924-1925', '1925-1926', '1926-1927', '1928-1929', '1928-1929 First Half', '1928-1929 Second Half', '1929 Fall', '1929 Fall'], 'Philadelphia Field Club'),
-        ('Philadelphia', ['1927-1928', '1927-1928 First Half'], 'Philadelphia Celtic'),
-        ('Providence', ['1924-1925', '1925-1926', '1926-1927', '1927-1928', '1927-1928 First Half', '1927-1928 Second Half'], 'Providence Clamdiggers'),
-        ('Providence', ['1928-1929', '1928-1929 First Half', '1928-1929 Second Half', '1929 Fall', '1929 Fall', '1930 Spring', '1930 Fall'], 'Providence Gold Bugs')
         ]
+    
 
     
     team_matches = [e for e in TEAM_HISTORY_TUPLES if e[0] == team]
@@ -302,7 +276,10 @@ class GameProcessor(object):
 
         if 'Playoffs' in season:
             season = season.replace('Playoffs', '').strip()
-            competition = "%s Playoffs" % competition
+            #competition = "%s Playoffs" % competition
+            stage = 'playoffs'
+        else:
+            stage = ''
 
 
         if competition in ('US Open Cup', 'AFA Cup', 'American Cup'):
@@ -336,6 +313,7 @@ class GameProcessor(object):
             'home_team': home_team,
             'sources': ['American Soccer League (1921-1931)',],
             'round': round,
+            'stage': stage,
             }
 
         goal_list = []
