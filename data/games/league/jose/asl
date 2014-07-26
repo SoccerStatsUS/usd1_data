@@ -19,8 +19,8 @@ Fall River United	1921-1922	ASL	2	11	Philadelphia	a	2,5	Weir, Corrigan
 Fall River United	1921-1922	ASL		12	New York	a	1,6	Lynch	
 Fall River United	1921-1922	ASL	3	11	New York	h	2,0	Weird, Lynch	
 Fall River United	1921-1922	ASL		18	J&P Coats	a	1,2	Pidgeon	
-Fall River United	1921-1922	ASL		25	Harrison	a	0,1		
-Fall River United	1921-1922	ASL		22	Todd	h	1,2	Weir	
+Fall River United	1921-1922	ASL		26	Harrison	a	0,1		
+Fall River United	1921-1922	ASL	4	22	Todd	h	1,2	Weir	
 Fall River United	1921-1922	ASL	5	14	Holyoke	a	forfeit loss		
 Fall River United	1921-1922	ASL	5	14	Holyoke	h	forfeit win		
 Fall River United	1922	US Open Cup	11	5	Lonsdale	h	6,0	Weir 2, Caraffi 2, Churchley 2	
@@ -266,7 +266,7 @@ Fall River Marksmen	1922-1923	ASL		25	Philadelphia	h	6,0	Reid 2, Kershaw 3, o.g.
 Fall River Marksmen	1922-1923	ASL	3	4	Brooklyn	h	1,0	Drummond	
 Fall River Marksmen	1922-1923	ASL		11	Brooklyn	h	1,1	Brittan	
 Fall River Marksmen	1922-1923	ASL		17	J&P Coats	a	1,3	Dalrymple	
-Fall River Marksmen	1922-1923	ASL		25	Philadelphia	a	1,0	Reid	
+Fall River Marksmen	1922-1923	ASL		24	Philadelphia	a	1,0	Reid	
 Fall River Marksmen	1922-1923	ASL		31	Bethlehem	a	1,6	Brittan	
 Fall River Marksmen	1922-1923	ASL	4	7	J&P Coats	a	1,2	Reid	
 Fall River Marksmen	1922-1923	ASL		8	Paterson	a	0,2		
@@ -411,8 +411,8 @@ Philadelphia Field Club	1922-1923	ASL		31	Harrison	h	1,3	Ruiz
 Philadelphia Field Club	1922-1923	ASL	4	2	Bethlehem	h	0,1		
 Philadelphia Field Club	1922-1923	ASL		8	New York	a	1,6	McGhee	
 Philadelphia Field Club	1922-1923	ASL		21	Bethlehem	a	0,5		
-Philadelphia Field Club	1922-1923	ASL		28	Brooklyn	a	2,1	Andrews, Curran	
-Philadelphia Field Club	1922-1923	ASL	5	14	Brooklyn	h	3,0	Fullerton, McGhee 2	
+Philadelphia Field Club	1922-1923	ASL		29	Brooklyn	a	2,1	Andrews, Curran	
+Philadelphia Field Club	1922-1923	ASL	5	13	Brooklyn	h	3,0	Fullerton, McGhee 2	
 Bethlehem Steel	1923-1924	ASL	10	7	Brooklyn	a	1,1	Goldie	
 Bethlehem Steel	1923-1924	ASL		13	New York	h	4,3	A. Jackson, Maxwell, Goldie, Grainger	
 Bethlehem Steel	1923-1924	ASL		14	New York	a	2,4	A. Jackson, W. Jackson	
@@ -599,7 +599,7 @@ New York Field Club	1923-1924	ASL		16	J&P Coats	h	3,3	Duggan 2, McGhee
 New York Field Club	1923-1924	ASL		30	Brooklyn	a	1,1	Stark	
 New York Field Club	1923-1924	ASL	4	6	Brooklyn	h	3,1	Terris, Stark 2	
 New York Field Club	1923-1924	ASL		13	Newark	h	1,0	Duggan	
-New York Field Club	1923-1924	ASL		20	Bethlehem	a	1,0	Stark	
+New York Field Club	1923-1924	ASL		26	Bethlehem	a	1,0	Stark	
 New York Field Club	1923-1924	ASL	5	4	Fall River Marksmen	a	1,3	Stark	
 New York Field Club	1923-1924	ASL		17	J&P Coats	a	1,3	Stark	
 New York Field Club	1923-1924	ASL		18	Fall River Marksmen	h	0,0		
@@ -1092,7 +1092,7 @@ New York Giants (1923-1930)	1924-1925	ASL	5	9	Philadelphia	a	4,1
 New York Giants (1923-1930)	1924-1925	ASL		10	Boston	h	4,2		
 New York Giants (1923-1930)	1924-1925	ASL		17	J&P Coats	h	3,2		
 New York Giants (1923-1930)	1924-1925	ASL		23	Boston	a	3,0		
-New York Giants (1923-1930)	1924-1925	ASL		30	Newark	h	1,2		
+New York Giants (1923-1930)	1924-1925	ASL		31	Newark	h	1,2		
 New York Giants (1923-1930)	1924-1925	ASL		31	New Bedford	a	2,2		
 
 Philadelphia Field Club	1924-1925	ASL	9	13	Bethlehem	a	1,7		
@@ -2178,7 +2178,7 @@ Springfield Babes	1926-1927	ASL		18	Brooklyn	h	1,2
 Springfield Babes	1926-1927	ASL		25	Boston	a	1,6		
 Bethlehem Steel	1927-1928 First Half	ASL	9	10	New Bedford	h	2,1		
 Bethlehem Steel	1927-1928 First Half	ASL		11	Brooklyn	a	0,5		
-Bethlehem Steel	1927-1928 First Half	ASL		12	J&P Coats	h	4,0		
+Bethlehem Steel	1927-1928 First Half	ASL		17	J&P Coats	h	4,0		
 Bethlehem Steel	1927-1928 First Half	ASL		24	New Bedford	a	1,1		
 Bethlehem Steel	1927-1928 First Half	ASL		25	Providence	a	4,3		
 Bethlehem Steel	1927-1928 First Half	ASL	10	1	Newark	h	1,1		
@@ -2433,7 +2433,7 @@ J&P Coats	1927-1928 First Half	ASL	10	1	Providence	h	3,1
 J&P Coats	1927-1928 First Half	ASL		2	Hartford	a	1,3		
 J&P Coats	1927-1928 First Half	ASL		8	Philadelphia	a	1,2		
 J&P Coats	1927-1928 First Half	ASL		12	Boston	a	0,2		
-J&P Coats	1927-1928 First Half	ASL		13	Bethlehem	h	1,3		
+J&P Coats	1927-1928 First Half	ASL		15	Bethlehem	h	1,3		
 J&P Coats	1927-1928 First Half	ASL		22	Hartford	h	0,0		
 J&P Coats	1927-1928 First Half	ASL		23	Fall River Marksmen	a	0,2		
 J&P Coats	1927-1928 First Half	ASL		29	Brooklyn	a	0,4		
@@ -2555,7 +2555,7 @@ New Bedford Whalers	1927-1928 First Half	ASL		11	Newark	a	3,4
 New Bedford Whalers	1927-1928 First Half	ASL		17	Fall River Marksmen	h	0,1		
 New Bedford Whalers	1927-1928 First Half	ASL		24	J&P Coats	a	1,1		
 New Bedford Whalers	1927-1928 First Half	ASL		26	J&P Coats	h	4,2		
-New Bedford Whalers	1927-1928 First Half	ASL		29	Newark	h	1,0		
+New Bedford Whalers	1927-1928 First Half	ASL		31	Newark	h	1,0		
 New Bedford Whalers	1927-1928 First Half	ASL	1	7	NY Giants	a	2,3		
 New Bedford Whalers	1927-1928 Playoffs	ASL	2	22	Bethlehem		2,0		
 New Bedford Whalers	1927-1928 Second Half	ASL	2	5	Fall River Marksmen	a	2,1		
@@ -3785,7 +3785,7 @@ Fall River Marksmen	1930	US Open Cup	3	22	Newark		6,1
 Fall River Marksmen	1930	US Open Cup	4	5	Bricklayers	h	6,2		
 Fall River Marksmen	1930	US Open Cup		12	Bricklayers	a	1,1		
 Fall River Marksmen	1930	US Open Cup		19	Bricklayers	a	2,0		
-Hakoah All-Stars	1930 Fall	ASL	9	8	Pawtucket	h	0,2		
+Hakoah All-Stars	1930 Fall	ASL	9	7	Pawtucket	h	0,2		
 Hakoah All-Stars	1930 Fall	ASL		13	Pawtucket	a	1,0		
 Hakoah All-Stars	1930 Fall	ASL		14	New York SC	a	1,0		
 Hakoah All-Stars	1930 Fall	ASL		21	NY Giants	h	1,1		
