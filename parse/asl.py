@@ -148,8 +148,8 @@ def load_stat(line):
         start, end = season.split("-")
         season = "19%s-19%s" % (start, end)
 
-    if season == '1929-1930':
-        season = '1930 Spring'
+    #if season == '1929-1930':
+    #    season = '1930 Spring'
 
 
     team_name = get_full_name_stats(team, season)

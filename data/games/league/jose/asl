@@ -100,7 +100,7 @@ J&P Coats	1921-1922	ASL		7	Philadelphia	a	1,3	Lappin
 J&P Coats	1921-1922	ASL		8	Todd	a	1,0	Shepard	
 J&P Coats	1921-1922	ASL		28	Fall River United	a	2,1	Millar, Weall	
 J&P Coats	1921-1922	ASL	2	28	Harrison	a	1,2	Mitchell	
-J&P Coats	1921-1922	ASL		12	Holyoke	h	1,1	Millar	
+J&P Coats	1921-1922	ASL	3	12	Holyoke	h	1,1	Millar	
 J&P Coats	1921-1922	ASL		18	Fall River United	a	2,1	Mitchell, Millar	
 J&P Coats	1921-1922	ASL		26	New York	a	2,3	Lappin, Kershaw	
 J&P Coats	1921-1922	ASL	4	15	Holyoke	a	2,0	Mitchell, Millar	
@@ -612,36 +612,36 @@ New York Field Club	1924	US Open Cup		25	Bethlehem	a	2,2	Duggan, Stark
 New York Field Club	1924	US Open Cup		30	New York	h	3,4	Herd, Duggan, McNiven	
 New York Field Club	1924	AFA Cup	2	3	Brooklyn	h	2,0	Duggan, Stark	
 New York Field Club	1924	AFA Cup	4	20	Bethlehem		0,1		
-New York National Giants	1923-1924	ASL	10	6	J&P Coats	a	2,2	Heaps 2	
-New York National Giants	1923-1924	ASL		7	Fall River Marksmen	a	1,2	McNiven	
-New York National Giants	1923-1924	ASL		13	Philadelphia	a	3,2	Heaps 2, Sweeney	
-New York National Giants	1923-1924	ASL		21	Bethlehem	h	2,2	McAusian, McNiven	
-New York National Giants	1923-1924	ASL		28	New York	h	0,2		
-New York National Giants	1923-1924	ASL	11	3	Bethlehem	a	1,5	Sweeney	
-New York National Giants	1923-1924	ASL		4	Newark	a	0,1		
-New York National Giants	1923-1924	ASL		18	New York	a	1,4	o.g.	
-New York National Giants	1923-1924	ASL		25	Philadelphia	h	2,2	Pepper, Hunziger	
-New York National Giants	1923-1924	ASL	12	16	J&P Coats	h	3,1	Gallagher, Pepper 2	
-New York National Giants	1923-1924	ASL		23	Brooklyn	a	2,2	Cameron, Forrest	
-New York National Giants	1923-1924	ASL		29	J&P Coats	a	0,3		
-New York National Giants	1923-1924	ASL		30	Fall River Marksmen	a	2,4	Sweeney, McKenna	
-New York National Giants	1923-1924	ASL	1	6	New York	a	0,5		
-New York National Giants	1923-1924	ASL		13	Fall River Marksmen	a	0,4		
-New York National Giants	1923-1924	ASL		19	Bethlehem	a	1,3		
-New York National Giants	1923-1924	ASL	2	9	Philadelphia	h	3,2	Fryer 2, Cavanaugh	
-New York National Giants	1923-1924	ASL	3	16	Brooklyn	a	0,1		
-New York National Giants	1923-1924	ASL		30	Bethlehem	h	1,1	Moorhouse	
-New York National Giants	1923-1924	ASL	4	6	Philadelphia	h	2,1	Bremner, Crilley	
-New York National Giants	1923-1924	ASL		13	Brooklyn	h	4,2	Sweeney 2, Bremner, Miller	
-New York National Giants	1923-1924	ASL	5	4	Newark	a	1,0	Bremner	
-New York National Giants	1923-1924	ASL		18	Brooklyn	h	0,2		
-New York National Giants	1923-1924	ASL		25	New York	a	2,4	Moorhouse 2	
-New York National Giants	1923-1924	ASL	6	1	Newark	h	2,2	Bremner, Miller	
-New York National Giants	1923-1924	ASL		8	J&P Coats	h	1,5	Miller	
-New York National Giants	1924	US Open Cup	11	11	Nassau	a	4,1	Paton 2, Sweeney 2	
-New York National Giants	1924	US Open Cup	12	2	Ansonia	a	1,0	Sweeney	
-New York National Giants	1924	US Open Cup	12	25	Newark	h	2,5	McAusian, Forrest	
-New York National Giants	1924	AFA Cup	12	9	New York		2,3	Sweeney, Robb	
+New York Giants (1923-1930)	1923-1924	ASL	10	6	J&P Coats	a	2,2	Heaps 2	
+New York Giants (1923-1930)	1923-1924	ASL		7	Fall River Marksmen	a	1,2	McNiven	
+New York Giants (1923-1930)	1923-1924	ASL		13	Philadelphia	a	3,2	Heaps 2, Sweeney	
+New York Giants (1923-1930)	1923-1924	ASL		21	Bethlehem	h	2,2	McAusian, McNiven	
+New York Giants (1923-1930)	1923-1924	ASL		28	New York	h	0,2		
+New York Giants (1923-1930)	1923-1924	ASL	11	3	Bethlehem	a	1,5	Sweeney	
+New York Giants (1923-1930)	1923-1924	ASL		4	Newark	a	0,1		
+New York Giants (1923-1930)	1923-1924	ASL		18	New York	a	1,4	o.g.	
+New York Giants (1923-1930)	1923-1924	ASL		25	Philadelphia	h	2,2	Pepper, Hunziger	
+New York Giants (1923-1930)	1923-1924	ASL	12	16	J&P Coats	h	3,1	Gallagher, Pepper 2	
+New York Giants (1923-1930)	1923-1924	ASL		23	Brooklyn	a	2,2	Cameron, Forrest	
+New York Giants (1923-1930)	1923-1924	ASL		29	J&P Coats	a	0,3		
+New York Giants (1923-1930)	1923-1924	ASL		30	Fall River Marksmen	a	2,4	Sweeney, McKenna	
+New York Giants (1923-1930)	1923-1924	ASL	1	6	New York	a	0,5		
+New York Giants (1923-1930)	1923-1924	ASL		13	Fall River Marksmen	a	0,4		
+New York Giants (1923-1930)	1923-1924	ASL		19	Bethlehem	a	1,3		
+New York Giants (1923-1930)	1923-1924	ASL	2	9	Philadelphia	h	3,2	Fryer 2, Cavanaugh	
+New York Giants (1923-1930)	1923-1924	ASL	3	16	Brooklyn	a	0,1		
+New York Giants (1923-1930)	1923-1924	ASL		30	Bethlehem	h	1,1	Moorhouse	
+New York Giants (1923-1930)	1923-1924	ASL	4	6	Philadelphia	h	2,1	Bremner, Crilley	
+New York Giants (1923-1930)	1923-1924	ASL		13	Brooklyn	h	4,2	Sweeney 2, Bremner, Miller	
+New York Giants (1923-1930)	1923-1924	ASL	5	4	Newark	a	1,0	Bremner	
+New York Giants (1923-1930)	1923-1924	ASL		18	Brooklyn	h	0,2		
+New York Giants (1923-1930)	1923-1924	ASL		25	New York	a	2,4	Moorhouse 2	
+New York Giants (1923-1930)	1923-1924	ASL	6	1	Newark	h	2,2	Bremner, Miller	
+New York Giants (1923-1930)	1923-1924	ASL		8	J&P Coats	h	1,5	Miller	
+New York Giants (1923-1930)	1924	US Open Cup	11	11	Nassau	a	4,1	Paton 2, Sweeney 2	
+New York Giants (1923-1930)	1924	US Open Cup	12	2	Ansonia	a	1,0	Sweeney	
+New York Giants (1923-1930)	1924	US Open Cup	12	25	Newark	h	2,5	McAusian, Forrest	
+New York Giants (1923-1930)	1924	AFA Cup	12	9	New York		2,3	Sweeney, Robb	
 Philadelphia Field Club	1923-1924	ASL	10	13	NY Giants	h	2,3	Dallas, Curran	
 Philadelphia Field Club	1923-1924	ASL		20	J&P Coats	a	1,7	Bolton	
 Philadelphia Field Club	1923-1924	ASL		21	Fall River Marksmen	a	0,2		
@@ -1051,49 +1051,49 @@ New Bedford Whalers	1924-1925	ASL		10	Indiana	a	3,1
 New Bedford Whalers	1924-1925	ASL		16	Boston	a	0,1		
 New Bedford Whalers	1924-1925	ASL		23	Philadelphia	h	7,0		
 New Bedford Whalers	1924-1925	ASL		31	NY Giants	h	2,2		
-New York National Giants	1924-1925	ASL	9	14	Brooklyn	a	1,2		
-New York National Giants	1924-1925	ASL		21	Indiana		3,4		
-New York National Giants	1924-1925	ASL	10	5	Philadelphia	h	6,2		
-New York National Giants	1924-1925	ASL		11	J&P Coats	a	1,3		
-New York National Giants	1924-1925	ASL		12	Fall River Marksmen	a	1,3		
-New York National Giants	1924-1925	ASL		18	New Bedford	a	0,2		
-New York National Giants	1924-1925	ASL		19	Boston	a	0,1		
-New York National Giants	1924-1925	ASL		26	Newark	a	2,0		
-New York National Giants	1924-1925	ASL	11	2	Fleischer	h	2,4		
-New York National Giants	1924-1925	ASL		4	Indiana		0,1		
-New York National Giants	1924-1925	ASL		9	Providence	h	1,3		
-New York National Giants	1924-1925	ASL		16	J&P Coats	h	4,3		
-New York National Giants	1924-1925	ASL		23	Indiana		2,1		
-New York National Giants	1924-1925	ASL		27	Brooklyn	h	2,1		
-New York National Giants	1924-1925	ASL		30	New Bedford	h	0,0		
-New York National Giants	1924-1925	ASL	12	6	Bethlehem	a	2,1		
-New York National Giants	1924-1925	ASL		14	Brooklyn	a	0,3		
-New York National Giants	1924-1925	ASL		20	Fleischer	a	0,0		
-New York National Giants	1924-1925	ASL		21	Bethlehem	h	3,2		
-New York National Giants	1924-1925	ASL		25	Newark	a	2,4		
-New York National Giants	1924-1925	ASL		28	Philadelphia	h	1,3		
-New York National Giants	1924-1925	ASL	1	1	Fall River Marksmen	h	2,5		
-New York National Giants	1924-1925	ASL		18	Fall River Marksmen	a	0,1		
-New York National Giants	1924-1925	ASL	2	21	Boston	a	1,3		
-New York National Giants	1924-1925	ASL		22	Providence	a	2,2		
-New York National Giants	1924-1925	ASL		26	Indiana		2,1		
-New York National Giants	1924-1925	ASL		28	Fleischer	a	3,2		
-New York National Giants	1924-1925	ASL	3	7	Philadelphia	a	4,0		
-New York National Giants	1924-1925	ASL		8	Providence	h	3,4		
-New York National Giants	1924-1925	ASL		15	Providence	a	2,4		
-New York National Giants	1924-1925	ASL		22	Brooklyn	h	0,2		
-New York National Giants	1924-1925	ASL		29	Fleischer	h	4,0		
-New York National Giants	1924-1925	ASL	4	4	Bethlehem	a	0,5		
-New York National Giants	1924-1925	ASL		5	Fall River Marksmen	h	1,1		
-New York National Giants	1924-1925	ASL		11	J&P Coats	a	3,1		
-New York National Giants	1924-1925	ASL		19	Newark	h	0,1		
-New York National Giants	1924-1925	ASL		26	Bethlehem	h	1,1		
-New York National Giants	1924-1925	ASL	5	9	Philadelphia	a	4,1		
-New York National Giants	1924-1925	ASL		10	Boston	h	4,2		
-New York National Giants	1924-1925	ASL		17	J&P Coats	h	3,2		
-New York National Giants	1924-1925	ASL		23	Boston	a	3,0		
-New York National Giants	1924-1925	ASL		30	Newark	h	1,2		
-New York National Giants	1924-1925	ASL		31	New Bedford	a	2,2		
+New York Giants (1923-1930)	1924-1925	ASL	9	14	Brooklyn	a	1,2		
+New York Giants (1923-1930)	1924-1925	ASL		21	Indiana		3,4		
+New York Giants (1923-1930)	1924-1925	ASL	10	5	Philadelphia	h	6,2		
+New York Giants (1923-1930)	1924-1925	ASL		11	J&P Coats	a	1,3		
+New York Giants (1923-1930)	1924-1925	ASL		12	Fall River Marksmen	a	1,3		
+New York Giants (1923-1930)	1924-1925	ASL		18	New Bedford	a	0,2		
+New York Giants (1923-1930)	1924-1925	ASL		19	Boston	a	0,1		
+New York Giants (1923-1930)	1924-1925	ASL		26	Newark	a	2,0		
+New York Giants (1923-1930)	1924-1925	ASL	11	2	Fleischer	h	2,4		
+New York Giants (1923-1930)	1924-1925	ASL		4	Indiana		0,1		
+New York Giants (1923-1930)	1924-1925	ASL		9	Providence	h	1,3		
+New York Giants (1923-1930)	1924-1925	ASL		16	J&P Coats	h	4,3		
+New York Giants (1923-1930)	1924-1925	ASL		23	Indiana		2,1		
+New York Giants (1923-1930)	1924-1925	ASL		27	Brooklyn	h	2,1		
+New York Giants (1923-1930)	1924-1925	ASL		30	New Bedford	h	0,0		
+New York Giants (1923-1930)	1924-1925	ASL	12	6	Bethlehem	a	2,1		
+New York Giants (1923-1930)	1924-1925	ASL		14	Brooklyn	a	0,3		
+New York Giants (1923-1930)	1924-1925	ASL		20	Fleischer	a	0,0		
+New York Giants (1923-1930)	1924-1925	ASL		21	Bethlehem	h	3,2		
+New York Giants (1923-1930)	1924-1925	ASL		25	Newark	a	2,4		
+New York Giants (1923-1930)	1924-1925	ASL		28	Philadelphia	h	1,3		
+New York Giants (1923-1930)	1924-1925	ASL	1	1	Fall River Marksmen	h	2,5		
+New York Giants (1923-1930)	1924-1925	ASL		18	Fall River Marksmen	a	0,1		
+New York Giants (1923-1930)	1924-1925	ASL	2	21	Boston	a	1,3		
+New York Giants (1923-1930)	1924-1925	ASL		22	Providence	a	2,2		
+New York Giants (1923-1930)	1924-1925	ASL		26	Indiana		2,1		
+New York Giants (1923-1930)	1924-1925	ASL		28	Fleischer	a	3,2		
+New York Giants (1923-1930)	1924-1925	ASL	3	7	Philadelphia	a	4,0		
+New York Giants (1923-1930)	1924-1925	ASL		8	Providence	h	3,4		
+New York Giants (1923-1930)	1924-1925	ASL		15	Providence	a	2,4		
+New York Giants (1923-1930)	1924-1925	ASL		22	Brooklyn	h	0,2		
+New York Giants (1923-1930)	1924-1925	ASL		29	Fleischer	h	4,0		
+New York Giants (1923-1930)	1924-1925	ASL	4	4	Bethlehem	a	0,5		
+New York Giants (1923-1930)	1924-1925	ASL		5	Fall River Marksmen	h	1,1		
+New York Giants (1923-1930)	1924-1925	ASL		11	J&P Coats	a	3,1		
+New York Giants (1923-1930)	1924-1925	ASL		19	Newark	h	0,1		
+New York Giants (1923-1930)	1924-1925	ASL		26	Bethlehem	h	1,1		
+New York Giants (1923-1930)	1924-1925	ASL	5	9	Philadelphia	a	4,1		
+New York Giants (1923-1930)	1924-1925	ASL		10	Boston	h	4,2		
+New York Giants (1923-1930)	1924-1925	ASL		17	J&P Coats	h	3,2		
+New York Giants (1923-1930)	1924-1925	ASL		23	Boston	a	3,0		
+New York Giants (1923-1930)	1924-1925	ASL		30	Newark	h	1,2		
+New York Giants (1923-1930)	1924-1925	ASL		31	New Bedford	a	2,2		
 
 Philadelphia Field Club	1924-1925	ASL	9	13	Bethlehem	a	1,7		
 Philadelphia Field Club	1924-1925	ASL		20	Fleischer		1,2		
@@ -3056,44 +3056,44 @@ New Bedford Whalers	1928-1929 Second Half	ASL		9	Brooklyn	h	1,1
 New Bedford Whalers	1928-1929 Second Half	ASL		10	Providence	a	2,3		
 New Bedford Whalers	1928-1929 Second Half	ASL		17	Boston	h	4,0		
 
-New York Giants	1928-1929 First Half	ASL	9	2	NY Nationals	a	1,5		
-New York Giants	1928-1929 First Half	ASL		3	Brooklyn	h	1,2		
-New York Giants	1928-1929 First Half	ASL		8	Fall River Marksmen	h	1,1		
-New York Giants	1928-1929 First Half	ASL		9	Boston	h	4,3		
-New York Giants	1928-1929 First Half	ASL		15	Boston	a	1,2		
-New York Giants	1928-1929 First Half	ASL		16	Providence	a	2,2		
-New York Giants	1928-1929 First Half	ASL		22	Providence	h	1,0		
-New York Giants	1928-1929 First Half	ASL		23	J&P Coats	h	4,2		
-New York National Giants	1928-1929 First Half	ASL	9	1	Newark	a	8,1		
-New York National Giants	1928-1929 First Half	ASL		2	NY Giants	h	5,1		
-New York National Giants	1928-1929 First Half	ASL		8	New Bedford	a	2,1		
-New York National Giants	1928-1929 First Half	ASL		9	Providence	h	4,2		
-New York National Giants	1928-1929 First Half	ASL		16	Boston	h	2,1		
-New York National Giants	1928-1929 First Half	ASL		22	Boston	a	1,0		
-New York National Giants	1928-1929 First Half	ASL		23	Fall River Marksmen	a	2,6		
-New York National Giants	1928-1929 First Half	ASL		29	J&P Coats	a	4,0		
-New York National Giants	1928-1929 First Half	ASL		30	Brooklyn	a	2,1		
-New York National Giants	1928-1929 First Half	ASL	10	6	Fall River Marksmen	h	1,1		
-New York National Giants	1928-1929 First Half	ASL		7	New Bedford	h	1,1		
-New York National Giants	1928-1929 First Half	ASL		21	Boston	h	1,1		
-New York National Giants	1928-1929 First Half	ASL		27	Philadelphia	a	1,3		
-New York National Giants	1928-1929 First Half	ASL		28	J&P Coats	h	2,1		
-New York National Giants	1928-1929 First Half	ASL	11	3	J&P Coats	a	0,0		
-New York National Giants	1928-1929 First Half	ASL		4	Brooklyn	a	2,4		
-New York National Giants	1928-1929 First Half	ASL		6	Brooklyn	h	3,4		
-New York National Giants	1928-1929 First Half	ASL		10	New Bedford	a	1,3		
-New York National Giants	1928-1929 First Half	ASL		11	Fall River Marksmen	a	2,5		
-New York National Giants	1928-1929 First Half	ASL		18	Philadelphia	h	1,1		
-New York National Giants	1928-1929 First Half	ASL		24	Boston	a	1,1		
-New York National Giants	1928-1929 First Half	ASL		25	New Bedford	h	2,1		
-New York National Giants	1928-1929 First Half	ASL		29	Providence	h	1,2		
-New York National Giants	1928-1929 First Half	ASL	12	2	J&P Coats	h	5,1		
-New York National Giants	1928-1929 First Half	ASL		9	Philadelphia	h	2,2		
-New York National Giants	1928-1929 First Half	ASL		15	Providence	a	2,2		
-New York National Giants	1928-1929 First Half	ASL		16	Brooklyn	h	3,4		
-New York National Giants	1928-1929 First Half	ASL		25	Fall River Marksmen	h	4,0		
-New York National Giants	1928-1929 First Half	ASL		30	Providence	h	5,3		
-New York National Giants	1928-1929 Second Half	ASL	1	5	Boston	a	1,2		
+New York Giants (1923-1930)	1928-1929 First Half	ASL	9	2	NY Nationals	a	1,5		
+New York Giants (1923-1930)	1928-1929 First Half	ASL		3	Brooklyn	h	1,2		
+New York Giants (1923-1930)	1928-1929 First Half	ASL		8	Fall River Marksmen	h	1,1		
+New York Giants (1923-1930)	1928-1929 First Half	ASL		9	Boston	h	4,3		
+New York Giants (1923-1930)	1928-1929 First Half	ASL		15	Boston	a	1,2		
+New York Giants (1923-1930)	1928-1929 First Half	ASL		16	Providence	a	2,2		
+New York Giants (1923-1930)	1928-1929 First Half	ASL		22	Providence	h	1,0		
+New York Giants (1923-1930)	1928-1929 First Half	ASL		23	J&P Coats	h	4,2		
+New York Nationals	1928-1929 First Half	ASL	9	1	Newark	a	8,1		
+New York Nationals	1928-1929 First Half	ASL		2	NY Giants	h	5,1		
+New York Nationals	1928-1929 First Half	ASL		8	New Bedford	a	2,1		
+New York Nationals	1928-1929 First Half	ASL		9	Providence	h	4,2		
+New York Nationals	1928-1929 First Half	ASL		16	Boston	h	2,1		
+New York Nationals	1928-1929 First Half	ASL		22	Boston	a	1,0		
+New York Nationals	1928-1929 First Half	ASL		23	Fall River Marksmen	a	2,6		
+New York Nationals	1928-1929 First Half	ASL		29	J&P Coats	a	4,0		
+New York Nationals	1928-1929 First Half	ASL		30	Brooklyn	a	2,1		
+New York Nationals	1928-1929 First Half	ASL	10	6	Fall River Marksmen	h	1,1		
+New York Nationals	1928-1929 First Half	ASL		7	New Bedford	h	1,1		
+New York Nationals	1928-1929 First Half	ASL		21	Boston	h	1,1		
+New York Nationals	1928-1929 First Half	ASL		27	Philadelphia	a	1,3		
+New York Nationals	1928-1929 First Half	ASL		28	J&P Coats	h	2,1		
+New York Nationals	1928-1929 First Half	ASL	11	3	J&P Coats	a	0,0		
+New York Nationals	1928-1929 First Half	ASL		4	Brooklyn	a	2,4		
+New York Nationals	1928-1929 First Half	ASL		6	Brooklyn	h	3,4		
+New York Nationals	1928-1929 First Half	ASL		10	New Bedford	a	1,3		
+New York Nationals	1928-1929 First Half	ASL		11	Fall River Marksmen	a	2,5		
+New York Nationals	1928-1929 First Half	ASL		18	Philadelphia	h	1,1		
+New York Nationals	1928-1929 First Half	ASL		24	Boston	a	1,1		
+New York Nationals	1928-1929 First Half	ASL		25	New Bedford	h	2,1		
+New York Nationals	1928-1929 First Half	ASL		29	Providence	h	1,2		
+New York Nationals	1928-1929 First Half	ASL	12	2	J&P Coats	h	5,1		
+New York Nationals	1928-1929 First Half	ASL		9	Philadelphia	h	2,2		
+New York Nationals	1928-1929 First Half	ASL		15	Providence	a	2,2		
+New York Nationals	1928-1929 First Half	ASL		16	Brooklyn	h	3,4		
+New York Nationals	1928-1929 First Half	ASL		25	Fall River Marksmen	h	4,0		
+New York Nationals	1928-1929 First Half	ASL		30	Providence	h	5,3		
+New York Nationals	1928-1929 Second Half	ASL	1	5	Boston	a	1,2		
 New York Nationals	1928-1929 Second Half	ASL		13	New Bedford	h	4,2		
 New York Nationals	1928-1929 Second Half	ASL	2	9	Philadelphia	a	3,3		
 New York Nationals	1928-1929 Second Half	ASL		10	Boston	h	3,2		
@@ -3217,27 +3217,27 @@ Providence Gold Bugs	1929	AFA Cup	5	4	Boston	a	1,2
 Providence Gold Bugs	1929	AFA Cup	?	?	Boston	h			
 Providence Gold Bugs	1929	AFA Cup		20	NY Nationals	h	2,2		
 Providence Gold Bugs	1929	AFA Cup			NY Nationals	a	4,2		
-Boston Bears	1929 Fall	ASL	8	10	New Bedford	h	3,2		
-Boston Bears	1929 Fall	ASL		11	Fall River Marksmen	a	0,2		
-Boston Bears	1929 Fall	ASL		17	Fall River Marksmen	h	1,3		
-Boston Bears	1929 Fall	ASL		24	NY Nationals	h	3,0		
-Boston Bears	1929 Fall	ASL		25	Providence	a	1,2		
-Boston Bears	1929 Fall	ASL		31	Providence	h	3,0		
-Boston Bears	1929 Fall	ASL	9	1	Brooklyn	a	2,0		
-Boston Bears	1929 Fall	ASL		7	Brooklyn	h	4,0		
-Boston Bears	1929 Fall	ASL		8	NY Nationals	a	4,2		
-Boston Bears	1929 Fall	ASL		14	New Bedford	h	1,0		
-Boston Bears	1929 Fall	ASL		15	Providence	a	0,0		
-Boston Bears	1929 Fall	ASL		21	Fall River Marksmen	h	1,2		
-Boston Bears	1929 Fall	ASL		22	New Bedford	a	0,0		
-Boston Bears	1929 Fall	ASL		28	Pawtucket	h	6,1		
-Boston Bears	1929 Fall	ASL		29	Hakoah	a	2,0		
-Boston Bears	1929 Fall	ASL	10	4	Fall River Marksmen	a	0,1		
-Boston Bears	1929 Fall	ASL		5	Pawtucket	a	3,2		
-Boston Bears	1929 Fall	ASL		12	Philadelphia	a	4,1		
-Boston Bears	1929 Fall	ASL		13	NY Nationals	a	1,2		
-Boston Bears	1929 Fall	ASL		17	Providence	a	1,1		
-Boston Bears	1929 Fall	ASL		19	Brooklyn	h	4,1		
+Boston Wonder Workers	1929 Fall	ASL	8	10	New Bedford	h	3,2		
+Boston Wonder Workers	1929 Fall	ASL		11	Fall River Marksmen	a	0,2		
+Boston Wonder Workers	1929 Fall	ASL		17	Fall River Marksmen	h	1,3		
+Boston Wonder Workers	1929 Fall	ASL		24	NY Nationals	h	3,0		
+Boston Wonder Workers	1929 Fall	ASL		25	Providence	a	1,2		
+Boston Wonder Workers	1929 Fall	ASL		31	Providence	h	3,0		
+Boston Wonder Workers	1929 Fall	ASL	9	1	Brooklyn	a	2,0		
+Boston Wonder Workers	1929 Fall	ASL		7	Brooklyn	h	4,0		
+Boston Wonder Workers	1929 Fall	ASL		8	NY Nationals	a	4,2		
+Boston Wonder Workers	1929 Fall	ASL		14	New Bedford	h	1,0		
+Boston Wonder Workers	1929 Fall	ASL		15	Providence	a	0,0		
+Boston Wonder Workers	1929 Fall	ASL		21	Fall River Marksmen	h	1,2		
+Boston Wonder Workers	1929 Fall	ASL		22	New Bedford	a	0,0		
+Boston Wonder Workers	1929 Fall	ASL		28	Pawtucket	h	6,1		
+Boston Wonder Workers	1929 Fall	ASL		29	Hakoah	a	2,0		
+Boston Wonder Workers	1929 Fall	ASL	10	4	Fall River Marksmen	a	0,1		
+Boston Wonder Workers	1929 Fall	ASL		5	Pawtucket	a	3,2		
+Boston Wonder Workers	1929 Fall	ASL		12	Philadelphia	a	4,1		
+Boston Wonder Workers	1929 Fall	ASL		13	NY Nationals	a	1,2		
+Boston Wonder Workers	1929 Fall	ASL		17	Providence	a	1,1		
+Boston Wonder Workers	1929 Fall	ASL		19	Brooklyn	h	4,1		
 Bridgeport Bears	1929 Fall	ASL	8	11	Hakoah	a	1,4		
 Bridgeport Bears	1929 Fall	ASL		17	Pawtucket	a	0,2		
 Bridgeport Bears	1929 Fall	ASL		18	Fall River Marksmen	a	3,4		
@@ -3278,7 +3278,7 @@ Brooklyn Wanderers	1929 Fall	ASL	10	6	Providence	h	0,2
 Brooklyn Wanderers	1929 Fall	ASL		13	Hakoah		1,2		
 Brooklyn Wanderers	1929 Fall	ASL		19	Boston	a	1,4		
 Brooklyn Wanderers	1929 Fall	ASL		20	Fall River Marksmen	a	2,6		
-Fall River Marksmen	1929 Fall	ASL	8	10	Boston	h	2,0		
+Fall River Marksmen	1929 Fall	ASL	8	11	Boston	h	2,0		
 Fall River Marksmen	1929 Fall	ASL		17	Boston	a	3,1		
 Fall River Marksmen	1929 Fall	ASL		18	Bridgeport	h	4,3		
 Fall River Marksmen	1929 Fall	ASL		21	NY Nationals	a	3,3		
