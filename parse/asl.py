@@ -269,7 +269,10 @@ class GameProcessor(object):
         if score in ('forfeit loss', 'forfeit win', 'awarded', ''):
             return {}
 
-        team_score,  opponent_score = [int(e) for e in score.split(',')]
+        try:
+            team_score,  opponent_score = [int(e) for e in score.split(',')]
+        except:
+            import pdb; pdb.set_trace()
 
         competition = competition_map.get(competition, competition)
 

@@ -38,7 +38,7 @@ Boston Bears: Solloway; Adams, Christie; Doherty, McGonnigal, Fraser; Toner, Rum
 Source: http://query.nytimes.com/mem/archive/pdf?res=F20616FA3C54157A93CAA91788D85F458385F9
 * Boston Celtics
 
-3/8/1931; Brooklyn Wanderers; v; Fall River FC; Hawthorne Field
+3/8/1931; Brooklyn Wanderers; np; Fall River FC; Hawthorne Field
 Source: http://query.nytimes.com/mem/archive/pdf?res=FB0F14F73C5F11738DDDA00894DB405B818FF1D3
 Notes: Not played due to rain.
 
@@ -391,8 +391,9 @@ New York Americans: Saul Joselit; Prenter, Moorhouse; Sid Joselit, Jogis, Morris
 New York Giants: Edesa; Kay (Slaven), Glover; Gallagher, Lafferty, Flanagan; D. Brown, Carlson (Tollan), Patenaude, O'Brien, McGhee
 Source: http://query.nytimes.com/mem/archive/pdf?res=FA0A1FF8395E1B7A93C1AB178AD95F458385F9
 
-11/26/1931; New Bedford Whalers; 6-2; Boston Bears; New Bedford, MA
-Source: http://query.nytimes.com/mem/archive/pdf?res=F1081FF6395E1B7A93C5AB178AD95F458385F9
+*11/26/1931; New Bedford Whalers; 6-2; Boston Bears; New Bedford, MA
+*Source: http://query.nytimes.com/mem/archive/pdf?res=F1081FF6395E1B7A93C5AB178AD95F458385F9
+* described as an ASL game, not listed by Jose.
 
 11/28/1931; New York Giants; 3-0; Pawtucket Rangers; Pawtucket, RI
 Source: http://query.nytimes.com/mem/archive/pdf?res=FB0F10F63F591B728DDDA00A94D9415B818FF1D3
@@ -475,17 +476,19 @@ New Bedford Whalers: Reder; McMillan, Rebello; McPherson, Montgomerie, Watson; M
 Source: http://query.nytimes.com/mem/archive/pdf?res=F20C15FA3F54157A93CAAB1789D95F458385F9
 
 
-* playoffs
+Stage: playoffs
 
-1/1/1932; New Bedford; 8-3; New York Giants; New Bedford, MA
-Florie, Florie, Florie, Nilsen, Nilsen, Gonsalves, Gonsalves, Lafferty; Patenaude, Patenaude, Toolan
-New Bedford: Reder; McMillan, Redello; McPherson, Caldwell, Watson (Montgomery); McNab, White (McLeavy), Nilsen, Gonsalves, Florie
-New York Giants: Pentland; Slaven, Glover; Gallagher, Lafferty, Flanagan (Martyn); Toolan, O'Brien, Patenaude, Carlson, McGhee
-Source: http://timesmachine.nytimes.com/timesmachine/1932/01/02/100682220.html
+* Need to figure out how to handle this.
 
 
-1/3/1932; New Bedford; 0-6; New York Giants; Polo Grounds; 3000
-; O'Brien, O'Brien, Patenaude, Patenaude, McGhee, Gallagher
-New Bedford: Reder; McMillan, Rebello; McPherson, Caldwell, Watson (Montgomerie); McNab, White, Nilsen, Gonsalves, Florie
-New York Giants: Pentland; Slaven, Clover; Flanagan, Lafferty, Martyn; Gallagher, O'Brien, Patenaude, Carlson, McGhee (Tollan)
-Source: http://timesmachine.nytimes.com/timesmachine/1932/01/04/105764323.html
+*1/1/1932; New Bedford; 8-3; New York Giants; New Bedford, MA
+*Florie, Florie, Florie, Nilsen, Nilsen, Gonsalves, Gonsalves, Lafferty; Patenaude, Patenaude, Toolan
+*New Bedford: Reder; McMillan, Redello; McPherson, Caldwell, Watson (Montgomery); McNab, White (McLeavy), Nilsen, Gonsalves, Florie
+*New York Giants: Pentland; Slaven, Glover; Gallagher, Lafferty, Flanagan (Martyn); Toolan, O'Brien, Patenaude, Carlson, McGhee
+*Source: http://timesmachine.nytimes.com/timesmachine/1932/01/02/100682220.html
+
+*1/3/1932; New Bedford; 0-6; New York Giants; Polo Grounds; 3000
+*; O'Brien, O'Brien, Patenaude, Patenaude, McGhee, Gallagher
+*New Bedford: Reder; McMillan, Rebello; McPherson, Caldwell, Watson (Montgomerie); McNab, White, Nilsen, Gonsalves, Florie
+*New York Giants: Pentland; Slaven, Clover; Flanagan, Lafferty, Martyn; Gallagher, O'Brien, Patenaude, Carlson, McGhee (Tollan)
+*Source: http://timesmachine.nytimes.com/timesmachine/1932/01/04/105764323.html
