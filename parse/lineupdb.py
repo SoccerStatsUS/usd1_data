@@ -704,10 +704,11 @@ class LineupProcessor(object):
 
         
 
-        m = re.search("(.*?)\((.*?)(\d+'?)\s*\+?\??\)", text)
+        m = re.search("(.*?)\((.*?)(\d+)'?\s*\+?\??\)", text)
         if m:
             self.previous_row = ''
             starter, sub, minute = [e.strip() for e in m.groups()]
+            minute = int(minute)
             return [{
                     'name': starter,
                     'on': 0,
@@ -723,6 +724,7 @@ class LineupProcessor(object):
         if m:
             self.previous_row = ''
             starter, minute, sub = [e.strip() for e in m.groups()]
+            minute = int(minute)
             return [{
                     'name': starter,
                     'on': 0,
@@ -752,6 +754,8 @@ class LineupProcessor(object):
         m = re.search("(.*?)\((.*?)(\d+'?)\+?\)\s*\((.*?)(\d+)\+?\)", text)
         if m:
             starter, sub1, minute1, sub2, minute2 = [e.strip() for e in m.groups()]
+            minute1 = int(minute1)
+            minute2 = int(minute2)
             return [{
                     'name': starter,
                     'on': 0,
