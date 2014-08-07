@@ -189,8 +189,6 @@ def load_all_goals_scaryice():
         fn = "%s.csv" % key
         l.extend(get_goals(fn))
 
-    lineups = make_lineup_dict()
-    #goals = correct_goal_names(l, lineups)
     return l
 
 
@@ -203,142 +201,6 @@ def load_all_lineups_scaryice():
 
     return l
 
-
-# This needs to have a list of all lineups to work properly.
-# Key should be of the form (goal['team'], goal['date'])
-# Only takes place for goals.
-def correct_goal_names(goal_list, lineup_dict):
-    """
-    Try to map from Kirovski to Jovan Kirovski
-    based on lineups.
-    For scaryice goal data.
-    """
-
-    # Problems:
-    # (u'Colorado Rapids', datetime.datetime(1996, 9, 15, 0, 0))
-    # Actually a bunch more Rapids Sean/Chris Henderson issues.
-
-    
-    # this should be in aliases.
-    last_mapping = {
-        'Allnutt': 'Allnut',
-        'Saborío': 'Saborio',
-        'O’Brien': 'O\'Brien',
-        'O’Rourke': 'O\'Rourke',
-        'Aguiliera': 'Aguilera',
-        'Sawatsky': 'Sawatzky',
-        'Peguero': 'Peguero Jean Philippe',
-        'Peguero Jean Philippe': 'Peguero Jean Philippe',
-        'DeRosario': 'De Rosario',
-        'Ben-Dayan': 'Ben Dayan',
-        }
-
-    # Easiest way to handle this.
-    name_mapping = {
-        'Burciaga': 'Jose Burciaga',
-        'Burciaga Jr.': 'Jose Burciaga',
-        'Preki': 'Preki',
-        'Zoltan': 'Zoltan Hercegfalvi',
-        'Wondolowski': 'Chris Wondolowski', # Steve Wondolowski never scored.
-        'J.P. Garcia': 'Juan Pablo Garcia',
-        'Saborio': 'Alvaro Saborio',
-        'Pineda Chacon': 'Alex Pineda Chacon',
-        'Angel': 'Juan Pablo Angel',
-        'Diaz Arce': 'Raul Diaz Arce',
-        'Welton': 'Welton Melo',
-        'Husidic': 'Baggio Husidic',
-        'Saborío': 'Alvaro Saborio',
-        'Machon': 'Martin Machon',
-        }
-
-
-    # This should be moved into build.normalize.
-    def get_match(key, first, last):
-        """
-        Uses a game key to try to retrieve a name from the lineup dict.
-        """
-        if last in last_mapping:
-            last = last_mapping[last]
-
-        players = lineup_dict[key]
-
-        # Need to correct this in lineups, but can't figure out why it's persisting.
-        # Remove when fixed.
-        # Or alternatively could just do it when importing to main lineups?
-        players = [e.strip() for e in players]
-
-        matches = [e for e in players if e.startswith(first) and e.endswith(last)]
-
-        if len(matches) == 0:
-
-            # Interfering with other dicts below.
-            no_matches = {
-                'Gomez': 'Gómez',
-                'Gutierrez': 'Gutiérrez',
-                'Gonzalez': 'González',
-                'Suarez': 'Suárez',
-                'Landin': 'Landín',
-                'Perez': 'Pérez',
-                'Alvarez': 'Álvarez',
-                'Chavez': 'Chávez',
-                'Ruiz': 'Ruíz',
-                'W Sánchez': 'Sanchez',
-                'Elliot': 'Elliott',
-                }
-
-            if last in no_matches:
-                return get_match(key, first, no_matches[last])
-
-            if last == 'Own Goal':
-                return last
-
-
-            print("No matches for %s %s on key %s" % (first, last, key))
-            return ''
-        elif len(matches) > 1:
-            # Gonna handle this later.
-            #if set(matches) == set([u'Sean Henderson', u'Chris Henderson']):
-            #    return 'Henderson'
-
-            print("Too many matches for %s %s %s" % (first, last, matches))
-            return ''
-        else:
-            return matches[0]
-            
-    l = []
-    for goal in goal_list:
-        key = (goal['team'], goal['date'])
-        
-        try:
-            name = goal['goal']
-        except:
-            import pdb; pdb.set_trace()
-
-        if name in name_mapping:
-            real_name = name_mapping[name]
-
-        else:
-            if "," in name:
-                last, first = name.split(",")
-            elif '.' in name and not name.endswith('.'):
-                try:
-                    first, last = name.split('.')
-                except:
-                    import pdb; pdb.set_trace()
-            else:
-                first = ''
-                last = name
-
-            first = first.replace(".", '')
-
-            real_name = get_match(key, first.strip(), last.strip())
-
-        d = goal.copy()
-        if real_name:
-            d['goal'] = real_name
-        l.append(d)
-
-    return l
         
 
 
@@ -477,17 +339,14 @@ def get_goals(filename):
             # Handle different goal formats.
 
             # e.g. Kosecki (Razov) 76; Kotschau (unassisted) 87'
-            match = re.search("(?P<name>.*?)\s+(\d+\s+)?\(.*?\)\s+(?P<minute>\d+)", e)
-
-            # Handle "Preki (3)" et al.
-            # Currently handling "Preki (47+ pen) here, by lopping off \) from re.
-            # should separate.
-            if not match:
-                match = re.search("(?P<name>.*?)\s+(\d+\s+)?\((?P<minute>\d+)", e)
+            match = re.search("(?P<name>.*?)\s+(?P<assists>\d+\s+)?\(.*?\)\s+(?P<minute>\d+)", e)
 
             # Handle "Okafor 16" et al.
             if not match:
                 match = re.search("(?P<name>.*?)\s+(\d+\s+)?(?P<minute>\d+)", e)
+
+            if not match:
+                import pdb; pdb.set_trace()
 
 
             # Need to work on own goal processing...
@@ -506,6 +365,12 @@ def get_goals(filename):
                     return {}
 
             player = match.groups()[0]
+            assisters = match.groups()[1]
+            if assisters:
+                assists = [e.strip() for e in assisters.split(',')]
+            else:
+                assists = []
+
             minute = int(match.groups()[2])
 
             player = player.strip()
@@ -522,11 +387,10 @@ def get_goals(filename):
                 'competition': competition,
                 'team': team_map.get(team_name, team_name),
                 'date': date,
-                #'season': unicode(date.year),
                 'season': str(date.year),
                 'goal': player.strip(),
                 'minute': minute,
-                'assists': []
+                'assists': assists,
                 }
 
 
@@ -679,7 +543,9 @@ class LineupProcessor(object):
 
     def consume_row(self, row):
         # This is an item that has been split by a comma.
-        # Fix the data!
+        # This should definitely use the donelli logic.
+        # Not going to worry about this for right now.
+
         open_parens = row.count("(")
         closed_parens = row.count(")")
 
@@ -693,11 +559,9 @@ class LineupProcessor(object):
         if open_parens == 1 and closed_parens == 0:
             self.previous_row = row
             text = ''
-
             
         elif open_parens == 0 and closed_parens == 1:
             text = self.previous_row + row
-
 
         else:
             text = row
