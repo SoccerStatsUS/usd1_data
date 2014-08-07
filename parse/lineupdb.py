@@ -46,6 +46,8 @@ import sys
 
 from usd1.settings import ROOT_DIR
 
+from donelli.parse.games import process_goal, process_appearance
+
 # Convert string-frmatted date to datetime.
 get_date = lambda s: datetime.datetime.strptime (s, "%Y-%m-%d")
 
@@ -326,7 +328,7 @@ def get_goals(filename):
         match_type, date_string, location, opponent, score, result, _, goals, lineups = items
         date = get_date(date_string)
 
-        def process_goal(e):
+        def process_goal_x(e):
             e = e.strip()
 
             if not e:
@@ -336,8 +338,9 @@ def get_goals(filename):
             if competition != 'Major League Soccer':
                 return {}
 
-            # Handle different goal formats.
+            d = process_goal(e)
 
+            """
             # e.g. Kosecki (Razov) 76; Kotschau (unassisted) 87'
             match = re.search("(?P<name>.*?)\s+(?P<assists>\d+\s+)?\(.*?\)\s+(?P<minute>\d+)", e)
 
@@ -364,6 +367,8 @@ def get_goals(filename):
                     import pdb; pdb.set_trace()
                     return {}
 
+
+
             player = match.groups()[0]
             assisters = match.groups()[1]
             if assisters:
@@ -372,6 +377,8 @@ def get_goals(filename):
                 assists = []
 
             minute = int(match.groups()[2])
+
+
 
             player = player.strip()
             if player in [
@@ -382,6 +389,18 @@ def get_goals(filename):
                 'own goal',
                 ]:
                 player = 'Own Goal'
+
+            """
+
+            d.update({
+                'competition': competition,
+                'team': team_map.get(team_name, team_name),
+                'date': date,
+                'season': str(date.year),
+                })
+
+            return d
+
 
             return {
                 'competition': competition,
@@ -394,7 +413,8 @@ def get_goals(filename):
                 }
 
 
-        l = [process_goal(e) for e in goals.split(';')]
+        l = [process_goal_x(e) for e in goals.split(';')]
+
         return [e for e in l if e]
 
     p = os.path.join(LINEUPS_DIR, filename)
@@ -440,27 +460,16 @@ def get_lineups(filename):
         for src, dst in replacements:
             s = s.replace(src, dst)
 
-            
-        # Replace (John Wilson 80, Joe Vide 85) 
-        # with easier to parse (John Wilson 80)(Joe Vide 85)
-        paren_level = 0
-        s2 = ''
-        for char in s:
-            if char == '(':
-                paren_level += 1
-            if char == ')':
-                paren_level -= 1
-
-            if paren_level > 0 and char == ',':
-                s2 += ')('
-            else:
-                s2 += char
-
-        return s2
+        return s
 
             
     def process_line(line):
         pline = preprocess_line(line)
+
+        if line.strip() != pline:
+            import pdb; pdb.set_trace()
+
+
         if not pline:
             return []
 
@@ -566,8 +575,10 @@ class LineupProcessor(object):
         else:
             text = row
 
-        
+        return process_appearance(text)
 
+        
+        """
         m = re.search("(.*?)\((.*?)(\d+)'?\s*\+?\??\)", text)
         if m:
             self.previous_row = ''
@@ -650,6 +661,7 @@ class LineupProcessor(object):
                     'on': None,
                     'off': 90,
                     }]
+        """
 
         
         import pdb; pdb.set_trace()
