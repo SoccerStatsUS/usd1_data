@@ -46,7 +46,7 @@ import sys
 
 from usd1.settings import ROOT_DIR
 
-from donelli.parse.games import process_goal, process_appearance
+from donelli.parse.games import process_goal, process_appearance, split_outside_parens
 
 # Convert string-frmatted date to datetime.
 get_date = lambda s: datetime.datetime.strptime (s, "%Y-%m-%d")
@@ -496,6 +496,8 @@ def get_lineups(filename):
 
         def process_lineups(l):
             competition = get_competition(match_type)
+            #if date == datetime.datetime(1996, 8, 1):
+            #    import pdb; pdb.set_trace()
             return LineupProcessor(team_name, date, competition, goals_for, goals_against).consume_rows(l)
                 
         items = pline.strip().split("\t")
@@ -513,9 +515,9 @@ def get_lineups(filename):
 
         plineups = preprocess_lineups(lineups)
         # Produce starter/sub groups
-        groups = [e for e in plineups.strip().split(",") if e]
-
         goals_for, goals_against = [int(e) for e in score.split('-')]
+
+        groups = [e for e in split_outside_parens(plineups, ',;') if e]
 
         return process_lineups(groups)
         
@@ -554,6 +556,7 @@ class LineupProcessor(object):
         # This is an item that has been split by a comma.
         # This should definitely use the donelli logic.
         # Not going to worry about this for right now.
+
 
         open_parens = row.count("(")
         closed_parens = row.count(")")
@@ -674,11 +677,13 @@ class LineupProcessor(object):
 
             
     def consume_rows(self, rows):
+        
+
         l = []
         for i, row in enumerate(rows, start=1):
             lineups = self.consume_row(row)
             for lineup in lineups:
-                lineup['name'] = lineup['name'].strip().replace(")(", "")
+                lineup['name'] = lineup['name'].strip()
                 lineup.update({
                     'team': team_map.get(self.team, self.team),
                     'date': self.date,
