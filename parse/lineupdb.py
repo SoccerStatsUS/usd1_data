@@ -44,7 +44,7 @@ import os
 import re
 import sys
 
-from usd1.settings import ROOT_DIR
+from usd1_data.settings import ROOT_DIR
 
 from parse.parse.games import process_goal, process_appearance, split_outside_parens
 
@@ -54,7 +54,7 @@ get_date = lambda s: datetime.datetime.strptime (s, "%Y-%m-%d")
 
 
 
-LINEUPS_DIR = os.path.join(ROOT_DIR, 'usd1/data/games/league/lineupdb')
+LINEUPS_DIR = os.path.join(ROOT_DIR, 'usd1_data/data/games/league/lineupdb')
 
 
 # scaryice specific team mappings.
