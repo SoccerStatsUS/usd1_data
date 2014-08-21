@@ -46,7 +46,7 @@ import sys
 
 from usd1.settings import ROOT_DIR
 
-from donelli.parse.games import process_goal, process_appearance, split_outside_parens
+from parse.parse.games import process_goal, process_appearance, split_outside_parens
 
 # Convert string-frmatted date to datetime.
 get_date = lambda s: datetime.datetime.strptime (s, "%Y-%m-%d")
@@ -554,7 +554,7 @@ class LineupProcessor(object):
 
     def consume_row(self, row):
         # This is an item that has been split by a comma.
-        # This should definitely use the donelli logic.
+        # This should definitely use the parse logic.
         # Not going to worry about this for right now.
 
 
