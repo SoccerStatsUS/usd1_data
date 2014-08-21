@@ -46,7 +46,7 @@ import os
 import re
 import sys
 
-from usd1.settings import ROOT_DIR
+from usd1_data.settings import ROOT_DIR
 
 
 get_date = lambda s: datetime.datetime.strptime (s, "%Y-%m-%d")
