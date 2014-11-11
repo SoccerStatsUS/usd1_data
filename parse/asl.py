@@ -6,10 +6,10 @@ import re
 
 from utils import get_id
 
-from usd1.settings import ROOT_DIR
+from usd1_data.settings import ROOT_DIR
 
-games_filename = os.path.join(ROOT_DIR, 'usd1/data/games/league/jose/asl')
-stats_filename = os.path.join(ROOT_DIR, 'usd1/data/stats/asl')
+games_filename = os.path.join(ROOT_DIR, 'usd1_data/data/games/league/jose/asl')
+stats_filename = os.path.join(ROOT_DIR, 'usd1_data/data/stats/asl')
 
 
 # Pull this out into lift.py

@@ -7,12 +7,12 @@ import re
 
 from utils import get_id
 
-from usd1.settings import ROOT_DIR
+from usd1_data.settings import ROOT_DIR
 
-nasl_games_filename = os.path.join(ROOT_DIR, 'usd1/data/games/league/jose/nasl')
-nasl0_games_filename = os.path.join(ROOT_DIR, 'usd1/data/games/league/jose/npsl')
+nasl_games_filename = os.path.join(ROOT_DIR, 'usd1_data/data/games/league/jose/nasl')
+nasl0_games_filename = os.path.join(ROOT_DIR, 'usd1_data/data/games/league/jose/npsl')
 
-NASL_ROSTERS_DIR = os.path.join(ROOT_DIR, 'usd1/data/rosters/nasl')
+NASL_ROSTERS_DIR = os.path.join(ROOT_DIR, 'usd1_data/data/rosters/nasl')
 NASL_STATS_DIR = os.path.join(ROOT_DIR, 'soccerdata/data/stats/d2')
 
 # Merge into alias.
