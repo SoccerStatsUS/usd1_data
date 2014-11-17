@@ -1,0 +1,50 @@
+Season: 1996
+Currency: Dollars
+
+Marcelo Balboa; 175000;
+Chris Woods; 116667;
+Roy Wegerle; 114000;
+Shaun Bartlett; 64000;
+Ian Butterworth; 64000;
+Doctor Khumalo; 150000;
+Robert Warzycha; 120000;
+Adrian Paz; 94000;
+Paul Caligiuri; 84000;
+Brian Bliss; 74000;
+Leonel Alvarez; 175000;
+Hugo Sanchez; 134000;
+Washington Rodriguez; 89000;
+Diego Sonora; 84292;
+Mark Dodd; 57000;
+Preki Radosavljevic; 129000;
+Vitalis Takawira; 99000;
+Mike Sorber; 94000;
+Frank Klopas; 94000;
+Uche Okafor; 94000;
+Jorge Campos; 175000;
+Alexi Lalas; 175000;
+Alberto Naveda; 85000;
+Joe-Max Moore; 84500;
+Mike Burns; 84000;
+John Kerr Jr; 69000;
+Tab Ramos; 175000;
+Roberto Donadoni; 175000;
+Tony Meola; 104000;
+Ruben Dario Hernandez; 80000;
+Nicola Caricola; 79000;
+Eric Wynalda; 175000;
+Jorge Rodas; 134250;
+Michael Emenalo; 104000;
+Ben Iroha; 94000;
+John Doyle; 79000;
+Carlos Valderrama; 175000;
+Martin Vasquez; 77000;
+Cle Kooiman; 74000;
+Frank Yallop; 74000;
+Giovanni Galderisi; 69400;
+John Harkes; 175000;
+Marco Etcheverry; 175000;
+Mario Gori; 90000;
+Raul Diaz Arce; 79000;
+Jeff Agoos; 74000 ;
+
