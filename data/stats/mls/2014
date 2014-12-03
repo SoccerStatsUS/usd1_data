@@ -2,7 +2,7 @@ BlockSource: http://www.mlssoccer.com/stats/season?page=1&season_year=2014&seaso
 Competition: Major League Soccer
 Season: 2014
 
-Key: player; position; games_played; games_started; minutes; goals; assists; shots; shots_on_goal; game_winning_goals; pk_goals/a; home_goals; road_goals; g/90; sc%
+Key: name; position; games_played; games_started; minutes; goals; assists; shots; shots_on_goal; game_winning_goals; pk_goals/a; home_goals; road_goals; g/90; sc%
 
 
 Team: Chicago Fire
