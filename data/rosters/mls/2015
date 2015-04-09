@@ -1,0 +1,606 @@
+Season: 2014
+Competition: Major League Soccer
+Date: 4/9/2015
+* MLSSoccer is source
+
+Key: number; position; name; team; age; height (feet); weight (lbs); birthplace; status; _
+
+
+Team: Chicago Fire
+*#; POS; Player Name; Club; Age; HT; WT; Birthplace; Status; 
+
+11; F; David Accam; Chicago Fire; 24; 5' 9"; 154; Ghana; Active;  
+4; D; Adaílton; Chicago Fire; 31; 6' 3"; 180; Brazil; Active; 
+7; M; Alex; Chicago Fire; 26; 5' 8"; 155; Brazil; Active; 
+24; F; Quincy Amarikwa; Chicago Fire; 27; 5' 9"; 180; USA; Active;  
+; M/D; Kingsley Bryce; Chicago Fire; 21; 6'; 185; USA; Active; 
+18; GK; Jon Busch; Chicago Fire; 38; 5' 10"; 165; USA; Active; 
+16; D; Greg Cochrane; Chicago Fire; 24; 5' 8"; 140; USA; Active;  
+30; M; Razvan Cocis; Chicago Fire; 32; 5' 11"; 161; Romania; Active; 
+23; F; Guilherme do Prado; Chicago Fire; 33; 6' 3"; 180; Brazil; Active; 
+17; M; Collin Fernandez; Chicago Fire; 18; 5' 8"; 140; USA; Active;  
+6; D; Eric Gehrig; Chicago Fire; 27; 6' 1"; 160; USA; Active;  
+77; F; Kennedy Igboananike; Chicago Fire; 26; 5' 9"; 154; Nigeria; Active; 
+25; GK; Sean Johnson; Chicago Fire; 25; 6' 3"; 217; USA; Active;  
+3; D/M; Joevin Jones; Chicago Fire; 23; 5' 8"; 160; Trinidad and Tobago; Active; 
+1; GK; Alec Kann; Chicago Fire; 24; 6' 4"; 190; USA; Active; 
+20; M; Jeff Larentowicz; Chicago Fire; 31; 6' 1"; 175; USA; Active; 
+9; F; Mike Magee; Chicago Fire; 30; 5' 10"; 160; USA; Active;  
+10; M; Shaun Maloney; Chicago Fire; 32; 5' 7"; 154; Malaysia; Active; 
+14; F; Patrick Nyarko; Chicago Fire; 29; 6'; 160; Ghana; Active;  
+5; D; Lovel Palmer; Chicago Fire; 30; 5' 10"; 160; Jamaica; Active;  
+; M; Victor Perez; Chicago Fire; 27; 5' 9"; 157; Spain; Active; 
+2; D; Matt Polster; Chicago Fire; 21; 6'; 170; USA; Active; 
+21; M; Chris Ritter; Chicago Fire; 24; 6' 2"; 190; USA; Active; 
+19; M; Harry Shipp; Chicago Fire; 23; 5' 9"; 145; USA; Active;  
+26; M; Michael Stephens; Chicago Fire; 26; 5' 9"; 155; USA; Active; 
+8; M; Matt Watson; Chicago Fire; 30; 6'; 180; England; Active;  
+
+
+
+Team: Colorado Rapids
+
+57; M; Carlos Alvarez; Colorado Rapids; 24; 5' 10"; 160; USA; Active; 
+14; F; Dominique Badji; Colorado Rapids; 22; 6'; 170; Senegal; Active;  
+4; D; Marc Burch; Colorado Rapids; 30; 6' 1"; 180; USA; Active;  
+23; D; Bobby Burling; Colorado Rapids; 30; 6' 5"; 195; USA; Active;  
+6; M; Sam Cronin; Colorado Rapids; 28; 5' 10"; 165; USA; Active; 
+; F; Kevin Doyle; Colorado Rapids; 31; 6'; 179; Ireland; Active; 
+5; D; Michael Harrington; Colorado Rapids; 29; 6'; 170; USA; Active;  
+1; GK; Clint Irwin; Colorado Rapids; 26; 6' 3"; 195; USA; Active;  
+2; M; Nick LaBrocca; Colorado Rapids; 30; 5' 10"; 165; USA; Active; 
+18; GK; Zac MacMath; Colorado Rapids; 23; 6'; 176; USA; Active;  
+3; D; Drew Moor; Colorado Rapids; 31; 6'; 165; USA; Active;  
+; D; Ben Newnam; Colorado Rapids; 23; 5' 10"; 165; USA; Active; 
+27; D; Shane O'Neill; Colorado Rapids; 21; 6' 2"; 190; Ireland; Active;  
+22; M; Lucas Pittinari; Colorado Rapids; 23; 5' 10"; 167; Argentina; Active; 
+8; M; Dillon Powers; Colorado Rapids; 24; 5' 11"; 170; USA; Active;  
+15; M; Juan Ramirez; Colorado Rapids; 22; 5' 8"; 150; Argentina; Active; 
+16; D; James Riley; Colorado Rapids; 32; 5' 10"; 150; USA; Active;  
+7; F; Vicente Sánchez; Colorado Rapids; 35; 5' 7"; 145; Uruguay; Active; 
+11; M; Marcelo Sarvas; Colorado Rapids; 33; 5' 10"; 155; Brazil; Active;  
+17; M; Dillon Serna; Colorado Rapids; 21; 5' 7"; 140; USA; Active;  
+44; D; Axel Sjöberg; Colorado Rapids; 24; 6' 7"; 210; Sweden; Active;  
+10; F; Gabriel Torres; Colorado Rapids; 26; 5' 11"; 165; Panama; Active; 
+33; D; Jared Watts; Colorado Rapids; 23; 6' 1"; 155; USA; Active;  
+
+
+Team: Columbus Crew
+
+21; D; Chad Barson; Columbus Crew SC; 24; 5' 10"; 170; USA; Active; 
+29; F; Adam Bedell; Columbus Crew SC; 23; 6' 7"; 204; USA; Active;  
+24; D; Sergio Campbell; Columbus Crew SC; 23; 6' 4"; 197; Jamaica; Active; 
+1; GK; Steve Clark; Columbus Crew SC; 28; 6' 2"; 192; USA; Active; 
+13; M; Ethan Finlay; Columbus Crew SC; 24; 5' 9"; 165; USA; Active;  
+14; D; Waylon Francis; Columbus Crew SC; 24; 5' 9"; 160; Costa Rica; Active; 
+19; M; Romain Gall; Columbus Crew SC; 20; 5' 9"; 140; France; Active;  
+12; M; Kevan George; Columbus Crew SC; 25; 6' 2"; 170; Trinidad and Tobago; Active;  
+27; D; Hernan Grana; Columbus Crew SC; 29; 5' 7"; 152; Argentina; Active; 
+10; F; Federico Higuain; Columbus Crew SC; 30; 5' 8"; 165; Argentina; Active;  
+16; M; Hector Jimenez; Columbus Crew SC; 26; 5' 9"; 140; USA; Active;  
+23; F; Kei Kamara; Columbus Crew SC; 30; 6' 3"; 186; Sierra Leone; Active;  
+3; D; Chris Klute; Columbus Crew SC; 25; 6' 1"; 172; USA; Active; 
+28; GK; Matt Lampson; Columbus Crew SC; 25; 6' 3"; 190; USA; Active; 
+9; F; Justin Meram; Columbus Crew SC; 26; 6' 1"; 165; USA; Active;  
+4; D; Michael Parkhurst; Columbus Crew SC; 31; 5' 11"; 159; USA; Active;  
+5; D; Emanuel Pogatetz; Columbus Crew SC; 32; 6' 3"; 198; Austria; Active; 
+8; M; Mohammed Saeid; Columbus Crew SC; 24; 5' 7"; 141; Sweden; Active;  
+18; F; Aaron Schoenfeld; Columbus Crew SC; 24; 6' 4"; 190; USA; Active;  
+17; M; Ben Speas; Columbus Crew SC; 24; 5' 8"; 155; USA; Active;  
+7; M; Kristinn Steindorsson; Columbus Crew SC; 24; 5' 8"; 154; Iceland; Active;  
+41; GK; Brad Stuver; Columbus Crew SC; 23; 6' 3"; 180; USA; Active;  
+26; M; Ben Swanson; Columbus Crew SC; 17; 5' 6"; 130; USA; Active; 
+6; M; Tony Tchani; Columbus Crew SC; 25; 6' 4"; 185; Cameroon; Active;  
+20; M; Wil Trapp; Columbus Crew SC; 22; 5' 8"; 150; USA; Active;  
+2; D; Tyson Wahl; Columbus Crew SC; 31; 6' 2"; 185; USA; Active; 
+
+
+Team: DC United
+
+17; M; Miguel Aguilar; D.C. United; 21; 5' 9"; 172; Mexico; Active; 
+8; M; Davy Arnaud; D.C. United; 34; 5' 11"; 160; USA; Active;  
+19; F; Jairo Arrieta; D.C. United; 31; 5' 9"; 150; Costa Rica; Active;  
+15; D; Steve Birnbaum; D.C. United; 24; 6' 2"; 180; USA; Active;  
+32; D; Bobby Boswell; D.C. United; 32; 6' 2"; 185; USA; Active;  
+14; M; Nick DeLeon; D.C. United; 24; 5' 10"; 170; USA; Active;  
+30; F; Conor Doyle; D.C. United; 23; 6' 2"; 172; USA; Active; 
+50; GK; Andrew Dykstra; D.C. United; 29; 6' 4"; 195; USA; Active; 
+10; F; Fabián Espíndola; D.C. United; 29; 5' 9"; 160; Argentina; Active; 
+12; M; Michael Farfan; D.C. United; 26; 5' 9"; 160; USA; Active;  
+5; D; Sean Franklin; D.C. United; 30; 5' 10"; 160; USA; Active;  
+4; M/D; Markus Halsti; D.C. United; 31; 6' 1"; 185; Finland; Active; 
+28; GK; Bill Hamid; D.C. United; 24; 6' 3"; 225; USA; Active;  
+25; M; Jared Jeffrey; D.C. United; 24; 5' 11"; 165; USA; Active; 
+7; F; Eddie Johnson; D.C. United; 31; 6'; 180; USA; Active;  
+2; D; Taylor Kemp; D.C. United; 24; 5' 11"; 153; USA; Active;  
+23; M/D; Perry Kitchen; D.C. United; 23; 6'; 160; USA; Active;  
+22; D; Chris Korb; D.C. United; 27; 5' 9"; 160; USA; Active; 
+6; D; Kofi Opare; D.C. United; 24; 6' 2"; 190; Ghana; Active;  
+13; M/F; Chris Pontius; D.C. United; 27; 6'; 170; USA; Active;  
+18; F; Chris Rolfe; D.C. United; 32; 5' 8"; 155; USA; Active;  
+11; M; Luis Silva; D.C. United; 26; 5' 11"; 163; USA; Active; 
+
+Team: FC Dallas
+
+*#; POS; Player Name; Club; Age; HT; WT; Birthplace; Status; 
+
+23; D/M; Kellyn Acosta; FC Dallas; 19; 5' 10"; 150; USA; Active;  
+13; F; Tesho Akindele; FC Dallas; 23; 6' 1"; 170; Canada; Active;  
+21; M; Michael Barrios; FC Dallas; 23; 5' 4"; 132; Colombia; Active; 
+4; M; Kyle Bekker; FC Dallas; 24; 5' 9"; 165; Canada; Active; 
+11; F; Fabián Castillo; FC Dallas; 22; 5' 8"; 150; Colombia; Active;  
+16; F; Coy Craft; FC Dallas; 17; 6' 2"; 175; USA; Active; 
+10; M; Mauro Díaz; FC Dallas; 24; 5' 7"; 137; Argentina; Active; 
+33; D; Otis Earle; FC Dallas; 23; 6'; 170; England; Active;  
+26; M; Danny Garcia; FC Dallas; 21; 5' 5"; 140; USA; Active; 
+44; GK; Jesse Gonzalez; FC Dallas; 19; 6' 4"; 180; USA; Active; 
+14; M; Atiba Harris; FC Dallas; 30; 6' 3"; 185; Saint Kitts and Nevis; Active;  
+24; D; Matt Hedges; FC Dallas; 25; 6' 4"; 185; USA; Active;  
+3; D; Moises Hernandez; FC Dallas; 23; 6'; 155; USA; Active;  
+12; M; Ryan Hollingshead; FC Dallas; 23; 6' 1"; 180; USA; Active; 
+22; D; Stephen Keel; FC Dallas; 31; 6'; 185; USA; Active;  
+1; GK; Dan Kennedy; FC Dallas; 32; 6' 1"; 200; USA; Active;  
+17; D; Zach Loyd; FC Dallas; 27; 5' 10"; 168; USA; Active;  
+31; M/D; Michel; FC Dallas; 33; 6' 1"; 165; Brazil; Active; 
+7; F; Blas Pérez; FC Dallas; 34; 6' 1"; 174; Panama; Active;  
+18; GK; Chris Seitz; FC Dallas; 28; 6' 3"; 236; USA; Active;  
+9; F; David Texeira; FC Dallas; 24; 6'; 179; Uruguay; Active; 
+8; M; Victor Ulloa; FC Dallas; 23; 5' 11"; 165; USA; Active;  
+27; D/M; Je-Vaughn Watson; FC Dallas; 31; 6' 1"; 175; Jamaica; Active; 
+29; M; Alex Zendejas; FC Dallas; 17; 5' 7"; 145; USA; Active;  
+25; D; Walker Zimmerman; FC Dallas; 21; 6' 3"; 185; USA; Active; 
+
+
+Team: Houston Dynamo
+
+* #; POS; Player Name; Club; Age; HT; WT; Birthplace; Status; 
+
+26; M; Corey Ashe; Houston Dynamo; 29; 5' 5"; 154; USA; Active;  
+10; F; Giles Barnes; Houston Dynamo; 26; 5' 11"; 181; England; Active;  
+7; D/M; DaMarcus Beasley; Houston Dynamo; 32; 5' 8"; 145; USA; Active;  
+12; F; Will Bruin; Houston Dynamo; 25; 6' 2"; 194; USA; Active;  
+13; M; Ricardo Clark; Houston Dynamo; 32; 5' 10"; 160; USA; Active;  
+16; D; A.J. Cochran; Houston Dynamo; 22; 6' 3"; 195; USA; Active;  
+11; M; Brad Davis; Houston Dynamo; 33; 5' 11"; 170; USA; Active;  
+1; GK; Tyler Deric; Houston Dynamo; 26; 6' 3"; 185; USA; Active;  
+27; M; Boniek Garcia; Houston Dynamo; 30; 5' 9"; 150; Honduras; Active; 
+8; M; Luis Garrido; Houston Dynamo; 24; 5' 7"; 165; Honduras; Active; 
+17; F; Chandler Hoffman; Houston Dynamo; 24; 6'; 160; USA; Active;  
+18; D; David Horst; Houston Dynamo; 29; 6' 4"; 210; USA; Active;  
+23; D; Taylor Hunter; Houston Dynamo; 21; 6'; 160; USA; Active; 
+14; F; Jason Johnson; Houston Dynamo; 24; 6'; 180; Jamaica; Active;  
+30; GK; Michael Lisch; Houston Dynamo; 24; 6' 4"; 175; ; Active; 
+15; M; Alexander López; Houston Dynamo; 22; 5' 9"; 155; Honduras; Active; 
+3; M/F; Rob Lovejoy; Houston Dynamo; 23; 6'; 165; USA; Active;  
+33; M; Leonel Miranda; Houston Dynamo; 21; 5' 8"; ; Argentina; Active; 
+5; D; Raul Rodriguez; Houston Dynamo; 27; 6'; 165; Spain; Active; 
+2; D; Kofi Sarkodie; Houston Dynamo; 24; 5' 9"; 165; USA; Active;  
+21; M; Zach Steinberger; Houston Dynamo; 22; 5' 11"; 172; USA; Active;  
+6; M; Nathan Sturgis; Houston Dynamo; 27; 5' 10"; 160; USA; Active;  
+4; D; Jermaine Taylor; Houston Dynamo; 30; 5' 10"; 195; Jamaica; Active; 
+31; GK; Joe Willis; Houston Dynamo; 26; 6' 5"; 189; USA; Active; 
+
+
+Team: LA Galaxy
+
+* #; POS; Player Name; Club; Age; HT; WT; Birthplace; Status; 
+
+16; F; Edson Buddle; LA Galaxy; 33; 6' 1"; 185; USA; Active;  
+20; D; A.J. DeLaGarza; LA Galaxy; 27; 5' 9"; 150; USA; Active;  
+2; D; Todd Dunivant; LA Galaxy; 34; 6' 1"; 175; USA; Active;  
+25; M; Rafael Garcia; LA Galaxy; 26; 5' 6"; 150; USA; Active;  
+33; D; Dan Gargan; LA Galaxy; 32; 5' 11"; 175; USA; Active;  
+4; D; Omar Gonzalez; LA Galaxy; 26; 6' 5"; 205; USA; Active;  
+9; F; Alan Gordon; LA Galaxy; 33; 6' 3"; 190; USA; Active; 
+6; M; Baggio Husidic; LA Galaxy; 27; 6' 1"; 172; Bosnia and Herzegovina; Active;  
+24; M; Stefan Ishizaki; LA Galaxy; 32; 5' 11"; 165; Sweden; Active;  
+38; F; Bradford Jamieson; LA Galaxy; 18; 6' 1"; 165; USA; Active;  
+19; M; Juninho; LA Galaxy; 26; 5' 7"; 140; Brazil; Active;  
+7; F; Robbie Keane; LA Galaxy; 34; 5' 9"; 160; Ireland; Active; 
+22; D; Leonardo; LA Galaxy; 27; 6' 2"; 185; Brazil; Active;  
+15; F; Ignacio Maganto; LA Galaxy; 23; 5' 8"; 140; Spain; Active;  
+21; D; Tommy Meyer; LA Galaxy; 25; 6' 2"; 175; USA; Active; 
+31; GK; Trey Mitchell; LA Galaxy; 23; 6' 2"; 195; USA; Active; 
+18; GK; Jaime Penedo; LA Galaxy; 33; 6'; 160; Panama; Active; 
+1; GK; Brian Perk; LA Galaxy; 25; 5' 11"; 175; USA; Active;  
+14; M; Robbie Rogers; LA Galaxy; 27; 5' 10"; 165; USA; Active;  
+12; GK; Brian Rowe; LA Galaxy; 26; 6' 1"; 185; USA; Active; 
+3; M; Mika Vayrynen; LA Galaxy; 33; 6'; 154; Sweden; Active; 
+5; M; Jose Villarreal; LA Galaxy; 21; 5' 8"; 160; USA; Active;  
+34; M; Kenney Walker; LA Galaxy; 26; 5' 9"; 175; USA; Active; 
+11; F; Gyasi Zardes; LA Galaxy; 23; 6' 2"; 175; USA; Active; 
+
+
+Team: Montreal Impact
+
+29; M; Eric Alexander; Montreal Impact; 26; 6' 1"; 165; USA; Active;  
+8; M; Patrice Bernier; Montreal Impact; 35; 5' 9"; 170; Canada; Active;  
+1; G; Evan Bush; Montreal Impact; 29; 6' 1"; 186; USA; Active;  
+36; D; Victor Cabrera; Montreal Impact; 22; 6'; 165; Argentina; Active; 
+6; D; Hassoun Camara; Montreal Impact; 29; 6' 2"; 190; France; Active;  
+23; D; Laurent Ciman; Montreal Impact; 29; 6'; 155; Belgium; Active; 
+40; GK; Maxime Crépeau; Montreal Impact; 20; 5' 11"; 199; Canada; Active;  
+33; M; Marco Donadel; Montreal Impact; 31; 5' 10"; 160; Italy; Active; 
+11; M; Dilly Duka; Montreal Impact; 25; 5' 9"; 160; USA; Active;  
+50; M; Jérémy Gagnon-Laparé; Montreal Impact; 20; 5' 11"; 165; Canada; Active; 
+24; F; Anthony Jackson-Hamel; Montreal Impact; 21; 6' 1"; 180; USA; Active; 
+22; GK; Eric Kronberg; Montreal Impact; 31; 6' 5"; 210; USA; Active;  
+55; D; Wandrille Lefèvre; Montreal Impact; 25; 6' 1"; 175; France; Active;  
+26; D; Adrián López; Montreal Impact; 28; 6'; 192; Spain; Active; 
+16; D; Calum Mallace; Montreal Impact; 25; 6' 1"; 181; Scotland; Active;  
+21; M; Justin Mapp; Montreal Impact; 30; 6' 1"; 160; USA; Active; 
+99; F; Jack McInerney; Montreal Impact; 22; 5' 10"; 151; USA; Active;  
+3; D; Eric Miller; Montreal Impact; 22; 6' 1"; 175; USA; Active;  
+7; F; Dominic Oduro; Montreal Impact; 29; 6'; 160; Ghana; Active;  
+; D; Ambroise Oyongo; Montreal Impact; 23; 5' 9"; 150; Cameroon; Active; 
+10; M; Ignacio Piatti; Montreal Impact; 30; 5' 11"; 169; Argentina; Active; 
+39; F; Cameron Porter; Montreal Impact; 21; 6' 1"; 175; USA; Active; 
+14; M/D; Nigel Reo-Coker; Montreal Impact; 30; 5' 9"; 170; England; Active; 
+15; F; Andrés Romero; Montreal Impact; 25; 5' 10"; 160; Argentina; Active; 
+19; M; Blake Smith; Montreal Impact; 24; 5' 10"; 150; USA; Active; 
+5; D; Bakary Soumare; Montreal Impact; 29; 6' 4"; 190; Mali; Active;  
+51; M/D; Maxim Tissot; Montreal Impact; 22; 5' 11"; 162; Canada; Active;  
+25; D; Donny Toia; Montreal Impact; 22; 5' 8"; 160; USA; Active; 
+17; F; Romario Williams; Montreal Impact; 20; 5' 11"; 170; Jamaica; Active; 
+
+
+
+Team: New England Revolution
+
+17; F; Juan Agudelo; New England Revolution; 22; 6' 1"; 183; Colombia; Active;  
+30; D; Kevin Alston; New England Revolution; 26; 5' 8"; 160; USA; Active;  
+25; D; Darrius Barnes; New England Revolution; 28; 6' 1"; 175; USA; Active;  
+; F; Tristan Bowen; New England Revolution; 24; 5' 11"; 170; USA; Active;  
+10; F; Teal Bunbury; New England Revolution; 25; 6' 2"; 175; Canada; Active;  
+6; M; Scott Caldwell; New England Revolution; 24; 5' 8"; 150; USA; Active; 
+9; F; Charlie Davies; New England Revolution; 28; 5' 10"; 175; USA; Active;  
+12; M; Andy Dorman; New England Revolution; 32; 6' 1"; 160; England; Active; 
+14; F; Diego Fagundez; New England Revolution; 20; 5' 8"; 140; Uruguay; Active;  
+2; D; Andrew Farrell; New England Revolution; 23; 5' 11"; 165; USA; Active;  
+23; D; José Gonçalves; New England Revolution; 29; 6' 2"; 180; Portugal; Active;  
+5; D/M; Jeremy Hall; New England Revolution; 26; 5' 10"; 177; USA; Active;  
+13; M; Jermaine Jones; New England Revolution; 33; 6'; 170; Germany; Active;  
+18; G; Brad Knighton; New England Revolution; 30; 6' 1"; 180; USA; Active;  
+16; M; Daigo Kobayashi; New England Revolution; 32; 5' 10"; 150; Japan; Active;  
+4; M; Steve Neumann; New England Revolution; 23; 6'; 165; USA; Active;  
+24; M/F; Lee Nguyen; New England Revolution; 28; 5' 8"; 150; USA; Active;  
+7; F; Sean Okoli; New England Revolution; 22; 6' 1"; 182; USA; Active;  
+11; M; Kelyn Rowe; New England Revolution; 23; 5' 8"; 150; USA; Active;  
+22; GK; Bobby Shuttleworth; New England Revolution; 27; 6' 2"; 205; USA; Active;  
+33; M; Donnie Smith; New England Revolution; 24; 5' 11"; 160; USA; Active;  
+26; GK; Trevor Spangenberg; New England Revolution; 23; 6' 2"; 190; USA; Active;  
+8; D; Chris Tierney; New England Revolution; 29; 6'; 170; USA; Active;  
+28; D; London Woodberry; New England Revolution; 23; 6' 1"; 160; USA; Active; 
+
+
+Team: New York City FC
+
+22; M; Pablo Alvarez Nunez; New York City FC; 34; 5' 9"; 155; Spain; Active; 
+20; M; Mehdi Ballouchy; New York City FC; 32; 5' 11"; 169; Morocco; Active; 
+5; D; Jeb Brovsky; New York City FC; 26; 6' 1"; 170; USA; Active;  
+30; M; Javier Calle; New York City FC; 23; 5' 9"; 163; Colombia; Active; 
+10; M; Mix Diskerud; New York City FC; 24; 6'; 156; Norway; Active;  
+23; M; Matt Dunn; New York City FC; 21; 5' 10"; 163; USA; Active;  
+24; D; Shay Facey; New York City FC; 22; 5' 9"; 171; England; Active;  
+1; GK; Akira Fitzgerald; New York City FC; 27; 5' 11"; 174; Japan; Active;  
+11; M; Ned Grabavoy; New York City FC; 31; 5' 7"; 160; USA; Active; 
+21; D; Jason Hernandez; New York City FC; 31; 5' 10"; 170; USA; Active;  
+4; M; Andrew Jacobson; New York City FC; 29; 6' 2"; 185; USA; Active;  
+; GK; Eirik Johansen; New York City FC; 22; 6' 7"; 235; Norway; Active; 
+6; D; George John; New York City FC; 28; 6' 3"; 203; USA; Active;  
+15; M; Thomas McNamara; New York City FC; 24; 5' 9"; 170; USA; Active; 
+2; D; Andrés Mendoza; New York City FC; 25; 6' 2"; 194; Ecuador; Active; 
+14; F; Patrick Mullins; New York City FC; 23; 6' 1"; 175; USA; Active;  
+32; F; Adam Nemec; New York City FC; 29; 6' 3"; 185; Slovakia; Active; 
+88; M; Kwadwo Poku; New York City FC; 23; 6' 1"; 185; Ghana; Active; 
+12; GK; Josh Saunders; New York City FC; 34; 6' 4"; 210; USA; Active; 
+19; F; Khiry Shelton; New York City FC; 21; 6' 3"; 185; USA; Active;  
+99; F; Tony Taylor; New York City FC; 25; 6'; 170; USA; Active;  
+26; M; Sebastian Velasquez; New York City FC; 24; 5' 7"; 155; Colombia; Active;  
+7; F; David Villa; New York City FC; 34; 5' 9"; 148; Spain; Active; 
+3; D; Kwame Watson-Siriboe; New York City FC; 28; 6' 3"; 196; USA; Active;  
+13; D; Josh Williams; New York City FC; 26; 6' 2"; 192; USA; Active;  
+17; D; Chris Wingert; New York City FC; 32; 5' 11"; 165; USA; Active; 
+
+
+
+Team: New York Red Bulls
+
+9; F; Anatole Abang; New York Red Bulls; 18; 6' 1"; 160; Cameroon; Active; 
+27; M; Sean Davis; New York Red Bulls; 22; 6'; 165; ; Active;  
+25; D; Chris Duvall; New York Red Bulls; 23; 5' 10"; 150; USA; Active; 
+13; F; Mike Grella; New York Red Bulls; 28; 5' 11"; 178; USA; Active; 
+35; D; Andrew Jean-Baptiste; New York Red Bulls; 22; 6' 2"; 205; USA; Active;  
+16; M; Sacha Kljestan; New York Red Bulls; 29; 6' 1"; 170; USA; Active;  
+5; M/D; Connor Lade; New York Red Bulls; 25; 5' 7"; 145; USA; Active;  
+92; D; Kemar Lawrence; New York Red Bulls; 22; 5' 10"; ; Jamaica; Active;  
+8; F; Péguy Luyindula; New York Red Bulls; 35; 5' 10"; 158; Democratic Republic of the Congo; Active; 
+8; M; Felipe Martins; New York Red Bulls; 24; 5' 9"; 150; Brazil; Active;  
+11; M; Dax McCarty; New York Red Bulls; 27; 5' 9"; 150; USA; Active;  
+3; D; Shawn McLaws; New York Red Bulls; 22; 5' 10"; 165; USA; Active;  
+20; D; Matt Miazga; New York Red Bulls; 19; 6' 3"; 185; USA; Active;  
+7; D; Roy Miller; New York Red Bulls; 30; 6' 2"; 166; Costa Rica; Active; 
+22; D; Karl Ouimette; New York Red Bulls; 22; 6'; 175; Canada; Active;  
+55; D; Damien Perrinelle; New York Red Bulls; 31; 6' 1"; 170; France; Active; 
+18; GK; Kyle Reynish; New York Red Bulls; 31; 6' 3"; 193; USA; Active;  
+91; M/F; Dane Richards; New York Red Bulls; 31; 5' 7"; 153; Jamaica; Active; 
+31; GK; Luis Robles; New York Red Bulls; 30; 5' 11"; 180; USA; Active; 
+10; M; Lloyd Sam; New York Red Bulls; 30; 5' 8"; 163; England; Active;  
+6; D; Anthony Wallace; New York Red Bulls; 26; 5' 11"; 160; USA; Active; 
+99; F; Bradley Wright-Phillips; New York Red Bulls; 30; 5' 8"; 155; England; Active;  
+15; M; Sal Zizzo; New York Red Bulls; 28; 5' 10"; 165; USA; Active;  
+23; D; Ronald Zubar; New York Red Bulls; 29; 6' 2"; 175; Guadeloupe; Active; 
+
+
+
+Team: Orlando City SC
+
+12; D/M; Eric Avila; Orlando City SC; 27; 5' 8"; 150; USA; Active;  
+14; D; Luke Boden; Orlando City SC; 26; 6' 2"; 184; England; Active;  
+6; M; Tony Cascio; Orlando City SC; 25; 6'; 170; USA; Active; 
+17; M; Darwin Cerén; Orlando City SC; 25; 5' 7"; 165; El Salvador; Active;  
+78; D; Aurélien Collin; Orlando City SC; 29; 6' 2"; 169; France; Active;  
+23; D; Conor Donovan; Orlando City SC; 19; 6' 2"; 176; USA; Active;  
+36; GK; Earl Edwards Jr.; Orlando City SC; 23; 6' 3"; 200; USA; Active;  
+55; M; Estrela; Orlando City SC; 19; 5' 7"; 150; Angola; Active; 
+42; GK; Josh Ford; Orlando City SC; 27; 6'; 175; USA; Active;  
+22; GK; Tally Hall; Orlando City SC; 29; 6' 4"; 215; USA; Active;  
+8; M; Harrison Heath; Orlando City SC; 19; 5' 11"; 160; England; Active; 
+7; M; Cristian Higuita; Orlando City SC; 21; 5' 9"; 174; Colombia; Active;  
+3; D; Sebastian Hines; Orlando City SC; 26; 6' 2"; 172; England; Active; 
+10; M; Kaká; Orlando City SC; 32; 6' 1"; 181; Brazil; Active;  
+21; F; Cyle Larin; Orlando City SC; 19; 6' 2"; 190; ; Active;  
+18; M; Kevin Molino; Orlando City SC; 24; 5' 11"; 145; Trinidad and Tobago; Active; 
+19; F; Danny Mwanga; Orlando City SC; 23; 6' 1"; 175; Democratic Republic of the Congo; Active;  
+24; M; Lewis Neal; Orlando City SC; 33; 5' 11"; 155; England; Active; 
+5; M/D; Amobi Okugo; Orlando City SC; 24; 6'; 175; USA; Active;  
+9; F; Martin Paterson; Orlando City SC; 27; 5' 10"; 141; England; Active; 
+27; D; Rafael Ramos; Orlando City SC; 20; 5' 7"; 148; Portugal; Active;  
+29; D; Tommy Redding; Orlando City SC; 18; 6' 2"; 175; USA; Active;  
+15; M/F; Pedro Ribeiro; Orlando City SC; 24; 6' 4"; 208; Brazil; Active;  
+1; GK; Donovan Ricketts; Orlando City SC; 37; 6' 4"; 215; Jamaica; Active; 
+11; M; Carlos Rivas; Orlando City SC; 20; 5' 8"; 150; Colombia; Active; 
+26; F; Sidney Rivera; Orlando City SC; 21; 6' 2"; 185; USA; Active;  
+35; F; Bryan Róchez; Orlando City SC; 20; 5' 11"; 161; Honduras; Active;  
+20; M/D; Brek Shea; Orlando City SC; 25; 6' 3"; 180; USA; Active;  
+4; D; Sean St. Ledger; Orlando City SC; 30; 6'; 188; England; Active;  
+2; D; Tyler Turner; Orlando City SC; 19; 5' 11"; 155; USA; Active; 
+
+
+
+Team: Philadelphia Union
+
+18; F; Fernando Aristeguieta; Philadelphia Union; 23; 6' 2"; 181; Venezuela; Active; 
+14; M; Eric Ayuk Mbo; Philadelphia Union; 2015; 5' 7"; 150; Cameroon; Active; 
+; M; Eric Bird; Philadelphia Union; 22; 5' 11"; 170; ; Active;  
+1; GK; Andre Blake; Philadelphia Union; 24; 6' 4"; 175; Jamaica; Active;  
+7; M; Brian Carroll; Philadelphia Union; 33; 5' 10"; 155; USA; Active; 
+6; F; Conor Casey; Philadelphia Union; 33; 6' 1"; 190; USA; Active; 
+19; F; Dzenan Catic; Philadelphia Union; 22; 6' 3"; 185; Bosnia & Herzegovina; Active;  
+8; M; Maurice Edu; Philadelphia Union; 28; 6'; 170; USA; Active;  
+33; D; Fábinho; Philadelphia Union; 30; 5' 7"; 149; Brazil; Active; 
+77; M; Fred; Philadelphia Union; 35; 5' 8"; 150; Brazil; Active;  
+28; D; Raymon Gaddis; Philadelphia Union; 25; 5' 9"; 151; USA; Active;  
+29; F; Antoine Hoppenot; Philadelphia Union; 24; 5' 8"; 155; USA; Active;  
+13; M; Michael Lahoud; Philadelphia Union; 28; 5' 8"; 162; Sierra Leone; Active;  
+9; F; Sébastien Le Toux; Philadelphia Union; 31; 6'; 155; France; Active;  
+; D; Raymond Lee; Philadelphia Union; 2015; 5' 11"; 175; USA; Active; 
+10; M; Cristian Maidana; Philadelphia Union; 28; 5' 11"; 165; Argentina; Active; 
+92; GK; Raïs Mbolhi; Philadelphia Union; 28; 6' 3"; 176; France; Active; 
+55; GK; John McCarthy; Philadelphia Union; 2015; 6' 3"; 180; USA; Active; 
+20; M; Jimmy McLaughlin; Philadelphia Union; 21; 5' 8"; 135; USA; Active;  
+5; M; Vincent Nogueira; Philadelphia Union; 27; 5' 7"; 140; France; Active; 
+27; M; Zach Pfeffer; Philadelphia Union; 20; 5' 8"; 145; USA; Active;  
+17; F; C.J. Sapong; Philadelphia Union; 26; 6' 1"; 185; USA; Active;  
+23; D; Steven Vitória; Philadelphia Union; 28; 6' 5"; 190; Canada; Active; 
+11; F; Andrew Wenger; Philadelphia Union; 24; 6'; 185; USA; Active;  
+15; D; Ethan White; Philadelphia Union; 24; 6'; 183; USA; Active;  
+25; D; Sheanon Williams; Philadelphia Union; 25; 5' 11"; 170; USA; Active; 
+
+
+
+Team: Portland Timbers
+
+9; F; Fanendo Adi; Portland Timbers; 24; 6' 4"; 185; Nigeria; Active; 
+11; M/F; Dairon Asprilla; Portland Timbers; 22; 5' 11"; 165; Colombia; Active;  
+27; M; Nick Besler; Portland Timbers; 21; 6' 1"; 165; USA; Active;  
+7; D; Nat Borchers; Portland Timbers; 33; 6' 2"; 175; USA; Active;  
+21; M; Diego Chara; Portland Timbers; 29; 5' 8"; 150; Colombia; Active;  
+10; F; Gastón Fernández; Portland Timbers; 31; 5' 8"; 160; Argentina; Active; 
+26; M; George Fochive; Portland Timbers; 23; 5' 9"; 172; USA; Active;  
+15; D; Jeanderson; Portland Timbers; 23; 5' 11"; 160; Brazil; Active;  
+13; D/M; Jack Jewsbury; Portland Timbers; 33; 6'; 185; USA; Active;  
+4; M; Will Johnson; Portland Timbers; 28; 5' 10"; 160; Canada; Active;  
+12; GK; Adam Kwarasey; Portland Timbers; 27; 6' 3"; 180; Norway; Active;  
+6; F/M; Darlington Nagbe; Portland Timbers; 24; 5' 9"; 165; Liberia; Active;  
+17; M; Michael Nanchoff; Portland Timbers; 26; 5' 8"; 150; USA; Active;  
+23; D; Norberto Paparatto; Portland Timbers; 31; 6' 3"; 180; Argentina; Active; 
+20; D; Taylor Peay; Portland Timbers; 23; 6' 2"; 185; USA; Active;  
+2; D; Alvas Powell; Portland Timbers; 20; 6'; 165; Jamaica; Active; 
+24; D; Liam Ridgewell; Portland Timbers; 30; 6' 2"; 175; England; Active;  
+28; D; Andy Thoma; Portland Timbers; 21; 5' 11"; 165; USA; Active;  
+32; M/F; Schillo Tshuma; Portland Timbers; 22; 5' 10"; 162; Zimbabwe; Active;  
+37; M; Maximiliano Urruti; Portland Timbers; 24; 6'; 165; Argentina; Active; 
+8; M; Diego Valeri; Portland Timbers; 28; 5' 10"; 165; Argentina; Active;  
+19; D; Jorge Villafaña; Portland Timbers; 25; 5' 9"; 150; USA; Active;  
+22; D/M; Rodney Wallace; Portland Timbers; 26; 6'; 155; Costa Rica; Active;  
+33; GK; Andrew Weber; Portland Timbers; 31; 6' 2"; 190; USA; Active;  
+; M; Ishmael Yartey; Portland Timbers; 25; 5' 7"; 155; Ghana; Active; 
+14; M; Ben Zemanski; Portland Timbers; 26; 5' 11"; 150; USA; Active; 
+
+
+
+Team: Real Salt Lake
+
+7; D/M; Jordan Allen; Real Salt Lake; 19; 5' 11"; 160; USA; Active;  
+24; GK; Jeff Attinella; Real Salt Lake; 26; 6' 2"; 190; USA; Active;  
+5; M; Kyle Beckerman; Real Salt Lake; 32; 5' 11"; 165; USA; Active;  
+2; D; Tony Beltran; Real Salt Lake; 27; 5' 8"; 150; USA; Active;  
+1; GK; Lalo Fernandez; Real Salt Lake; 22; 6' 3"; 170; Mexico; Active;  
+13; F; Olmes García; Real Salt Lake; 22; 6'; 175; Colombia; Active;  
+10; M; Luis Gil; Real Salt Lake; 21; 5' 10"; 155; USA; Active;  
+14; D; Justen Glad; Real Salt Lake; 18; 6'; 145; USA; Active; 
+23; F; Sebastian Jaime; Real Salt Lake; 28; 5' 11"; 160; Argentina; Active; 
+3; D; Phanuel Kavita; Real Salt Lake; 22; 6' 1"; 184; Democratic Republic of the Congo; Active;  
+29; D; Abdoulie Mansally; Real Salt Lake; 26; 5' 10"; 160; Gambia; Active;  
+4; D; Aaron Maund; Real Salt Lake; 24; 6' 1"; 185; USA; Active;  
+11; M; Javier Morales; Real Salt Lake; 35; 5' 9"; 150; Argentina; Active;  
+19; M; Luke Mulholland; Real Salt Lake; 26; 5' 9"; 150; England; Active;  
+6; D; Boyd Okwuonu; Real Salt Lake; 22; 5' 9"; 170; USA; Active;  
+4; D; Jámison Olave; Real Salt Lake; 33; 6' 3"; 210; Colombia; Active; 
+16; M; Wellington Paeckart; Real Salt Lake; 25; 5' 6"; 152; Brazil; Active; 
+17; D; Demar Phillips; Real Salt Lake; 31; 5' 6"; 132; Jamaica; Active; 
+8; F; Joao Plata; Real Salt Lake; 23; 5' 2"; 135; Ecuador; Active;  
+18; G; Nick Rimando; Real Salt Lake; 35; 5' 9"; 184; USA; Active;  
+15; F; Álvaro Saborío; Real Salt Lake; 33; 6'; 170; Costa Rica; Active;  
+49; F; Devon Sandoval; Real Salt Lake; 23; 6' 1"; 185; USA; Active;  
+50; M; Sebastian Saucedo; Real Salt Lake; 18; 5' 7"; 145; USA; Active;  
+28; D; Chris Schuler; Real Salt Lake; 27; 6' 4"; 185; USA; Active; 
+27; M; John Stertzer; Real Salt Lake; 24; 6'; 170; USA; Active;  
+12; D; Elias Vasquez; Real Salt Lake; 22; 5' 11"; 170; Guatemala; Active; 
+
+
+Team: San Jose Earthquakes
+
+
+27; M; Fatai Alashe; San Jose Earthquakes; 21; 6'; 170; USA; Active;  
+23; M; Leandro Barrera; San Jose Earthquakes; 24; 5' 8"; 171; Argentina; Active; 
+5; D; Víctor Bernárdez; San Jose Earthquakes; 32; 6' 2"; 190; Honduras; Active; 
+1; GK; David Bingham; San Jose Earthquakes; 25; 6' 2"; 185; USA; Active;  
+7; M; Cordell Cato; San Jose Earthquakes; 22; 5' 9"; 150; Trinidad and Tobago; Active;  
+20; D; Shaun Francis; San Jose Earthquakes; 28; 6'; 165; Jamaica; Active;  
+19; F; Mike Fucito; San Jose Earthquakes; 29; 5' 9"; 165; USA; Active; 
+18; GK; Tomas Gomez; San Jose Earthquakes; 21; 6' 2"; 190; Mexico; Active; 
+44; D; Clarence Goodson; San Jose Earthquakes; 32; 6' 4"; 180; USA; Active; 
+2; D; Ty Harden; San Jose Earthquakes; 31; 6' 1"; 190; USA; Active; 
+11; F; Innocent; San Jose Earthquakes; 25; 5' 7"; 150; Nigeria; Active; 
+14; F; Adam Jahn; San Jose Earthquakes; 24; 6' 3"; 185; USA; Active;  
+15; M; JJ Koval; San Jose Earthquakes; 22; 6' 1"; 175; USA; Active; 
+24; F; Steven Lenhart; San Jose Earthquakes; 28; 6' 1"; 190; USA; Active;  
+13; GK; Bryan Meredith; San Jose Earthquakes; 25; 6' 2"; 195; USA; Active;  
+17; M; Sanna Nyassi; San Jose Earthquakes; 26; 5' 8"; 145; Gambia; Active;  
+10; M; Matías Pérez García; San Jose Earthquakes; 30; 5' 5"; 145; Argentina; Active; 
+80; M; Jean-Baptiste Pierazzi; San Jose Earthquakes; 29; 6' 1"; 165; France; Active;  
+16; D; Pablo Pintos; San Jose Earthquakes; 27; 6'; 160; Uruguay; Active; 
+38; D; Paulo Renato; San Jose Earthquakes; 27; 6'; 168; Portugal; Active; 
+6; M; Shea Salinas; San Jose Earthquakes; 28; 5' 10"; 150; USA; Active;  
+12; F; Mark Sherrod; San Jose Earthquakes; 24; 6' 3"; 185; USA; Active;  
+9; M; Khari Stephenson; San Jose Earthquakes; 34; 6' 2"; 185; Jamaica; Active; 
+3; D; Jordan Stewart; San Jose Earthquakes; 33; 6'; 180; England; Active;  
+22; M; Tommy Thompson; San Jose Earthquakes; 19; 5' 7"; 145; USA; Active;  
+8; F; Chris Wondolowski; San Jose Earthquakes; 32; 6'; 165; USA; Active;  
+4; D; Marvell Wynne; San Jose Earthquakes; 28; 5' 9"; 180; USA; Active; 
+
+
+Team: Seattle Sounders
+
+6; M; Osvaldo Alonso; Seattle Sounders FC; 29; 5' 11"; 165; Cuba; Active; 
+42; M; Micheal Azira; Seattle Sounders FC; 27; 5' 10"; 160; Uganda; Active; 
+19; F; Chad Barrett; Seattle Sounders FC; 29; 5' 11"; 185; USA; Active;  
+13; D; Andres Correa; Seattle Sounders FC; 21; 5' 10"; 175; Colombia; Active;  
+2; F; Clint Dempsey; Seattle Sounders FC; 32; 6' 1"; 170; USA; Active;  
+3; D/M; Brad Evans; Seattle Sounders FC; 29; 6' 1"; 160; USA; Active;  
+91; D; Oniel Fisher; Seattle Sounders FC; 23; 5' 9"; 155; Jamaica; Active;  
+24; G; Stefan Frei; Seattle Sounders FC; 28; 6' 3"; 195; Switzerland; Active;  
+12; D; Leonardo González; Seattle Sounders FC; 34; 6' 1"; 174; Costa Rica; Active; 
+17; F; Darwin Jones; Seattle Sounders FC; 23; 5' 10"; 175; USA; Active;  
+11; M; Aaron Kovar; Seattle Sounders FC; 21; 5' 10"; 155; USA; Active;  
+31; D; Damion Lowe; Seattle Sounders FC; 21; 6' 3"; 175; Jamaica; Active;  
+80; F; Victor Mansaray; Seattle Sounders FC; 18; 5' 11"; 180; Sierra Leone; Active; 
+14; D; Chad Marshall; Seattle Sounders FC; 30; 6' 4"; 190; USA; Active;  
+9; F; Obafemi Martins; Seattle Sounders FC; 30; 5' 7"; 154; Nigeria; Active;  
+4; D; Tyrone Mears; Seattle Sounders FC; 32; 5' 11"; 163; England; Active;  
+27; M/F; Lamar Neagle; Seattle Sounders FC; 27; 5' 11"; 165; USA; Active;  
+21; D; Jimmy Ockford; Seattle Sounders FC; 22; 6' 1"; 185; USA; Active;  
+10; M; Marco Pappa; Seattle Sounders FC; 27; 5' 10"; 155; Guatemala; Active;  
+1; GK; Troy Perkins; Seattle Sounders FC; 33; 6' 2"; 190; USA; Active; 
+8; M; Gonzalo Pineda; Seattle Sounders FC; 32; 5' 10"; 166; Mexico; Active;  
+15; D; Dylan Remick; Seattle Sounders FC; 23; 6'; 165; USA; Active;  
+7; M; Cristian Roldan; Seattle Sounders FC; 19; 5' 8"; 165; USA; Active;  
+5; M; Andy Rose; Seattle Sounders FC; 25; 6' 2"; 170; Australia; Active;  
+20; D; Zach Scott; Seattle Sounders FC; 34; 5' 11"; 175; USA; Active; 
+
+
+Team: Sporting KC
+
+23; D; Jalil Anibaba; Sporting Kansas City; 26; 6'; 185; USA; Active;  
+11; M; Bernardo Añor; Sporting Kansas City; 26; 5' 8"; 158; Venezuela; Active;  
+5; D; Matt Besler; Sporting Kansas City; 28; 6'; 170; USA; Active;  
+16; M; Servando Carrasco; Sporting Kansas City; 26; 5' 10"; 175; USA; Active; 
+71; D; Marcel de Jong; Sporting Kansas City; 28; 5' 9"; 170; Canada; Active; 
+13; D; Amadou Dia; Sporting Kansas City; 21; 5' 10"; 150; France; Active;  
+14; F; Dom Dwyer; Sporting Kansas City; 24; 5' 9"; 180; England; Active;  
+4; D; Kevin Ellis; Sporting Kansas City; 23; 5' 9"; 160; USA; Active;  
+27; M; Roger Espinoza; Sporting Kansas City; 28; 5' 11"; 170; Honduras; Active; 
+10; M; Benny Feilhaber; Sporting Kansas City; 30; 5' 9"; 160; Brazil; Active;  
+22; M; Connor Hallisey; Sporting Kansas City; 22; 5' 9"; 158; USA; Active;  
+12; M; Mikey Lopez; Sporting Kansas City; 22; 5' 8"; 160; USA; Active;  
+1; GK; Luis Marin; Sporting Kansas City; 31; 6' 2"; 196; Chile; Active;  
+94; M; Jimmy Medranda; Sporting Kansas City; 21; 5' 5"; 150; Colombia; Active;  
+29; GK; Tim Melia; Sporting Kansas City; 28; 6' 1"; 190; USA; Active;  
+93; M; Soni Mustivar; Sporting Kansas City; 25; 5' 10"; 170; France; Active;  
+7; D; Chance Myers; Sporting Kansas City; 27; 6'; 165; USA; Active;  
+6; M; Paulo Nagamura; Sporting Kansas City; 32; 5' 8"; 155; Brazil; Active;  
+9; F; Krisztian Nemeth; Sporting Kansas City; 26; 5' 11"; 165; Hungary; Active; 
+3; D; Ike Opara; Sporting Kansas City; 26; 6' 2"; 180; USA; Active;  
+2; D; Erik Palmer-Brown; Sporting Kansas City; 17; 6' 1"; 175; USA; Active;  
+37; F; Jacob Peterson; Sporting Kansas City; 29; 5' 10"; 165; USA; Active;  
+18; M; James Ansu Rogers; Sporting Kansas City; 21; 5' 8"; 150; Sierra Leone; Active; 
+15; D; Seth Sinovic; Sporting Kansas City; 28; 5' 10"; 170; USA; Active;  
+8; M; Graham Zusi; Sporting Kansas City; 28; 5' 10"; 160; USA; Active; 
+
+
+Team: Toronto FC
+
+17; F; Jozy Altidore; Toronto FC; 25; 6'; 175; USA; Active;  
+12; GK; Joe Bendik; Toronto FC; 25; 6' 2"; 217; USA; Active;  
+28; D; Mark Bloom; Toronto FC; 27; 5' 11"; 162; USA; Active; 
+4; M; Michael Bradley; Toronto FC; 27; 6' 2"; 179; USA; Active; 
+13; D; Steven Caldwell; Toronto FC; 34; 6' 2"; 195; Scotland; Active;  
+8; M; Benoit Cheyrou; Toronto FC; 33; 6'; 175; France; Active; 
+3; D; Warren Creavalle; Toronto FC; 24; 5' 11"; 170; USA; Active;  
+18; M; Marco Delgado; Toronto FC; 19; 5' 9"; 146; USA; Active;  
+7; F; Bright Dike; Toronto FC; 28; 6'; 213; USA; Active;  
+55; F; Robbie Findley; Toronto FC; 29; 5' 9"; 165; USA; Active;  
+10; M; Sebastian Giovinco; Toronto FC; 28; 5' 4"; 130; Italy; Active; 
+11; M; Jackson Gonçalves; Toronto FC; 26; 5' 9"; 155; Brazil; Active; 
+6; D; Nick Hagglund; Toronto FC; 22; 6' 1"; 193; USA; Active; 
+1; GK; Chris Konopka; Toronto FC; 29; 6' 5"; 228; USA; Active;  
+19; M; Daniel Lovitz; Toronto FC; 23; 5' 10"; 170; USA; Active;  
+27; F; Luke Moore; Toronto FC; 29; 5' 9"; 167; England; Active; 
+2; D; Justin Morrow; Toronto FC; 27; 5' 9"; 153; USA; Active;  
+21; M; Jonathan Osorio; Toronto FC; 22; 5' 9"; 161; Canada; Active;  
+24; D; Damien Perquis; Toronto FC; 30; 6' 1"; 165; France; Active;  
+38; D; Clément Simonin; Toronto FC; 23; 6' 1"; 179; France; Active;  
+26; M; Collen Warner; Toronto FC; 26; 5' 10"; 178; USA; Active; 
+15; D; Eriq Zavaleta; Toronto FC; 22; 6' 1"; 185; USA; Active; 
+
+
+Team: Vancouver Whitecaps
+
+3; D; Sam Adekugbe; Vancouver Whitecaps FC; 20; 5' 9"; 165; England; Active;  
+33; D/M; Steven Beitashour; Vancouver Whitecaps FC; 28; 5' 10"; 170; USA; Active; 
+22; D; Christian Dean; Vancouver Whitecaps FC; 22; 6' 3"; 198; USA; Active;  
+88; F; Robert Earnshaw; Vancouver Whitecaps FC; 33; 5' 8"; 160; Zambia; Active;  
+20; M; Deybi Flores; Vancouver Whitecaps FC; 18; 6'; 150; Honduras; Active; 
+38; M; Kianz Froese; Vancouver Whitecaps FC; 18; 5' 9"; 170; Cuba; Active;  
+2; D; Jordan Harvey; Vancouver Whitecaps FC; 31; 5' 11"; 170; USA; Active;  
+19; F/M; Erik Hurtado; Vancouver Whitecaps FC; 24; 5' 10"; 180; USA; Active; 
+44; D; Pa Modou Kah; Vancouver Whitecaps FC; 34; 6' 1"; 175; The Gambia; Active; 
+28; M; Gershon Koffie; Vancouver Whitecaps FC; 23; 6'; 175; Ghana; Active;  
+15; M; Matías Laba; Vancouver Whitecaps FC; 23; 5' 9"; 154; Argentina; Active; 
+25; M; Andre Lewis; Vancouver Whitecaps FC; 20; 5' 9"; 145; Jamaica; Active;  
+23; F; Kekuta Manneh; Vancouver Whitecaps FC; 20; 5' 9"; 140; Gambia; Active;  
+11; F; Darren Mattocks; Vancouver Whitecaps FC; 24; 5' 10"; 155; Jamaica; Active;  
+9; F/M; Nicolás Mezquida; Vancouver Whitecaps FC; 23; 5' 6"; 150; Uruguay; Active; 
+77; M; Pedro Morales; Vancouver Whitecaps FC; 29; 5' 11"; 170; Chile; Active; 
+1; GK; David Ousted; Vancouver Whitecaps FC; 30; 6' 4"; 195; Denmark; Active; 
+26; D; Tim Parker; Vancouver Whitecaps FC; 22; 6' 2"; 195; USA; Active;  
+29; F; Octavio Rivero; Vancouver Whitecaps FC; 23; 6' 2"; 180; Uruguay; Active; 
+18; D; Diego Rodriguez; Vancouver Whitecaps FC; 24; 6' 3"; 182; Uruguay; Active; 
+7; M; Mauro Rosales; Vancouver Whitecaps FC; 34; 5' 8"; 165; Argentina; Active;  
+31; M; Russell Teibert; Vancouver Whitecaps FC; 22; 5' 8"; 150; Canada; Active; 
+70; GK; Paolo Tornaghi; Vancouver Whitecaps FC; 26; 6' 2"; 165; Italy; Active;  
+4; D; Kendall Waston; Vancouver Whitecaps FC; 27; 6' 5"; 195; Costa Rica; Active; 
+
+
