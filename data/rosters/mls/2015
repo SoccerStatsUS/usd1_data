@@ -3,7 +3,7 @@ Competition: Major League Soccer
 * Date: 4/9/2015
 * MLSSoccer is source
 
-Key: number; position; name; _; age; height (feet); weight (lbs); birthplace; status; _
+Key: number; position; name; _; age; height (feet); weight; birthplace; status; _
 
 
 Team: Chicago Fire
