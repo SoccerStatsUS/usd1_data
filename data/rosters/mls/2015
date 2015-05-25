@@ -1,6 +1,6 @@
-Season: 2014
+Season: 2015
 Competition: Major League Soccer
-* Date: 4/9/2015
+Date: 4/9/2015
 * MLSSoccer is source
 
 Key: number; position; name; _; age; height (feet); weight; birthplace; status; _
@@ -602,5 +602,9 @@ Team: Vancouver Whitecaps
 31; M; Russell Teibert; Vancouver Whitecaps FC; 22; 5' 8"; 150; Canada; Active; 
 70; GK; Paolo Tornaghi; Vancouver Whitecaps FC; 26; 6' 2"; 165; Italy; Active;  
 4; D; Kendall Waston; Vancouver Whitecaps FC; 27; 6' 5"; 195; Costa Rica; Active; 
+
+
+
+
 
 
