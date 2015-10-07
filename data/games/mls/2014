@@ -7,43 +7,43 @@ Timezone: EST
 
 3/8/2014; Seattle Sounders; 1-0 ; Sporting KC; CenturyLink Field; Alan Kelly, Dimitar Chadarav, Kyle Longville, William Niccolla; 39240
 Chad Barrett (Clint Dempsey) 90+4;
-Seattle Sounders: 
-Sporting KC: 
+Seattle Sounders: Frei; Remick, Traore, Marshall, Yedlin; Pappa (Dempsey 57), Evans, Alonso, Neagle (Okoli 86); Martins, Cooper (Barrett 78)
+Sporting KC: Kronberg; Gardner (Jerome 90+2), Besler, Collin, Ellis; Feilhaber (Opara 90+3), Olum, Zusi; Peterson (Zizzo 58), Dwyer, Sapong
 Time: 3:00PM EST
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-03-08-seattle-sounders-fc-vs-sporting-kansas-city/recap
 
 3/8/2014; DC United; 0-3; Columbus Crew; RFK Stadium; Andres Pfefferkorn, Luis Guardia, Pedro Trejo, Igor Cvetkovski; 13840
 ; Jairo Arrieta (Josh Williams, Hector Jimenez) 18, Federico Higuain, Federico Higuain (Justin Meram, Waylon Francis) 90
-DC United: 
-Columbus Crew: 
+DC United: Hamid; Cristian, Parke (Porter 82), Boswell, Franklin; Kitchen; DeLeon (Neal 63), Arnaud (Doyle 73); Silva; Espindola, Johnson
+Columbus Crew: Clark; Francis (Wahl 90+3), Parkhurst, Gonzalez, Williams; Anor (Meram 73), Tchani, Trapp, Jimenez; Higuain; Arrieta (Bedell 87)
 Time: 7:00PM EST
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-03-08-dc-united-vs-columbus-crew/recap
 
 3/8/2014; Vancouver Whitecaps; 4-1; New York Red Bulls; BC Place; Abbey Okulaja, Brandon Major, Eric Weisbrod, Igor Cvetkovski; 21000
 Kenny Miller 34, Sebastian Fernandez (Darren Mattocks) 49, Kenny Miller (Pedro Morales) 77, Pedro Morales (Nigel Reo-Coker) 89; Bradley Wright-Phillips (Lloyd Sam) 90+1
-Vancouver Whitecaps: 
-New York Red Bulls: 
+Vancouver Whitecaps: Ousted; Harvey, DeMerit, O'Brien, Beitashour; Laba, Reo-Coker; Fernandez, Miller, Teibert; Mattocks
+New York Red Bulls: Robles; Convey, Sekagya, Armando, Eckersley; Steele (Miller 64), Alexander (Bover 84), McCarty, Sam; Luyindula (Wright-Phillips 73), Cahill
 Time: 7:30PM EST
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-03-08-vancouver-whitecaps-fc-vs-new-york-red-bulls/feed
 
 3/8/2014; FC Dallas; 3-2; Montreal Impact; Toyota Stadium; Jorge Luna, Luis Guardia, Pedro Trejo, Jody Pinkerton; 22320
 Fabian Castillo (Blas Perez, Je-Vaughn Watson) 16, Blas Perez 24, Mauro Diaz 47; Sanna Nyassi (Justin Mapp) 10, Andrew Wenger (Felipe Martins) 65
-FC Dallas: 
-Montreal Impact: 
+FC Dallas: Seitz; Benitez, Hedges, Hernandez, Acosta (Escobar 81); Jacobson, Thomas (Michel 65); Castillo, Diaz (Luccin 88), Watson; Perez
+Montreal Impact: Perkins; Brovsky (Mallace 77), Ferrari, Camara, Miller; Warner, Bernardello; Nyassi (Gonzalez 69), Felipe Martins, Mapp; Wenger
 Time: 8:30PM EST
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-03-08-fc-dallas-vs-montreal-impact/recap
 
 3/8/2014; Houston Dynamo; 4-0; New England Revolution; BBVA Compass Stadium; Ramon Hernandez, Israel Fernandez, Marcos de Oliveira, Bernard Hosu; 18011
 Will Bruin (Kofi Sarkodie) 2, Will Bruin (Corey Ashe) 13, Boniek Garcia (Will Bruin) 23, Omar Cummings (Ricardo Clark) 90+2;
-Houston Dynamo: 
-New England Revolution: 
+Houston Dynamo: Hall; Ashe, Taylor, Horst, Sarkodie; Clark; Davis, Cascio (Driver 57); Garcia; Bruin (Sherrod 78), Barnes (Cummings 78)
+New England Revolution: Shuttleworth; Tierney, Goncalves, Soares, Alston (Barnes 20); Caldwell; Fagundez, Rowe, Kobayashi (Sene 74), Mullins (Bengtson 46); Bunbury
 Time: 8:30PM EST
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-03-08-houston-dynamo-vs-new-england-revolution/recap
 
 3/8/2014; Portland Timbers; 1-1; Philadelphia Union; Providence Park; Ioannis Stavridis, Caleb Mendez, Andrew Bigelow, Nestor Chavez; 20674
 Jack McInerney (Maurice Edu, Cristian Maidana) 64; Gaston Fernandez 90+4
-Portland Timbers: 
-Philadelphia Union: 
+Portland Timbers: Ricketts; Harrington, Kah (Danso 34), Paparatto, Jewsbury (Zakuani 85); Johnson, Valeri, Chara; Fernandez, Urruti (Alhassan 73), Nagbe
+Philadelphia Union: MacMath; Fabinho, Berry, Okugo, Gaddis; Nogueira, Edu, Carroll; Maidana (Hoppenot 80), McInerney (Wheeler 87), Le Toux (Cruz 70)
 Time: 10:30PM EST
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-03-08-portland-timbers-vs-philadelphia-union/recap
 
@@ -1583,38 +1583,55 @@ Source: http://matchcenter.mlssoccer.com/matchcenter/2014-09-28-la-galaxy-vs-new
 
 
 
-10/2/2014; Philadelphia Union; 1-1; Chicago Fire; PPL Park; 14838
+10/2/2014; Philadelphia Union; 1-1; Chicago Fire; PPL Park; Chris Penso, Craig Lowry, Bill Dittmar, Robert Sibiga; 14838
 Amobi Okugo (Brian Brown, Danny Cruz) 88; Robert Earnshaw 90+2
+Philadelphia Union: Mbolhi; Fabinho, Valdes, Edu, Gaddis; Nogueira, Okugo; Maidana (Hoppenot 77), Fred (Cruz 61), Wenger; Ribeiro (Brown 61)
+Chicago Fire: Johnson; Alex, Soumare, Ianni, Palmer; Larentowicz, Pause; Nyassi (Nyarko 71), Shipp, Ward (Sinama-Pongolle 58); Amarikwa (Earnshaw 77)
 Time: 8:00PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-10-02-philadelphia-union-vs-chicago-fire/feed
 
-10/3/2014; DC United; 0-0; Sporting KC; RFK Stadium; 19308
+10/3/2014; DC United; 0-0; Sporting KC; RFK Stadium; Hilario Grajeda, Matthew Kreitzer, Matthew Nelson, Robert Sibiga; 19308
+DC United: Hamid; Kemp, Birnbaum, Boswell, Korb; Pontius (Neal 64), Arnaud, DeLeon, Franklin; Espindola, Silva (Johnson 72)
+Sporting KC: Gruenebaum; Sinovic, Besler, Ellis, Juliao; Zusi, Olum, Nagamura; Sapong, Dwyer, Toni (Feilhaber 78)
 Time: 8:00PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-10-03-dc-united-vs-sporting-kansas-city/feed
 
 
-10/4/2014; New York Red Bulls; 1-0; Houston Dynamo; Red Bull Arena; 21569
+10/4/2014; New York Red Bulls; 1-0; Houston Dynamo; Red Bull Arena; Jair Marrufo, Peter Manikowski, Kermit Quisenberry, Silviu Petrescu; 21569
 Thierry Henry 47;
+New York Red Bulls: Robles; Miller, Sekagya (Perrinelle 88), Armando, Eckersley; Alexander (Cahill 85), McCarty; Henry (Christianson 90), Luyindula, Sam; Wright-Phillips
+Houston Dynamo: Deric; Beasley, Cochran, Horst (Lopez 80), Sarkodie; Davis, Garrido, Clark (Taylor 72), Garcia; Cummings (Driver 67), Barnes
+Red Card: Tim Cahill 88; 
 Time: 6:00PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-10-04-new-york-red-bulls-vs-houston-dynamo/feed
 
-10/4/2014; Vancouver Whitecaps; 2-0; FC Dallas; BC Place; 20183
+10/4/2014; Vancouver Whitecaps; 2-0; FC Dallas; BC Place; Ricardo Salazar, Joe Fletcher, Baboucarr Jallow, Juan Guzman; 20183
 Sebastian Fernandez (Mauro Rosales, Erik Hurtado) 14, Sebastian Fernandez (Mauro Rosales) 18; 
+Vancouver Whitecaps: Ousted; Harvey, Waston, O'Brien, Beitashour; Laba, Teibert; Fernandez, Morales (Ballouchy 89), Rosales (Manneh 82); Hurtado (Mattocks 67)
+FC Dallas: Fernandez; Hernandez, Hedges, Loyd, Watson; Hollingshead (Akindele 46), Michel, Ulloa (Acosta 81), Escobar; Texeira (Benitez 65), Perez
 Time: 7:00PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-10-04-vancouver-whitecaps-fc-vs-fc-dallas/feed
 
-10/4/2014; New England Revolution; 2-1; Columbus Crew; Gillette Stadium; 23143
+10/4/2014; New England Revolution; 2-1; Columbus Crew; Gillette Stadium; Jose Carlos Rivero, Phill Briere, Daniel Belleau, Daniel Fitzgerald; 23143
 Lee Nguyen (Teal Bunbury) 20, Jermaine Jones (Chris Tierney) 67; Ethan Finlay (Tony Tchani) 25
+New England Revolution: Shuttleworth; Tierney, Goncalves, Soares, Farrell; Caldwell (Kobayashi 59); Rowe (Alston 69), Nguyen, Jones, Bunbury (Neumann 86); Davies
+Columbus Crew: Clark; Francis, Wahl, Parkhurst, Gehrig (Jimenez 46); Tchani, Trapp; Meram (Anor 67), Higuain, Finlay; Schoenfeld (Arrieta 71)
+Red Card: ; Waylon Francis 70
 Time: 7:30PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-10-04-new-england-revolution-vs-columbus-crew/feed
 
-10/4/2014; LA Galaxy; 3-0; Toronto FC; StubHub Center; 24064
+10/4/2014; LA Galaxy; 3-0; Toronto FC; StubHub Center; Baldomero Toledo, Fabio Tovar, Felisha Mariscal, Daniel Radford; 24064
 Robbie Keane (Marcelo Sarvas) 22, Robbie Keane (AJ DeLaGarza, Landon Donovan) 25, Alan Gordon (Marcelo Sarvas) 90+3;
+LA Galaxy: Penedo; Rogers (Riley 16), Leonardo, Gonzalez, DeLaGarza; Donovan (Gordon 84), Juninho, Sarvas, Husidic (Ishizaki 72); Zardes, Keane
+Toronto FC: Bendik; Morrow, Hagglund, Caldwell, Creavalle; Lovitz (Defoe 60), Bradley, Bekker (Warner 80), Osorio; Moore (De Rosario 75), Oduro
 Time: 10:30PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-10-04-la-galaxy-vs-toronto-fc/feed
 
-10/4/2014; San Jose Earthquakes; 1-2; Portland Timbers; Buck Shaw Stadium; 10525
+10/4/2014; San Jose Earthquakes; 1-2; Portland Timbers; Buck Shaw Stadium;      Kevin Stott, Mike Rottersman, Jeff Hosking, Alejandro Mariscal; 10525
 Chris Wondolowski 56; Rodney Wallace (Alvas Powell) 71, Rodney Wallace (Liam Ridgewell, Gaston Fernandez) 74
+San Jose Earthquakes: Busch; Stewart, Hernandez, Bernardez, Pintos; Salinas (Djalo 67), Pierazzi (Harris 82), Cronin, Cato (Thompson 88); Garcia; Wondolowski
+Portland Timbers: Ricketts; Villafana, Ridgewell, Paparatto, Powell; Zemanski, Chara; Wallace, Fernandez (Jewsbury 81), Nagbe (Harrington 90); Adi (Urruti 87)
+Red Card: Pintos 90+3; 
 Time: 11:00PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-10-04-san-jose-earthquakes-vs-portland-timbers/feed
 
@@ -1686,6 +1703,8 @@ Source: http://matchcenter.mlssoccer.com/matchcenter/2014-10-11-chivas-usa-vs-co
 
 10/12/2014; Houston Dynamo; 1-3; DC United; BBVA Compass Stadium; 21869
 Giles Barnes (pk) 83; Taylor Kemp 41, Fabian Espindola (Sean Franklin) 64, Eddie Johnson (Sean Franklin, David Estrada) 87
+Houston Dynamo: Deric; Beasley, Brunner, Horst, Sarkodie; Carrasco, Clark; Driver, Davis, Cummings; Barnes
+DC United: Hamid; Kemp, Birnbaum, Boswell, Franklin; Pontius, Kitchen, Arnaud, DeLeon; Espindola, Silva
 Time: 3:00PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-10-12-houston-dynamo-vs-dc-united/feed
 
@@ -1732,25 +1751,34 @@ Time: 10:30PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-10-18-san-jose-earthquakes-vs-vancouver-whitecaps-fc/feed
 
 
-10/19/2014; New York Red Bulls; 1-3; Columbus Crew; Red Bull Arena; 20681
+10/19/2014; New York Red Bulls; 1-3; Columbus Crew; Red Bull Arena; Jose Carlos Rivero, Craig Lowry, Brian Dunn, Jorge Gonzalez; 20681
 Lloyd Sam (Dax McCarty) 58; Aaron Schoefeld (Ethan Finlay) 17, Ethan Finlay (Tony Tchani) 34, Aaron Schoenfeld (Ethan Finlay, Federico Higuain) 80
+New York Red Bulls: Robles; Miller, Armando, Olave, Eckersley; McCarty (Bover 79), Alexander; Henry, Luyindula (Bitolo 61), Sam; Wright-Phillips
+Columbus Crew: Clark; Anor, Wahl, Parkhurst (Pogatetz 46), Jimenez (Gehrig 82); Meram (Barson 61), Tchani, Higuain, Trapp, Finlay; Schoenfeld
 Time: 3:00PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-10-19-new-york-red-bulls-vs-columbus-crew/feed
 
-10/19/2014; LA Galaxy; 2-2; Seattle Sounders; StubHub Center; 27244
+
+10/19/2014; LA Galaxy; 2-2; Seattle Sounders; StubHub Center; Ismail Elfath, George Ganser, Corey Rockwell, Kevin Stott; 27244
 Baggio Husidic 45+1, Marcelo Sarvas (Baggio Husidic) 50; Clint Dempsey (Obafemi Martins, DeAndre Yedlin) 69, Lamar Neagle (Obafemi Martins) 72
+LA Galaxy: Penedo; Rogers, DeLaGarza, Gonzalez, Gargan; Donovan, Juninho, Sarvas, Husidic (Gordon 73); Zardes, Keane (Leonardo 89)
+Seattle Sounders: Frei; Gonzalez, Scott, Marshall, Yedlin; Neagle (Barrett 86), Pineda, Alonso, Evans (Pappa 66); Martins, Dempsey
 Red Card: Omar Gonzalez 88;
 Time: 8:30PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-10-19-la-galaxy-vs-seattle-sounders-fc/feed
 
-10/22/2014; Real Salt Lake; 2-0; Chivas USA; Rio Tinto Stadium; 20665
+10/22/2014; Real Salt Lake; 2-0; Chivas USA; Rio Tinto Stadium; Fotis Bazakos, Paul Scott, Jeremy Hanson, Allen Chapman; 20665
 Alvaro Saborio (pk) 36, Kyle Beckerman (Joao Plata) 74;
+Real Salt Lake: Rimando; Wingert, Salcedo, Borchers, Beltran; Beckerman; Grabavoy, Mulholland (Gil 75); Morales; Plata (Garcia 87), Saborio
+Chivas USA: Kennedy; Toia, Burling, Zavaleta (Hurtado 46), Kaji; Barrera (Pelletieri 84), Dunn, Reo-Coker, Marvin Chavez; Borja (Tyrpak 75), Torres
 Red Card: ; Marvin Chavez 56
 Time: 9:30PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-10-22-real-salt-lake-vs-chivas-usa/recap
 
-10/24/2014; Chicago Fire; 2-1; Houston Dynamo; Toyota Park; 18776
+10/24/2014; Chicago Fire; 2-1; Houston Dynamo; Toyota Park; Allen Chapman, Anthony R Vasoli, Peter Balciunas, Edvin Jurisevic; 18776
 Jeff Larentowicz (pk) 66, Florent Sinama-Pongolle (Grant Ward) 90+1; Omar Cummings (Brad Davis) 18
+Chicago Fire: Johnson; Segares (Ward 62), Soumare, Larentowicz, Palmer; Alex, Watson, Pause (Ritter 79), Nyassi (Sinama-Pongolle 54); Amarikwa, Shipp
+Houston Dynamo: Deric; Taylor, Cochran, Horst, Sarkodie; Carrasco (Bruin 65); Davis (Driver 87), Garcia; Clark; Cummings (Cascio 75), Barnes
 Time: 8:00PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-10-24-chicago-fire-vs-houston-dynamo/feed
 
@@ -1769,8 +1797,10 @@ Lee Nguyen (Chris Tierney) 35;
 Time: 7:30PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-10-25-new-england-revolution-vs-toronto-fc/feed
 
-10/25/2014; FC Dallas; 0-2; Portland Timbers; Toyota Stadium;	17231
+10/25/2014; FC Dallas; 0-2; Portland Timbers; Toyota Stadium; Jair Marrufo, Corey Rockwell, Adam Garner, Kevin Terry JR.; 17231
 ; Darlington Nagbe (Diego Chara) 43, Max Urruti (Gaston Fernandez) 82
+FC Dallas: Seitz; Acosta (Diaz 64), Hedges, Loyd, Watson; Castillo, Michel, Ulloa, Escobar; Perez (Craft 84), Texeira (Akindele 73)
+Portland Timbers: Ricketts; Villafana, Ridgewell, Kah, Powell (Harrington 84); Wallace, Chara, Zemanski, Nagbe; Adi (Urruti 69), Valeri (Fernandez 46)
 Time: 8:30PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-10-25-fc-dallas-vs-portland-timbers/feed
 
@@ -1780,16 +1810,23 @@ Time: 10:00PM EDT
 Source: http://matchcenter.mlssoccer.com/matchcenter/2014-10-25-vancouver-whitecaps-fc-vs-colorado-rapids/feed
 
 
-10/26/2014; Chivas USA; 1-0; San Jose Earthquakes; StubHub Center; 5571
+10/26/2014; Chivas USA; 1-0; San Jose Earthquakes; StubHub Center; Sorin Stoica, Marco Arruda, Felisha Mariscal, Baldomero Toledo; 5571
 Felix Borja 32; 
+Chivas USA: Kennedy; Toia, Burling, Hurtado, Kaji; Barrera (Tyrpak 73), Reo-Coker, Minda, Avila (Sturgis 70); Torres, Borja (Pelletieri 80)
+San Jose Earthquakes: Busch; Stewart, Hernandez, Bernardez, Pintos (Cato 46); Cronin; Harris, Djalo, Stephenson, Salinas (Fucito 75); Wondolowski
 Time: 3:00PM EDT
 
-10/26/2014; Columbus Crew; 2-1; Philadelphia Union; Columbus Crew Stadium; 16892
+10/26/2014; Columbus Crew; 2-1; Philadelphia Union; Columbus Crew Stadium; Ismail Elfath, George Ganser, James Conlee, Mark Kadlecik; 16892
 Jairo Arrieta (Ben Speas, Wil Trapp) 13, Bernardo Anor 90; Zach Pfeffer (Amobi Okugo, Sebastien Le Toux) 85
+Columbus Crew: Clark; Francis, Wahl, Parkhurst, Jimenez; Tchani, Trapp; Meram, Speas (Anor 78), Finlay (Gehrig 65); Arrieta (Gall 63)
+Philadelphia Union: MacMath; Gaddis, Edu, White, Williams; Okugo, Carroll (Lahoud 73); Wenger (Ribeiro 53, Pfeffer 73), Maidana, Cruz; Le Toux
 Time: 5:00PM EDT
 
-10/26/2014; Sporting KC; 0-2; New York Red Bulls; Sporting Park; 19188
+10/26/2014; Sporting KC; 0-2; New York Red Bulls; Sporting Park; Armando Villarreal, Corey Parker, Chris Strickland, Edvin Jurisevic; 19188
 ; Bradley Wright-Phillips (Eric Alexander) 15, Bradley Wright-Phillips 70
+Sporting KC: Kronberg; Sinovic, Besler, Collin, Ellis; Zusi, Olum (Lopez 30), Nagamura; Peterson (Bieler 76), Dwyer, Zizzo (Toni 63)
+New York Red Bulls: Robles; Miller, Sekagya (Perrinelle 85), Olave, Eckersley; Alexander (Lade 90+1), McCarty; Bitolo, Cahill, Sam (Bover 79); Wright-Phillips
 Time: 8:30PM EDT
+Source: http://matchcenter.mlssoccer.com/matchcenter/2014-10-26-sporting-kansas-city-vs-new-york-red-bulls/feed
 
  
