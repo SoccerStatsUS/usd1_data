@@ -1,6 +1,8 @@
 Competition: Major League Soccer
 Season: 2015
 
+Key: name; position; games_played; games_started; minutes; goals; assists; shots; shots_on_goal; game_winning_goals; pk_goals/a; home_goals; away_goals; g/90; sc%
+
 Team: Chicago Fire
 BlockSource: http://www.mlssoccer.com/stats/season?franchise=1207&year=2015&season_type=REG&group=goals&op=Search&form_build_id=form-EkmBc6PGUKFT5T41zLCZu5lKntrNNdOBC2vmN83m1Po&form_id=mp7_stats_hub_build_filter_form
 
