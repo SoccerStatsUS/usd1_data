@@ -1,6 +1,6 @@
 Season: 2015
 Competition: Major League Soccer
-Date: 4/9/2015
+* Date: 4/9/2015
 * MLSSoccer is source
 
 Key: number; position; name; _; age; height (feet); weight; birthplace; status; _
@@ -605,6 +605,7 @@ Team: Vancouver Whitecaps
 
 
 
+* Date: 
 
-
+Team: FC Dallas
 
