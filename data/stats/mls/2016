@@ -216,7 +216,7 @@ Ashley Cole            ; D      ; 26     ; 25     ; 2227   ; 1      ; 0      ; 8
 Jelle Van Damme        ; D      ; 28     ; 28     ; 2436   ; 0      ; 4      ; 24     ; 2      ; 0      ; 0/0    ; 0      ; 0      ; 0.00; 0.0
 Dave Romney            ; D      ; 10     ; 8      ; 730    ; 0      ; 1      ; 1      ; 0      ; 0      ; 0/0    ; 0      ; 0      ; 0.00; 0.0
 Rafael Garcia          ; M      ; 6      ; 2      ; 269    ; 0      ; 0      ; 0      ; 0      ; 0      ; 0/0    ; 0      ; 0      ; 0.00; 0.0
-_ Leonardo             ; D      ; 4      ; 4      ; 360    ; 0      ; 0      ; 0      ; 0      ; 0      ; 0/0    ; 0      ; 0      ; 0.00; 0.0
+Leonardo             ; D      ; 4      ; 4      ; 360    ; 0      ; 0      ; 0      ; 0      ; 0      ; 0/0    ; 0      ; 0      ; 0.00; 0.0
 Jose Villarreal        ; F      ; 3      ; 0      ; 17     ; 0      ; 0      ; 0      ; 0      ; 0      ; 0/0    ; 0      ; 0      ; 0.00; 0.0
 Oscar Sorto            ; D      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0/0    ; 0      ; 0      ; 0.00; 0.0
 Bradford Jamieson IV   ; F      ; 3      ; 0      ; 39     ; 0      ; 0      ; 1      ; 1      ; 0      ; 0/0    ; 0      ; 0      ; 0.00; 0.0
@@ -320,8 +320,6 @@ Maxime Chanot          ; D      ; 6      ; 5      ; 495    ; 0      ; 0      ; 1
 
 Team: NY Red Bulls
 BlockSource: http://www.mlssoccer.com/stats/season?franchise=399&year=2016&season_type=REG&group=goals&op=Search&form_build_id=form-wcUbdoUmqi-XvnaSlQoUQ3WaA9EVvt86HSZbihyIuck&form_id=mp7_stats_hub_build_filter_form
-
-Player  POS     GP      GS      MINS    Gsort ascending A       SHTS    SOG     GWG     PKG/A   HmG     RdG     G/90min SC%
 
 Bradley Wright-Phillips; F      ; 34     ; 32   ; 2761     ; 24     ; 5      ; 103    ; 56     ; 7      ; 0/1    ; 14     ; 10     ; 0.78; 23.3
 Mike Grella            ; M      ; 32     ; 28   ; 2410     ; 7      ; 6      ; 40     ; 21     ; 2      ; 0/0    ; 7      ; 0      ; 0.26; 17.5
