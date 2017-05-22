@@ -17,7 +17,7 @@ Source: http://matchcenter.mlssoccer.com/matchcenter/2017-03-04-columbus-crew-sc
 
 3/4/2017; LA Galaxy; 1-2; FC Dallas; StubHub Center; Kevin Stott, Mike Rottersman, Craig Lowry, Alejandro Mariscal; 23554
 dos Santos (pk) 53; Urruti (ua) 47, Acosta (Lamah) 69
-LA Galaxy: Rowe; Romney, Van Damme, Steres, Garcia (Boateng 71); Alessandrini (Lassiter 86), Jones, Pedro, Lletget; dos Santos; McBean (Villarreal 78)
+LA Galaxy: Rowe; Romney, Van Damme, Steres, Garcia (Boateng 71); Alessandrini (Lassiter 86), Jones, Pedro, Lletget; dos Santos; McBean (Jose Villarreal 78)
 FC Dallas: Seitz; Figueroa, Hedges, Zimmerman, Grana; Lamah, Gruezo, Acosta, Barrios (Harris 68); Colman (Cermeno 68), Urruti (Akindele 79)
 Yellow Card: Jones 17, Pedro 41; Figueroa 83, Hedges 85
 Source: http://matchcenter.mlssoccer.com/matchcenter/2017-03-04-la-galaxy-vs-fc-dallas/feed
@@ -148,7 +148,7 @@ Source: http://matchcenter.mlssoccer.com/matchcenter/2017-03-12-minnesota-united
 
 3/12/2017 1900; LA Galaxy; 0-1; Portland Timbers; StubHub Center; Baldomero Toledo, Frank Anderson, Eduardo Mariscal, Ricardo Salazar; 20982
 ; Chara (Valeri) 8
-LA Galaxy: Diop; Smith, Van Damme, Steres, Garcia; Alessandrini, Husidic (Diallo 36), Pedro, Lletget; dos Santos (Boateng 46); McBean (Villarreal 78)
+LA Galaxy: Diop; Smith, Van Damme, Steres, Garcia; Alessandrini, Husidic (Diallo 36), Pedro, Lletget; dos Santos (Boateng 46); McBean (Jose Villarreal 78)
 Portland Timbers: Gleeson; Farfan, Miller, Olum, Powell; Chara, Guzman (Zemanski 39); Nagbe, Valeri (Mattocks 85), Blanco (Asprilla 89); Adi
 Red Card: Van Damme 34
 Yellow Card: Van Damme 31, Garcia 52; Nagbe 24, Powell 75
@@ -216,7 +216,7 @@ Source: http://matchcenter.mlssoccer.com/matchcenter/2017-03-18-colorado-rapids-
 3/18/2017 2130; Real Salt Lake; 1-2; LA Galaxy; Rio Tinto Stadium; Sorin Stoica, Cameron Blanchard, Jeff Muschik, Baboucarr Jallow; 20348
 Movsisyan (Rusnak) 18; Romney (Alessandrini) 69, Boateng (Alessandrini) 74
 Real Salt Lake: Rimando; Phillips (Silva 79), Schmidt, Schuler, Beltran; Beckerman, Mulholland; Saucedo (Velazco 80), Rusnak, Lennon; Movsisyan (Barrett 66)
-LA Galaxy: Diop; Romney, Diallo, Steres, Garcia (Smith 58); Jones, Joao Pedro; Boateng, Lletget, Alessandrini (Husidic 90+1); Villarreal (McBean 58)
+LA Galaxy: Diop; Romney, Diallo, Steres, Garcia (Smith 58); Jones, Joao Pedro; Boateng, Lletget, Alessandrini (Husidic 90+1); Jose Villarreal (McBean 58)
 Red Card: Beckerman 44;
 Yellow Card: Beckerman 34, Mulholland 34, Rusnak 61, Schuler 90; Alessandrini 45+1, Smith 89
 Source: http://matchcenter.mlssoccer.com/matchcenter/2017-03-18-real-salt-lake-vs-la-galaxy/feed
@@ -633,7 +633,7 @@ Yellow Card: Alfaro 44, Bruin 80;
 Source: https://matchcenter.mlssoccer.com/matchcenter/2017-04-29-seattle-sounders-fc-vs-new-england-revolution/feed
 
 4/29/2017 2230; LA Galaxy; 0-0; Philadelphia Union; StubHub Center; Alan Kelly, Matthew Nelson, Felisha Mariscal, Daniel Radford; 25008
-LA Galaxy: Rowe; Cole, Van Damme, Steres, Diallo; Joao Pedro (Villarreal 89), Husidic; Boateng (McInerney 78), Jones, Alessandrini; dos Santos
+LA Galaxy: Rowe; Cole, Van Damme, Steres, Diallo; Joao Pedro (Jose Villarreal 89), Husidic; Boateng (McInerney 78), Jones, Alessandrini; dos Santos
 Philadelphia Union: Blake; Fabinho, Marquez, Elliott, Gaddis; Medunjanin, Bedoya; Picault (Simpson 78), Alberg (Jones 65), Pontius (Herbers 90+2); Sapong
 Yellow Card: Van Damme 44, Diallo 90+3; 
 Source: https://matchcenter.mlssoccer.com/matchcenter/2017-04-29-la-galaxy-vs-philadelphia-union/feed
@@ -859,19 +859,86 @@ Orlando City: Bendik; Pagliari Giro, Pereira, Aja, Sutter; Johnson, Carrasco (Hi
 Yellow Card: Godoy 44, Urena 62, Lima 68, Ceren 70; Pereira 25
 Source: https://matchcenter.mlssoccer.com/matchcenter/2017-05-17-san-jose-earthquakes-vs-orlando-city-sc/feed
 
-5/19/2017 1930; NY Red Bulls; v; Toronto FC; Red Bull Arena
+5/19/2017 1930; NY Red Bulls; 1-1; Toronto FC; Red Bull Arena; Robert Sibiga, Peter Manikowski, Claudiu Badea, Nima Saghafi; 21025
+Bradley Wright-Phillips (Gulbrandsen, Kljestan) 38; Cheyrou (Mavinga, Beitashour) 70
+NY Red Bulls: Robles; Lawrence, Long, Perrinelle, Murillo; Felipe; Grella (Royer 60), Kljestan, Muyl (Veron 83); Wright-Phillips, Gulbrandsen (Davis 46)
+Toronto FC: Bono; Mavinga, Moor (Cheyrou 61), Zavaleta; Morrow, Vazquez, Bradley, Delgado (Edwards 67), Beitshour; Ricketts (Hamilton 90), Altidore
+Yellow Card: Amir Murillo 69, Kljestan 81, Robles 89; Bradley 37, Altidore 82
+Source: https://matchcenter.mlssoccer.com/matchcenter/2017-05-19-new-york-red-bulls-vs-toronto-fc/feed
 
-5/20/2017 1500; Montreal Impact; v; Portland Timbers; Stade Saputo
-5/20/2017 1600; DC United; v; Chicago Fire; RFK Stadium
-5/20/2017 1700; Seattle Sounders; v; Real Salt Lake; CenturyLink Field
-5/20/2017 1900; Atlanta United; v; Houston Dynamo; Bobby Dodd Stadium
-5/20/2017 1900; Vancouver Whitecaps; v; Sporting KC; BC Place
-5/20/2017 1900; Philadelphia Union; v; Colorado Rapids; Talen Energy Stadium
-5/20/2017 2000; FC Dallas; SJ Earthquakes
+5/20/2017 1500; Montreal Impact; 4-1; Portland Timbers; Stade Saputo; Jair Marrufo, Kyle Atkins, Jeff Hosking, Rubiel Vazquez; 19138
+Piatti (pk) 13, Fisher (Dzemaili) 43, Piatti (Jackson-Hamel) 50, Oyongo (Jean-Yves Tabla) 77; Valeri (Powell) 45+1
+Montreal Impact: Bush; Oyongo, Fisher, Ciman, Duvall (Camara 84); Dzemaili, Donadel (Bernardello 72), Bernier; Piatti (Lovitz 78), Jackson-Hamel, Jean-Yves Tabla
+Portland Timbers: Gleeson; Andriuskevicius, Ridgewell, Miller, Powell (Valentin 53); Guzman, Chara; Blanco, Valeri (Mattocks 81), Nagbe (Olum 78); Adi
+Yellow Card: Ciman 22, Donadel 51, Jean-Yves Tabla 66; Guzman 27, Miller 71
+Red Card: ; Chara 18
+Source: https://matchcenter.mlssoccer.com/matchcenter/2017-05-20-montreal-impact-vs-portland-timbers/feed
 
-5/21/2017 1430; NE Revolution; v; Columbus Crew; Gillette Stadium
-5/21/2017 1700; Minnesota United; v; LA Galaxy; TCF Bank Stadium
-5/21/2017 1900; Orlando City; v; NYC FC; Orlando City Stadium
+5/20/2017 1600; DC United; 0-1; Chicago Fire; RFK Stadium; Hilario Grajeda, Danny Thornberry, Eric Weisbrod, Mark Kadlecik; 20618
+; Accam (Solignac) 52
+DC United: Hamid; Kemp, Boswell, Birnbaum, Korb (Odoi-Atsem 84); Neagle, Jeffrey, Sarvas (Harkes 72), Sam; Mullins (Guillermo Ortiz 72), Le Toux
+Chicago Fire: Lampson; Vincent, Joao Meira, Kappelhof, Polster; McCarty, Schweinsteiger; Accam (Conner 79), de Leeuw (Campbell 86), Solignac; Nikolic (Arshakyan 90+1)
+Yellow Card: Sarvas 8, Neagle 64; Schweinsteiger 66
+Source: https://matchcenter.mlssoccer.com/matchcenter/2017-05-20-dc-united-vs-chicago-fire/feed
+
+5/20/2017 1700; Seattle Sounders; 1-0; Real Salt Lake; CenturyLink Field; Kevin Stott, Cameron Blanchard, Felisha Mariscal, Alex Chilowicz; 40588
+Shipp (Svensson) 42;
+Seattle Sounders: Frei; Jones, Marshall, Svensson, Evans (Delem 66); Alonso, Roldan; Dempsey (Bruin 81), Lodeiro, Shipp (Fernandez 63); Morris
+Real Salt Lake: Rimando; Schmidt, Schuler, Maund, Dunk; Rusnak, Sunny (Mulholland 75), Beckerman, Holness (Savarino 57); Plata, Silva (Movsisyan 74)
+Yellow Card: ; Sunny 25, Beckerman 75
+Source: https://matchcenter.mlssoccer.com/matchcenter/2017-05-20-seattle-sounders-fc-vs-real-salt-lake/feed
+
+5/20/2017 1900; Atlanta United; 4-1; Houston Dynamo; Bobby Dodd Stadium; Allen Chapman, Jeremy Hanson, Nick Uranga, Ricardo Salazar; 44893
+Almiron (Asad) 30, Almiron (Asad) 42, Gressel (Villalba) 76, Almiron (pk) 80; Torres (pk) 90
+Atlanta United: Kann; Garza, Gonzalez Pirez, Parkhurst, Mears; Larentowicz, Carmona; Asad, Almiron (Carleton 86), Gressel (Kratz 80); Villalba (Jones 83)
+Houston Dynamo: Willis; Remick (Quioto 63), Leonardo, Machado, DeLaGarza; Alex (Torres 69), Cabezas, Garcia; Beasley, Manotas, Wenger (Clark 76)
+Yellow Card: Garza 51; DeLaGarza 54, Machado 59
+Source: https://matchcenter.mlssoccer.com/matchcenter/2017-05-20-atlanta-united-fc-vs-houston-dynamo/feed
+
+5/20/2017 1900; Philadelphia Union; 2-1; Colorado Rapids; Talen Energy Stadium; Jose Carlos Rivero, Craig Lowry, Anthony Vasoli, Sorin Stoica; 18399
+Sapong (pk) 67, Medunjanin (ua) 75; Calvert (Doyle) 15
+Red Card: ; Calvert 69
+Philadelphia Union: Blake; Wijnaldum, Onyewu, Elliott, Gaddis; Medunjanin, Bedoya; Picault (Simpson 62), Ilsinho (Creavalle 86), Herbers (Pontius 27); Sapong
+Colorado Rapids: Howard; Miller, Sjoberg, Ford, da Fonte; Saeid (Hairston 62), Azira, Hamilton (Powers 81), Gatt (Badji 76); Doyle, Calvert
+Yellow Card: Bedoya 63, Wijnaldum 81; Saeid 44, Calvert 69, Gatt 74
+Source: https://matchcenter.mlssoccer.com/matchcenter/2017-05-20-philadelphia-union-vs-colorado-rapids/feed
+
+5/20/2017 1900; Vancouver Whitecaps; 2-0; Sporting KC; BC Place; Baldomero Toledo, Mike Rottersman, Eduardo Mariscal, Baboucarr Jallow; 21020
+Techera (Bolanos, Williams) 40, Parker (Bolanos) 67;
+Vancouver Whitecaps: Ousted; Harvey, Parker, Waston, Williams; Laba; Bolanos (Mezquida 78), Tchani (Davies 62), Jacobson, Techera; Montero (Shea 85)
+Sporting KC: Melia; Sinovic, Besler, Ellis, Zusi; Mustivar (Feilhaber 56), Sanchez, Espinoza; Pasher (Medranda 46), Blessing (Porter 69), Fernandes
+Yellow Card: Sinovic 77; Espinoza 66, Laba 89
+Source: https://matchcenter.mlssoccer.com/matchcenter/2017-05-20-vancouver-whitecaps-fc-vs-sporting-kansas-city/recap
+
+5/20/2017 2000; FC Dallas; 0-1; SJ Earthquakes; Toyota Stadium (Frisco); Ismail Elfath, Jonathan Johnson, Kathryn Nesbitt, Alejandro Mariscal; 14200
+; Hyka (Urena) 81
+FC Dallas: Gonzalez; Figueroa, Hedges, Zimmerman, Grana; Gruezo, Acosta (Hollingshead 88); Lamah (Akindele 46), Morales (Colman 59), Barrios; Urruti
+SJ Earthquakes: Bingham; Lima, Bernardez, Jungwirth, Cato (Godoy 90); Hyka (Sarkodie 84), Alashe, Ceren; Thompson (Urena 57), Hoesen, Wondolowski
+Yellow Card: Gruezo 70; 
+Source: https://matchcenter.mlssoccer.com/matchcenter/2017-05-20-fc-dallas-vs-san-jose-earthquakes/feed
+
+5/21/2017 1430; NE Revolution; 2-1; Columbus Crew; Gillette Stadium; Alan Kelly, Corey Rockwell, Matthew Nelson, Marcos de Oliveira; 18651
+Fagundez (Kamara, Nguyen) 24, Fagundez (ua) 34; Kamara (Trapp) 20
+NE Revolution: Cropper; Tierney (Watson 83), Mlinar Delamea, Angoua, Farrell; Kouassi; Fagundez, Rowe; Hollinger-Janzen (Koffie 46); Nguyen (Caldwell 88), Kamara
+Columbus Crew: Steffen; Francis, Mensah, Naess, Jimenez (Raitala 62); Abu (Jahn 73), Trapp; Meram, Higuain, Manneh (Hansen 62); Kamara
+Yellow Card: ; Trapp 55, Jahn 90+1
+Red Card: Farrell 90+3; 
+Source: https://matchcenter.mlssoccer.com/matchcenter/2017-05-21-new-england-revolution-vs-columbus-crew-sc/feed
+
+5/21/2017 1700; Minnesota United; 1-2; LA Galaxy; TCF Bank Stadium; Chris Penso, Jeff Muschik, Oscar Mitchell-Carvalho, Fotis Bazakos; 19107
+Ramirez (Cronin) 66; dos Santos (Alessandrini) 38, Ramirez (og) 84
+Yellow Card: Ibarra 74; Van Damme 45+2, Steres 73, Alessandrini 79, dos Santos 90+3
+Minnesota United: Shuttleworth; Burch, Calvo, Kallman, Thiesson; Ibson, Cronin; Ibarra (Jome 78), Molino, Danladi (Venegas 41); Ramirez
+LA Galaxy: Rowe; Cole, Van Damme, Steres, Romney; Boateng (Mendiola 76), Husidic (Garcia 8), Joao Pedro (Jaime Villarreal 87), Alessandrini; Zardes, dos Santos
+Source: https://matchcenter.mlssoccer.com/matchcenter/2017-05-21-minnesota-united-fc-vs-la-galaxy/feed
+
+5/21/2017 1900; Orlando City; 0-3; NYC FC; Orlando City Stadium; Mark Geiger, Kermit Quisenberry, Charles Morgante, Caleb Mendez; 25527
+; Villa (pk) 14, Wallace (White, Harrison) 35, Villa (Moralez) 82
+Orlando City: Bendik; Toia, Leo Pereira, Spector, Sutter; Nocerino (Perez Garcia 60); Higuita (Gil 75), Johnson; Kaka (Barnes 60); Rivas, Larin
+NYC FC: Johnson; Sweat, Callens, Chanot, White (Allen 37); Ring, Lopez, Moralez; Wallace, Villa (McNamara 86), Harrison (Camargo 80)
+Yellow Card: Rivas 34, Pereira 90+2; Lopez 19, Moralez 45+1
+
+Source: https://matchcenter.mlssoccer.com/matchcenter/2017-05-21-orlando-city-sc-vs-new-york-city-fc/feed
 
 5/26/2017 1900; Toronto FC; v; Columbus Crew; BMO Field
 
