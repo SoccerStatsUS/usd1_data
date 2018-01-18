@@ -1,0 +1,699 @@
+Competition: Major League Soccer
+Season: 2016
+
+Key: Team;	Player;	POS;	GP;	GS;	MINS;	G;	A;	SHTS;	SOG;	GWG;	PKG/A;	HmG;	RdG;	G/90min;	SC%
+
+Team: Atlanta United
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=11091&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-jQFpMw5HBJ-duofNeVWYT-gtVeRpZw4H-G023I-vy7w&form_id=mp7_stats_hub_build_filter_form
+
+Atlanta United;	Josef Martinez;	F;	20;	17;	1528;	19;	1;	67;	32;	3;	2/2;	16;	3;	1.12;	28.4
+Atlanta United;	Hector Villalba;	M;	34;	34;	2762;	13;	11;	86;	44;	4;	0/0;	7;	6;	0.42;	15.1
+Atlanta United;	Miguel Almiron;	M;	30;	27;	2394;	9;	14;	84;	35;	3;	1/1;	7;	2;	0.34;	10.7
+Atlanta United;	Yamil Asad;	M;	32;	31;	2765;	7;	13;	53;	23;	1;	1/1;	5;	2;	0.23;	13.2
+Atlanta United;	Julian Gressel;	M;	32;	24;	2048;	5;	9;	35;	9;	1;	0/0;	3;	2;	0.22;	14.3
+Atlanta United;	Jacob Peterson;	F;	10;	1;	165;	3;	0;	7;	3;	0;	0/0;	1;	2;	1.64;	42.9
+Atlanta United;	Greg Garza;	D;	26;	25;	2150;	2;	5;	12;	5;	0;	0/0;	1;	1;	0.08;	16.7
+Atlanta United;	Carlos Carmona;	M;	31;	30;	2684;	2;	2;	9;	2;	0;	0/0;	1;	1;	0.07;	22.2
+Atlanta United;	Anton Walkes;	D;	20;	17;	1528;	2;	0;	7;	4;	1;	0/0;	2;	0;	0.12;	28.6
+Atlanta United;	Kenwyne Jones;	F;	17;	5;	499;	2;	0;	11;	4;	0;	0/0;	1;	1;	0.36;	18.2
+Atlanta United;	Leandro Gonzalez Pirez;	D;	32;	32;	2811;	1;	3;	16;	6;	1;	0/0;	1;	0;	0.03;	6.3
+Atlanta United;	Tyrone Mears;	D;	20;	16;	1498;	1;	1;	2;	1;	0;	0/0;	0;	1;	0.06;	50
+Atlanta United;	Kevin Kratz;	M;	20;	5;	590;	1;	1;	8;	2;	0;	0/0;	1;	0;	0.15;	12.5
+Atlanta United;	Brandon Vazquez;	F;	13;	0;	178;	1;	1;	10;	2;	0;	0/0;	0;	1;	0.51;	10
+Atlanta United;	Jeff Larentowicz;	M;	33;	30;	2602;	1;	1;	15;	4;	0;	0/0;	1;	0;	0.03;	6.7
+Atlanta United;	Chris McCann;	M;	23;	9;	958;	0;	2;	13;	2;	0;	0/0;	0;	0;	0;	0
+Atlanta United;	Zach Loyd;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Atlanta United;	Mark Bloom;	D;	2;	2;	163;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Atlanta United;	Andrew Carleton;	M;	1;	0;	4;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Atlanta United;	Chris Goslin;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Atlanta United;	Andrew Wheeler-Omiunu;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Atlanta United;	Miles Robinson;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Atlanta United;	Harrison Heath;	M;	1;	0;	1;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Atlanta United;	Bryan Róchez;	F;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Atlanta United;	Mikey Ambrose;	D;	7;	2;	260;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+Atlanta United;	Bobby Boswell;	D;	1;	0;	7;	0;	0;	1;	1;	0;	0/0;	0;	0;	0;	0
+Atlanta United;	Michael Parkhurst;	D;	33;	33;	2906;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+
+Team: Chicago Fire
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1207&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-7mFpD7RJD2JseQ6COZ9zgOhm0d4ksR23FX_EFSveVEA&form_id=mp7_stats_hub_build_filter_form
+
+Chicago Fire;	Nemanja Nikolic;	F;	34;	34;	2946;	24;	4;	118;	59;	5;	4/5;	19;	5;	0.73;	20.3
+Chicago Fire;	David Accam;	M;	30;	24;	2177;	14;	8;	66;	36;	4;	2/2;	8;	6;	0.58;	21.2
+Chicago Fire;	Luis Solignac;	F;	33;	26;	2153;	7;	4;	45;	15;	3;	0/0;	4;	3;	0.29;	15.6
+Chicago Fire;	Michael de Leeuw;	F;	30;	26;	2189;	3;	8;	37;	13;	0;	0/0;	2;	1;	0.12;	8.1
+Chicago Fire;	Bastian Schweinsteiger;	M;	24;	23;	1993;	3;	6;	25;	5;	2;	0/0;	2;	1;	0.14;	12
+Chicago Fire;	Arturo Alvarez;	M;	25;	13;	1084;	3;	2;	27;	11;	0;	0/0;	2;	1;	0.25;	11.1
+Chicago Fire;	Brandon Vincent;	D;	27;	26;	2341;	2;	5;	18;	4;	0;	0/0;	1;	1;	0.08;	11.1
+Chicago Fire;	Matt Polster;	M;	22;	21;	1769;	1;	7;	9;	3;	0;	0/0;	1;	0;	0.05;	11.1
+Chicago Fire;	Djordje Mihailovic;	M;	17;	7;	732;	1;	2;	8;	1;	0;	0/0;	0;	1;	0.12;	12.5
+Chicago Fire;	Juninho;	M;	21;	17;	1528;	1;	2;	26;	9;	1;	0/0;	1;	0;	0.06;	3.8
+Chicago Fire;	Dax McCarty;	M;	28;	28;	2465;	0;	5;	15;	3;	0;	0/0;	0;	0;	0;	0
+Chicago Fire;	Patrick Doody;	D;	7;	7;	629;	0;	4;	1;	0;	0;	0/0;	0;	0;	0;	0
+Chicago Fire;	Johan Kappelhof;	D;	33;	33;	2881;	0;	4;	4;	1;	0;	0/0;	0;	0;	0;	0
+Chicago Fire;	Joao Meira;	D-M;	30;	27;	2412;	0;	2;	6;	3;	0;	0/0;	0;	0;	0;	0
+Chicago Fire;	Drew Conner;	M;	21;	8;	882;	0;	1;	3;	1;	0;	0/0;	0;	0;	0;	0
+Chicago Fire;	Brandt Bronico;	M-F;	4;	0;	53;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Chicago Fire;	Joey Calistri;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Chicago Fire;	Matej Dekovic;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Chicago Fire;	Collin Fernandez;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Chicago Fire;	Jorge Corrales;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Chicago Fire;	Michael Harrington;	D;	9;	9;	798;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Chicago Fire;	David Arshakyan;	F;	7;	0;	27;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+Chicago Fire;	Christian Dean;	D;	3;	2;	220;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+Chicago Fire;	Jonathan Campbell;	D;	24;	8;	1009;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+Chicago Fire;	John Goossens;	M;	1;	1;	89;	0;	0;	2;	0;	0;	0/0;	0;	0;	0;	0
+Chicago Fire;	Daniel Johnson;	M;	8;	0;	125;	0;	0;	6;	3;	0;	0/0;	0;	0;	0;	0
+
+Team: Colorado Rapids
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=436&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-5e-U2ccGdDIx2JdsqKzFVRqk6wsNEsysv-AEiLzjTyM&form_id=mp7_stats_hub_build_filter_form
+
+Colorado Rapids;	Dominique Badji;	M;	33;	29;	2540;	9;	6;	56;	28;	2;	0/1;	6;	3;	0.32;	16.1
+Colorado Rapids;	Kevin Doyle;	F;	25;	23;	1966;	5;	4;	54;	18;	0;	1/1;	4;	1;	0.23;	9.3
+Colorado Rapids;	Marlon Hairston;	M;	34;	29;	2605;	3;	4;	15;	7;	1;	0/0;	3;	0;	0.1;	20
+Colorado Rapids;	Alan Gordon;	F;	26;	6;	816;	3;	4;	23;	9;	3;	0/0;	3;	0;	0.33;	13
+Colorado Rapids;	Josh Gatt;	M-F;	20;	11;	1067;	2;	3;	17;	6;	1;	0/0;	1;	1;	0.17;	11.8
+Colorado Rapids;	Stefan Aigner;	F;	9;	5;	488;	2;	1;	9;	3;	0;	0/0;	2;	0;	0.37;	22.2
+Colorado Rapids;	Shkelzen Gashi;	M;	17;	12;	1034;	2;	1;	26;	9;	1;	0/0;	2;	0;	0.17;	7.7
+Colorado Rapids;	Mohammed Saeid;	M;	29;	27;	2269;	1;	4;	13;	2;	0;	0/0;	0;	1;	0.04;	7.7
+Colorado Rapids;	Caleb Calvert;	F;	12;	3;	378;	1;	1;	11;	2;	0;	0/0;	0;	1;	0.24;	9.1
+Colorado Rapids;	Dillon Serna;	M;	19;	9;	945;	1;	1;	26;	6;	0;	0/0;	1;	0;	0.1;	3.8
+Colorado Rapids;	Kortne Ford;	D;	20;	19;	1727;	1;	0;	10;	3;	1;	0/0;	1;	0;	0.05;	10
+Colorado Rapids;	Axel Sjöberg;	D;	19;	19;	1637;	1;	0;	11;	2;	0;	0/0;	1;	0;	0.05;	9.1
+Colorado Rapids;	Mekeil Williams;	D;	17;	16;	1397;	0;	2;	3;	0;	0;	0/0;	0;	0;	0;	0
+Colorado Rapids;	Micheal Azira;	M;	30;	28;	2569;	0;	2;	13;	4;	0;	0/0;	0;	0;	0;	0
+Colorado Rapids;	Marc Burch;	D;	3;	3;	270;	0;	1;	0;	0;	0;	0/0;	0;	0;	0;	0
+Colorado Rapids;	Dillon Powers;	M;	15;	11;	964;	0;	1;	4;	1;	0;	0/0;	0;	0;	0;	0
+Colorado Rapids;	Jared Watts;	D-M;	20;	18;	1490;	0;	1;	4;	1;	0;	0/0;	0;	0;	0;	0
+Colorado Rapids;	Bismark Adjei-Boateng;	M;	18;	10;	806;	0;	1;	12;	3;	0;	0/0;	0;	0;	0;	0
+Colorado Rapids;	Dennis Castillo;	D;	3;	3;	244;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Colorado Rapids;	Sam Hamilton;	M;	3;	1;	124;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Colorado Rapids;	Ricardo Perez;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Colorado Rapids;	Mike da Fonte;	D;	17;	14;	1223;	0;	0;	2;	0;	0;	0/0;	0;	0;	0;	0
+Colorado Rapids;	Eric Miller;	D;	30;	30;	2616;	0;	0;	2;	0;	0;	0/0;	0;	0;	0;	0
+Colorado Rapids;	Sam Cronin;	M;	3;	3;	262;	0;	0;	2;	0;	0;	0/0;	0;	0;	0;	0
+Colorado Rapids;	Bobby Burling;	D;	12;	8;	760;	0;	0;	4;	0;	0;	0/0;	0;	0;	0;	0
+Colorado Rapids;	Luis Gil;	M;	4;	3;	256;	0;	0;	7;	3;	0;	0/0;	0;	0;	0;	0
+
+
+Team: Columbus Crew
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=454&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-5e-U2ccGdDIx2JdsqKzFVRqk6wsNEsysv-AEiLzjTyM&form_id=mp7_stats_hub_build_filter_form
+
+Columbus Crew;	Ola Kamara;	F;	34;	33;	2867;	18;	3;	89;	39;	3;	2/3;	10;	8;	0.57;	20.2
+Columbus Crew;	Justin Meram;	M;	34;	32;	2588;	13;	7;	61;	28;	5;	0/0;	10;	3;	0.45;	21.3
+Columbus Crew;	Federico Higuain;	M;	26;	26;	2238;	9;	14;	52;	24;	2;	2/3;	6;	3;	0.36;	17.3
+Columbus Crew;	Kekuta Manneh;	M-F;	19;	9;	838;	4;	3;	26;	12;	2;	0/0;	2;	2;	0.43;	15.4
+Columbus Crew;	Josh Williams;	D;	22;	19;	1795;	3;	0;	6;	3;	2;	0/0;	2;	1;	0.15;	50
+Columbus Crew;	Jonathan Mensah;	D;	26;	25;	2169;	2;	1;	20;	5;	1;	0/0;	2;	0;	0.08;	10
+Columbus Crew;	Niko Hansen;	M;	14;	3;	401;	1;	2;	7;	2;	1;	0/0;	1;	0;	0.22;	14.3
+Columbus Crew;	Adam Jahn;	F;	21;	1;	316;	1;	1;	8;	5;	0;	0/0;	0;	1;	0.28;	12.5
+Columbus Crew;	Ethan Finlay;	M;	19;	14;	1284;	1;	1;	21;	4;	0;	0/0;	1;	0;	0.07;	4.8
+Columbus Crew;	Lalas Abubakar;	D;	7;	6;	528;	1;	0;	5;	1;	0;	0/0;	0;	1;	0.17;	20
+Columbus Crew;	Wil Trapp;	M;	34;	34;	3035;	0;	5;	8;	3;	0;	0/0;	0;	0;	0;	0
+Columbus Crew;	Hector Jimenez;	M;	19;	15;	1366;	0;	3;	6;	1;	0;	0/0;	0;	0;	0;	0
+Columbus Crew;	Artur;	M;	24;	19;	1702;	0;	3;	19;	3;	0;	0/0;	0;	0;	0;	0
+Columbus Crew;	Waylon Francis;	D;	12;	10;	852;	0;	2;	8;	0;	0;	0/0;	0;	0;	0;	0
+Columbus Crew;	Jukka Raitala;	D;	28;	20;	1920;	0;	2;	8;	1;	0;	0/0;	0;	0;	0;	0
+Columbus Crew;	Pedro Santos;	M;	9;	8;	650;	0;	2;	14;	6;	0;	0/0;	0;	0;	0;	0
+Columbus Crew;	Connor Maloney;	D;	2;	1;	127;	0;	1;	1;	0;	0;	0/0;	0;	0;	0;	0
+Columbus Crew;	Mohammed Abu;	M;	20;	14;	1280;	0;	1;	6;	1;	0;	0/0;	0;	0;	0;	0
+Columbus Crew;	Alex Crognale;	D;	17;	12;	1069;	0;	1;	8;	2;	0;	0/0;	0;	0;	0;	0
+Columbus Crew;	Harrison Afful;	D;	24;	21;	1777;	0;	1;	16;	2;	0;	0/0;	0;	0;	0;	0
+Columbus Crew;	Gaston Sauro;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Columbus Crew;	Dilly Duka;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Columbus Crew;	Tony Tchani;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Columbus Crew;	Abuchi Obinwa;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Columbus Crew;	Ben Swanson;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Columbus Crew;	Marshall Hollingsworth;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Columbus Crew;	Cristian Martinez;	M;	8;	1;	237;	0;	0;	3;	0;	0;	0/0;	0;	0;	0;	0
+Columbus Crew;	Nicolai Naess;	D;	18;	17;	1476;	0;	0;	8;	1;	0;	0/0;	0;	0;	0;	0
+
+
+Team: DC United
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1326&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-5e-U2ccGdDIx2JdsqKzFVRqk6wsNEsysv-AEiLzjTyM&form_id=mp7_stats_hub_build_filter_form
+
+DC United;	Luciano Acosta;	M-F;	31;	30;	2419;	5;	5;	46;	24;	4;	1/1;	4;	1;	0.19;	10.9
+DC United;	Patrick Mullins;	F;	20;	12;	1075;	5;	0;	38;	14;	1;	0/0;	4;	1;	0.42;	13.2
+DC United;	Lloyd Sam;	M-F;	30;	23;	2025;	2;	6;	25;	11;	0;	0/0;	1;	1;	0.09;	8
+DC United;	Deshorn Brown;	F;	16;	10;	788;	2;	1;	22;	10;	0;	0/0;	0;	2;	0.23;	9.1
+DC United;	Ian Harkes;	M;	25;	22;	1948;	2;	1;	25;	7;	0;	0/0;	0;	2;	0.09;	8
+DC United;	Kofi Opare;	D;	26;	25;	2214;	2;	1;	32;	8;	0;	0/0;	2;	0;	0.08;	6.3
+DC United;	Sébastien Le Toux;	F;	16;	8;	732;	2;	0;	9;	4;	0;	0/0;	0;	2;	0.25;	22.2
+DC United;	Patrick Nyarko;	F-M;	14;	12;	1028;	1;	2;	18;	7;	1;	0/0;	1;	0;	0.09;	5.6
+DC United;	Paul Arriola;	M;	11;	11;	922;	1;	2;	19;	7;	0;	0/0;	1;	0;	0.1;	5.3
+DC United;	Jared Jeffrey;	M;	23;	19;	1617;	1;	1;	13;	6;	0;	0/0;	0;	1;	0.06;	7.7
+DC United;	Zoltan Stieber;	M;	8;	6;	526;	1;	1;	13;	7;	0;	0/0;	0;	1;	0.17;	7.7
+DC United;	Bobby Boswell;	D;	10;	10;	885;	1;	0;	5;	2;	0;	0/0;	1;	0;	0.1;	20
+DC United;	Jose Guillermo Ortiz;	F;	16;	7;	669;	1;	0;	21;	8;	0;	0/0;	1;	0;	0.13;	4.8
+DC United;	Lamar Neagle;	M-F;	22;	9;	1116;	1;	0;	26;	12;	1;	1/2;	0;	1;	0.08;	3.8
+DC United;	Sean Franklin;	D;	19;	15;	1415;	0;	2;	8;	3;	0;	0/0;	0;	0;	0;	0
+DC United;	Chris Korb;	D;	16;	13;	1160;	0;	1;	2;	0;	0;	0/0;	0;	0;	0;	0
+DC United;	Russell Canouse;	M;	10;	10;	868;	0;	1;	6;	1;	0;	0/0;	0;	0;	0;	0
+DC United;	Marcelo Sarvas;	M;	25;	19;	1841;	0;	1;	9;	3;	0;	0/1;	0;	0;	0;	0
+DC United;	Chris Rolfe;	F;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+DC United;	Maxim Tissot;	D;	1;	1;	90;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+DC United;	Chris Durkin;	D-M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+DC United;	Chris Odoi-Atsem;	D;	9;	5;	482;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+DC United;	Bruno Miranda;	F;	5;	0;	53;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+DC United;	Rob Vincent;	M-F;	2;	0;	66;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+DC United;	Alhaji Kamara;	F;	1;	0;	14;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+DC United;	Julian Buescher;	M;	7;	2;	180;	0;	0;	4;	1;	0;	0/0;	0;	0;	0;	0
+DC United;	Jalen Robinson;	D;	7;	6;	543;	0;	0;	5;	0;	0;	0/0;	0;	0;	0;	0
+DC United;	Taylor Kemp;	D;	22;	22;	1980;	0;	0;	11;	2;	0;	0/0;	0;	0;	0;	0
+DC United;	Nick DeLeon;	D;	19;	18;	1594;	0;	0;	18;	4;	0;	0/0;	0;	0;	0;	0
+DC United;	Steve Birnbaum;	D;	26;	25;	2249;	0;	0;	24;	3;	0;	0/0;	0;	0;	0;	0
+
+Team: FC Dallas
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1903&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-5e-U2ccGdDIx2JdsqKzFVRqk6wsNEsysv-AEiLzjTyM&form_id=mp7_stats_hub_build_filter_form
+
+FC Dallas;	Maximiliano Urruti;	F;	32;	31;	2749;	12;	5;	103;	39;	3;	1/1;	7;	5;	0.39;	11.7
+FC Dallas;	Roland Lamah;	M;	32;	29;	2157;	11;	3;	44;	23;	2;	0/0;	10;	1;	0.46;	25
+FC Dallas;	Tesho Akindele;	F;	29;	15;	1511;	4;	0;	21;	11;	0;	0/0;	3;	1;	0.24;	19
+FC Dallas;	Michael Barrios;	M;	34;	28;	2566;	3;	14;	60;	18;	0;	0/0;	2;	1;	0.11;	5
+FC Dallas;	Kellyn Acosta;	M;	23;	20;	1895;	3;	2;	49;	15;	1;	0/0;	1;	2;	0.14;	6.1
+FC Dallas;	Maynor Figueroa;	D;	26;	26;	2325;	3;	1;	34;	6;	2;	0/0;	3;	0;	0.12;	8.8
+FC Dallas;	Mauro Diaz;	M;	19;	13;	1107;	2;	8;	21;	9;	0;	2/3;	2;	0;	0.16;	9.5
+FC Dallas;	Atiba Harris;	D;	29;	21;	2020;	2;	2;	10;	2;	0;	0/0;	1;	1;	0.09;	20
+FC Dallas;	Cristian Colman;	F;	26;	10;	959;	2;	1;	40;	15;	1;	0/0;	0;	2;	0.19;	5
+FC Dallas;	Matt Hedges;	D;	27;	27;	2425;	2;	0;	25;	9;	1;	0/0;	1;	1;	0.07;	8
+FC Dallas;	Hernan Grana;	D;	30;	30;	2660;	1;	4;	8;	2;	0;	0/0;	1;	0;	0.03;	12.5
+FC Dallas;	Javier Morales;	M;	15;	8;	757;	1;	2;	7;	3;	1;	0/0;	1;	0;	0.12;	14.3
+FC Dallas;	Walker Zimmerman;	D;	22;	18;	1602;	1;	1;	9;	3;	0;	0/0;	0;	1;	0.06;	11.1
+FC Dallas;	Jesus Ferreira;	F;	1;	0;	19;	1;	0;	1;	1;	0;	0/0;	1;	0;	4.74;	100
+FC Dallas;	Carlos Gruezo;	M;	31;	30;	2613;	0;	4;	22;	4;	0;	0/0;	0;	0;	0;	0
+FC Dallas;	Victor Ulloa;	M;	23;	12;	1203;	0;	2;	6;	4;	0;	0/0;	0;	0;	0;	0
+FC Dallas;	Luis Gonzalez;	M;	2;	0;	8;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+FC Dallas;	Anibal Chala;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+FC Dallas;	Bryan Reynolds;	F;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+FC Dallas;	Jacori Hayes;	M;	3;	2;	90;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+FC Dallas;	Walker Hume;	F;	2;	2;	180;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+FC Dallas;	Reggie Cannon;	D;	1;	0;	1;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+FC Dallas;	Adonijah Reid;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+FC Dallas;	Paxton Pomykal;	M;	2;	2;	140;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+FC Dallas;	Coy Craft;	F-M;	1;	0;	11;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+FC Dallas;	Carlos Cermeno;	M;	8;	3;	315;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+FC Dallas;	Aaron Guillen;	D;	6;	4;	374;	0;	0;	2;	0;	0;	0/0;	0;	0;	0;	0
+FC Dallas;	Ryan Hollingshead;	M-D;	18;	9;	820;	0;	0;	16;	3;	0;	0/0;	0;	0;	0;	0
+
+Team: Houston Dynamo
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1897&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-5e-U2ccGdDIx2JdsqKzFVRqk6wsNEsysv-AEiLzjTyM&form_id=mp7_stats_hub_build_filter_form
+
+Houston Dynamo;	Erick Torres;	F;	27;	23;	2001;	14;	3;	72;	26;	3;	5/6;	9;	5;	0.63;	19.4
+Houston Dynamo;	Mauro Manotas;	F;	33;	24;	2063;	10;	5;	71;	35;	1;	0/1;	7;	3;	0.44;	14.1
+Houston Dynamo;	Alberth Elis;	F;	26;	18;	1645;	10;	4;	71;	28;	3;	1/1;	9;	1;	0.55;	14.1
+Houston Dynamo;	Romell Quioto;	F;	22;	14;	1281;	7;	3;	44;	15;	2;	0/0;	5;	2;	0.49;	15.9
+Houston Dynamo;	Alex;	M;	32;	28;	2309;	2;	11;	40;	14;	2;	0/0;	2;	0;	0.08;	5
+Houston Dynamo;	Vicente Sanchez;	F;	21;	3;	517;	2;	5;	21;	7;	0;	0/0;	1;	1;	0.35;	9.5
+Houston Dynamo;	Andrew Wenger;	M;	22;	12;	1110;	2;	2;	21;	9;	0;	0/0;	1;	1;	0.16;	9.5
+Houston Dynamo;	Memo Rodriguez;	M;	9;	3;	326;	2;	1;	11;	6;	0;	0/0;	1;	1;	0.55;	18.2
+Houston Dynamo;	Leonardo;	D;	30;	29;	2616;	2;	1;	13;	2;	1;	0/0;	2;	0;	0.07;	15.4
+Houston Dynamo;	Tomas Martinez;	M;	9;	5;	501;	2;	0;	18;	5;	0;	0/0;	2;	0;	0.36;	11.1
+Houston Dynamo;	Dylan Remick;	D;	14;	13;	1167;	1;	0;	6;	1;	0;	0/0;	1;	0;	0.08;	16.7
+Houston Dynamo;	Juan David Cabezas;	M;	27;	26;	2231;	1;	0;	20;	4;	0;	0/0;	1;	0;	0.04;	5
+Houston Dynamo;	Boniek Garcia;	M;	20;	12;	1165;	0;	4;	6;	2;	0;	0/0;	0;	0;	0;	0
+Houston Dynamo;	A.J. DeLaGarza;	D;	30;	30;	2623;	0;	3;	8;	2;	0;	0/0;	0;	0;	0;	0
+Houston Dynamo;	Adolfo Machado;	D;	33;	33;	2970;	0;	2;	11;	1;	0;	0/0;	0;	0;	0;	0
+Houston Dynamo;	Ricardo Clark;	M;	28;	26;	2252;	0;	2;	23;	6;	0;	0/0;	0;	0;	0;	0
+Houston Dynamo;	Eric Alexander;	M;	12;	11;	887;	0;	1;	2;	0;	0;	0/0;	0;	0;	0;	0
+Houston Dynamo;	DaMarcus Beasley;	D;	24;	22;	1985;	0;	1;	6;	3;	0;	0/0;	0;	0;	0;	0
+Houston Dynamo;	Philippe Senderos;	D;	2;	2;	162;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Houston Dynamo;	Agus;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Houston Dynamo;	Kevin Garcia;	D;	3;	2;	211;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Houston Dynamo;	Charlie Ward;	M;	1;	0;	45;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Houston Dynamo;	Taylor Hunter;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Houston Dynamo;	Christian Lucatero;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Houston Dynamo;	George Malki;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Houston Dynamo;	Joe Holland;	M;	5;	0;	22;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+Houston Dynamo;	Jose Escalante;	M;	3;	0;	24;	0;	0;	2;	0;	0;	0/0;	0;	0;	0;	0
+Houston Dynamo;	Jalil Anibaba;	D;	8;	4;	462;	0;	0;	2;	1;	0;	0/0;	0;	0;	0;	0
+
+Team: LA Galaxy
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1230&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-5e-U2ccGdDIx2JdsqKzFVRqk6wsNEsysv-AEiLzjTyM&form_id=mp7_stats_hub_build_filter_form
+
+LA Galaxy;	Romain Alessandrini;	M;	30;	27;	2441;	13;	12;	95;	41;	4;	2/2;	5;	8;	0.48;	13.7
+LA Galaxy;	Giovani dos Santos;	F;	25;	25;	2189;	6;	3;	59;	17;	0;	3/3;	2;	4;	0.25;	10.2
+LA Galaxy;	Emmanuel Boateng;	M;	34;	29;	2321;	4;	2;	28;	13;	1;	0/0;	2;	2;	0.16;	14.3
+LA Galaxy;	Bradford Jamieson IV;	F;	24;	11;	984;	3;	1;	8;	3;	0;	0/0;	2;	1;	0.27;	37.5
+LA Galaxy;	Daniel Steres;	D;	21;	21;	1843;	3;	0;	16;	5;	0;	0/0;	1;	2;	0.15;	18.8
+LA Galaxy;	Gyasi Zardes;	F;	24;	23;	1987;	2;	2;	29;	10;	0;	0/0;	1;	1;	0.09;	6.9
+LA Galaxy;	Jack McBean;	F;	18;	8;	715;	2;	1;	9;	4;	1;	0/0;	0;	2;	0.25;	22.2
+LA Galaxy;	Dave Romney;	D;	29;	23;	2249;	2;	1;	19;	9;	0;	0/0;	1;	1;	0.08;	10.5
+LA Galaxy;	Jermaine Jones;	M;	20;	19;	1588;	1;	4;	21;	5;	0;	0/0;	1;	0;	0.06;	4.8
+LA Galaxy;	Ashley Cole;	D;	29;	29;	2499;	1;	2;	8;	2;	0;	0/0;	1;	0;	0.04;	12.5
+LA Galaxy;	Joao Pedro;	M;	28;	26;	2306;	1;	2;	28;	5;	0;	0/0;	0;	1;	0.04;	3.6
+LA Galaxy;	Jonathan dos Santos;	M;	12;	11;	1004;	1;	1;	11;	2;	0;	0/0;	1;	0;	0.09;	9.1
+LA Galaxy;	Jelle Van Damme;	D;	18;	18;	1503;	1;	1;	16;	1;	0;	0/0;	0;	1;	0.06;	6.3
+LA Galaxy;	Michael Ciani;	D;	6;	6;	540;	1;	0;	3;	1;	0;	0/0;	0;	1;	0.17;	33.3
+LA Galaxy;	Ariel Lassiter;	F;	14;	0;	258;	1;	0;	11;	3;	0;	0/0;	0;	1;	0.35;	9.1
+LA Galaxy;	Jose Villarreal;	F;	12;	4;	389;	0;	3;	5;	2;	0;	0/0;	0;	0;	0;	0
+LA Galaxy;	Rafael Garcia;	D;	18;	12;	1186;	0;	2;	2;	0;	0;	0/0;	0;	0;	0;	0
+LA Galaxy;	Raul Mendiola;	M;	4;	0;	36;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+LA Galaxy;	Hugo Arellano;	D;	4;	4;	334;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+LA Galaxy;	Robbie Rogers;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+LA Galaxy;	Pele van Anholt;	D;	5;	5;	357;	0;	0;	2;	1;	0;	0/0;	0;	0;	0;	0
+LA Galaxy;	Sebastian Lletget;	M;	3;	3;	270;	0;	0;	2;	0;	0;	0/0;	0;	0;	0;	0
+LA Galaxy;	Nathan Smith;	D;	12;	9;	907;	0;	0;	2;	0;	0;	0/0;	0;	0;	0;	0
+LA Galaxy;	Jaime Villarreal;	D;	7;	4;	374;	0;	0;	2;	1;	0;	0/0;	0;	0;	0;	0
+LA Galaxy;	Baggio Husidic;	M;	10;	5;	445;	0;	0;	3;	0;	0;	0/0;	0;	0;	0;	0
+LA Galaxy;	Jack McInerney;	F;	8;	3;	260;	0;	0;	9;	4;	0;	0/0;	0;	0;	0;	0
+LA Galaxy;	Bradley Diallo;	D;	18;	15;	1380;	0;	0;	11;	3;	0;	0/0;	0;	0;	0;	0
+
+Team: Minnesota United
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=6977&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-5e-U2ccGdDIx2JdsqKzFVRqk6wsNEsysv-AEiLzjTyM&form_id=mp7_stats_hub_build_filter_form
+
+Minnesota United;	Christian Ramirez;	F;	30;	27;	2392;	14;	3;	60;	34;	3;	0/0;	8;	6;	0.53;	23.3
+Minnesota United;	Abu Danladi;	F;	27;	15;	1391;	8;	3;	37;	13;	4;	0/0;	4;	4;	0.52;	21.6
+Minnesota United;	Kevin Molino;	M;	30;	30;	2512;	7;	9;	46;	16;	1;	3/4;	2;	5;	0.25;	15.2
+Minnesota United;	Miguel Ibarra;	M;	29;	20;	1758;	3;	4;	22;	12;	2;	0/0;	3;	0;	0.15;	13.6
+Minnesota United;	Ethan Finlay;	M;	11;	11;	978;	3;	3;	17;	7;	0;	0/0;	2;	1;	0.28;	17.6
+Minnesota United;	Johan Venegas;	M;	22;	12;	1226;	2;	5;	32;	10;	0;	0/0;	1;	1;	0.15;	6.3
+Minnesota United;	Jerome Thiesson;	D;	33;	33;	2955;	2;	3;	10;	4;	0;	0/0;	1;	1;	0.06;	20
+Minnesota United;	Francisco Calvo;	D;	27;	27;	2430;	2;	1;	22;	6;	0;	0/0;	1;	1;	0.07;	9.1
+Minnesota United;	Brent Kallman;	D;	23;	23;	1942;	2;	0;	10;	4;	0;	0/0;	1;	1;	0.09;	20
+Minnesota United;	Collen Warner;	M;	25;	12;	1283;	1;	1;	8;	1;	0;	0/0;	0;	1;	0.07;	12.5
+Minnesota United;	Sam Nicholson;	M;	12;	8;	639;	1;	1;	19;	5;	0;	0/0;	0;	1;	0.14;	5.3
+Minnesota United;	Ibson;	M;	31;	29;	2660;	0;	6;	17;	7;	0;	0/0;	0;	0;	0;	0
+Minnesota United;	Collin Martin;	M;	11;	7;	635;	0;	1;	2;	1;	0;	0/0;	0;	0;	0;	0
+Minnesota United;	Sam Cronin;	M;	18;	18;	1551;	0;	1;	5;	1;	0;	0/0;	0;	0;	0;	0
+Minnesota United;	Marc Burch;	D;	15;	14;	1232;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Minnesota United;	Josh Gatt;	M-F;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Minnesota United;	Bernardo Añor;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Minnesota United;	Justin Davis;	D;	8;	5;	492;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Minnesota United;	Kevin Venegas;	D;	6;	6;	540;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Minnesota United;	Brandon Allen;	F;	1;	0;	9;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Minnesota United;	Jose Leiton;	M;	1;	0;	15;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Minnesota United;	Ismaila Jome;	M-F;	12;	7;	674;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+Minnesota United;	Joseph Greenspan;	D;	4;	3;	235;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+Minnesota United;	Michael Boxall;	D;	12;	12;	1080;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+Minnesota United;	Vadim Demidov;	D;	3;	3;	270;	0;	0;	2;	0;	0;	0/0;	0;	0;	0;	0
+Minnesota United;	Jermaine Taylor;	D;	14;	6;	671;	0;	0;	4;	1;	0;	0/0;	0;	0;	0;	0
+Minnesota United;	Rasmus Schuller;	M;	7;	4;	324;	0;	0;	4;	0;	0;	0/0;	0;	0;	0;	0
+Minnesota United;	Mohammed Saeid;	M;	3;	3;	243;	0;	0;	5;	2;	0;	0/0;	0;	0;	0;	0
+Minnesota United;	Bashkim Kadrii;	M-F;	11;	5;	422;	0;	0;	12;	3;	0;	0/0;	0;	0;	0;	0
+
+Team: Montreal Impact
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1616&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-qOCxSn-m8fSwlSBQmvlv41kNhxVqeX8wB-RdUTfrvGA&form_id=mp7_stats_hub_build_filter_form
+
+Montreal Impact;	Ignacio Piatti;	M;	28;	26;	2368;	17;	6;	75;	38;	2;	4/5;	11;	6;	0.65;	22.7
+Montreal Impact;	Anthony Jackson-Hamel;	F;	21;	11;	1137;	9;	4;	32;	14;	3;	0/0;	4;	5;	0.71;	28.1
+Montreal Impact;	Blerim Dzemaili;	M;	22;	22;	1941;	7;	10;	66;	17;	4;	0/0;	4;	3;	0.32;	10.6
+Montreal Impact;	Matteo Mancosu;	F;	26;	20;	1745;	6;	2;	49;	20;	0;	1/1;	3;	3;	0.31;	12.2
+Montreal Impact;	Michael Salazar;	F;	17;	7;	690;	3;	3;	10;	7;	0;	0/0;	2;	1;	0.39;	30
+Montreal Impact;	Patrice Bernier;	M;	27;	20;	1801;	2;	4;	21;	5;	0;	1/1;	2;	0;	0.1;	9.5
+Montreal Impact;	Ballou Jean-Yves Tabla;	F;	21;	11;	1146;	2;	2;	26;	10;	1;	0/0;	0;	2;	0.16;	7.7
+Montreal Impact;	Marco Donadel;	M;	19;	18;	1424;	2;	1;	19;	4;	0;	0/0;	1;	1;	0.13;	10.5
+Montreal Impact;	Chris Duvall;	D;	27;	25;	2210;	1;	2;	11;	4;	0;	0/0;	1;	0;	0.04;	9.1
+Montreal Impact;	Ambroise Oyongo;	D;	11;	11;	990;	1;	1;	10;	3;	0;	0/0;	1;	0;	0.09;	10
+Montreal Impact;	Kyle Fisher;	D;	20;	15;	1455;	1;	0;	6;	1;	1;	0/0;	1;	0;	0.06;	16.7
+Montreal Impact;	Dominic Oduro;	M;	25;	17;	1439;	1;	0;	26;	10;	0;	0/0;	0;	1;	0.06;	3.8
+Montreal Impact;	Hernan Bernardello;	M;	22;	17;	1496;	0;	3;	9;	3;	0;	0/0;	0;	0;	0;	0
+Montreal Impact;	Adrian Arregui;	M;	6;	3;	238;	0;	1;	0;	0;	0;	0/0;	0;	0;	0;	0
+Montreal Impact;	Louis Béland-Goyette;	M;	6;	4;	293;	0;	1;	0;	0;	0;	0/0;	0;	0;	0;	0
+Montreal Impact;	Samuel Piette;	M;	11;	11;	960;	0;	1;	3;	0;	0;	0/0;	0;	0;	0;	0
+Montreal Impact;	Daniel Lovitz;	M;	25;	19;	1750;	0;	1;	4;	1;	0;	0/0;	0;	0;	0;	0
+Montreal Impact;	Laurent Ciman;	D;	30;	30;	2700;	0;	1;	15;	2;	0;	0/0;	0;	0;	0;	0
+Montreal Impact;	David Choiniere;	M;	3;	0;	34;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Montreal Impact;	Shamit Shome;	M;	1;	0;	8;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+Montreal Impact;	Nick DePuy;	F;	5;	1;	128;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+Montreal Impact;	Wandrille Lefevre;	D;	3;	1;	103;	0;	0;	2;	1;	0;	0/0;	0;	0;	0;	0
+Montreal Impact;	Deian Boldor;	D;	5;	5;	412;	0;	0;	3;	1;	0;	0/0;	0;	0;	0;	0
+Montreal Impact;	Victor Cabrera;	D;	20;	18;	1496;	0;	0;	4;	0;	0;	0/0;	0;	0;	0;	0
+Montreal Impact;	Shaun Francis;	D;	6;	4;	376;	0;	0;	4;	2;	0;	0/0;	0;	0;	0;	0
+Montreal Impact;	Calum Mallace;	M;	7;	4;	298;	0;	0;	5;	1;	0;	0/0;	0;	0;	0;	0
+Montreal Impact;	Andres Romero;	M;	9;	4;	432;	0;	0;	7;	2;	0;	0/0;	0;	0;	0;	0
+Montreal Impact;	Hassoun Camara;	D;	18;	16;	1350;	0;	0;	10;	4;	0;	0/0;	0;	0;	0;	0
+
+Team: NE Revolution
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1616&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-5e-U2ccGdDIx2JdsqKzFVRqk6wsNEsysv-AEiLzjTyM&form_id=mp7_stats_hub_build_filter_form
+
+NE Revolution;	Kei Kamara;	F;	31;	27;	2365;	12;	5;	88;	35;	4;	0/0;	10;	2;	0.46;	13.6
+NE Revolution;	Lee Nguyen;	M;	31;	30;	2542;	11;	15;	49;	23;	2;	3/3;	7;	4;	0.39;	22.4
+NE Revolution;	Juan Agudelo;	F;	28;	20;	1821;	8;	1;	36;	17;	0;	0/0;	6;	2;	0.4;	22.2
+NE Revolution;	Diego Fagundez;	M;	32;	27;	2435;	7;	8;	72;	35;	2;	0/0;	6;	1;	0.26;	9.7
+NE Revolution;	Teal Bunbury;	F;	28;	13;	1279;	7;	1;	46;	22;	2;	0/0;	5;	2;	0.49;	15.2
+NE Revolution;	Kelyn Rowe;	M;	23;	21;	1897;	1;	7;	34;	10;	1;	0/0;	0;	1;	0.05;	2.9
+NE Revolution;	Chris Tierney;	D-M;	26;	20;	1713;	1;	5;	8;	2;	0;	1/1;	1;	0;	0.05;	12.5
+NE Revolution;	Scott Caldwell;	M;	33;	26;	2195;	1;	5;	11;	2;	1;	0/0;	1;	0;	0.04;	9.1
+NE Revolution;	Xavier Kouassi;	M;	23;	14;	1218;	1;	1;	5;	1;	0;	0/0;	0;	1;	0.07;	20
+NE Revolution;	Krisztian Nemeth;	F;	6;	3;	177;	1;	1;	10;	3;	0;	0/0;	0;	1;	0.51;	10
+NE Revolution;	Antonio Mlinar Delamea;	D;	29;	29;	2547;	1;	1;	12;	2;	0;	0/0;	1;	0;	0.04;	8.3
+NE Revolution;	Daigo Kobayashi;	M;	12;	4;	507;	1;	0;	5;	2;	0;	0/0;	0;	1;	0.18;	20
+NE Revolution;	Benjamin Angoua;	D;	26;	26;	2311;	1;	0;	11;	3;	1;	0/0;	1;	0;	0.04;	9.1
+NE Revolution;	Andrew Farrell;	D;	30;	30;	2664;	0;	3;	6;	1;	0;	0/0;	0;	0;	0;	0
+NE Revolution;	Donnie Smith;	M;	1;	1;	53;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+NE Revolution;	London Woodberry;	D;	3;	2;	165;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+NE Revolution;	Brian Wright;	F;	2;	0;	45;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+NE Revolution;	Zachary Herivaux;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+NE Revolution;	Je-Vaughn Watson;	D;	18;	8;	766;	0;	0;	5;	2;	0;	0/0;	0;	0;	0;	0
+NE Revolution;	Femi Hollinger-Janzen;	F;	13;	1;	148;	0;	0;	6;	2;	0;	0/0;	0;	0;	0;	0
+NE Revolution;	Josh Smith;	D;	6;	6;	539;	0;	0;	6;	1;	0;	0/0;	0;	0;	0;	0
+NE Revolution;	Claude Dielna;	D;	11;	11;	945;	0;	0;	8;	2;	0;	0/0;	0;	0;	0;	0
+NE Revolution;	Gershon Koffie;	M;	23;	21;	1920;	0;	0;	16;	2;	0;	0/0;	0;	0;	0;	0
+
+Team: NYC FC
+BlokcSource: https://www.mlssoccer.com/stats/season?franchise=9668&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-5e-U2ccGdDIx2JdsqKzFVRqk6wsNEsysv-AEiLzjTyM&form_id=mp7_stats_hub_build_filter_form
+
+NYC FC;	David Villa;	F;	31;	28;	2556;	22;	9;	136;	55;	3;	4/5;	15;	7;	0.77;	16.2
+NYC FC;	Jack Harrison;	F;	34;	33;	2757;	10;	6;	65;	31;	6;	0/0;	4;	6;	0.33;	15.4
+NYC FC;	Maximiliano Moralez;	M;	29;	28;	2523;	5;	9;	44;	17;	0;	0/1;	4;	1;	0.18;	11.4
+NYC FC;	Rodney Wallace;	F;	26;	23;	1935;	4;	6;	52;	19;	2;	0/0;	3;	1;	0.19;	7.7
+NYC FC;	Thomas McNamara;	M;	27;	19;	1574;	3;	2;	23;	11;	1;	0/0;	1;	2;	0.17;	13
+NYC FC;	Jonathan Lewis;	F;	11;	4;	342;	2;	1;	9;	5;	2;	0/0;	1;	1;	0.53;	22.2
+NYC FC;	Alexander Callens;	D;	34;	34;	3060;	2;	0;	15;	3;	1;	0/0;	2;	0;	0.06;	13.3
+NYC FC;	Maxime Chanot;	D;	19;	19;	1710;	2;	0;	16;	3;	0;	0/0;	1;	1;	0.11;	12.5
+NYC FC;	Ben Sweat;	D;	26;	25;	2176;	1;	6;	17;	4;	0;	0/0;	0;	1;	0.04;	5.9
+NYC FC;	Yangel Herrera;	M;	18;	14;	1223;	1;	2;	20;	7;	0;	0/0;	0;	1;	0.07;	5
+NYC FC;	Frederic Brillant;	D;	23;	16;	1523;	1;	1;	15;	5;	1;	0/0;	1;	0;	0.06;	6.7
+NYC FC;	Miguel Camargo;	M;	8;	2;	176;	1;	0;	3;	1;	0;	0/0;	1;	0;	0.51;	33.3
+NYC FC;	Khiry Shelton;	F;	15;	3;	502;	1;	0;	7;	2;	0;	0/0;	0;	1;	0.18;	14.3
+NYC FC;	Sean Okoli;	F;	16;	3;	421;	1;	0;	13;	6;	0;	0/0;	0;	1;	0.21;	7.7
+NYC FC;	Alexander Ring;	M;	29;	29;	2604;	0;	4;	22;	6;	0;	0/0;	0;	0;	0;	0
+NYC FC;	Ronald Matarrita;	D;	12;	8;	696;	0;	3;	2;	0;	0;	0/0;	0;	0;	0;	0
+NYC FC;	RJ Allen;	D;	15;	10;	1009;	0;	3;	6;	0;	0;	0/0;	0;	0;	0;	0
+NYC FC;	Ethan White;	D;	21;	19;	1553;	0;	2;	3;	2;	0;	0/0;	0;	0;	0;	0
+NYC FC;	Andrea Pirlo;	M;	15;	14;	1085;	0;	2;	11;	3;	0;	0/0;	0;	0;	0;	0
+NYC FC;	Andraz Struna;	D;	5;	4;	322;	0;	1;	3;	0;	0;	0/0;	0;	0;	0;	0
+NYC FC;	John Stertzer;	M;	5;	0;	53;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+NYC FC;	Kwame Awuah;	M;	4;	0;	26;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+NYC FC;	James Sands;	M;	1;	0;	23;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+NYC FC;	Shannon Gomez;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+NYC FC;	Mikey Lopez;	M;	12;	5;	609;	0;	0;	2;	0;	0;	0/0;	0;	0;	0;	0
+
+Team: NY Red Bulls
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=399&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-5e-U2ccGdDIx2JdsqKzFVRqk6wsNEsysv-AEiLzjTyM&form_id=mp7_stats_hub_build_filter_form
+
+NY Red Bulls;	Bradley Wright-Phillips;	F;	32;	29;	2560;	17;	1;	83;	36;	2;	0/0;	7;	10;	0.6;	20.5
+NY Red Bulls;	Daniel Royer;	M;	26;	23;	1868;	12;	3;	52;	22;	4;	4/4;	8;	4;	0.58;	23.1
+NY Red Bulls;	Gonzalo Verón;	M-F;	24;	5;	777;	6;	3;	28;	13;	2;	3/4;	2;	4;	0.69;	21.4
+NY Red Bulls;	Alex Muyl;	F;	30;	21;	1938;	3;	4;	36;	14;	2;	0/0;	2;	1;	0.14;	8.3
+NY Red Bulls;	Sacha Kljestan;	M;	32;	28;	2582;	2;	17;	41;	11;	1;	0/0;	1;	1;	0.07;	4.9
+NY Red Bulls;	Felipe;	M;	33;	33;	2961;	2;	5;	37;	12;	0;	0/0;	2;	0;	0.06;	5.4
+NY Red Bulls;	Tyler Adams;	M;	24;	22;	1994;	2;	4;	12;	7;	0;	0/0;	2;	0;	0.09;	16.7
+NY Red Bulls;	Sean Davis;	M;	27;	21;	1795;	2;	4;	28;	10;	0;	0/0;	2;	0;	0.1;	7.1
+NY Red Bulls;	Michael Amir Murillo;	D;	17;	15;	1316;	2;	0;	17;	7;	0;	0/0;	1;	1;	0.14;	11.8
+NY Red Bulls;	Kemar Lawrence;	D;	24;	23;	2076;	1;	5;	17;	4;	1;	0/0;	1;	0;	0.04;	5.9
+NY Red Bulls;	Aaron Long;	D;	31;	30;	2659;	1;	0;	22;	8;	0;	0/0;	0;	1;	0.03;	4.5
+NY Red Bulls;	Sal Zizzo;	D;	23;	18;	1644;	0;	2;	6;	2;	0;	0/0;	0;	0;	0;	0
+NY Red Bulls;	Connor Lade;	D;	21;	16;	1381;	0;	2;	12;	3;	0;	0/0;	0;	0;	0;	0
+NY Red Bulls;	Derrick Etienne Jr.;	M;	18;	8;	702;	0;	2;	13;	6;	0;	0/0;	0;	0;	0;	0
+NY Red Bulls;	Muhamed Keita;	F;	6;	2;	190;	0;	1;	2;	0;	0;	0/0;	0;	0;	0;	0
+NY Red Bulls;	Vincent Bezecourt;	M;	3;	2;	190;	0;	1;	3;	1;	0;	0/0;	0;	0;	0;	0
+NY Red Bulls;	Fidel Escobar;	D;	6;	5;	482;	0;	1;	7;	1;	0;	0/0;	0;	0;	0;	0
+NY Red Bulls;	Damien Perrinelle;	D;	25;	22;	1972;	0;	1;	11;	1;	0;	0/0;	0;	0;	0;	0
+NY Red Bulls;	Fredrik Gulbrandsen;	F;	12;	4;	362;	0;	1;	13;	4;	0;	0/0;	0;	0;	0;	0
+NY Red Bulls;	Gideon Baah;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+NY Red Bulls;	Dan Metzger;	M;	1;	0;	1;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+NY Red Bulls;	Brandon Allen;	F;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+NY Red Bulls;	Arun Basuljevic;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+NY Red Bulls;	Hassan Ndam;	D;	1;	0;	1;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+NY Red Bulls;	Justin Bilyeu;	D;	1;	1;	90;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+NY Red Bulls;	Dilly Duka;	M;	3;	2;	151;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+NY Red Bulls;	Mike Grella;	F;	8;	3;	362;	0;	0;	3;	1;	0;	0/0;	0;	0;	0;	0
+NY Red Bulls;	Aurélien Collin;	D;	9;	7;	545;	0;	0;	5;	1;	0;	0/0;	0;	0;	0;	0
+
+Team: Orlando City
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=6900&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-5e-U2ccGdDIx2JdsqKzFVRqk6wsNEsysv-AEiLzjTyM&form_id=mp7_stats_hub_build_filter_form
+
+Orlando City;	Cyle Larin;	F;	28;	24;	2169;	12;	3;	55;	32;	5;	0/1;	7;	5;	0.5;	21.8
+Orlando City;	Kaká;	M;	23;	18;	1564;	6;	5;	31;	10;	0;	0/0;	4;	2;	0.35;	19.4
+Orlando City;	Carlos Rivas;	M;	30;	21;	1960;	5;	5;	76;	19;	1;	0/0;	3;	2;	0.23;	6.6
+Orlando City;	Dom Dwyer;	F;	12;	11;	975;	4;	4;	29;	14;	0;	0/0;	1;	3;	0.37;	13.8
+Orlando City;	Giles Barnes;	M;	34;	23;	2137;	3;	2;	52;	16;	1;	0/0;	2;	1;	0.13;	5.8
+Orlando City;	Will Johnson;	F-M;	26;	23;	2057;	2;	3;	32;	13;	1;	0/0;	1;	1;	0.09;	6.3
+Orlando City;	Yoshimar Yotun;	M;	10;	10;	887;	1;	4;	16;	4;	0;	0/0;	1;	0;	0.1;	6.3
+Orlando City;	Scott Sutter;	D;	32;	30;	2729;	1;	4;	17;	3;	0;	0/0;	0;	1;	0.03;	5.9
+Orlando City;	Matías Pérez García;	F;	15;	11;	971;	1;	2;	17;	5;	0;	0/0;	1;	0;	0.09;	5.9
+Orlando City;	Jonathan Spector;	D;	25;	25;	2176;	1;	1;	6;	3;	0;	0/0;	1;	0;	0.04;	16.7
+Orlando City;	Servando Carrasco;	M;	15;	9;	833;	1;	0;	5;	1;	1;	0/0;	1;	0;	0.11;	20
+Orlando City;	Sebastian Hines;	D;	6;	5;	443;	1;	0;	7;	2;	1;	0/0;	1;	0;	0.2;	14.3
+Orlando City;	Antonio Nocerino;	M;	31;	28;	2234;	1;	0;	17;	5;	0;	0/0;	1;	0;	0.04;	5.9
+Orlando City;	Donny Toia;	M-D;	30;	29;	2545;	0;	3;	13;	2;	0;	0/0;	0;	0;	0;	0
+Orlando City;	Cristian Higuita;	M;	26;	18;	1554;	0;	3;	14;	2;	0;	0/0;	0;	0;	0;	0
+Orlando City;	Tony Rocha;	M;	3;	0;	25;	0;	1;	0;	0;	0;	0/0;	0;	0;	0;	0
+Orlando City;	Richmond Laryea;	M;	12;	1;	250;	0;	1;	3;	2;	0;	0/0;	0;	0;	0;	0
+Orlando City;	PC;	D;	8;	5;	436;	0;	1;	3;	0;	0;	0/0;	0;	0;	0;	0
+Orlando City;	Pierre Da Silva;	M;	1;	0;	1;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Orlando City;	Kevin Alston;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Orlando City;	Conor Donovan;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Orlando City;	Bryan Róchez;	F;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Orlando City;	Rafael Ramos;	D;	2;	1;	55;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+Orlando City;	Hadji Barry;	F;	3;	0;	11;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+Orlando City;	Tommy Redding;	D;	18;	14;	1406;	0;	0;	2;	1;	0;	0/0;	0;	0;	0;	0
+Orlando City;	Leonardo Pereira;	D;	10;	9;	805;	0;	0;	2;	0;	0;	0/0;	0;	0;	0;	0
+Orlando City;	Dillon Powers;	M;	6;	4;	345;	0;	0;	4;	1;	0;	0/0;	0;	0;	0;	0
+Orlando City;	Jose Aja;	D;	15;	15;	1275;	0;	0;	6;	0;	0;	0/0;	0;	0;	0;	0
+Orlando City;	Luis Gil;	M;	17;	6;	597;	0;	0;	10;	7;	0;	0/0;	0;	0;	0;	0
+
+Team: Philadelphia Union
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=5513&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-5e-U2ccGdDIx2JdsqKzFVRqk6wsNEsysv-AEiLzjTyM&form_id=mp7_stats_hub_build_filter_form
+
+Philadelphia Union;	CJ Sapong;	F;	33;	30;	2794;	16;	5;	67;	34;	2;	3/3;	13;	3;	0.52;	23.9
+Philadelphia Union;	Fafa Picault;	M;	28;	23;	1894;	7;	3;	46;	22;	3;	0/0;	4;	3;	0.33;	15.2
+Philadelphia Union;	Roland Alberg;	M;	24;	9;	871;	7;	1;	31;	13;	0;	2/3;	5;	2;	0.72;	22.6
+Philadelphia Union;	Ilsinho;	M;	27;	24;	1848;	6;	5;	38;	11;	2;	0/0;	6;	0;	0.29;	15.8
+Philadelphia Union;	Haris Medunjanin;	M;	34;	34;	3057;	2;	12;	36;	10;	2;	0/0;	1;	1;	0.06;	5.6
+Philadelphia Union;	Chris Pontius;	M-F;	30;	27;	2253;	2;	6;	43;	17;	1;	0/0;	2;	0;	0.08;	4.7
+Philadelphia Union;	Alejandro Bedoya;	M;	28;	28;	2509;	2;	4;	36;	10;	0;	0/1;	1;	1;	0.07;	5.6
+Philadelphia Union;	Marcus Epps;	M;	19;	7;	709;	2;	1;	16;	5;	1;	0/0;	2;	0;	0.25;	12.5
+Philadelphia Union;	Fabian Herbers;	M-F;	12;	4;	395;	1;	2;	8;	2;	0;	0/0;	0;	1;	0.23;	12.5
+Philadelphia Union;	Jack Elliott;	D;	30;	29;	2621;	1;	1;	7;	3;	0;	0/0;	0;	1;	0.03;	14.3
+Philadelphia Union;	Richie Marquez;	D;	15;	13;	1212;	1;	0;	6;	1;	0;	0/0;	1;	0;	0.07;	16.7
+Philadelphia Union;	Jay Simpson;	F;	22;	4;	472;	1;	0;	13;	6;	0;	0/0;	1;	0;	0.19;	7.7
+Philadelphia Union;	Oguchi Onyewu;	D;	22;	22;	1929;	1;	0;	14;	6;	0;	0/0;	0;	1;	0.05;	7.1
+Philadelphia Union;	Fabinho;	D;	22;	21;	1902;	0;	2;	8;	3;	0;	0/0;	0;	0;	0;	0
+Philadelphia Union;	Warren Creavalle;	M;	13;	5;	545;	0;	1;	2;	0;	0;	0/0;	0;	0;	0;	0
+Philadelphia Union;	Raymon Gaddis;	D;	26;	23;	2028;	0;	1;	2;	0;	0;	0/0;	0;	0;	0;	0
+Philadelphia Union;	Giliano Wijnaldum;	D;	13;	13;	1138;	0;	1;	3;	0;	0;	0/0;	0;	0;	0;	0
+Philadelphia Union;	Keegan Rosenberry;	D;	14;	11;	1051;	0;	1;	4;	2;	0;	0/0;	0;	0;	0;	0
+Philadelphia Union;	Ken Tribbett;	D;	1;	0;	3;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Philadelphia Union;	Brian Carroll;	M;	1;	0;	45;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Philadelphia Union;	Maurice Edu;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Philadelphia Union;	Charlie Davies;	F;	3;	0;	25;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Philadelphia Union;	Aaron Jones;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Philadelphia Union;	Auston Trusty;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Philadelphia Union;	Joshua Yaro;	D;	6;	4;	369;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Philadelphia Union;	Eric Ayuk;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Philadelphia Union;	Adam Najem;	M;	5;	1;	153;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+Philadelphia Union;	Derrick Jones;	M;	12;	8;	702;	0;	0;	5;	1;	0;	0/0;	0;	0;	0;	0
+
+Team: Portland Timbers
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1581&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-5e-U2ccGdDIx2JdsqKzFVRqk6wsNEsysv-AEiLzjTyM&form_id=mp7_stats_hub_build_filter_form
+
+Portland Timbers;	Diego Valeri;	M;	32;	32;	2828;	21;	11;	93;	39;	7;	6/7;	13;	8;	0.67;	22.6
+Portland Timbers;	Fanendo Adi;	F;	22;	22;	1885;	10;	3;	66;	28;	1;	3/3;	7;	3;	0.48;	15.2
+Portland Timbers;	Sebastian Blanco;	M-F;	33;	32;	2783;	8;	8;	86;	32;	1;	0/0;	3;	5;	0.26;	9.3
+Portland Timbers;	Darren Mattocks;	F;	24;	11;	1075;	4;	2;	31;	14;	2;	0/0;	4;	0;	0.33;	12.9
+Portland Timbers;	Darlington Nagbe;	M-F;	27;	27;	2332;	3;	5;	42;	10;	1;	0/0;	2;	1;	0.12;	7.1
+Portland Timbers;	Liam Ridgewell;	D;	15;	15;	1270;	3;	0;	7;	3;	0;	0/0;	3;	0;	0.21;	42.9
+Portland Timbers;	Dairon Asprilla;	M-F;	27;	17;	1395;	2;	4;	36;	7;	0;	0/0;	1;	1;	0.13;	5.6
+Portland Timbers;	Alvas Powell;	D;	23;	19;	1690;	2;	3;	13;	6;	0;	0/0;	2;	0;	0.11;	15.4
+Portland Timbers;	David Guzman;	M;	25;	24;	2028;	1;	6;	42;	9;	1;	0/1;	1;	0;	0.04;	2.4
+Portland Timbers;	Diego Chara;	M;	29;	29;	2530;	1;	3;	5;	2;	1;	0/0;	0;	1;	0.04;	20
+Portland Timbers;	Jeremy Ebobisse;	F;	14;	2;	317;	1;	3;	6;	2;	0;	0/0;	0;	1;	0.28;	16.7
+Portland Timbers;	Roy Miller;	D;	26;	26;	2268;	1;	1;	11;	2;	1;	0/0;	0;	1;	0.04;	9.1
+Portland Timbers;	Jack Barmby;	M-D;	10;	0;	99;	1;	0;	5;	2;	0;	0/0;	1;	0;	0.91;	20
+Portland Timbers;	Lawrence Olum;	D;	30;	22;	2103;	1;	0;	10;	2;	0;	0/0;	1;	0;	0.04;	10
+Portland Timbers;	Vytas;	D;	23;	19;	1780;	0;	4;	8;	2;	0;	0/0;	0;	0;	0;	0
+Portland Timbers;	Zarek Valentin;	D;	19;	17;	1547;	0;	3;	1;	0;	0;	0/0;	0;	0;	0;	0
+Portland Timbers;	Ben Zemanski;	M;	7;	4;	438;	0;	1;	3;	1;	0;	0/0;	0;	0;	0;	0
+Portland Timbers;	Gbenga Arokoyo;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Portland Timbers;	Rennico Clarke;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Portland Timbers;	Marco Farfan;	D;	6;	5;	403;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Portland Timbers;	Harold Hanson;	D;	1;	0;	1;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Portland Timbers;	Bill Tuiloma;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Portland Timbers;	Chance Myers;	D;	1;	1;	44;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Portland Timbers;	Amobi Okugo;	D-M;	8;	3;	396;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Portland Timbers;	Victor Arboleda;	F-M;	5;	0;	55;	0;	0;	6;	1;	0;	0/0;	0;	0;	0;	0
+Portland Timbers;	Larrys Mabiala;	D;	13;	13;	1160;	0;	0;	9;	0;	0;	0/0;	0;	0;	0;	0
+
+Team: Real Salt Lake
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1899&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-5e-U2ccGdDIx2JdsqKzFVRqk6wsNEsysv-AEiLzjTyM&form_id=mp7_stats_hub_build_filter_form
+
+Real Salt Lake;	Albert Rusnak;	M;	30;	29;	2579;	7;	14;	85;	30;	1;	0/0;	5;	2;	0.24;	8.2
+Real Salt Lake;	Joao Plata;	F;	29;	27;	2318;	7;	5;	95;	30;	2;	2/2;	3;	4;	0.27;	7.4
+Real Salt Lake;	Luis Silva;	M;	30;	20;	1775;	7;	3;	58;	20;	3;	1/1;	5;	2;	0.35;	12.1
+Real Salt Lake;	Yura Movsisyan;	F;	28;	16;	1416;	7;	0;	45;	19;	2;	1/1;	4;	3;	0.44;	15.6
+Real Salt Lake;	Jefferson Savarino;	F;	22;	19;	1673;	6;	5;	57;	25;	2;	0/0;	4;	2;	0.32;	10.5
+Real Salt Lake;	Kyle Beckerman;	M;	26;	26;	2242;	4;	0;	33;	13;	0;	0/0;	0;	4;	0.16;	12.1
+Real Salt Lake;	Brooks Lennon;	F;	25;	15;	1525;	3;	4;	21;	9;	2;	0/0;	2;	1;	0.18;	14.3
+Real Salt Lake;	Luke Mulholland;	M;	27;	22;	1949;	3;	4;	44;	8;	0;	0/0;	2;	1;	0.14;	6.8
+Real Salt Lake;	Tony Beltran;	D;	21;	21;	1820;	1;	1;	8;	4;	0;	0/0;	0;	1;	0.05;	12.5
+Real Salt Lake;	Jose Hernandez;	M;	7;	1;	160;	1;	0;	3;	1;	0;	0/0;	0;	1;	0.56;	33.3
+Real Salt Lake;	Omar Holness;	M;	9;	3;	261;	1;	0;	5;	1;	0;	0/0;	0;	1;	0.34;	20
+Real Salt Lake;	Chris Wingert;	D;	23;	20;	1755;	1;	0;	7;	3;	0;	0/0;	0;	1;	0.05;	14.3
+Real Salt Lake;	Aaron Maund;	D;	13;	12;	999;	1;	0;	8;	3;	1;	0/0;	1;	0;	0.09;	12.5
+Real Salt Lake;	Danilo Acosta;	M;	17;	16;	1411;	0;	2;	2;	0;	0;	0/0;	0;	0;	0;	0
+Real Salt Lake;	Demar Phillips;	D;	13;	11;	961;	0;	2;	3;	0;	0;	0/0;	0;	0;	0;	0
+Real Salt Lake;	Sebastian Saucedo;	M;	20;	5;	573;	0;	2;	29;	8;	0;	0/0;	0;	0;	0;	0
+Real Salt Lake;	Sunday Stephen;	M;	21;	18;	1493;	0;	1;	2;	0;	0;	0/0;	0;	0;	0;	0
+Real Salt Lake;	David Horst;	D;	12;	8;	880;	0;	1;	7;	2;	0;	0/0;	0;	0;	0;	0
+Real Salt Lake;	Nick Besler;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Real Salt Lake;	Reagan Dunk;	D;	3;	2;	174;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Real Salt Lake;	Chad Barrett;	F;	3;	0;	65;	0;	0;	3;	1;	0;	0/0;	0;	0;	0;	0
+Real Salt Lake;	Justin Schmidt;	D;	9;	7;	676;	0;	0;	3;	1;	0;	0/0;	0;	0;	0;	0
+Real Salt Lake;	Jordan Allen;	M-F;	2;	2;	113;	0;	0;	3;	1;	0;	0/0;	0;	0;	0;	0
+Real Salt Lake;	Ricardo Velazco;	F;	9;	1;	254;	0;	0;	5;	1;	0;	0/0;	0;	0;	0;	0
+Real Salt Lake;	Marcelo Silva;	D;	9;	9;	650;	0;	0;	5;	1;	0;	0/0;	0;	0;	0;	0
+Real Salt Lake;	Chris Schuler;	D;	12;	12;	1069;	0;	0;	6;	1;	0;	0/0;	0;	0;	0;	0
+Real Salt Lake;	Justen Glad;	D;	18;	18;	1620;	0;	0;	11;	5;	0;	0/0;	0;	0;	0;	0
+
+Team: SJ Earthquakes
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1131&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-5e-U2ccGdDIx2JdsqKzFVRqk6wsNEsysv-AEiLzjTyM&form_id=mp7_stats_hub_build_filter_form
+
+SJ Earthquakes;	Chris Wondolowski;	F;	34;	34;	3041;	13;	8;	79;	28;	1;	1/1;	11;	2;	0.38;	16.5
+SJ Earthquakes;	Danny Hoesen;	F;	32;	20;	1838;	5;	5;	70;	24;	2;	0/0;	5;	0;	0.24;	7.1
+SJ Earthquakes;	Marco Ureña;	F;	25;	22;	1766;	5;	3;	49;	24;	2;	0/0;	3;	2;	0.25;	10.2
+SJ Earthquakes;	Valeri Qazaishvili;	M;	13;	8;	784;	5;	2;	38;	14;	1;	0/0;	2;	3;	0.57;	13.2
+SJ Earthquakes;	Jahmir Hyka;	M;	30;	21;	1871;	3;	5;	45;	12;	2;	0/0;	2;	1;	0.14;	6.7
+SJ Earthquakes;	Florian Jungwirth;	D-M;	30;	30;	2600;	2;	3;	13;	3;	1;	0/0;	0;	2;	0.07;	15.4
+SJ Earthquakes;	Anibal Godoy;	M;	26;	24;	2134;	2;	1;	20;	4;	2;	0/0;	2;	0;	0.08;	10
+SJ Earthquakes;	Nick Lima;	D;	22;	20;	1809;	2;	1;	20;	6;	1;	0/0;	2;	0;	0.1;	10
+SJ Earthquakes;	Tommy Thompson;	M;	32;	16;	1534;	1;	4;	42;	12;	0;	0/0;	0;	1;	0.06;	2.4
+SJ Earthquakes;	Shea Salinas;	M;	25;	15;	1435;	1;	3;	6;	1;	1;	0/0;	1;	0;	0.06;	16.7
+SJ Earthquakes;	Darwin Cerén;	M;	21;	19;	1642;	0;	2;	17;	2;	0;	0/0;	0;	0;	0;	0
+SJ Earthquakes;	Kofi Sarkodie;	D;	18;	16;	1325;	0;	1;	3;	0;	0;	0/0;	0;	0;	0;	0
+SJ Earthquakes;	Cordell Cato;	F;	15;	13;	1138;	0;	1;	11;	1;	0;	0/0;	0;	0;	0;	0
+SJ Earthquakes;	Jackson Yueill;	M;	13;	10;	967;	0;	1;	11;	3;	0;	0/0;	0;	0;	0;	0
+SJ Earthquakes;	Víctor Bernárdez;	D;	25;	25;	2228;	0;	1;	13;	1;	0;	0/0;	0;	0;	0;	0
+SJ Earthquakes;	Marvell Wynne;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+SJ Earthquakes;	Harold Cummings;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+SJ Earthquakes;	Marc Pelosi;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+SJ Earthquakes;	Matheus Silva;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+SJ Earthquakes;	Kip Colvey;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+SJ Earthquakes;	Lindo Mfeka;	M;	1;	0;	1;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+SJ Earthquakes;	Francois Affolter;	D;	6;	6;	509;	0;	0;	2;	0;	0;	0/0;	0;	0;	0;	0
+SJ Earthquakes;	Shaun Francis;	D;	8;	8;	691;	0;	0;	3;	1;	0;	0/0;	0;	0;	0;	0
+SJ Earthquakes;	Andres Imperiale;	D;	13;	12;	1111;	0;	0;	3;	1;	0;	0/0;	0;	0;	0;	0
+SJ Earthquakes;	Fatai Alashe;	M;	17;	13;	1201;	0;	0;	6;	3;	0;	0/0;	0;	0;	0;	0
+SJ Earthquakes;	Quincy Amarikwa;	F;	9;	1;	150;	0;	0;	8;	5;	0;	0/0;	0;	0;	0;	0
+SJ Earthquakes;	Simon Dawkins;	M;	14;	7;	637;	0;	0;	10;	1;	0;	0/0;	0;	0;	0;	0
+
+Team: Seattle Sounders
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=3500&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-5e-U2ccGdDIx2JdsqKzFVRqk6wsNEsysv-AEiLzjTyM&form_id=mp7_stats_hub_build_filter_form
+
+Seattle Sounders;	Clint Dempsey;	M;	29;	25;	2276;	12;	5;	116;	39;	3;	2/3;	4;	8;	0.47;	10.3
+Seattle Sounders;	Will Bruin;	F;	31;	20;	1824;	11;	2;	52;	20;	4;	0/0;	7;	4;	0.54;	21.2
+Seattle Sounders;	Nicolás Lodeiro;	M;	33;	33;	2965;	7;	12;	67;	19;	0;	3/3;	4;	3;	0.21;	10.4
+Seattle Sounders;	Cristian Roldan;	M;	33;	33;	2960;	6;	3;	40;	17;	3;	0/0;	5;	1;	0.18;	15
+Seattle Sounders;	Jordan Morris;	F;	23;	22;	1801;	3;	1;	34;	14;	1;	0/0;	1;	2;	0.15;	8.8
+Seattle Sounders;	Harry Shipp;	M;	18;	11;	927;	2;	1;	15;	4;	1;	0/0;	2;	0;	0.19;	13.3
+Seattle Sounders;	Victor Rodriguez;	M;	7;	5;	484;	2;	1;	17;	7;	2;	0/0;	2;	0;	0.37;	11.8
+Seattle Sounders;	Lamar Neagle;	M-F;	8;	0;	88;	2;	0;	5;	3;	0;	0/0;	2;	0;	2.05;	40
+Seattle Sounders;	Joevin Jones;	D;	30;	28;	2451;	1;	11;	27;	6;	0;	0/0;	0;	1;	0.04;	3.7
+Seattle Sounders;	Gustav Svensson;	D;	32;	30;	2645;	1;	4;	17;	4;	0;	0/0;	1;	0;	0.03;	5.9
+Seattle Sounders;	Osvaldo Alonso;	M;	26;	24;	2073;	1;	3;	24;	6;	0;	0/0;	1;	0;	0.04;	4.2
+Seattle Sounders;	Chad Marshall;	D;	28;	27;	2366;	1;	2;	15;	4;	0;	0/0;	1;	0;	0.04;	6.7
+Seattle Sounders;	Kelvin Leerdam;	D;	15;	14;	1290;	1;	2;	16;	2;	0;	0/0;	1;	0;	0.07;	6.3
+Seattle Sounders;	Brad Evans;	D-M;	11;	6;	480;	1;	0;	1;	1;	0;	0/0;	1;	0;	0.19;	100
+Seattle Sounders;	Román Torres;	D;	23;	21;	1787;	0;	2;	19;	0;	0;	0/0;	0;	0;	0;	0
+Seattle Sounders;	Jordy Delem;	M;	14;	9;	755;	0;	1;	2;	0;	0;	0/0;	0;	0;	0;	0
+Seattle Sounders;	Nouhou Tolo;	D;	19;	10;	1052;	0;	1;	5;	0;	0;	0/0;	0;	0;	0;	0
+Seattle Sounders;	Victor Mansaray;	F;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Seattle Sounders;	Zach Mathers;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Seattle Sounders;	Calum Mallace;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Seattle Sounders;	Tony Alfaro;	D;	15;	8;	817;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+Seattle Sounders;	Henry Wingo;	M;	11;	0;	132;	0;	0;	3;	0;	0;	0/0;	0;	0;	0;	0
+Seattle Sounders;	Seyi Adekoya;	F;	2;	1;	77;	0;	0;	3;	1;	0;	0/0;	0;	0;	0;	0
+Seattle Sounders;	Álvaro Fernández;	M;	10;	5;	492;	0;	0;	5;	4;	0;	0/0;	0;	0;	0;	0
+Seattle Sounders;	Oniel Fisher;	M-D;	9;	7;	543;	0;	0;	6;	1;	0;	0/0;	0;	0;	0;	0
+Seattle Sounders;	Aaron Kovar;	M;	7;	1;	199;	0;	0;	10;	1;	0;	0/0;	0;	0;	0;	0
+
+Team: Sporting KC
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=421&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-5e-U2ccGdDIx2JdsqKzFVRqk6wsNEsysv-AEiLzjTyM&form_id=mp7_stats_hub_build_filter_form
+
+Sporting KC;	Gerso Fernandes;	F;	32;	26;	2238;	8;	2;	62;	25;	2;	0/0;	8;	0;	0.32;	12.9
+Sporting KC;	Diego Rubio;	F;	16;	11;	1010;	6;	2;	37;	14;	3;	0/1;	5;	1;	0.53;	16.2
+Sporting KC;	Benny Feilhaber;	M;	30;	24;	2269;	5;	3;	64;	20;	1;	2/2;	4;	1;	0.2;	7.8
+Sporting KC;	Dom Dwyer;	F;	15;	14;	1271;	5;	1;	45;	22;	2;	0/0;	4;	1;	0.35;	11.1
+Sporting KC;	Daniel Salloi;	F;	22;	12;	1172;	3;	2;	42;	19;	0;	0/0;	3;	0;	0.23;	7.1
+Sporting KC;	Latif Blessing;	F;	25;	16;	1419;	3;	1;	37;	15;	1;	0/0;	1;	2;	0.19;	8.1
+Sporting KC;	Ike Opara;	D;	30;	30;	2700;	3;	0;	17;	5;	2;	0/0;	1;	2;	0.1;	17.6
+Sporting KC;	Jimmy Medranda;	F;	33;	24;	2086;	2;	1;	49;	10;	0;	0/0;	1;	1;	0.09;	4.1
+Sporting KC;	Roger Espinoza;	M;	30;	30;	2677;	1;	3;	48;	10;	0;	0/0;	0;	1;	0.03;	2.1
+Sporting KC;	Seth Sinovic;	D;	32;	32;	2857;	1;	2;	17;	5;	0;	0/0;	1;	0;	0.03;	5.9
+Sporting KC;	Saad Abdul-Salaam;	D;	12;	10;	902;	1;	1;	10;	3;	0;	0/0;	1;	0;	0.1;	10
+Sporting KC;	Cristian Lobato;	M;	10;	6;	547;	1;	0;	7;	3;	0;	0/0;	0;	1;	0.16;	14.3
+Sporting KC;	Graham Zusi;	D;	24;	23;	2114;	0;	8;	37;	11;	0;	0/0;	0;	0;	0;	0
+Sporting KC;	Matt Besler;	D;	26;	26;	2339;	0;	4;	4;	1;	0;	0/0;	0;	0;	0;	0
+Sporting KC;	Ilie Sanchez;	M;	33;	33;	2970;	0;	2;	19;	2;	0;	0/0;	0;	0;	0;	0
+Sporting KC;	Soni Mustivar;	M;	14;	2;	260;	0;	1;	0;	0;	0;	0/0;	0;	0;	0;	0
+Sporting KC;	Soony Saad;	F;	12;	6;	453;	0;	1;	14;	4;	0;	0/0;	0;	0;	0;	0
+Sporting KC;	Tyler Pasher;	M-D;	1;	1;	45;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Sporting KC;	Kharlton Belmar;	F;	1;	0;	6;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Sporting KC;	Erik Palmer-Brown;	D;	10;	7;	641;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Sporting KC;	Cameron Iwasa;	F;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Sporting KC;	Amer Didic;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Sporting KC;	Kevin Oliveira;	M;	2;	0;	16;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Sporting KC;	Colton Storm;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Sporting KC;	Gianluca Busio;	F;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Sporting KC;	James Musa;	M;	1;	1;	90;	0;	0;	1;	1;	0;	0/0;	0;	0;	0;	0
+Sporting KC;	Cameron Porter;	F;	1;	0;	21;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+Sporting KC;	Kevin Ellis;	D;	5;	5;	450;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+Sporting KC;	Igor Juliao;	D;	1;	1;	45;	0;	0;	2;	1;	0;	0/0;	0;	0;	0;	0
+
+Team: Toronto FC
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=2077&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-5e-U2ccGdDIx2JdsqKzFVRqk6wsNEsysv-AEiLzjTyM&form_id=mp7_stats_hub_build_filter_form
+
+Toronto FC;	Sebastian Giovinco;	F;	25;	25;	2057;	16;	6;	128;	52;	4;	1/3;	10;	6;	0.7;	12.5
+Toronto FC;	Jozy Altidore;	F;	27;	25;	2194;	15;	6;	68;	30;	5;	3/5;	8;	7;	0.62;	22.1
+Toronto FC;	Victor Vazquez;	M;	31;	28;	2382;	8;	16;	41;	20;	5;	3/3;	5;	3;	0.3;	19.5
+Toronto FC;	Justin Morrow;	M;	28;	28;	2479;	8;	1;	26;	12;	0;	0/0;	7;	1;	0.29;	30.8
+Toronto FC;	Tosaint Ricketts;	F;	22;	9;	1003;	7;	1;	31;	15;	2;	0/0;	3;	4;	0.63;	22.6
+Toronto FC;	Marky Delgado;	M;	26;	25;	2072;	3;	5;	18;	4;	0;	0/0;	1;	2;	0.13;	16.7
+Toronto FC;	Nicolas Hasler;	D;	10;	9;	752;	3;	1;	9;	4;	1;	0/0;	1;	2;	0.36;	33.3
+Toronto FC;	Jonathan Osorio;	M;	27;	9;	1060;	2;	4;	16;	6;	0;	0/0;	2;	0;	0.17;	12.5
+Toronto FC;	Jordan Hamilton;	F;	8;	0;	142;	2;	1;	5;	3;	0;	0/0;	2;	0;	1.27;	40
+Toronto FC;	Drew Moor;	D;	25;	24;	2176;	2;	1;	12;	3;	2;	0/0;	1;	1;	0.08;	16.7
+Toronto FC;	Raheem Edwards;	F;	21;	10;	1058;	1;	6;	11;	4;	0;	0/0;	1;	0;	0.09;	9.1
+Toronto FC;	Ashtone Morgan;	D;	5;	3;	283;	1;	0;	1;	1;	0;	0/0;	0;	1;	0.32;	100
+Toronto FC;	Eriq Zavaleta;	D;	29;	27;	2356;	1;	0;	4;	2;	1;	0/0;	1;	0;	0.04;	25
+Toronto FC;	Jay Chapman;	M;	12;	3;	385;	1;	0;	6;	1;	0;	0/0;	1;	0;	0.23;	16.7
+Toronto FC;	Benoit Cheyrou;	M;	13;	7;	615;	1;	0;	11;	4;	0;	0/0;	0;	1;	0.15;	9.1
+Toronto FC;	Steven Beitashour;	D;	22;	17;	1589;	0;	5;	4;	1;	0;	0/0;	0;	0;	0;	0
+Toronto FC;	Ben Spencer;	F;	3;	2;	179;	0;	2;	7;	0;	0;	0/0;	0;	0;	0;	0
+Toronto FC;	Chris Mavinga;	D;	26;	24;	2015;	0;	2;	8;	1;	0;	0/0;	0;	0;	0;	0
+Toronto FC;	Michael Bradley;	M;	30;	30;	2700;	0;	2;	11;	0;	0;	0/0;	0;	0;	0;	0
+Toronto FC;	Armando Cooper;	M;	19;	10;	906;	0;	2;	12;	4;	0;	0/0;	0;	0;	0;	0
+Toronto FC;	Tsubasa Endoh;	F;	4;	3;	269;	0;	1;	2;	1;	0;	0/0;	0;	0;	0;	0
+Toronto FC;	Molham Babouli;	F;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Toronto FC;	Brandon Aubrey;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Toronto FC;	Sergio Camargo;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Toronto FC;	Johan Brunell;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Toronto FC;	Jason Hernandez;	D;	8;	5;	526;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Toronto FC;	Oyvind Alseth;	D;	4;	4;	269;	0;	0;	1;	0;	0;	0/0;	0;	0;	0;	0
+Toronto FC;	Nick Hagglund;	D;	15;	13;	1124;	0;	0;	9;	1;	0;	0/0;	0;	0;	0;	0
+
+Team: Vancouver Whitecaps
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1708&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-5e-U2ccGdDIx2JdsqKzFVRqk6wsNEsysv-AEiLzjTyM&form_id=mp7_stats_hub_build_filter_form
+
+Vancouver Whitecaps;	Fredy Montero;	F;	33;	26;	2469;	13;	6;	86;	35;	1;	2/4;	9;	4;	0.47;	15.1
+Vancouver Whitecaps;	Cristian Techera;	M;	29;	24;	2043;	6;	7;	56;	17;	2;	1/2;	4;	2;	0.26;	10.7
+Vancouver Whitecaps;	Yordy Reyna;	M-F;	18;	11;	1073;	6;	4;	26;	11;	5;	0/0;	6;	0;	0.5;	23.1
+Vancouver Whitecaps;	Brek Shea;	D;	25;	14;	1325;	4;	2;	22;	8;	2;	0/0;	1;	3;	0.27;	18.2
+Vancouver Whitecaps;	Kendall Waston;	D;	25;	25;	2250;	4;	1;	19;	7;	1;	0/0;	3;	1;	0.16;	21.1
+Vancouver Whitecaps;	Tony Tchani;	M;	27;	26;	2121;	4;	1;	21;	9;	1;	0/0;	1;	3;	0.17;	19
+Vancouver Whitecaps;	Erik Hurtado;	F-M;	15;	7;	523;	3;	2;	10;	5;	1;	0/0;	1;	2;	0.52;	30
+Vancouver Whitecaps;	Andrew Jacobson;	M;	21;	19;	1704;	2;	2;	13;	3;	0;	0/0;	1;	1;	0.11;	15.4
+Vancouver Whitecaps;	Nicolas Mezquida;	M-F;	20;	8;	686;	2;	1;	12;	4;	0;	0/0;	0;	2;	0.26;	16.7
+Vancouver Whitecaps;	Matias Laba;	M;	19;	19;	1612;	2;	1;	15;	5;	1;	0/0;	2;	0;	0.11;	13.3
+Vancouver Whitecaps;	Bernie Ibini;	F;	17;	7;	629;	1;	2;	18;	5;	1;	0/0;	0;	1;	0.14;	5.6
+Vancouver Whitecaps;	Jordan Harvey;	D;	28;	28;	2509;	1;	1;	8;	4;	0;	0/0;	1;	0;	0.04;	12.5
+Vancouver Whitecaps;	Tim Parker;	D;	32;	32;	2880;	1;	1;	20;	6;	0;	0/0;	1;	0;	0.03;	5
+Vancouver Whitecaps;	Christian Bolaños;	M;	21;	18;	1626;	0;	7;	29;	7;	0;	0/0;	0;	0;	0;	0
+Vancouver Whitecaps;	Jake Nerwinski;	D;	19;	19;	1707;	0;	5;	2;	1;	0;	0/0;	0;	0;	0;	0
+Vancouver Whitecaps;	Sheanon Williams;	D;	15;	15;	1349;	0;	3;	2;	0;	0;	0/0;	0;	0;	0;	0
+Vancouver Whitecaps;	Marcel de Jong;	D-M;	13;	9;	779;	0;	1;	5;	2;	0;	0/0;	0;	0;	0;	0
+Vancouver Whitecaps;	Alphonso Davies;	M;	26;	9;	1053;	0;	1;	15;	2;	0;	0/0;	0;	0;	0;	0
+Vancouver Whitecaps;	Brett Levis;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Vancouver Whitecaps;	Ben McKendry;	M;	1;	1;	90;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Vancouver Whitecaps;	Kyle Greig;	F;	1;	0;	2;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Vancouver Whitecaps;	Sam Adekugbe;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Vancouver Whitecaps;	Marco Bustos;	M;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Vancouver Whitecaps;	David Edgar;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Vancouver Whitecaps;	Mauro Rosales;	M;	5;	0;	52;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Vancouver Whitecaps;	Nosa Igiebor;	M;	1;	1;	73;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Vancouver Whitecaps;	Aaron Maund;	D;	2;	2;	180;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Vancouver Whitecaps;	Cole Seiler;	D;	0;	0;	0;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Vancouver Whitecaps;	Christian Dean;	D;	3;	3;	239;	0;	0;	0;	0;	0;	0/0;	0;	0;	0;	0
+Vancouver Whitecaps;	Kekuta Manneh;	M-F;	3;	2;	136;	0;	0;	3;	0;	0;	0/0;	0;	0;	0;	0
+Vancouver Whitecaps;	Russell Teibert;	M;	12;	8;	731;	0;	0;	5;	1;	0;	0/0;	0;	0;	0;	0
+Vancouver Whitecaps;	Aly Ghazal;	M;	7;	7;	630;	0;	0;	5;	0;	0;	0/0;	0;	0;	0;	0
