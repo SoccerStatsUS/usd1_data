@@ -1,0 +1,750 @@
+Competition: Major League Soccer
+Season: 2018
+
+Key: Team;	Player;	POS;	GP;	GS;	MINS;	G;	A;	SHTS;	SOG;	GWG;	PKG/A;	HmG;	RdG;	G/90min;	SC%
+
+
+Team: Atlanta United
+
+Josef Martinez	F	34	34	2898	31	6	97	56	10	8/9	16	15	0.96	32.0
+Miguel Almiron	M	32	32	2760	12	14	132	51	2	4/5	8	4	0.39	9.1
+Hector Villalba	F	28	21	1787	7	9	68	28	1	0/0	3	4	0.35	10.3
+Julian Gressel	M	33	33	2945	4	14	65	21	3	0/0	4	0	0.12	6.2
+Ezequiel Barco	M	26	19	1730	4	3	21	10	1	0/0	2	2	0.21	19.0
+Kevin Kratz	M	27	2	500	2	1	10	7	1	0/0	2	0	0.36	20.0
+Greg Garza	D	11	10	927	1	3	5	2	0	0/0	1	0	0.10	20.0
+Leandro Gonzalez Pirez	D	32	32	2775	1	2	13	5	0	0/0	0	1	0.03	7.7
+Jeff Larentowicz	M	34	33	2771	1	2	24	4	0	0/0	0	1	0.03	4.2
+George Bello	D	3	2	177	1	0	2	1	0	0/0	1	0	0.51	50.0
+Romario Williams	F	17	0	211	1	0	8	3	0	0/0	1	0	0.43	12.5
+Chris McCann	M-D	22	21	1800	1	0	10	4	0	0/0	1	0	0.05	10.0
+Franco Escobar	D	22	20	1789	1	0	14	3	0	0/0	1	0	0.05	7.1
+Darlington Nagbe	M	23	23	1970	0	3	18	2	0	0/0	0	0	0.00	0.0
+Michael Parkhurst	D	33	32	2903	0	2	0	0	0	0/0	0	0	0.00	0.0
+Mikey Ambrose	D	9	8	731	0	2	6	0	0	0/0	0	0	0.00	0.0
+Andrew Carleton	M	7	2	161	0	1	5	3	0	0/0	0	0	0.00	0.0
+Eric Remedi	M	13	12	1093	0	1	8	1	0	0/0	0	0	0.00	0.0
+Chris Goslin	M	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Andrew Wheeler-Omiunu	M	1	0	16	0	0	0	0	0	0/0	0	0	0.00	0.0
+Gordon Wild	M	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Sal Zizzo	D	6	1	157	0	0	0	0	0	0/0	0	0	0.00	0.0
+Oliver Shannon	M	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Jose Hernandez	D	1	0	17	0	0	0	0	0	0/0	0	0	0.00	0.0
+Jon Gallagher	F	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Lagos Kunga	F	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Miles Robinson	D	10	3	272	0	0	1	0	0	0/0	0	0	0.00	0.0
+Brandon Vazquez	F	8	0	86	0	0	4	2	0	0/0	0	0	0.00	0.0
+
+Team: Chicago Fire
+
+
+Nemanja Nikolic	F	31	29	2443	15	2	52	28	4	3/3	12	3	0.55	28.8
+Aleksandar Katai	M	33	27	2428	12	5	97	41	2	0/0	7	5	0.44	12.4
+Bastian Schweinsteiger	M	31	30	2726	4	6	24	8	0	0/1	2	2	0.13	16.7
+Alan Gordon	F	23	7	827	4	0	19	10	1	0/0	1	3	0.44	21.1
+Kevin Ellis	D	20	19	1537	2	4	10	3	1	0/0	2	0	0.12	20.0
+Michael de Leeuw	F	9	5	454	2	2	9	2	0	0/0	1	1	0.40	22.2
+Brandt Bronico	M	23	17	1531	1	5	10	3	0	0/0	0	1	0.06	10.0
+Djordje Mihailovic	M	9	8	582	1	4	9	2	0	0/0	1	0	0.15	11.1
+Brandon Vincent	D	32	31	2828	1	4	13	4	0	0/0	1	0	0.03	7.7
+Raheem Edwards	D-M	13	10	916	1	2	17	4	0	0/0	0	1	0.10	5.9
+Diego Campos	D-M	23	13	1197	1	2	19	6	0	0/0	1	0	0.08	5.3
+Elliot Collier	F	16	9	904	1	1	15	5	0	0/0	0	1	0.10	6.7
+Tony Tchani	M	13	9	825	1	0	5	2	0	0/0	0	1	0.11	20.0
+Johan Kappelhof	D	29	29	2604	0	4	5	2	0	0/0	0	0	0.00	0.0
+Dax McCarty	M	26	26	2259	0	3	10	2	0	0/0	0	0	0.00	0.0
+Drew Conner	M	11	5	462	0	1	0	0	0	0/0	0	0	0.00	0.0
+Matt Polster	M	3	1	126	0	1	1	0	0	0/0	0	0	0.00	0.0
+Jonathan Campbell	D	15	11	1005	0	1	2	1	0	0/0	0	0	0.00	0.0
+Luis Solignac	F	11	8	702	0	1	12	2	0	0/0	0	0	0.00	0.0
+Rafael Ramos  D 3   1   105 0   0   0   0   0       0/0 0   0   0.00    0.0
+Christian Dean  D   2   2   178 0   0   0   0       0   0/0 0   0       0.00    0.0
+Mo Adams  M     15  10  908 0   0   0   0   0       0/0 0   0   0.00    0.0
+Nicolas Del Grecco  D   0   0   0   0   0   0       0   0   0/0 0       0   0.00    0.0
+Jon Bakero  F       4   1   75  0   0   1   0       0   0/0 0   0       0.00        0.0
+Grant Lillard       D   8   6   562 0   0   1       0   0   0/0 0       0           0.00    0.0~
+Yura Movsisyan	F	4	0	58	0	0	1	0	0	0/0	0	0	0.00	0.0
+Nicolas Hasler	D	10	8	778	0	0	2	1	0	0/0	0	0	0.00	0.0
+Daniel Johnson	M	7	3	261	0	0	2	2	0	0/0	0	0	0.00	0.0
+Jorge Corrales	D	17	15	1292	0	0	5	1	0	0/0	0	0	0.00	0.0
+
+
+Team: Colorado Rapids
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1207&year=2018&season_type=REG&group=goals&op=Search&form_build_id=form-MTbym5gmakyfgZuPTV_qHn3AI605KX9KDQEVb8_yUsI&form_id=mp7_stats_hub_build_filter_form
+
+Dominique Badji	F	16	15	1343	7	2	48	19	1	0/0	6	1	0.47	14.6
+Tommy Smith	D	33	33	2969	4	3	30	12	2	0/0	4	0	0.12	13.3
+Edgar Castillo	D	28	28	2440	3	5	28	7	0	0/0	2	1	0.11	10.7
+Joe Mason	F	14	9	758	3	0	14	8	0	0/0	2	1	0.36	21.4
+Niki Jackson	F	15	1	429	3	0	14	4	0	0/0	0	3	0.63	21.4
+Kellyn Acosta	M	12	12	1040	2	3	21	5	0	0/1	1	1	0.17	9.5
+Shkelzen Gashi	M-F	21	9	814	2	2	20	5	0	1/1	1	1	0.22	10.0
+Sam Nicholson	M	19	19	1521	2	2	31	13	1	0/0	2	0	0.12	6.5
+Jack McBean	F	22	13	1060	2	1	20	9	0	1/1	1	1	0.17	10.0
+Yannick Boli	F	17	9	768	2	0	23	7	1	1/1	1	1	0.23	8.7
+Jack Price	M	31	31	2750	1	4	21	8	1	0/1	1	0	0.03	4.8
+Bismark Adjei-Boateng	M	20	14	1236	1	1	12	4	1	0/0	1	0	0.07	8.3
+Cole Bassett	M	6	3	307	1	0	5	1	0	0/0	1	0	0.29	20.0
+Dillon Serna	M	20	10	1181	1	0	24	7	0	0/0	0	1	0.08	4.2
+Johan Blomberg	M	24	21	1657	0	3	17	2	0	0/0	0	0	0.00	0.0
+Enzo Martinez	M	22	15	1406	0	3	22	7	0	0/0	0	0	0.00	0.0
+Marlon Hairston	M	15	13	1107	0	2	5	1	0	0/0	0	0	0.00	0.0
+Danny Wilson	D	23	22	1935	0	1	7	1	0	0/0	0	0	0.00	0.0
+Jared Watts	D-M	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Mike da Fonte	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Stefan Aigner	M-F	1	0	11	0	0	0	0	0	0/0	0	0	0.00	0.0
+Kip Colvey	M	3	3	208	0	0	0	0	0	0/0	0	0	0.00	0.0
+Sam Vines	D	1	0	45	0	0	0	0	0	0/0	0	0	0.00	0.0
+Eric Miller	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Caleb Calvert	F	1	0	35	0	0	0	0	0	0/0	0	0	0.00	0.0
+Sam Hamilton	M	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Ricardo Perez	M	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Micheal Azira	M	5	3	275	0	0	1	0	0	0/0	0	0	0.00	0.0
+Deklan Wynne	D	25	22	2006	0	0	3	0	0	0/0	0	0	0.00	0.0
+Axel Sjöberg	D	17	15	1334	0	0	4	2	0	0/0	0	0	0.00	0.0
+Kortne Ford	D	15	14	1141	0	0	5	1	0	0/0	0	0	0.00	0.0
+Giles Barnes	M	12	6	543	0	0	5	1	0	0/0	0	0	0.00	0.0
+
+Team: Columbus Crew
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=454&year=2018&season_type=REG&group=goals&op=Search&form_build_id=form-ORZsgYH365J4oaGLW4x-Ju0oK-N2LTaM3AOCRlFaZNE&form_id=mp7_stats_hub_build_filter_form
+
+Gyasi Zardes	F	33	33	2948	19	0	88	40	4	3/4	17	2	0.58	21.6
+Federico Higuain	M	30	27	2380	6	9	52	17	3	3/3	4	2	0.23	11.5
+Niko Hansen	M	22	11	1031	3	3	33	8	0	0/0	0	3	0.26	9.1
+Harrison Afful	D	32	32	2864	2	6	56	13	0	0/0	2	0	0.06	3.6
+Pedro Santos	M	30	29	2221	1	7	72	20	0	0/0	1	0	0.04	1.4
+Milton Valenzuela	D	30	29	2557	1	6	17	4	0	0/0	1	0	0.04	5.9
+Wil Trapp	M	30	29	2620	1	1	8	3	1	0/0	1	0	0.03	12.5
+Patrick Mullins	F	10	2	285	1	1	9	4	0	0/0	0	1	0.32	11.1
+Mike Grella	M	12	5	480	1	1	10	3	1	0/0	1	0	0.19	10.0
+Eduardo Sosa	M	10	3	385	1	1	11	4	1	0/0	1	0	0.23	9.1
+Ricardo Clark	M	13	8	642	1	1	12	3	1	0/0	1	0	0.14	8.3
+Justin Meram	M	9	7	595	1	1	15	4	1	0/0	1	0	0.15	6.7
+Alex Crognale	D	5	0	97	1	0	1	1	0	0/0	1	0	0.93	100.0
+Lalas Abubakar	D	23	20	1771	1	0	9	3	1	0/0	0	1	0.05	11.1
+Jonathan Mensah	D	27	26	2347	1	0	19	6	0	0/0	0	1	0.04	5.3
+Cristian Martinez	M	14	11	841	0	2	14	5	0	0/0	0	0	0.00	0.0
+Artur	M	32	32	2784	0	2	43	9	0	0/0	0	0	0.00	0.0
+Connor Maloney	D	1	0	28	0	1	0	0	0	0/0	0	0	0.00	0.0
+Hector Jimenez	M	11	7	655	0	1	4	3	0	0/0	0	0	0.00	0.0
+Gaston Sauro	D	7	6	521	0	0	0	0	0	0/0	0	0	0.00	0.0
+Mohammed Abu	M	4	0	93	0	0	1	0	0	0/0	0	0	0.00	0.0
+Edward Opoku	F	5	1	150	0	0	1	1	0	0/0	0	0	0.00	0.0
+Adam Jahn	F	8	0	68	0	0	3	0	0	0/0	0	0	0.00	0.0
+Josh Williams	D	21	16	1485	0	0	8	2	0	0/0	0	0	0.00	0.0
+Luis Argudo	M	18	6	630	0	0	11	2	0	0/0	0	0	0.00	0.0
+
+
+Team: DC United
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1326&year=2018&season_type=REG&group=goals&op=Search&form_build_id=form-7VT5ZAlBvKyUB6oYa9ituUQZXyBCJ2VyMFUMnp3Hne4&form_id=mp7_stats_hub_build_filter_form
+
+Wayne Rooney	F-M	20	18	1641	12	7	71	31	3	3/3	12	0	0.66	16.9
+Luciano Acosta	M-F	33	32	2753	10	17	60	23	4	0/0	10	0	0.33	16.7
+Darren Mattocks	F	25	14	1267	10	0	42	19	2	0/1	3	7	0.71	23.8
+Yamil Asad	M-F	30	27	2365	9	8	45	19	0	1/1	1	8	0.34	20.0
+Paul Arriola	M-F	28	25	2183	7	8	36	18	1	0/0	5	2	0.29	19.4
+Zoltan Stieber	M-F	27	21	1833	5	7	34	12	0	0/0	1	4	0.25	14.7
+Ulises Segura	M	23	14	1292	2	1	19	8	1	0/0	2	0	0.14	10.5
+Steven Birnbaum	D	34	34	3060	2	0	17	6	0	0/0	0	2	0.06	11.8
+Russell Canouse	M	20	17	1533	1	1	8	3	1	0/0	1	0	0.06	12.5
+Oniel Fisher	D	24	20	1832	1	1	14	1	1	0/0	1	0	0.05	7.1
+Joseph Mora	D	30	28	2523	0	2	4	0	0	0/0	0	0	0.00	0.0
+Junior Moreno	M	20	17	1528	0	2	7	2	0	0/0	0	0	0.00	0.0
+Ian Harkes	M	8	4	352	0	1	0	0	0	0/0	0	0	0.00	0.0
+Patrick Mullins	F	10	2	225	0	1	1	0	0	0/0	0	0	0.00	0.0
+Bruno Miranda	F	7	0	86	0	1	2	0	0	0/0	0	0	0.00	0.0
+Chris Durkin	D-M	23	16	1503	0	1	7	1	0	0/0	0	0	0.00	0.0
+Frederic Brillant	D	27	24	2181	0	1	9	1	0	0/0	0	0	0.00	0.0
+Nick DeLeon	M	15	12	1062	0	1	11	4	0	0/0	0	0	0.00	0.0
+Dane Kelly	F	1	0	3	0	0	0	0	0	0/0	0	0	0.00	0.0
+Jalen Robinson	D	5	5	348	0	0	0	0	0	0/0	0	0	0.00	0.0
+Taylor Kemp	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Vytas	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Jared Jeffrey	M	2	0	2	0	0	0	0	0	0/0	0	0	0.00	0.0
+Kevin Ellis	D	2	0	46	0	0	0	0	0	0/0	0	0	0.00	0.0
+Chris Odoi-Atsem	D	1	0	12	0	0	1	1	0	0/0	0	0	0.00	0.0
+Kofi Opare	D	11	10	863	0	0	8	0	0	0/0	0	0	0.00	0.0
+
+Team: FC Dallas
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1903&year=2018&season_type=REG&group=goals&op=Search&form_build_id=form-q57cq7tmt42dQDDMK1nMTlwol1wAVsHF-xqq8XO95io&form_id=mp7_stats_hub_build_filter_form
+
+Maximiliano Urruti	F	33	30	2735	8	11	117	35	1	0/0	4	4	0.26	6.8
+Roland Lamah	M	29	21	1865	8	6	37	14	4	0/1	7	1	0.39	21.6
+Michael Barrios	M	34	29	2536	6	6	59	29	1	0/0	2	4	0.21	10.2
+Santiago Mosquera	M	29	17	1589	6	5	61	21	2	0/0	3	3	0.34	9.8
+Reto Ziegler	D	29	29	2570	4	0	15	7	0	2/3	4	0	0.14	26.7
+Mauro Diaz	M	12	9	807	2	8	20	5	1	2/2	2	0	0.22	10.0
+Dominique Badji	F	10	9	620	2	1	11	4	0	0/0	0	2	0.29	18.2
+Carlos Gruezo	M	31	28	2508	2	1	28	6	1	0/0	1	1	0.07	7.1
+Tesho Akindele	F	19	5	577	2	0	9	7	1	0/0	2	0	0.31	22.2
+Matt Hedges	D	33	33	2925	2	0	15	7	1	0/0	0	2	0.06	13.3
+Cristian Colman	F	15	6	606	2	0	21	11	0	0/0	1	1	0.30	9.5
+Reggie Cannon	D	33	33	2921	1	3	10	4	0	0/0	1	0	0.03	10.0
+Ryan Hollingshead	D	18	7	766	1	3	11	7	0	0/0	0	1	0.12	9.1
+Kellyn Acosta	M	13	8	674	1	2	9	2	1	0/0	1	0	0.13	11.1
+Victor Ulloa	M	27	25	2172	1	2	12	3	0	0/0	1	0	0.04	8.3
+Jacori Hayes	M	16	10	998	1	1	8	4	1	0/0	0	1	0.09	12.5
+Maynor Figueroa	D	16	11	1008	1	0	14	6	1	0/0	1	0	0.09	7.1
+Anton Nedyalkov	D	9	9	770	0	1	6	1	0	0/0	0	0	0.00	0.0
+Anibal Chala	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Moises Hernandez	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Francis Atuahene	F	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Jordan Cano	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Kris Reaves	D	2	2	168	0	0	0	0	0	0/0	0	0	0.00	0.0
+Bryan Reynolds	F	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Paxton Pomykal	M	6	1	125	0	0	0	0	0	0/0	0	0	0.00	0.0
+Brandon Servania	M	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Adonijah Reid	F	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Ema Twumasi	F	1	1	45	0	0	1	0	0	0/0	0	0	0.00	0.0
+Jesus Ferreira	F	1	0	3	0	0	2	0	0	0/0	0	0	0.00	0.0
+Abel Aguilar	M	4	1	131	0	0	3	0	0	0/0	0	0	0.00	0.0
+Marquinhos Pedroso	D	13	13	1170	0	0	7	1	0	0/0	0	0	0.00	0.0
+Pablo Aranguiz	M	9	3	282	0	0	7	3	0	0/0	0	0	0.00	0.0
+
+
+Team: Houston Dynamo
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1897&year=2018&season_type=REG&group=goals&op=Search&form_build_id=form-y9IAlb6HR2DuO1-I06FfyN_GU9H0PbqUkN9xvb_Jq_I&form_id=mp7_stats_hub_build_filter_form
+
+Mauro Manotas	F	33	30	2633	19	1	95	43	2	2/2	10	9	0.65	20.0
+Alberth Elis	F	30	27	2422	11	10	101	44	1	2/2	5	6	0.41	10.9
+Romell Quioto	F	32	25	2252	6	12	82	30	1	0/0	3	3	0.24	7.3
+Tomas Martinez	M	32	31	2455	5	13	66	19	2	0/0	3	2	0.18	7.6
+Philippe Senderos	D	8	7	606	4	1	10	6	1	0/0	4	0	0.59	40.0
+Alejandro Fuenmayor	D	22	21	1763	3	1	8	4	0	0/0	3	0	0.15	37.5
+Andrew Wenger	D-M	22	20	1710	2	1	14	7	1	0/0	1	1	0.11	14.3
+Boniek Garcia	M	29	21	2063	1	7	6	1	0	0/0	1	0	0.04	16.7
+Eric Alexander	M	21	20	1662	1	2	7	1	0	0/0	1	0	0.05	14.3
+DaMarcus Beasley	D	26	26	2208	1	2	11	7	0	0/0	0	1	0.04	9.1
+Kevin Garcia	D	15	11	1103	1	0	3	1	0	0/0	1	0	0.08	33.3
+Leonardo	D	24	19	1770	1	0	5	1	1	0/0	1	0	0.05	20.0
+Ronaldo Peña	F	9	2	222	1	0	7	5	0	0/0	1	0	0.41	14.3
+Darwin Ceren	M	24	20	1858	1	0	8	2	0	0/0	1	0	0.05	12.5
+Memo Rodriguez	M	19	6	645	1	0	12	2	1	0/0	1	0	0.14	8.3
+Jared Watts	D-M	7	7	535	0	1	2	0	0	0/0	0	0	0.00	0.0
+Adam Lundkvist	D	16	12	1200	0	1	6	1	0	0/0	0	0	0.00	0.0
+Arturo Alvarez	M	18	2	341	0	1	8	3	0	0/0	0	0	0.00	0.0
+A.J. DeLaGarza	D	4	4	360	0	0	0	0	0	0/0	0	0	0.00	0.0
+Dylan Remick D  0   0   0   0   0   0   0   0       0/0 0   0   0.00    0.0
+Charlie Ward M  0   0   0   0   0   0   0   0       0/0 0   0   0.00    0.0
+Conor Donovan   D   0   0   0   0   0   0   0       0   0/0 0   0       0.00    0.0
+George Malki    D   0   0   0   0   0   0   0       0   0/0 0   0       0.00    0.0
+Mac Steeves     F   3   0   26  0   0   2   1       0   0/0 0   0       0.00    0.0
+Juan David Cabezas  M   6   4   290 0   0   4       1   0   0/0 0       0       0.00    0.0~
+
+
+Team: LA Galaxy
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1230&year=2018&season_type=REG&group=goals&op=Search&form_build_id=form-WNBr85XtIYhAHn9mSExsNvDfEFMHcptiOkcYBiZy9lE&form_id=mp7_stats_hub_build_filter_form
+
+Zlatan Ibrahimovic	F	27	24	2143	22	10	116	49	7	4/4	15	7	0.92	19.0
+Ola Kamara	F	31	30	2689	14	3	67	31	3	0/0	7	7	0.47	20.9
+Romain Alessandrini	M	26	23	1920	11	9	63	24	2	1/1	6	5	0.52	17.5
+Chris Pontius	M	26	15	1485	5	6	26	8	1	0/0	2	3	0.30	19.2
+Giovani dos Santos	M	14	10	823	3	2	25	9	0	0/0	2	1	0.33	12.0
+Sebastian Lletget	M	28	21	1885	3	2	30	9	0	0/0	3	0	0.14	10.0
+Jonathan dos Santos	M	23	22	1909	2	8	11	5	0	0/0	0	2	0.09	18.2
+Emmanuel Boateng	M	27	12	1188	2	5	17	4	0	0/0	1	1	0.15	11.8
+Ashley Cole	D	31	30	2687	1	10	15	5	0	0/0	1	0	0.03	6.7
+Rolf Feltscher	D	15	15	1295	1	3	7	2	0	0/0	0	1	0.07	14.3
+Dave Romney	D	28	26	2354	1	3	8	3	0	0/0	0	1	0.04	12.5
+Michael Ciani	D	21	19	1647	1	0	5	1	0	0/0	0	1	0.05	20.0
+Jorgen Skjelvik	D	32	29	2585	0	2	4	1	0	0/0	0	0	0.00	0.0
+Servando Carrasco	M	19	10	1001	0	2	6	3	0	0/0	0	0	0.00	0.0
+Perry Kitchen	M	31	27	2339	0	2	13	2	0	0/0	0	0	0.00	0.0
+Baggio Husidic	M	7	1	206	0	1	1	0	0	0/0	0	0	0.00	0.0
+Daniel Steres	D	20	14	1322	0	1	3	0	0	0/0	0	0	0.00	0.0
+Joao Pedro	M	3	1	85	0	0	0	0	0	0/0	0	0	0.00	0.0
+Hugo Arellano	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Sheanon Williams	D-M	8	1	153	0	0	0	0	0	0/0	0	0	0.00	0.0
+Efrain Alvarez	M	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Emrah Klimenta	D	2	2	156	0	0	0	0	0	0/0	0	0	0.00	0.0
+Tomas Hilliard-Arce	D	5	4	304	0	0	1	1	0	0/0	0	0	0.00	0.0
+Bradford Jamieson IV	F	6	3	271	0	0	1	0	0	0/0	0	0	0.00	0.0
+Ariel Lassiter	F	7	1	94	0	0	6	3	0	0/0	0	0	0.00	0.0
+
+
+Team: Los Angeles Football Club
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=11690&year=2018&season_type=REG&group=goals&op=Search&form_build_id=form-0VBwxZ6xtnpi0RG2MuIrWFNBJTPQR_TYrj-WrHnL_2A&form_id=mp7_stats_hub_build_filter_form
+
+Carlos Vela	F	28	26	2378	14	13	97	44	2	4/4	4	10	0.53	14.4
+Diego Rossi	F	32	30	2604	12	9	89	40	1	0/0	5	7	0.41	13.5
+Adama Diomande	F	18	14	1253	12	4	39	22	1	0/0	7	5	0.86	30.8
+Latif Blessing	F	30	18	1804	5	6	49	20	2	0/0	2	3	0.25	10.2
+Walker Zimmerman	D	26	26	2321	4	1	24	8	3	0/0	3	1	0.16	16.7
+Benny Feilhaber	M	34	32	2804	3	6	38	11	0	0/0	0	3	0.10	7.9
+Lee Nguyen	M	25	20	1833	3	5	21	6	2	0/0	2	1	0.15	14.3
+Laurent Ciman	D	22	22	1980	3	0	24	10	2	0/0	2	1	0.14	12.5
+Mark-Anthony Kaye	M	20	20	1582	2	5	30	10	0	0/0	1	1	0.11	6.7
+Steven Beitashour	D	30	30	2644	2	4	9	3	0	0/0	1	1	0.07	22.2
+Christian Ramirez	F	7	3	261	2	0	8	4	1	0/0	2	0	0.69	25.0
+Marco Ureña	F	18	11	1015	1	5	28	12	0	0/1	1	0	0.09	3.6
+Eduard Atuesta	M	25	16	1501	1	2	19	4	1	0/0	1	0	0.06	5.3
+Joao Moutinho	D	14	10	872	1	0	7	1	1	0/0	0	1	0.10	14.3
+Aaron Kovar	M	11	7	523	0	3	16	5	0	0/0	0	0	0.00	0.0
+Jordan Harvey	D	29	23	2140	0	1	7	0	0	0/0	0	0	0.00	0.0
+Josh Perez	F	2	0	22	0	0	0	0	0	0/0	0	0	0.00	0.0
+Nico Czornomaz	M	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+James Murphy	M	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Rodrigo Pacheco	F	1	0	17	0	0	0	0	0	0/0	0	0	0.00	0.0
+Tristan Blackmon	D	10	5	492	0	0	1	1	0	0/0	0	0	0.00	0.0
+Shaft Brewer Jr.	M-D	3	0	29	0	0	1	0	0	0/0	0	0	0.00	0.0
+Calum Mallace	M	5	0	29	0	0	1	0	0	0/0	0	0	0.00	0.0
+Omar Gaber	D-M	7	2	254	0	0	2	0	0	0/0	0	0	0.00	0.0
+Dejan Jakovic	D	15	13	1147	0	0	3	0	0	0/0	0	0	0.00	0.0
+Danilo Silva	D	10	9	722	0	0	3	1	0	0/0	0	0	0.00	0.0
+Andre Horta	M	11	3	319	0	0	11	2	0	0/0	0	0	0.00	0.0
+
+
+Team: Minnesota United
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=6977&year=2018&season_type=REG&group=goals&op=Search&form_build_id=form-G-Y5OCt3U6L_vOZGJRXtaQdCBWF4w1C6pxcbQ2T2cwU&form_id=mp7_stats_hub_build_filter_form
+
+Darwin Quintero	M-F	27	27	2396	11	15	78	32	2	1/1	9	2	0.41	14.1
+Miguel Ibarra	M	33	31	2715	7	8	37	19	2	0/0	5	2	0.23	18.9
+Christian Ramirez	F	20	17	1384	7	2	35	13	2	0/0	5	2	0.46	20.0
+Ibson	M	27	23	2099	4	3	31	8	1	0/0	3	1	0.17	12.9
+Angelo Rodriguez	F	11	10	870	4	1	28	8	1	0/0	3	1	0.41	14.3
+Romario Ibarra	M	9	2	271	3	0	11	5	0	0/0	2	1	1.00	27.3
+Francisco Calvo	D	26	26	2339	2	3	26	6	0	0/0	0	2	0.08	7.7
+Kevin Molino	M	2	2	140	2	1	4	3	0	0/0	0	2	1.29	50.0
+Ethan Finlay	M	7	7	570	2	1	10	5	1	0/0	0	2	0.32	20.0
+Michael Boxall	D	32	32	2880	2	0	7	3	1	0/0	1	1	0.06	28.6
+Rasmus Schuller	M	31	29	2547	1	4	16	7	0	0/0	1	0	0.04	6.3
+Abu Danladi	F	16	5	483	1	1	12	6	0	0/0	0	1	0.19	8.3
+Sam Nicholson	M	8	6	526	1	1	15	4	1	0/0	1	0	0.17	6.7
+Tyrone Mears	D	11	10	883	1	0	5	3	0	0/0	0	1	0.10	20.0
+Carter Manley	D	8	4	502	0	1	0	0	0	0/0	0	0	0.00	0.0
+Fernando Bob	M	7	7	616	0	1	1	0	0	0/0	0	0	0.00	0.0
+Jerome Thiesson	D	14	13	1106	0	1	2	0	0	0/0	0	0	0.00	0.0
+Eric Miller	D	18	13	1145	0	1	2	0	0	0/0	0	0	0.00	0.0
+Collin Martin	M	12	5	518	0	1	4	3	0	0/0	0	0	0.00	0.0
+Mason Toye	F	17	2	340	0	1	11	5	0	0/0	0	0	0.00	0.0
+Bertrand Owundi Eko'o	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Jose Leiton	M	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Wyatt Omsberg	D	7	4	385	0	0	0	0	0	0/0	0	0	0.00	0.0
+Sam Cronin	M	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Marc Burch	D	6	5	403	0	0	0	0	0	0/0	0	0	0.00	0.0
+Harrison Heath	M	4	1	121	0	0	1	0	0	0/0	0	0	0.00	0.0
+Brent Kallman	D	24	22	1953	0	0	4	2	0	0/0	0	0	0.00	0.0
+Frantz Pangop	M	9	1	175	0	0	4	0	0	0/0	0	0	0.00	0.0
+Collen Warner	M	17	14	1239	0	0	4	0	0	0/0	0	0	0.00	0.0
+Maximiano	M	11	6	576	0	0	6	1	0	0/0	0	0	0.00	0.0
+Alexi Gomez	M-D	18	16	1322	0	0	22	7	0	0/0	0	0	0.00	0.0
+
+Team: Montreal Impact
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1616&year=2018&season_type=REG&group=goals&op=Search&form_build_id=form-qyEIR_tCMoemRDxkYXZ6fX8CQ59mpvJ-ofzdf10WRMU&form_id=mp7_stats_hub_build_filter_form
+
+Ignacio Piatti	M	32	32	2821	16	13	95	32	3	4/4	14	2	0.51	16.8
+Saphir Taider	M	33	33	2852	7	8	81	25	4	1/1	4	3	0.22	8.6
+Alejandro Silva	M	31	27	2368	5	11	53	20	0	1/1	2	3	0.19	9.4
+Jeisson Vargas	F-M	19	10	871	4	0	28	11	3	0/0	2	2	0.41	14.3
+Matteo Mancosu	F	20	14	1103	3	1	27	5	0	0/0	1	2	0.24	11.1
+Anthony Jackson-Hamel	F	16	6	580	2	0	14	8	0	0/0	2	0	0.31	14.3
+Raheem Edwards	D-M	14	9	808	2	0	19	9	1	0/0	1	1	0.22	10.5
+Daniel Lovitz	D	31	29	2650	1	5	11	1	1	0/0	1	0	0.03	9.1
+Jukka Raitala	D	28	25	2290	1	2	8	2	0	0/0	0	1	0.04	12.5
+Rod Fanni	D	26	26	2290	1	0	6	2	1	0/0	1	0	0.04	16.7
+Micheal Azira	M	10	8	723	1	0	8	3	0	0/0	1	0	0.12	12.5
+Bacary Sagna	D	9	9	810	1	0	10	4	0	0/0	1	0	0.11	10.0
+Quincy Amarikwa	F	10	7	644	1	0	19	7	0	0/0	0	1	0.14	5.3
+Samuel Piette	M	34	34	3000	0	3	11	2	0	0/0	0	0	0.00	0.0
+Chris Duvall	D	15	14	1195	0	1	1	0	0	0/0	0	0	0.00	0.0
+Kyle Fisher	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Michael Salazar	F	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Zakaria Diallo	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+David Choiniere	M	1	0	12	0	0	0	0	0	0/0	0	0	0.00	0.0
+Louis Beland-Goyette	M	4	0	109	0	0	0	0	0	0/0	0	0	0.00	0.0
+Victor Cabrera	D	13	10	920	0	0	1	1	0	0/0	0	0	0.00	0.0
+Shamit Shome	M	5	2	249	0	0	2	0	0	0/0	0	0	0.00	0.0
+Mathieu Choiniere	M	5	0	82	0	0	2	0	0	0/0	0	0	0.00	0.0
+Marco Donadel	M	2	1	96	0	0	2	0	0	0/0	0	0	0.00	0.0
+Dominic Oduro	M	5	0	32	0	0	2	0	0	0/0	0	0	0.00	0.0
+Michael Petrasso	D	14	8	782	0	0	3	0	0	0/0	0	0	0.00	0.0
+Rudy Camacho	D	18	18	1566	0	0	9	2	0	0/0	0	0	0.00	0.0
+Ken Krolicki	M	24	18	1588	0	0	12	4	0	0/0	0	0	0.00	0.0
+
+
+Team: NE Revolution
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=928&year=2018&season_type=REG&group=goals&op=Search&form_build_id=form-teqk5Aib2OD3zQR3mAL-vn4Fcy_xiEWIAqOkfRpFcWE&form_id=mp7_stats_hub_build_filter_form
+
+Cristian Penilla	F	33	33	2816	12	7	95	38	2	1/1	6	6	0.38	12.6
+Teal Bunbury	F	32	30	2566	11	4	68	33	5	1/2	6	5	0.39	16.2
+Diego Fagundez	M	33	30	2666	9	10	68	30	1	1/2	7	2	0.30	13.2
+Wilfried Zahibo	M	31	22	1943	4	4	36	12	0	0/0	2	2	0.19	11.1
+Juan Agudelo	F	30	13	1496	3	4	40	13	0	0/0	1	2	0.18	7.5
+Andrew Farrell	D	31	30	2701	2	2	12	3	0	0/0	2	0	0.07	16.7
+Scott Caldwell	M	24	20	1522	2	0	13	8	0	0/0	2	0	0.12	15.4
+Luis Alberto Caicedo	M	30	29	2590	1	4	35	9	0	0/0	1	0	0.03	2.9
+Brandon Bye	D	24	16	1470	1	2	12	5	0	0/0	0	1	0.06	8.3
+Kelyn Rowe	M	27	18	1611	1	2	35	8	0	0/0	0	1	0.06	2.9
+Chris Tierney	D-M	6	3	308	1	0	2	2	1	0/0	1	0	0.29	50.0
+Brian Wright	F	10	2	258	1	0	9	3	1	0/0	0	1	0.35	11.1
+Krisztian Nemeth	F	15	4	466	0	2	8	2	0	0/0	0	0	0.00	0.0
+Gabriel Somi	D	14	12	1043	0	2	11	2	0	0/0	0	0	0.00	0.0
+Jalil Anibaba	D	31	29	2706	0	1	11	3	0	0/0	0	0	0.00	0.0
+Lee Nguyen	M	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Cristhian Machado	M	3	2	119	0	0	0	0	0	0/0	0	0	0.00	0.0
+Zachary Herivaux	M	5	2	158	0	0	0	0	0	0/0	0	0	0.00	0.0
+Femi Hollinger-Janzen	F	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Nicolas Samayoa	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Mark Segbers	M-D	1	0	45	0	0	0	0	0	0/0	0	0	0.00	0.0
+Isaac Angking	M	3	0	37	0	0	1	0	0	0/0	0	0	0.00	0.0
+Michael Mancienne	D	10	10	900	0	0	1	1	0	0/0	0	0	0.00	0.0
+Guillermo Hauche	F-M	4	2	175	0	0	4	0	0	0/0	0	0	0.00	0.0
+Antonio Mlinar Delamea	D	18	18	1516	0	0	5	0	0	0/0	0	0	0.00	0.0
+Claude Dielna	D	17	15	1334	0	0	20	7	0	0/0	0	0	0.00	0.0
+
+
+Team: NYC FC
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=9668&year=2018&season_type=REG&group=goals&op=Search&form_build_id=form-RRWc2RDlpOy-tr6h5u5OVCJcIZuHEu4JvBPeBS4b27w&form_id=mp7_stats_hub_build_filter_form
+
+David Villa	F	23	20	1754	14	5	100	42	3	2/3	9	5	0.72	14.0
+Ismael Tajouri-Shradi	F	27	18	1547	11	3	35	16	4	0/0	4	7	0.64	31.4
+Maximiliano Moralez	M	32	32	2818	8	16	72	26	4	1/1	5	3	0.26	11.1
+Jesus Medina	M	28	21	2005	6	7	46	13	2	0/0	4	2	0.27	13.0
+Anton Tinnerholm	D	31	31	2697	4	6	37	12	0	0/0	2	2	0.13	10.8
+Jo Inge Berget	F	23	19	1569	4	3	40	12	1	0/0	3	1	0.23	10.0
+Ronald Matarrita	D	24	15	1367	2	2	24	12	0	0/0	2	0	0.13	8.3
+Alexander Ring	M	30	29	2608	2	0	30	8	1	0/0	1	1	0.07	6.7
+Jonathan Lewis	F	14	0	219	1	3	10	2	0	0/0	1	0	0.41	10.0
+Rodney Wallace	D	18	9	818	1	1	20	4	0	0/0	0	1	0.11	5.0
+Ebenezer Ofori	M	27	21	1895	1	0	7	2	0	0/0	1	0	0.05	14.3
+Maxime Chanot	D	18	18	1571	1	0	11	3	0	0/0	1	0	0.06	9.1
+Valentin Castellanos	F	8	5	446	1	0	20	6	0	0/0	1	0	0.20	5.0
+Alexander Callens	D	31	31	2750	1	0	21	2	0	0/0	1	0	0.03	4.8
+Yangel Herrera	M	15	13	1111	0	4	21	7	0	0/0	0	0	0.00	0.0
+Saad Abdul-Salaam	D	4	3	273	0	2	1	0	0	0/0	0	0	0.00	0.0
+Ben Sweat	D	28	24	2197	0	1	16	4	0	0/0	0	0	0.00	0.0
+Cedric Hountondji	D	1	0	1	0	0	0	0	0	0/0	0	0	0.00	0.0
+Daniel Bedoya	M	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Joe Scally	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Kwame Awuah	M	6	1	143	0	0	1	0	0	0/0	0	0	0.00	0.0
+James Sands	M	3	3	223	0	0	3	1	0	0/0	0	0	0.00	0.0
+Thomas McNamara	M	10	4	370	0	0	3	0	0	0/0	0	0	0.00	0.0
+Eloi Amagat	M	8	5	430	0	0	5	1	0	0/0	0	0	0.00	0.0
+Sebastien Ibeagha	D	26	18	1717	0	0	10	3	0	0/0	0	0	0.00	0.0
+
+
+
+Team: NY Red Bulls
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=399&year=2018&season_type=REG&group=goals&op=Search&form_build_id=form-2lAeEPNIM8RQjOvSFM7SOAhtgQlCEx3kHrru21GWl7o&form_id=mp7_stats_hub_build_filter_form
+
+Bradley Wright-Phillips	F	32	28	2536	20	8	82	37	6	0/0	10	10	0.71	24.4
+Daniel Royer	M	29	24	2049	11	2	72	32	3	2/2	6	5	0.48	15.3
+Alejandro Romero Gamarra	M	30	29	2424	6	14	53	23	6	2/3	4	2	0.22	11.3
+Derrick Etienne Jr.	F-M	30	9	961	5	1	35	17	2	0/1	3	2	0.47	14.3
+Florian Valot	M	14	13	1150	3	5	24	9	0	0/0	1	2	0.23	12.5
+Alex Muyl	M	30	13	1286	3	5	31	17	1	0/0	1	2	0.21	9.7
+Aaron Long	D	34	31	2806	3	2	23	10	0	0/0	1	2	0.10	13.0
+Marc Rzatkowski	M	24	16	1497	2	7	22	7	1	0/0	2	0	0.12	9.1
+Kemar Lawrence	D	28	27	2438	2	1	15	6	1	0/0	1	1	0.07	13.3
+Carlos Rivas	F	5	3	264	2	0	10	6	0	0/0	2	0	0.68	20.0
+Michael Amir Murillo	D	23	21	1935	1	4	19	5	0	0/0	1	0	0.05	5.3
+Tim Parker	D	29	29	2610	1	2	16	7	0	0/0	1	0	0.03	6.3
+Ben Mines	M	1	1	90	1	0	1	1	1	0/0	1	0	1.00	100.0
+Brian White	F	5	2	217	1	0	5	1	1	0/0	1	0	0.41	20.0
+Sean Davis	M	32	30	2579	0	8	8	3	0	0/0	0	0	0.00	0.0
+Tyler Adams	M	27	26	2328	0	7	13	1	0	0/0	0	0	0.00	0.0
+Ethan Kutler	D	4	1	101	0	2	1	0	0	0/0	0	0	0.00	0.0
+Vincent Bezecourt	M	9	5	395	0	2	7	2	0	0/0	0	0	0.00	0.0
+Kyle Duncan	D	4	4	360	0	1	1	0	0	0/0	0	0	0.00	0.0
+Connor Lade	D	21	15	1315	0	1	6	0	0	0/0	0	0	0.00	0.0
+Stefano Bonomo	F	1	0	1	0	0	0	0	0	0/0	0	0	0.00	0.0
+Tommy Redding	D	1	1	90	0	0	0	0	0	0/0	0	0	0.00	0.0
+Anatole Abang	F	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Hassan Ndam	D	1	1	90	0	0	0	0	0	0/0	0	0	0.00	0.0
+Cristian Casseres Jr.	M	3	1	97	0	0	1	0	0	0/0	0	0	0.00	0.0
+Aurelien Collin	D	7	5	353	0	0	2	0	0	0/0	0	0	0.00	0.0
+Fidel Escobar	D	6	4	374	0	0	3	1	0	0/0	0	0	0.00	0.0
+Andreas Ivan	M	9	1	185	0	0	6	1	0	0/0	0	0	0.00	0.0
+
+
+Team: Orlando City
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=6900&year=2018&season_type=REG&group=goals&op=Search&form_build_id=form-9-4WdGh1a5XIwu4MUNO0_l75uGgPwTi5yx8gWqYxBNU&form_id=mp7_stats_hub_build_filter_form
+
+Dom Dwyer	F	26	25	2244	13	0	78	36	4	0/0	9	4	0.52	16.7
+Sacha Kljestan	M	30	29	2522	6	6	47	17	1	2/3	3	3	0.21	12.8
+Yoshi Yotun	M	22	22	1970	4	10	37	11	1	3/3	3	1	0.18	10.8
+Cristian Higuita	M	21	18	1366	4	0	18	7	0	0/0	1	3	0.26	22.2
+Chris Mueller	F	32	23	2056	3	7	32	13	0	0/0	2	1	0.13	9.4
+Scott Sutter	D	19	18	1567	3	2	17	5	0	0/0	3	0	0.17	17.6
+Stefano Pinho	F	23	5	595	2	0	18	6	0	0/0	1	1	0.30	11.1
+Josue Colman	M	24	10	1054	1	5	28	11	1	0/0	1	0	0.09	3.6
+Justin Meram	M	17	14	1272	1	3	41	11	0	0/1	1	0	0.07	2.4
+Will Johnson	D	28	26	2194	1	1	33	13	0	0/0	1	0	0.04	3.0
+Lamine Sane	D	16	15	1373	1	0	4	2	1	0/0	1	0	0.07	25.0
+Chris Schuler	D	9	8	785	1	0	4	1	0	0/0	1	0	0.11	25.0
+Amro Tarek	D	20	19	1697	1	0	6	4	0	0/0	1	0	0.05	16.7
+Tony Rocha	M	12	9	819	0	3	7	2	0	0/0	0	0	0.00	0.0
+RJ Allen	D	18	10	966	0	2	3	0	0	0/0	0	0	0.00	0.0
+Mohamed El-Munir	D	26	23	2089	0	2	23	8	0	0/0	0	0	0.00	0.0
+Donny Toia	D	4	3	238	0	1	1	0	0	0/0	0	0	0.00	0.0
+Jonathan Spector	D	13	13	1060	0	1	4	1	0	0/0	0	0	0.00	0.0
+Oriol Rosell	M	22	18	1701	0	1	17	6	0	0/0	0	0	0.00	0.0
+Pierre Da Silva	M	2	0	49	0	0	0	0	0	0/0	0	0	0.00	0.0
+Dillon Powers	M	3	0	69	0	0	0	0	0	0/0	0	0	0.00	0.0
+Jose Villarreal	M	3	0	45	0	0	0	0	0	0/0	0	0	0.00	0.0
+Cameron Lindley	M	3	3	201	0	0	2	0	0	0/0	0	0	0.00	0.0
+Richie Laryea	M	9	2	253	0	0	4	0	0	0/0	0	0	0.00	0.0
+Carlos Ascues	D	9	9	755	0	0	4	1	0	0/0	0	0	0.00	0.0
+PC	D	8	5	418	0	0	6	1	0	0/0	0	0	0.00	0.0
+Shane O'Neill	D	13	13	1118	0	0	6	1	0	0/0	0	0	0.00	0.0
+
+Team: Philadelphia Union
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=5513&year=2018&season_type=REG&group=goals&op=Search&form_build_id=form-PM4CjkXeq8tkNI9WVP9aSwe2wWAJbjj8KUJcHzvEge0&form_id=mp7_stats_hub_build_filter_form
+
+Fafa Picault	F	29	24	2190	10	5	70	33	2	3/4	3	7	0.41	14.3
+Cory Burke	F	29	15	1427	10	1	61	19	5	0/0	4	6	0.63	16.4
+Ilsinho	M	23	9	985	6	2	23	8	0	1/1	6	0	0.55	26.1
+Borek Dockal	M	31	30	2397	5	18	44	19	3	1/1	5	0	0.19	11.4
+CJ Sapong	F	32	29	2321	4	3	53	21	1	0/1	3	1	0.16	7.5
+Alejandro Bedoya	M	33	31	2777	3	6	40	13	1	0/0	2	1	0.10	7.5
+Haris Medunjanin	M	30	29	2530	2	7	44	9	0	0/0	0	2	0.07	4.5
+Jay Simpson	F	8	1	159	2	0	6	4	1	0/0	2	0	1.13	33.3
+Jack Elliott	D	17	16	1430	2	0	7	3	0	0/0	0	2	0.13	28.6
+Keegan Rosenberry	D	32	31	2773	1	3	31	10	0	0/0	1	0	0.03	3.2
+Marcus Epps	M	13	8	609	1	2	10	3	0	0/0	1	0	0.15	10.0
+Auston Trusty	D	34	34	3060	1	1	10	2	0	0/0	1	0	0.03	10.0
+Anthony Fontana	M	5	1	98	1	0	5	1	1	0/0	1	0	0.92	20.0
+David Accam	F	23	13	1213	1	0	37	14	1	0/0	0	1	0.07	2.7
+Raymon Gaddis	D	28	25	2298	0	2	11	5	0	0/0	0	0	0.00	0.0
+Warren Creavalle	M	17	6	681	0	1	3	1	0	0/0	0	0	0.00	0.0
+Kacper Przybylko	F	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Richie Marquez	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Josh Yaro	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Eric Ayuk	M	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Adam Najem	M	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Olivier Mbaizo	D	1	1	85	0	0	0	0	0	0/0	0	0	0.00	0.0
+Matthew Real	D	3	3	236	0	0	1	0	0	0/0	0	0	0.00	0.0
+Fabinho	D	11	8	714	0	0	2	0	0	0/0	0	0	0.00	0.0
+Fabian Herbers	F	9	5	428	0	0	5	1	0	0/0	0	0	0.00	0.0
+Mark McKenzie	D	19	18	1629	0	0	5	1	0	0/0	0	0	0.00	0.0
+Derrick Jones	M	12	3	385	0	0	6	1	0	0/0	0	0	0.00	0.0
+
+
+Team: Portland Timbers
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1581&year=2018&season_type=REG&group=goals&op=Search&form_build_id=form-fslQ-7raR-vrRbPKOBIFFnjnT_9Jx_iAHYJkDvleJfQ&form_id=mp7_stats_hub_build_filter_form
+
+Diego Valeri	M	32	31	2747	10	12	86	29	3	4/5	6	4	0.33	11.6
+Sebastian Blanco	M	31	29	2564	10	11	81	31	3	0/0	4	6	0.35	12.3
+Samuel Armenteros	F	28	19	1590	8	1	41	18	2	0/0	4	4	0.45	19.5
+Larrys Mabiala	D	31	31	2744	5	1	26	11	2	0/0	2	3	0.16	19.2
+Fanendo Adi	F	14	9	823	3	2	23	9	2	0/0	3	0	0.33	13.0
+David Guzman	M	14	11	968	3	1	17	6	0	0/0	3	0	0.28	17.6
+Alvas Powell	D	24	24	2072	2	3	25	9	0	0/0	1	1	0.09	8.0
+Jeremy Ebobisse	F	9	5	449	2	2	12	3	1	0/0	1	1	0.40	16.7
+Diego Chara	M	27	26	2385	2	0	8	3	1	0/0	2	0	0.08	25.0
+Cristhian Paredes	M	19	18	1418	1	3	21	8	0	0/0	1	0	0.06	4.8
+Andres Flores	M	26	11	1159	1	2	14	2	0	0/0	0	1	0.08	7.1
+Andy Polo	M	23	18	1633	1	2	33	14	0	0/0	1	0	0.06	3.0
+Lucas Melano	F	7	1	143	1	1	5	4	0	0/0	0	1	0.63	20.0
+Lawrence Olum	D	22	18	1632	1	0	8	2	0	0/0	0	1	0.06	12.5
+Bill Tuiloma	D-M	13	7	713	1	0	11	4	0	0/0	0	1	0.13	9.1
+Dairon Asprilla	M	17	7	688	1	0	23	9	0	1/1	1	0	0.13	4.3
+Jorge Villafaña	D	8	7	655	0	1	1	1	0	0/0	0	0	0.00	0.0
+Zarek Valentin	D	32	30	2721	0	1	12	0	0	0/0	0	0	0.00	0.0
+Julio Cascante	D	21	18	1729	0	1	16	6	0	0/0	0	0	0.00	0.0
+Foster Langsdorf	F	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Victor Arboleda	F-M	1	0	31	0	0	0	0	0	0/0	0	0	0.00	0.0
+Marco Farfan	D	11	6	515	0	0	0	0	0	0/0	0	0	0.00	0.0
+Eryk Williamson	M	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Jack Barmby	M-D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Vytas	D	3	0	21	0	0	0	0	0	0/0	0	0	0.00	0.0
+Roy Miller	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Liam Ridgewell	D	13	13	1085	0	0	1	1	0	0/0	0	0	0.00	0.0
+Tomas Conechny	M	4	1	72	0	0	1	0	0	0/0	0	0	0.00	0.0
+Modou Jadama	D	1	0	27	0	0	1	1	0	0/0	0	0	0.00	0.0
+
+
+Team: Real Salt Lake
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1899&year=2018&season_type=REG&group=goals&op=Search&form_build_id=form-5DjKJwRUxtf7EDnODLI94d6r4phzj1LiEhe-dNBWblQ&form_id=mp7_stats_hub_build_filter_form
+
+Damir Kreilach	M	33	31	2784	12	8	67	27	2	0/0	10	2	0.39	17.9
+Albert Rusnak	M	31	29	2592	10	7	67	29	3	3/4	6	4	0.35	14.9
+Joao Plata	F	25	20	1721	8	8	56	29	1	2/3	4	4	0.42	14.3
+Corey Baird	F	31	21	1903	8	5	39	20	1	0/0	4	4	0.38	20.5
+Jefferson Savarino	F	32	32	2853	7	11	78	31	3	0/0	5	2	0.22	9.0
+Luis Silva	F	19	9	810	5	0	30	16	0	1/1	5	0	0.56	16.7
+Sebastian Saucedo	F	28	10	1031	3	5	46	23	3	0/0	2	1	0.26	6.5
+Kyle Beckerman	M	31	29	2621	1	1	23	5	1	0/0	1	0	0.03	4.3
+Nick Besler	M	22	15	1431	1	0	2	1	0	0/0	1	0	0.06	50.0
+Brooks Lennon	F	33	32	2850	0	5	7	3	0	0/0	0	0	0.00	0.0
+Danilo Acosta	D	12	10	896	0	2	4	2	0	0/0	0	0	0.00	0.0
+Luke Mulholland	M	2	1	91	0	1	0	0	0	0/0	0	0	0.00	0.0
+Nedum Onuoha	D	2	1	92	0	1	1	0	0	0/0	0	0	0.00	0.0
+Sunday Stephen	M	23	16	1414	0	1	8	1	0	0/0	0	0	0.00	0.0
+Tony Beltran	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Taylor Peay	D	1	0	1	0	0	0	0	0	0/0	0	0	0.00	0.0
+Shawn Barry	D	4	3	204	0	0	0	0	0	0/0	0	0	0.00	0.0
+Alfredo Ortuño	F	3	1	119	0	0	0	0	0	0/0	0	0	0.00	0.0
+Ricky Lopez-Espin	F	1	0	22	0	0	1	0	0	0/0	0	0	0.00	0.0
+Adam Henley	D	5	2	260	0	0	1	0	0	0/0	0	0	0.00	0.0
+David Horst	D	5	3	312	0	0	2	0	0	0/0	0	0	0.00	0.0
+Demar Phillips	D	5	5	360	0	0	2	0	0	0/0	0	0	0.00	0.0
+Aaron Herrera	D	16	14	1236	0	0	3	1	0	0/0	0	0	0.00	0.0
+Marcelo Silva	D	18	18	1557	0	0	4	2	0	0/0	0	0	0.00	0.0
+Justen Glad	D	33	33	2910	0	0	11	5	0	0/0	0	0	0.00	0.0
+Pablo Ruiz	M	12	5	530	0	0	13	3	0	0/0	0	0	0.00	0.0
+
+
+Team: SJ Earthquakes
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1131&year=2018&season_type=REG&group=goals&op=Search&form_build_id=form-JL3ZMqGbSLOOc6w4-H3aE52sT7xYbFjdW4rkbcPvJIc&form_id=mp7_stats_hub_build_filter_form
+
+Danny Hoesen	F	34	29	2488	12	4	83	33	2	0/0	7	5	0.43	14.5
+Chris Wondolowski	F	34	23	2289	10	5	58	22	1	3/4	7	3	0.39	17.2
+Vako	M	33	31	2718	10	5	110	35	0	0/0	6	4	0.33	9.1
+Magnus Eriksson	M	32	29	2494	6	3	52	20	0	3/3	3	3	0.22	11.5
+Florian Jungwirth	M	31	27	2400	3	4	17	6	0	0/0	0	3	0.11	17.6
+Jahmir Hyka	M	19	11	914	3	0	18	6	1	0/0	2	1	0.30	16.7
+Nick Lima	D	34	34	3049	2	2	16	6	0	0/0	1	1	0.06	12.5
+Yeferson Quintana	D	13	10	794	1	1	4	2	0	0/0	1	0	0.11	25.0
+Jackson Yueill	M	21	15	1293	0	3	15	2	0	0/0	0	0	0.00	0.0
+Shea Salinas	M	25	20	1820	0	2	5	1	0	0/0	0	0	0.00	0.0
+Quincy Amarikwa	F	14	1	269	0	2	7	4	0	0/0	0	0	0.00	0.0
+Anibal Godoy	M	27	27	2348	0	2	15	3	0	0/0	0	0	0.00	0.0
+Luis Felipe	M	13	11	974	0	1	6	1	0	0/0	0	0	0.00	0.0
+Paul Marie	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Jacob Akanyirige	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Gilbert Fuentes	M	1	0	1	0	0	0	0	0	0/0	0	0	0.00	0.0
+Mohamed Thiaw	F	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Joel Qwiberg	D	5	5	379	0	0	0	0	0	0/0	0	0	0.00	0.0
+Fatai Alashe	M	12	2	353	0	0	0	0	0	0/0	0	0	0.00	0.0
+Harold Cummings	D	21	21	1875	0	0	0	0	0	0/0	0	0	0.00	0.0
+Dominic Oduro	M	5	0	30	0	0	0	0	0	0/0	0	0	0.00	0.0
+Francois Affolter	D	9	7	676	0	0	1	0	0	0/0	0	0	0.00	0.0
+Kevin Partida	M	4	4	290	0	0	1	0	0	0/0	0	0	0.00	0.0
+Eric Calvillo	M	3	2	165	0	0	3	2	0	0/0	0	0	0.00	0.0
+Chris Wehan	M	6	2	183	0	0	3	0	0	0/0	0	0	0.00	0.0
+Guram Kashia	D	12	12	1080	0	0	6	2	0	0/0	0	0	0.00	0.0
+Jimmy Ockford	D	15	11	1085	0	0	9	1	0	0/0	0	0	0.00	0.0
+Tommy Thompson	M	14	6	630	0	0	9	3	0	0/0	0	0	0.00	0.0
+
+
+
+Team: Seattle Sounders
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=3500&year=2018&season_type=REG&group=goals&op=Search&form_build_id=form-vDRyQkQqDGoUxTyb75nqvjNR8O65sFXs1LYCWxxTSEA&form_id=mp7_stats_hub_build_filter_form
+
+Raul Ruidiaz	F	14	13	1098	10	1	44	17	5	0/0	6	4	0.82	22.7
+Nicolás Lodeiro	M	27	27	2428	8	16	57	17	2	5/5	6	2	0.30	14.0
+Will Bruin	F	29	19	1793	7	5	37	18	3	0/0	2	5	0.35	18.9
+Victor Rodriguez	M	19	14	1258	5	6	47	15	0	0/0	4	1	0.36	10.6
+Cristian Roldan	M	34	34	3053	4	9	32	16	1	0/0	3	1	0.12	12.5
+Chad Marshall	D	30	30	2584	4	1	19	5	1	0/0	3	1	0.14	21.1
+Harry Shipp	M	19	15	1230	3	3	28	9	0	0/0	2	1	0.22	10.7
+Gustav Svensson	M	24	23	2074	3	1	21	8	1	0/0	2	1	0.13	14.3
+Handwalla Bwana	M	12	6	491	2	1	10	2	2	0/0	0	2	0.37	20.0
+Magnus Wolff Eikrem	M	15	6	594	1	1	15	3	1	0/0	1	0	0.15	6.7
+Clint Dempsey	M-F	14	9	902	1	1	39	12	0	0/0	1	0	0.10	2.6
+Jordy Delem	M	16	10	856	1	0	3	1	0	0/0	1	0	0.11	33.3
+Kelvin Leerdam	D	26	24	1967	0	5	11	2	0	0/0	0	0	0.00	0.0
+Osvaldo Alonso	M	25	21	1833	0	3	13	2	0	0/0	0	0	0.00	0.0
+Waylon Francis	D	11	5	582	0	1	1	0	0	0/0	0	0	0.00	0.0
+Brad Smith	D	6	6	446	0	1	3	0	0	0/0	0	0	0.00	0.0
+Alex Roldan	M	19	7	732	0	1	10	2	0	0/0	0	0	0.00	0.0
+Nouhou Tolo	D	28	23	2037	0	1	15	3	0	0/0	0	0	0.00	0.0
+Felix Chenkam	F	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Seyi Adekoya	F	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Jordan Morris	F	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Tony Alfaro	D	4	3	220	0	0	1	0	0	0/0	0	0	0.00	0.0
+Jordan McCrary	D	15	9	890	0	0	2	0	0	0/0	0	0	0.00	0.0
+Henry Wingo	M	5	1	144	0	0	3	1	0	0/0	0	0	0.00	0.0
+Lamar Neagle	M	6	0	110	0	0	3	1	0	0/0	0	0	0.00	0.0
+Kim Kee-hee	D	29	28	2444	0	0	7	0	0	0/0	0	0	0.00	0.0
+Román Torres	D	13	7	688	0	0	9	1	0	0/0	0	0	0.00	0.0
+
+
+Team: Sporting KC
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=421&year=2018&season_type=REG&group=goals&op=Search&form_build_id=form-8t6C8oye7xp0z5smj6NXG4_gw0N3m9Y16XwuC6qAQRU&form_id=mp7_stats_hub_build_filter_form
+
+Daniel Salloi	F	29	26	2291	11	7	78	31	6	0/0	5	6	0.43	14.1
+Johnny Russell	F	30	24	2183	10	10	70	30	1	1/1	6	4	0.41	14.3
+Diego Rubio	F	20	9	781	8	6	29	15	2	0/0	5	3	0.92	27.6
+Felipe Gutiérrez	M	20	18	1522	7	2	40	17	4	0/0	3	4	0.41	17.5
+Gerso Fernandes	F	31	17	1591	5	5	38	19	2	0/0	1	4	0.28	13.2
+Ilie Sanchez	M	34	34	3060	4	4	45	14	0	4/6	3	1	0.12	8.9
+Roger Espinoza	M	32	32	2825	3	9	47	11	0	0/0	1	2	0.10	6.4
+Yohan Croizet	M	32	19	1594	3	3	49	14	1	0/0	2	1	0.17	6.1
+Ike Opara	D	31	31	2773	3	2	23	6	0	0/0	1	2	0.10	13.0
+Graham Zusi	M	34	34	3060	2	7	57	19	0	0/0	2	0	0.06	3.5
+Khiry Shelton	F	20	15	1370	2	5	36	10	1	0/0	1	1	0.13	5.6
+Jimmy Medranda	D	12	8	728	2	1	9	3	0	0/0	1	1	0.25	22.2
+Cristian Lobato	D	7	3	327	2	0	6	4	0	0/0	2	0	0.55	33.3
+Gianluca Busio	M	7	1	153	1	1	8	1	0	0/0	0	1	0.59	12.5
+Krisztian Nemeth	F	9	4	386	1	1	19	8	0	0/0	0	1	0.23	5.3
+Wan Kuzain Wan Kamal	M	6	3	307	1	0	5	2	1	0/0	1	0	0.29	20.0
+Matt Besler	D	31	31	2745	0	3	1	0	0	0/0	0	0	0.00	0.0
+Seth Sinovic	D	23	19	1650	0	2	13	2	0	0/0	0	0	0.00	0.0
+Jaylin Lindsey	D	7	6	555	0	1	5	1	0	0/0	0	0	0.00	0.0
+Amer Didic	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Colton Storm	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Brad Evans	D-M	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Matt Lewis	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Andreu Fontas	D	2	1	92	0	0	0	0	0	0/0	0	0	0.00	0.0
+Graham Smith	D	2	2	180	0	0	1	0	0	0/0	0	0	0.00	0.0
+Kharlton Belmar	F	4	0	65	0	0	2	0	0	0/0	0	0	0.00	0.0
+Emiliano Amor	D	5	3	332	0	0	2	0	0	0/0	0	0	0.00	0.0
+
+Team: Toronto FC
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=2077&year=2018&season_type=REG&group=goals&op=Search&form_build_id=form-j7jOvDMPRg6yyB32iB2CDFVCpVqfsajdM-Ja3IYiLMk&form_id=mp7_stats_hub_build_filter_form
+
+Sebastian Giovinco	F	28	26	2384	13	15	167	51	1	1/4	8	5	0.49	7.8
+Jonathan Osorio	M	30	30	2603	10	7	33	20	3	0/0	6	4	0.35	30.3
+Victor Vazquez	M	21	19	1440	8	9	29	15	1	2/2	6	2	0.50	27.6
+Jozy Altidore	F	13	12	877	7	1	26	9	2	2/2	7	0	0.72	26.9
+Lucas Janson	F	11	8	818	4	2	30	17	1	0/0	3	1	0.44	13.3
+Jay Chapman	M	22	10	982	3	1	25	9	0	0/0	3	0	0.27	12.0
+Nick Hagglund	D	20	15	1430	3	0	12	6	0	0/0	2	1	0.19	25.0
+Tosaint Ricketts	F	18	4	601	3	0	20	12	0	0/0	1	2	0.45	15.0
+Marky Delgado	M	28	21	1984	2	2	13	5	1	0/0	2	0	0.09	15.4
+Jordan Hamilton	F	14	10	862	2	1	26	8	0	0/0	0	2	0.21	7.7
+Justin Morrow	D	21	20	1790	1	3	8	5	0	0/0	0	1	0.05	12.5
+Ryan Telfer	F	15	9	813	1	1	8	3	1	0/0	1	0	0.11	12.5
+Mitchell Taintor	D	1	1	90	1	0	1	1	0	0/0	0	1	1.00	100.0
+Michael Bradley	M	32	32	2857	0	5	13	3	0	0/0	0	0	0.00	0.0
+Gregory van der Wiel	D	27	25	2295	0	4	4	1	0	0/0	0	0	0.00	0.0
+Nicolas Hasler	D	14	11	947	0	3	9	3	0	0/0	0	0	0.00	0.0
+Auro	D	18	16	1424	0	3	12	2	0	0/0	0	0	0.00	0.0
+Ayo Akinola	F	4	0	45	0	1	0	0	0	0/0	0	0	0.00	0.0
+Ashtone Morgan	D	18	11	1009	0	1	2	1	0	0/0	0	0	0.00	0.0
+Ager Aketxe	M	11	9	732	0	1	26	7	0	0/1	0	0	0.00	0.0
+Julian Dunn	D	2	1	105	0	0	0	0	0	0/0	0	0	0.00	0.0
+Alan Mariano Miño	M	1	0	25	0	0	0	0	0	0/0	0	0	0.00	0.0
+Aidan Daniels	M	1	0	12	0	0	1	0	0	0/0	0	0	0.00	0.0
+Drew Moor	D	8	6	568	0	0	1	1	0	0/0	0	0	0.00	0.0
+Jason Hernandez	D	10	7	534	0	0	1	0	0	0/0	0	0	0.00	0.0
+Chris Mavinga	D	12	11	935	0	0	2	0	0	0/0	0	0	0.00	0.0
+Jon Bakero	F	3	2	149	0	0	3	0	0	0/0	0	0	0.00	0.0
+Ben Spencer	F	2	1	82	0	0	4	2	0	0/0	0	0	0.00	0.0
+Eriq Zavaleta	D	21	16	1488	0	0	4	0	0	0/0	0	0	0.00	0.0
+Liam Fraser	M	10	7	615	0	0	5	2	0	0/0	0	0	0.00	0.0
+
+
+Team: Vancouver Whitecaps
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1708&year=2018&season_type=REG&group=goals&op=Search&form_build_id=form-b8p8bnB75T5BhHmC-cid6Ds_8u0Jj6ZgnivHhqkYG6I&form_id=mp7_stats_hub_build_filter_form
+
+Kei Kamara	F	28	24	2167	14	6	88	34	6	3/3	8	6	0.58	15.9
+Alphonso Davies	M	31	27	2420	8	11	37	15	2	0/0	7	1	0.30	21.6
+Cristian Techera	M	21	16	1347	8	1	44	21	2	1/1	5	3	0.53	18.2
+Yordy Reyna	M	26	21	1875	6	11	43	17	1	1/1	3	3	0.29	14.0
+Brek Shea	D	28	15	1521	3	2	24	9	1	0/0	0	3	0.18	12.5
+Kendall Waston	D	26	26	2218	3	2	33	9	0	0/0	3	0	0.12	9.1
+Nicolas Mezquida	M	21	9	966	3	1	36	12	1	0/0	2	1	0.28	8.3
+Jordon Mutch	M	18	8	830	2	2	12	5	0	0/0	1	1	0.22	16.7
+Erik Hurtado	F	12	4	484	2	1	8	3	0	0/0	0	2	0.37	25.0
+Felipe	M	29	24	2203	1	7	26	8	0	0/0	1	0	0.04	3.8
+Russell Teibert	M	23	17	1604	1	2	5	1	0	0/0	0	1	0.06	20.0
+Anthony Blondell	F	18	8	641	1	1	20	7	0	0/0	1	0	0.14	5.0
+Jose Aja	D	17	17	1512	1	0	5	1	0	0/0	1	0	0.06	20.0
+Marcel de Jong	D-M	19	17	1392	0	3	10	3	0	0/0	0	0	0.00	0.0
+Efrain Juarez	M	16	14	1159	0	2	4	1	0	0/0	0	0	0.00	0.0
+Aaron Maund	D	10	10	900	0	1	2	0	0	0/0	0	0	0.00	0.0
+Bernie Ibini	M-F	8	6	422	0	1	3	2	0	0/0	0	0	0.00	0.0
+Jake Nerwinski	D	26	24	2212	0	1	4	1	0	0/0	0	0	0.00	0.0
+David Norman Jr.	M	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Roberto Dominguez	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Myer Bevan	F	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Sean Franklin	D	11	9	834	0	0	0	0	0	0/0	0	0	0.00	0.0
+Marvin Emnes	M	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+David Edgar	D	0	0	0	0	0	0	0	0	0/0	0	0	0.00	0.0
+Brett Levis	D	14	13	960	0	0	1	0	0	0/0	0	0	0.00	0.0
+Simon Colyn	M	1	0	4	0	0	2	0	0	0/0	0	0	0.00	0.0
+Doneil Henry	D	14	14	1260	0	0	6	1	0	0/0	0	0	0.00	0.0
+Aly Ghazal	M	22	17	1446	0	0	7	1	0	0/0	0	0	0.00	0.0
