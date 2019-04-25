@@ -1,11 +1,76 @@
 Competition: Major League Soccer
-
 Key: position; team; games; wins; losses; ties; goals_for; goals_against; goal_difference; points
 
+
+Season: 2018
+BlockSource: https://en.wikipedia.org/wiki/2018_Major_League_Soccer_season
+
+Group: Eastern Conference
+
+1  ; New York Red Bulls     ; 34 ; 22 ;  7 ;  5 ; 62 ; 33 ; +29 ; 71
+2  ; Atlanta United FC      ; 34 ; 21 ;  7 ;  6 ; 70 ; 44 ; +26 ; 69
+3  ; New York City FC       ; 34 ; 16 ; 10 ;  8 ; 59 ; 45 ; +14 ; 56
+4  ; D.C. United            ; 34 ; 14 ; 11 ;  9 ; 60 ; 50 ; +10 ; 51
+5  ; Columbus Crew          ; 34 ; 14 ; 11 ;  9 ; 43 ; 45 ;  −2 ; 51
+6  ; Philadelphia Union     ; 34 ; 15 ; 14 ;  5 ; 49 ; 50 ;  −1 ; 50
+7  ; Montreal Impact        ; 34 ; 14 ; 16 ;  4 ; 47 ; 53 ;  −6 ; 46
+8  ; New England Revolution ; 34 ; 10 ; 13 ; 11 ; 49 ; 55 ;  −6 ; 41
+9  ; Toronto FC             ; 34 ; 10 ; 18 ;  6 ; 59 ; 64 ;  −5 ; 36
+10 ; Chicago Fire           ; 34 ;  8 ; 18 ;  8 ; 48 ; 61 ; −13 ; 32
+11 ; Orlando City SC        ; 34 ;  8 ; 22 ;  4 ; 43 ; 74 ; −31 ; 28
+
+Group: Western Conference
+
+1  ; Sporting Kansas City   ; 34 ; 18 ;  8 ; 8 ; 65 ; 40 ; +25 ; 62
+2  ; Seattle Sounders FC    ; 34 ; 18 ; 11 ; 5 ; 52 ; 37 ; +15 ; 59
+3  ; Los Angeles FC         ; 34 ; 16 ;  9 ; 9 ; 68 ; 52 ; +16 ; 57
+4  ; FC Dallas              ; 34 ; 16 ;  9 ; 9 ; 52 ; 44 ;  +8 ; 57
+5  ; Portland Timbers       ; 34 ; 15 ; 10 ; 9 ; 54 ; 48 ;  +6 ; 54
+6  ; Real Salt Lake         ; 34 ; 14 ; 13 ; 7 ; 55 ; 58 ;  −3 ; 49
+7  ; LA Galaxy              ; 34 ; 13 ; 12 ; 9 ; 66 ; 64 ;  +2 ; 48
+8  ; Vancouver Whitecaps FC ; 34 ; 13 ; 13 ; 8 ; 54 ; 67 ; −13 ; 47
+9  ; Houston Dynamo         ; 34 ; 10 ; 16 ; 8 ; 58 ; 58 ;   0 ; 38
+10 ; Minnesota United FC    ; 34 ; 11 ; 20 ; 3 ; 49 ; 71 ; −22 ; 36
+11 ; Colorado Rapids        ; 34 ;  8 ; 19 ; 7 ; 36 ; 63 ; −27 ; 31
+12 ; San Jose Earthquakes   ; 34 ;  4 ; 21 ; 9 ; 49 ; 71 ; −22 ; 21
+
+
+Season: 2017
+BlockSource: https://en.wikipedia.org/wiki/2017_Major_League_Soccer_season
+
+Group: Eastern Conference
+
+1 ; Toronto FC               ; 34 ; 20 ; 5 ;   9 ; 74 ; 37 ; +37 ; 69
+2 ; New York City FC         ; 34 ; 16 ; 9 ;   9 ; 56 ; 43 ; +13 ; 57
+3 ; Chicago Fire             ; 34 ; 16 ; 11 ;  7 ; 62 ; 48 ; +14 ; 55
+4 ; Atlanta United FC        ; 34 ; 15 ;  9 ; 10 ; 70 ; 40 ; +30 ; 55
+5 ; Columbus Crew            ; 34 ; 16 ; 12 ;  6 ; 53 ; 49 ; +4  ; 54
+6 ; New York Red Bulls       ; 34 ; 14 ; 12 ;  8 ; 53 ; 47 ; +6  ; 50
+7 ; New England Revolution   ; 34 ; 13 ; 15 ;  6 ; 53 ; 61 ; −8  ; 45
+8 ; Philadelphia Union       ; 34 ; 11 ; 14 ;  9 ; 50 ; 47 ; +3  ; 42
+9 ; Montreal Impact          ; 34 ; 11 ; 17 ;  6 ; 52 ; 58 ; −6  ; 39
+10; Orlando City SC          ; 34 ; 10 ; 15 ;  9 ; 39 ; 58 ; −19 ; 39
+11; D.C. United              ; 34 ;  9 ; 20 ;  5 ; 31 ; 60 ; −29 ; 32
+
+Group: Western Conference
+
+1  ; Portland Timbers       ; 34 ; 15 ; 11 ;  8 ; 60 ; 50 ; +10 ; 53
+2  ; Seattle Sounders FC    ; 34 ; 14 ;  9 ; 11 ; 52 ; 39 ; +13 ; 53
+3  ; Vancouver Whitecaps FC ; 34 ; 15 ; 12 ;  7 ; 50 ; 49 ;  +1 ; 52
+4  ; Houston Dynamo         ; 34 ; 13 ; 10 ; 11 ; 57 ; 45 ; +12 ; 50
+5  ; Sporting Kansas City   ; 34 ; 12 ;  9 ; 13 ; 40 ; 29 ; +11 ; 49
+6  ; San Jose Earthquakes   ; 34 ; 13 ; 14 ;  7 ; 39 ; 60 ; −21 ; 46
+7  ; FC Dallas              ; 34 ; 11 ; 10 ; 13 ; 48 ; 48 ;   0 ; 46
+8  ; Real Salt Lake         ; 34 ; 13 ; 15 ;  6 ; 48 ; 56 ;  −8 ; 45
+9  ; Minnesota United FC    ; 34 ; 10 ; 18 ;  6 ; 47 ; 70 ; −23 ; 36
+10 ; Colorado Rapids        ; 34 ; 9 ;  19 ;  6 ; 31 ; 51 ; −20 ; 33
+11 ; LA Galaxy              ; 34 ; 8 ;  18 ;  8 ; 45 ; 67 ; −22 ; 32
 
 
 Season: 2016
 BlockSource: https://en.wikipedia.org/wiki/2016_Major_League_Soccer_season
+
+Group: Eastern Conference
 
 1        ; New York Red Bulls    ; 34   ; 16   ; 9    ; 9   ; 61   ; 44   ; +17  ; 57
 2        ; New York City FC      ; 34   ; 15   ; 10   ; 9   ; 62   ; 57   ; +5   ; 54
@@ -17,6 +82,8 @@ BlockSource: https://en.wikipedia.org/wiki/2016_Major_League_Soccer_season
 8        ; Orlando City SC       ; 34   ; 9    ;11    ;14   ; 55   ; 60   ; −5   ; 41
 9        ; Columbus Crew SC      ; 34   ; 8    ;14    ;12   ; 50   ; 58   ; −8   ; 36
 10       ;  Chicago Fire         ; 34   ; 7    ;17    ;10   ; 42   ; 58   ; −16  ; 31
+
+Group: Western Conference
 
 1 ;   FC Dallas                  ; 34   ;  17  ;  8   ; 9   ; 50   ; 40   ; +10  ; 60
 2 ;   Colorado Rapids            ; 34   ;  15  ;  6   ; 13  ; 39   ; 32   ; +7   ; 58
@@ -34,6 +101,8 @@ BlockSource: https://en.wikipedia.org/wiki/2016_Major_League_Soccer_season
 Season: 2015
 BlockSource: https://en.wikipedia.org/wiki/2015_Major_League_Soccer_season
 
+Group: Eastern Conference
+
 1        ; New York Red Bulls    ; 34   ; 18   ; 10   ; 6   ; 62   ; 43   ; +19  ; 60
 2        ; Columbus Crew         ; 34   ; 15   ; 11   ; 8   ; 58   ; 53   ; +5   ; 53
 3        ; Montreal Impact       ; 34   ; 15   ; 13   ; 6   ; 48   ; 44   ; +4   ; 51
@@ -44,6 +113,8 @@ BlockSource: https://en.wikipedia.org/wiki/2015_Major_League_Soccer_season
 8        ; New York City FC      ; 34   ; 10   ; 17   ; 7   ; 49   ; 58   ; −9   ; 37
 9        ; Philadelphia Union    ; 34   ; 10   ; 17   ; 7   ; 42   ; 55   ; −13  ; 37
 10       ;  Chicago Fire         ; 34   ;  8   ; 20   ; 6   ; 43   ; 58   ; −15  ; 30
+
+Group: Western Conference
 
 1 ;   FC Dallas                  ; 34   ; 18   ; 10   ; 6   ; 52   ; 39   ; +13  ; 60
 2 ;   Vancouver Whitecaps FC     ; 34   ; 16   ; 13   ; 5   ; 45   ; 36   ; +9   ; 53
