@@ -1,54 +1,780 @@
 Competition: Major League Soccer
-Season: 2018
+Season: 2019
 
-Key: Team;	Player;	POS;	GP;	GS;	MINS;	G;	A;	SHTS;	SOG;	GWG;	PKG/A;	HmG;	RdG;	G/90min;	SC%
+Key: Player; POS; GP; GS; MINS; Gsort ascending; A; SHTS; SOG; GWG; PKG/A; HmG; RdG; G/90min; SC%
 
 
 Team: Atlanta United
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=11091&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-IUTPM42FvWWRtQhRVfbo4cF4MwaXAZ2_IMPwbdLq18A&form_id=mp7_stats_hub_build_filter_form
+
+Josef Martinez; F; 29; 29; 2581; 27; 4; 117; 50; 7; 5/6; 16; 11; 0.94; 23.1
+Julian Gressel; M; 33; 31; 2693; 6; 12; 69; 25; 1; 0/0; 4; 2; 0.20; 8.7
+Pity Martinez; M; 32; 26; 2151; 5; 9; 83; 24; 2; 2/3; 3; 2; 0.21; 6.0
+Ezequiel Barco; M; 15; 11; 980; 4; 3; 32; 16; 1; 0/0; 1; 3; 0.37; 12.5
+Justin Meram; M; 20; 14; 1270; 4; 0; 21; 9; 1; 0/0; 4; 0; 0.28; 19.0
+Darlington Nagbe; M; 33; 32; 2825; 2; 4; 21; 4; 1; 0/0; 2; 0; 0.06; 9.5
+Brandon Vazquez; F; 11; 7; 637; 2; 1; 22; 8; 0; 1/1; 1; 1; 0.28; 9.1
+Hector Villalba; F; 20; 10; 938; 1; 4; 36; 9; 1; 0/0; 1; 0; 0.10; 2.8
+Franco Escobar; D; 25; 22; 2012; 1; 3; 7; 2; 1; 0/0; 1; 0; 0.04; 14.3
+Emerson Hyndman; M; 15; 10; 983; 1; 3; 15; 6; 1; 0/0; 1; 0; 0.09; 6.7
+Leandro Gonzalez Pirez; D; 31; 31; 2701; 1; 1; 22; 5; 1; 0/0; 0; 1; 0.03; 4.5
+Mo Adams; M; 4; 1; 90; 1; 0; 2; 2; 0; 0/0; 0; 1; 1.00; 50.0
+Dion Pereira; M; 18; 7; 663; 0; 1; 3; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Brek Shea; D; 19; 10; 907; 0; 1; 8; 3; 0; 0/0; 0; 0; 0.00; 0.0
+Jeff Larentowicz; M; 27; 15; 1465; 0; 1; 11; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Eric Remedi; M; 28; 25; 2055; 0; 1; 11; 3; 0; 0/0; 0; 0; 0.00; 0.0
+Mikey Ambrose; D; 4; 3; 266; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Kevin Kratz; M; 1; 0; 1; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Lagos Kunga; F; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+George Bello; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Jon Gallagher; F; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Chris Goslin; M; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Gordon Wild; F; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Luiz Fernando; M; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Andrew Carleton; M; 3; 0; 64; 0; 0; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Romario Williams; F; 2; 0; 37; 0; 0; 2; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Florentin Pogba; D; 13; 8; 780; 0; 0; 3; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Michael Parkhurst; D; 20; 15; 1443; 0; 0; 4; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Miles Robinson; D; 34; 33; 2978; 0; 0; 19; 6; 0; 0/0; 0; 0; 0.00; 0.0
 
 
 Team: Chicago Fire
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1207&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-8EufaqLoHQQSHP3BHabwyGcTnc-QfFOun9XgGWQMl9k&form_id=mp7_stats_hub_build_filter_form
+
+CJ Sapong; F; 32; 29; 2551; 13; 2; 62; 27; 3; 0/0; 8; 5; 0.46; 21.0
+Nemanja Nikolic; F; 31; 25; 2003; 12; 0; 48; 22; 3; 2/2; 8; 4; 0.54; 25.0
+Aleksandar Katai; M; 29; 24; 2103; 6; 7; 105; 31; 1; 0/0; 4; 2; 0.26; 5.7
+Przemyslaw Frankowski; M; 31; 24; 2300; 5; 9; 55; 24; 0; 0/0; 2; 3; 0.20; 9.1
+Nicolas Gaitan; M; 27; 25; 2012; 4; 12; 34; 13; 1; 1/3; 4; 0; 0.18; 11.8
+Djordje Mihailovic; M; 27; 16; 1448; 3; 2; 24; 8; 0; 0/0; 2; 1; 0.19; 12.5
+Francisco Calvo; D; 23; 21; 1936; 3; 2; 32; 6; 0; 0/0; 1; 2; 0.14; 9.4
+Fabian Herbers; F; 17; 7; 775; 3; 1; 18; 6; 0; 0/0; 3; 0; 0.35; 16.7
+Dax McCarty; M; 32; 32; 2850; 1; 4; 21; 6; 0; 0/0; 1; 0; 0.03; 4.8
+Brandt Bronico; M; 29; 20; 1864; 1; 3; 14; 5; 0; 0/0; 1; 0; 0.05; 7.1
+Bastian Schweinsteiger; M; 30; 30; 2676; 1; 3; 24; 4; 1; 0/0; 1; 0; 0.03; 4.2
+Raheem Edwards; M; 4; 2; 244; 1; 0; 7; 4; 0; 0/0; 1; 0; 0.37; 14.3
+Johan Kappelhof; D; 29; 29; 2562; 0; 2; 6; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Mo Adams; M; 10; 5; 484; 0; 1; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Jeremiah Gutjahr; M; 8; 5; 502; 0; 1; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Andre Reynolds II; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Grant Lillard; D; 4; 2; 206; 0; 0; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Nicolas Hasler; D; 3; 1; 73; 0; 0; 1; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Jonathan Bornstein; D; 11; 11; 914; 0; 0; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Jorge Corrales; D; 15; 13; 1036; 0; 0; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Micheal Azira; M; 4; 2; 216; 0; 0; 3; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Cristian Martinez; M; 5; 0; 50; 0; 0; 3; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Diego Campos; D-M; 10; 5; 439; 0; 0; 3; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Marcelo; D; 16; 12; 1147; 0; 0; 5; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Amando Moreno; M-F; 7; 0; 77; 0; 0; 6; 2; 0; 0/0; 0; 0; 0.00; 0.0
+
+
 
 Team: FC Cincinnati
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=11504&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-Yudfaru5jsIfQeKee9zQufqAP1Tnt113DQI4AgPTFGk&form_id=mp7_stats_hub_build_filter_form
+
+Allan Cruz; M; 22; 21; 1743; 7; 1; 38; 21; 1; 0/0; 5; 2; 0.36; 18.4
+Emmanuel Ledesma; M; 26; 20; 1767; 6; 5; 49; 12; 0; 3/4; 2; 4; 0.31; 12.2
+Kekuta Manneh; F; 27; 15; 1498; 4; 3; 29; 9; 1; 0/0; 2; 2; 0.24; 13.8
+Darren Mattocks; F; 21; 13; 1274; 3; 3; 27; 9; 0; 1/1; 1; 2; 0.21; 11.1
+Roland Lamah; M; 28; 22; 1782; 1; 3; 29; 11; 0; 0/0; 0; 1; 0.05; 3.4
+Kenny Saief; M; 9; 6; 566; 1; 2; 5; 2; 0; 0/0; 0; 1; 0.16; 20.0
+Victor Ulloa; M; 26; 22; 1945; 1; 2; 9; 3; 1; 0/0; 1; 0; 0.05; 11.1
+Mathieu Deplagne; D; 33; 33; 2878; 1; 2; 23; 7; 0; 0/0; 1; 0; 0.03; 4.3
+Leonardo Bertone; M; 25; 22; 2055; 1; 2; 28; 5; 0; 0/0; 0; 1; 0.04; 3.6
+Fatai Alashe; M; 11; 4; 434; 1; 0; 8; 5; 1; 0/0; 1; 0; 0.21; 12.5
+Rashawn Dally; F; 12; 8; 546; 1; 0; 10; 4; 0; 0/0; 1; 0; 0.16; 10.0
+Kendall Waston; D; 25; 24; 2175; 1; 0; 18; 4; 1; 0/0; 1; 0; 0.04; 5.6
+Fanendo Adi; F; 12; 7; 695; 1; 0; 20; 6; 1; 0/0; 0; 1; 0.13; 5.0
+Eric Alexander; M; 6; 4; 312; 0; 1; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Andrew Gutman; D; 8; 5; 482; 0; 1; 3; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Joseph-Claude Gyau; M; 8; 5; 461; 0; 1; 12; 5; 0; 0/0; 0; 0; 0.00; 0.0
+Jimmy McLaughlin; M; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Greg Garza; D; 13; 11; 908; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Nazmi Albadawi; M; 1; 0; 9; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Blake Smith; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Corben Bone; M; 6; 2; 186; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Logan Gdula; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Tommy McCabe; M; 6; 2; 244; 0; 0; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Forrest Lasso; D; 5; 4; 393; 0; 0; 2; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Derrick Etienne Jr.; M; 5; 2; 219; 0; 0; 3; 3; 0; 0/0; 0; 0; 0.00; 0.0
+Justin Hoyte; D; 17; 16; 1477; 0; 0; 3; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Maikel van der Werff; D; 11; 11; 990; 0; 0; 4; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Caleb Stanko; M; 23; 16; 1438; 0; 0; 5; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Alvas Powell; D; 13; 10; 968; 0; 0; 7; 3; 0; 0/0; 0; 0; 0.00; 0.0
+Nick Hagglund; D; 22; 20; 1802; 0; 0; 10; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Frankie Amaya; M; 19; 15; 1241; 0; 0; 16; 5; 0; 0/0; 0; 0; 0.00; 0.0
+
 
 Team: Colorado Rapids
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=436&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-hWHxm9lTghRiFAyn5ATclPmAUpRCPm7K124FZefAn8w&form_id=mp7_stats_hub_build_filter_form
+
+Kei Kamara; F; 29; 29; 2541; 14; 1; 94; 44; 1; 4/7; 10; 4; 0.50; 14.9
+Diego Rubio; F; 26; 25; 2065; 11; 5; 49; 15; 2; 0/0; 6; 5; 0.48; 22.4
+Andre Shinyashiki; F; 31; 18; 1670; 7; 3; 51; 19; 2; 0/0; 5; 2; 0.38; 13.7
+Jonathan Lewis; F; 16; 10; 899; 5; 3; 16; 8; 1; 0/0; 1; 4; 0.50; 31.3
+Nicolas Mezquida; F-M; 32; 11; 1405; 4; 6; 66; 27; 3; 1/1; 3; 1; 0.26; 6.1
+Tommy Smith; D; 27; 27; 2415; 3; 2; 23; 9; 1; 0/0; 1; 2; 0.11; 13.0
+Sam Nicholson; F; 27; 19; 1769; 2; 4; 49; 17; 0; 0/0; 0; 2; 0.10; 4.1
+Benny Feilhaber; M; 9; 7; 620; 2; 2; 9; 2; 0; 0/0; 2; 0; 0.29; 22.2
+Cole Bassett; M; 20; 14; 1063; 2; 2; 13; 7; 0; 0/0; 1; 1; 0.17; 15.4
+Kellyn Acosta; M; 31; 30; 2619; 2; 2; 35; 12; 0; 0/0; 2; 0; 0.07; 5.7
+Danny Wilson; D; 20; 15; 1329; 2; 1; 13; 5; 1; 0/0; 2; 0; 0.14; 15.4
+Jack Price; M; 27; 25; 2233; 1; 11; 4; 2; 1; 0/0; 1; 0; 0.04; 25.0
+Keegan Rosenberry; D; 34; 34; 3060; 1; 3; 24; 2; 0; 0/0; 0; 1; 0.03; 4.2
+Sebastian Anderson; D; 6; 5; 317; 1; 0; 2; 1; 0; 0/0; 1; 0; 0.28; 50.0
+Dillon Serna; M; 14; 6; 580; 0; 1; 8; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Deklan Wynne; D; 11; 11; 917; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Abdul Rwatubyaye; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Bismark Adjei-Boateng; M; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Matt Hundley; F; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Sam Raben; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Kortne Ford; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Niki Jackson; F; 4; 0; 35; 0; 0; 2; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Johan Blomberg; M; 3; 1; 88; 0; 0; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Kofi Opare; D; 3; 3; 270; 0; 0; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Axel Sjöberg; D; 7; 5; 435; 0; 0; 5; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Sam Vines; D; 26; 23; 2149; 0; 0; 5; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Lalas Abubakar; D; 22; 22; 1980; 0; 0; 11; 3; 0; 0/0; 0; 0; 0.00; 0.0
+
 
 Team: Columbus Crew
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=454&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-_mErC6ZzJ1l7-Q5550T6XgZiiHtTARUCCkf-w0DZqDU&form_id=mp7_stats_hub_build_filter_form
+
+Gyasi Zardes; F; 28; 28; 2478; 13; 2; 62; 26; 2; 3/3; 4; 9; 0.47; 21.0
+Pedro Santos; M; 33; 30; 2763; 11; 6; 75; 21; 2; 1/1; 8; 3; 0.36; 14.7
+Luis Diaz; M; 13; 9; 797; 2; 4; 18; 9; 1; 0/0; 0; 2; 0.23; 11.1
+David Accam; F; 15; 8; 664; 2; 1; 14; 6; 1; 0/0; 2; 0; 0.27; 14.3
+Josh Williams; D; 16; 15; 1281; 2; 0; 5; 2; 1; 0/0; 2; 0; 0.14; 40.0
+Gaston Sauro; D; 15; 15; 1285; 2; 0; 11; 3; 1; 0/0; 2; 0; 0.14; 18.2
+Federico Higuain; F; 14; 13; 1133; 1; 5; 19; 7; 1; 0/1; 1; 0; 0.08; 5.3
+Hector Jimenez; M; 23; 19; 1626; 1; 4; 7; 3; 0; 0/0; 1; 0; 0.06; 14.3
+Luis Argudo; M; 21; 10; 1062; 1; 3; 19; 6; 0; 0/0; 0; 1; 0.08; 5.3
+Romario Williams; F; 7; 1; 122; 1; 0; 5; 3; 0; 0/0; 0; 1; 0.74; 20.0
+Youness Mokhtar; M; 8; 5; 442; 1; 0; 14; 5; 1; 0/0; 1; 0; 0.20; 7.1
+Wil Trapp; M; 28; 26; 2329; 0; 4; 4; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Harrison Afful; D; 22; 22; 1905; 0; 2; 19; 8; 0; 0/0; 0; 0; 0.00; 0.0
+Robinho; M; 19; 13; 1115; 0; 2; 33; 11; 0; 0/0; 0; 0; 0.00; 0.0
+Alex Crognale; D; 12; 9; 881; 0; 1; 4; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Eduardo Sosa; M; 8; 4; 323; 0; 1; 7; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Niko Hansen; F; 9; 2; 246; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Edward Opoku; F; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Jordan Hamilton; F; 4; 0; 56; 0; 0; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Aboubacar Keita; D; 10; 8; 801; 0; 0; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Lalas Abubakar; D; 1; 1; 90; 0; 0; 2; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Waylon Francis; D; 17; 16; 1382; 0; 0; 3; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Connor Maloney; D; 10; 9; 798; 0; 0; 4; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Patrick Mullins; F; 9; 2; 197; 0; 0; 5; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Ricardo Clark; M; 7; 4; 361; 0; 0; 6; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Justin Meram; M; 9; 4; 379; 0; 0; 6; 2; 0; 0/0; 0; 0; 0.00; 0.0
+JJ Williams; F; 7; 3; 325; 0; 0; 7; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Jonathan Mensah; D; 24; 23; 2151; 0; 0; 12; 3; 0; 0/0; 0; 0; 0.00; 0.0
+Artur; M; 30; 28; 2452; 0; 0; 15; 3; 0; 0/0; 0; 0; 0.00; 0.0
+David Guzman; M; 16; 13; 1140; 0; 0; 16; 3; 0; 0/0; 0; 0; 0.00; 0.0
+
+* Chris Cadden	D-M									/			nan	nan
+* Milton Valenzuela	D									/			nan	nan
+
 
 Team: DC United
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1326&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-L9XUoHSJcaQBeiX7sU0eYsecl0Lxx7BTBnyfHaDG-_8&form_id=mp7_stats_hub_build_filter_form
+
+Wayne Rooney; F-M; 28; 27; 2318; 11; 8; 84; 27; 5; 4/4; 6; 5; 0.43; 13.1
+Lucas Rodriguez; M; 33; 31; 2707; 6; 3; 41; 12; 4; 0/0; 3; 3; 0.20; 14.6
+Luciano Acosta; M-F; 31; 22; 2119; 6; 2; 58; 19; 0; 0/0; 4; 2; 0.25; 10.3
+Paul Arriola; M-F; 29; 28; 2433; 6; 2; 60; 23; 2; 0/0; 4; 2; 0.22; 10.0
+Ulises Segura; M; 33; 19; 1788; 3; 2; 28; 7; 0; 0/0; 3; 0; 0.15; 10.7
+Ola Kamara; F; 5; 3; 257; 3; 0; 8; 6; 1; 0/0; 1; 2; 1.05; 37.5
+Frederic Brillant; D; 34; 33; 2961; 2; 2; 27; 9; 0; 0/0; 2; 0; 0.06; 7.4
+Leonardo Jara; D; 30; 25; 2291; 1; 5; 34; 4; 0; 0/0; 1; 0; 0.04; 2.9
+Quincy Amarikwa; F; 23; 3; 414; 1; 1; 13; 4; 0; 0/0; 1; 0; 0.22; 7.7
+Steven Birnbaum; D; 34; 34; 3032; 1; 1; 29; 6; 0; 0/0; 0; 1; 0.03; 3.4
+Chris Durkin; M; 13; 7; 636; 1; 0; 4; 1; 0; 0/0; 0; 1; 0.14; 25.0
+Junior Moreno; M; 29; 29; 2551; 0; 3; 12; 3; 0; 0/0; 0; 0; 0.00; 0.0
+Felipe; M; 9; 9; 776; 0; 1; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Donovan Pines; D; 10; 9; 785; 0; 1; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Joseph Mora; D; 20; 18; 1595; 0; 1; 7; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Oniel Fisher; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Emmanuel Boateng; M; 3; 0; 51; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Chris Odoi-Atsem; D; 3; 1; 134; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Griffin Yow; F; 2; 1; 59; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Akeem Ward; D; 1; 1; 48; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Antonio Bustamante; M; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Gordon Wild; F; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Jalen Robinson; D; 10; 5; 413; 0; 0; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Chris McCann; M-D; 6; 4; 319; 0; 0; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Zoltan Stieber; M-F; 9; 3; 301; 0; 0; 3; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Marquinhos Pedroso; D; 4; 3; 287; 0; 0; 3; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Russell Canouse; M; 26; 25; 2149; 0; 0; 10; 0; 0; 0/0; 0; 0; 0.00; 0.0
+
 
 Team: FC Dallas
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1903&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-RtU083KIvKru2s88kG3hQnp3JC3euyMPs5x9uxjU0ME&form_id=mp7_stats_hub_build_filter_form
+
+Jesus Ferreira; F; 33; 29; 2453; 8; 6; 59; 22; 1; 0/0; 5; 3; 0.29; 13.6
+Zdenek Ondrasek; F; 17; 7; 747; 7; 2; 26; 15; 1; 0/0; 6; 1; 0.84; 26.9
+Dominique Badji; F; 28; 24; 2040; 6; 3; 41; 20; 2; 0/0; 3; 3; 0.26; 14.6
+Ryan Hollingshead; M; 34; 33; 2961; 6; 3; 44; 17; 1; 0/0; 5; 1; 0.18; 13.6
+Michael Barrios; M; 32; 31; 2731; 5; 15; 56; 18; 1; 0/0; 5; 0; 0.16; 8.9
+Reto Ziegler; D; 32; 32; 2880; 5; 0; 26; 13; 2; 4/5; 3; 2; 0.16; 19.2
+Santiago Mosquera; M; 23; 12; 1171; 3; 2; 36; 13; 1; 0/0; 3; 0; 0.23; 8.3
+Paxton Pomykal; M; 25; 20; 1876; 2; 5; 28; 10; 1; 0/0; 0; 2; 0.10; 7.1
+Brandon Servania; M; 18; 13; 1118; 2; 3; 27; 9; 1; 0/0; 2; 0; 0.16; 7.4
+Bryan Acosta; M; 26; 23; 2074; 2; 1; 54; 11; 1; 0/0; 1; 1; 0.09; 3.7
+Bressan; D; 18; 12; 1119; 1; 1; 8; 5; 0; 0/0; 1; 0; 0.08; 12.5
+Reggie Cannon; D; 28; 26; 2268; 1; 1; 10; 1; 0; 0/0; 1; 0; 0.04; 10.0
+Matt Hedges; D; 33; 33; 2884; 1; 1; 13; 3; 0; 0/0; 1; 0; 0.03; 7.7
+Francis Atuahene; F; 1; 0; 26; 1; 0; 2; 1; 0; 0/0; 0; 1; 3.46; 50.0
+Carlos Gruezo; M; 9; 9; 784; 1; 0; 7; 1; 0; 0/0; 0; 1; 0.11; 14.3
+Jacori Hayes; M; 19; 8; 848; 0; 2; 7; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Bryan Reynolds; D; 10; 1; 112; 0; 1; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Edwin Cerrillo; M; 12; 11; 918; 0; 1; 4; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Callum Montgomery; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Cristian Colman; F; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Moises Hernandez; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Eric Alexander; M; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Marquinhos Pedroso; D; 2; 1; 119; 0; 0; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Ricardo Pepi; F; 7; 0; 71; 0; 0; 1; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Ema Twumasi; F; 2; 0; 27; 0; 0; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Edwin Gyasi; M; 4; 1; 82; 0; 0; 2; 1; 0; 0/0; 0; 0; 0.00; 0.0
+John Nelson; D; 9; 4; 451; 0; 0; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Thomas Roberts; M; 6; 3; 237; 0; 0; 3; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Pablo Aranguiz; M; 11; 7; 562; 0; 0; 11; 2; 0; 0/0; 0; 0; 0.00; 0.0
+
+
 
 Team: Houston Dynamo
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1897&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-F0xOchBejwqjuFRe2wpwf-WSKQCVNz8yxYUT-b54ykI&form_id=mp7_stats_hub_build_filter_form
+
+Mauro Manotas; F; 32; 28; 2539; 13; 8; 92; 30; 5; 1/2; 10; 3; 0.46; 14.1
+Alberth Elis; F; 26; 22; 1921; 9; 10; 82; 33; 0; 2/2; 7; 2; 0.42; 11.0
+Memo Rodriguez; M; 26; 16; 1392; 7; 5; 47; 20; 1; 0/0; 5; 2; 0.45; 14.9
+Tomas Martinez; M; 33; 30; 2329; 5; 3; 53; 11; 2; 0/0; 3; 2; 0.19; 9.4
+Christian Ramirez; F; 10; 7; 672; 5; 1; 25; 15; 2; 0/0; 4; 1; 0.67; 20.0
+Thomas McNamara; M; 33; 15; 1530; 2; 3; 18; 8; 1; 0/0; 1; 1; 0.12; 11.1
+Romell Quioto; M; 18; 8; 794; 2; 2; 27; 12; 0; 1/1; 1; 1; 0.23; 7.4
+Juan David Cabezas; M; 15; 5; 532; 1; 0; 3; 1; 0; 0/0; 0; 1; 0.17; 33.3
+Darwin Ceren; M; 13; 5; 530; 1; 0; 4; 2; 0; 0/0; 0; 1; 0.17; 25.0
+Adam Lundkvist; D; 28; 26; 2387; 0; 4; 6; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Maynor Figueroa; D; 25; 25; 2249; 0; 3; 28; 4; 0; 0/0; 0; 0; 0.00; 0.0
+DaMarcus Beasley; D; 12; 12; 1032; 0; 2; 3; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Jose Bizama; D; 5; 4; 354; 0; 1; 2; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Alejandro Fuenmayor; D; 8; 8; 699; 0; 1; 3; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Aljaz Struna; D; 29; 29; 2610; 0; 1; 4; 2; 0; 0/0; 0; 0; 0.00; 0.0
+A.J. DeLaGarza; D; 23; 23; 1995; 0; 1; 8; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Boniek Garcia; M; 32; 30; 2584; 0; 1; 16; 3; 0; 0/0; 0; 0; 0.00; 0.0
+Matias Vera; M; 30; 30; 2639; 0; 1; 22; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Sam Junqua; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Erik McCue; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Eric Bird; M; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Chris Duvall; D; 1; 1; 90; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Kevin Garcia; D; 12; 8; 812; 0; 0; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Michael Salazar; F; 7; 1; 153; 0; 0; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Niko Hansen; F; 4; 0; 33; 0; 0; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Ronaldo Peña; F; 4; 2; 157; 0; 0; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Marlon Hairston; M; 12; 5; 412; 0; 0; 6; 4; 0; 0/0; 0; 0; 0.00; 0.0
+
 
 Team: LA FC
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=11690&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-7qv-q5LVq1FYoyEG-gxNTz5h_6w9lmJvdq9nBvZPlEg&form_id=mp7_stats_hub_build_filter_form
+
+Carlos Vela; F; 31; 31; 2726; 34; 15; 160; 71; 6; 9/11; 18; 16; 1.12; 21.3
+Diego Rossi; F; 34; 33; 2899; 16; 7; 108; 49; 4; 0/0; 7; 9; 0.50; 14.8
+Adama Diomande; F; 25; 15; 1436; 8; 7; 58; 18; 3; 0/0; 4; 4; 0.50; 13.8
+Latif Blessing; F; 34; 29; 2689; 6; 6; 42; 10; 2; 0/0; 4; 2; 0.20; 14.3
+Mark-Anthony Kaye; M; 31; 27; 2501; 4; 8; 36; 13; 2; 0/0; 3; 1; 0.14; 11.1
+Christian Ramirez; F; 17; 13; 956; 4; 2; 27; 13; 1; 0/0; 3; 1; 0.38; 14.8
+Eduard Atuesta; M; 30; 30; 2636; 3; 11; 43; 17; 2; 0/0; 3; 0; 0.10; 7.0
+Jordan Harvey; D; 30; 28; 2366; 1; 5; 11; 3; 0; 0/0; 1; 0; 0.04; 9.1
+Tristan Blackmon; D; 18; 15; 1377; 1; 4; 9; 2; 0; 0/0; 1; 0; 0.07; 11.1
+Steven Beitashour; D; 25; 24; 1881; 1; 2; 6; 2; 0; 0/0; 0; 1; 0.05; 16.7
+Josh Perez; F; 13; 4; 454; 1; 1; 12; 6; 0; 0/0; 1; 0; 0.20; 8.3
+Walker Zimmerman; D; 25; 25; 2169; 1; 1; 21; 5; 1; 0/0; 1; 0; 0.04; 4.8
+Rodolfo Zelaya; F; 4; 1; 118; 1; 0; 6; 2; 0; 0/0; 0; 1; 0.76; 16.7
+Adrien Perez; F; 12; 1; 206; 1; 0; 7; 3; 0; 0/0; 0; 1; 0.44; 14.3
+Mohamed El-Munir; D; 15; 4; 581; 1; 0; 11; 3; 0; 0/0; 0; 1; 0.15; 9.1
+Eddie Segura; D; 34; 33; 2955; 1; 0; 16; 2; 0; 0/0; 1; 0; 0.03; 6.3
+Lee Nguyen; M; 23; 11; 1170; 0; 4; 18; 7; 0; 0/0; 0; 0; 0.00; 0.0
+Niko Hamalainen; D; 3; 1; 95; 0; 1; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Peter-Lee Vassell; M; 6; 2; 177; 0; 1; 5; 3; 0; 0/0; 0; 0; 0.00; 0.0
+Alejandro Guido; M; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Dejan Jakovic; D; 3; 2; 181; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Diego Palacios; D; 2; 1; 92; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Shaft Brewer Jr.; M-D; 1; 1; 90; 0; 0; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Javi Perez; M; 1; 0; 12; 0; 0; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Danilo Silva; D; 5; 2; 222; 0; 0; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Andre Horta; M; 4; 2; 184; 0; 0; 4; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Brian Rodriguez; F; 7; 5; 385; 0; 0; 17; 5; 0; 0/0; 0; 0; 0.00; 0.0
+
 
 Team: LA Galaxy
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1230&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-hNsi7yAiZfgmHempkEGP683afB5BeaXoRiOjqee2too&form_id=mp7_stats_hub_build_filter_form
+
+Zlatan Ibrahimovic; F; 29; 29; 2610; 30; 7; 151; 65; 9; 6/7; 22; 8; 1.03; 19.9
+Uriel Antuna; M; 31; 29; 2427; 6; 5; 49; 18; 1; 0/0; 4; 2; 0.22; 12.2
+Cristian Pavon; M; 11; 11; 974; 3; 8; 34; 15; 0; 0/0; 0; 3; 0.28; 8.8
+Sebastian Lletget; M; 29; 27; 2316; 3; 6; 32; 11; 1; 0/0; 3; 0; 0.12; 9.4
+Favio Alvarez; M; 18; 16; 1272; 3; 5; 32; 13; 1; 0/0; 0; 3; 0.21; 9.4
+Daniel Steres; D; 30; 30; 2615; 3; 0; 20; 6; 1; 0/0; 1; 2; 0.10; 15.0
+Jonathan dos Santos; M; 29; 29; 2546; 2; 3; 14; 5; 1; 1/1; 1; 1; 0.07; 14.3
+Chris Pontius; M; 18; 6; 697; 2; 3; 18; 5; 0; 0/0; 2; 0; 0.26; 11.1
+Diego Polenta; D; 28; 28; 2520; 1; 6; 18; 4; 1; 0/0; 1; 0; 0.04; 5.6
+Rolf Feltscher; D; 25; 25; 2183; 1; 4; 17; 3; 0; 0/0; 1; 0; 0.04; 5.9
+Joe Corona; M; 31; 26; 2324; 1; 3; 18; 4; 0; 0/0; 1; 0; 0.04; 5.6
+Jorgen Skjelvik; D; 20; 19; 1681; 1; 2; 6; 1; 0; 0/0; 0; 1; 0.05; 16.7
+Emmanuel Boateng; M; 21; 7; 879; 1; 1; 14; 5; 1; 0/0; 0; 1; 0.10; 7.1
+Giancarlo Gonzalez; D; 20; 15; 1430; 1; 0; 7; 2; 0; 0/0; 0; 1; 0.06; 14.3
+Efrain Alvarez; M; 14; 4; 518; 0; 3; 12; 5; 0; 0/0; 0; 0; 0.00; 0.0
+Perry Kitchen; M; 8; 6; 573; 0; 2; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Emil Cuello; M; 9; 2; 189; 0; 1; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Julian Araujo; D; 18; 10; 891; 0; 1; 7; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Dave Romney; D; 12; 10; 928; 0; 1; 8; 5; 0; 0/0; 0; 0; 0.00; 0.0
+Romain Alessandrini; M; 5; 5; 281; 0; 1; 8; 3; 0; 0/0; 0; 0; 0.00; 0.0
+Juninho; M; 2; 0; 8; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Servando Carrasco; M; 16; 3; 388; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Bradford Jamieson IV; F; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Tomas Hilliard-Arce; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Diedie Traore; D; 4; 3; 220; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Ethan Zubak; F; 3; 0; 40; 0; 0; 3; 1; 0; 0/0; 0; 0; 0.00; 0.0
+
 
 Team: Minnesota United
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=6977&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-BDPxGX1ZLdWUK3x8Z8Z6rISiwTeQWxlAqAeak6eaeD0&form_id=mp7_stats_hub_build_filter_form
+
+Darwin Quintero; F; 30; 26; 2208; 10; 5; 81; 27; 3; 4/5; 4; 6; 0.41; 12.3
+Ethan Finlay; M; 33; 22; 1912; 7; 3; 36; 11; 2; 2/2; 4; 3; 0.33; 19.4
+Mason Toye; F; 17; 9; 820; 6; 3; 27; 13; 3; 0/0; 2; 4; 0.66; 22.2
+Angelo Rodriguez; F; 28; 21; 1751; 5; 2; 55; 20; 1; 0/0; 3; 2; 0.26; 9.1
+Hassani Dotson; M-D; 24; 15; 1403; 4; 0; 15; 7; 2; 0/0; 3; 1; 0.26; 26.7
+Kevin Molino; M; 17; 11; 910; 3; 4; 29; 9; 0; 0/0; 3; 0; 0.30; 10.3
+Ike Opara; D; 30; 29; 2566; 3; 1; 22; 5; 0; 0/0; 3; 0; 0.11; 13.6
+Abu Danladi; F; 24; 4; 704; 2; 2; 22; 6; 0; 0/0; 1; 1; 0.26; 9.1
+Romario Ibarra; M; 8; 4; 381; 2; 1; 12; 8; 2; 0/0; 0; 2; 0.47; 16.7
+Osvaldo Alonso; M; 27; 27; 2368; 2; 1; 12; 3; 0; 0/0; 2; 0; 0.08; 16.7
+Michael Boxall; D; 29; 29; 2577; 2; 0; 10; 3; 1; 0/0; 2; 0; 0.07; 20.0
+Jan Gregus; M; 30; 30; 2679; 1; 12; 59; 16; 0; 0/0; 0; 1; 0.03; 1.7
+Romain Metanire; D; 27; 27; 2430; 1; 7; 11; 3; 1; 0/0; 1; 0; 0.04; 9.1
+Miguel Ibarra; M; 22; 16; 1505; 1; 2; 23; 3; 0; 0/0; 0; 1; 0.06; 4.3
+Francisco Calvo; D; 7; 7; 629; 1; 0; 11; 5; 0; 0/0; 0; 1; 0.14; 9.1
+Collin Martin; M; 3; 2; 184; 0; 1; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Brent Kallman; D; 16; 14; 1281; 0; 1; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Lawrence Olum; D; 10; 5; 543; 0; 1; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Wyatt Omsberg; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Carter Manley; D; 1; 1; 90; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Eric Miller; D; 6; 5; 435; 0; 0; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Thomas Chacon; M; 2; 1; 85; 0; 0; 2; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Wilfried Moimbe; D; 4; 4; 336; 0; 0; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Chase Gasper; D; 15; 14; 1292; 0; 0; 5; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Robin Lod; M; 10; 6; 583; 0; 0; 13; 6; 0; 0/0; 0; 0; 0.00; 0.0
+Rasmus Schuller; M; 15; 11; 924; 0; 0; 15; 1; 0; 0/0; 0; 0; 0.00; 0.0
+
 
 Team: Montreal Impact
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1616&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-RjP5aE5q22uSaATXceSzXoTC7sP3huyfs-UESEjQccM&form_id=mp7_stats_hub_build_filter_form
+
+Saphir Taider; F; 32; 31; 2728; 9; 7; 73; 24; 3; 5/5; 3; 6; 0.30; 12.3
+Orji Okwonkwo; M; 28; 24; 1784; 8; 2; 55; 15; 1; 0/0; 6; 2; 0.40; 14.5
+Lassi Lappalainen; M; 11; 8; 683; 5; 1; 17; 9; 1; 0/0; 4; 1; 0.66; 29.4
+Maximiliano Urruti; F; 31; 27; 2436; 4; 6; 54; 21; 2; 1/1; 2; 2; 0.15; 7.4
+Zakaria Diallo; D; 24; 23; 2037; 3; 2; 11; 3; 0; 0/0; 0; 3; 0.13; 27.3
+Ignacio Piatti; M; 11; 9; 757; 3; 1; 20; 4; 1; 0/0; 0; 3; 0.36; 15.0
+Anthony Jackson-Hamel; F; 16; 6; 618; 3; 0; 16; 6; 0; 0/0; 1; 2; 0.44; 18.8
+Bojan Krkic; M; 8; 7; 608; 3; 0; 18; 6; 1; 0/0; 2; 1; 0.44; 16.7
+Omar Browne; M; 10; 5; 564; 2; 2; 16; 4; 1; 0/0; 2; 0; 0.32; 12.5
+Bacary Sagna; D; 26; 25; 2180; 1; 3; 13; 4; 0; 0/0; 0; 1; 0.04; 7.7
+Harry Novillo; M; 11; 5; 439; 1; 2; 11; 4; 1; 0/0; 1; 0; 0.21; 9.1
+Shamit Shome; M; 27; 18; 1627; 1; 1; 8; 3; 1; 0/0; 0; 1; 0.06; 12.5
+Rudy Camacho; D; 17; 16; 1464; 1; 0; 9; 3; 0; 0/0; 1; 0; 0.06; 11.1
+Daniel Lovitz; D; 28; 28; 2520; 0; 2; 12; 6; 0; 0/0; 0; 0; 0.00; 0.0
+Jorge Corrales; D; 4; 1; 99; 0; 1; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Clement Bayiha; M; 11; 4; 469; 0; 1; 2; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Mathieu Choiniere; M; 17; 6; 681; 0; 1; 7; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Micheal Azira; M; 19; 16; 1443; 0; 1; 8; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Zachary Brault-Guillard; D; 13; 9; 871; 0; 1; 11; 5; 0; 0/0; 0; 0; 0.00; 0.0
+Amar Sejdic; M; 1; 1; 68; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Daniel Kinumbe; D; 1; 1; 67; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Karifa Yao; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Rod Fanni; D; 3; 3; 270; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Ballou Jean-Yves Tabla; F; 4; 1; 127; 0; 0; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Ken Krolicki; M; 10; 5; 523; 0; 0; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Jukka Raitala; D; 26; 23; 2083; 0; 0; 5; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Victor Cabrera; D; 16; 13; 1178; 0; 0; 9; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Samuel Piette; M; 25; 25; 2220; 0; 0; 12; 1; 0; 0/0; 0; 0; 0.00; 0.0
+
 
 Team: NE Revolution
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=928&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-aBV1mj1iKaz9uDtR5225_tidHDQ-fWJ5FA2fw5OyJjo&form_id=mp7_stats_hub_build_filter_form
+
+Carles Gil; F; 34; 34; 3052; 10; 14; 67; 24; 1; 4/5; 3; 7; 0.29; 14.9
+Gustavo Bou; F; 14; 13; 1155; 9; 2; 61; 25; 2; 0/0; 5; 4; 0.70; 14.8
+Cristian Penilla; F; 30; 18; 1780; 6; 8; 58; 20; 3; 1/1; 3; 3; 0.30; 10.3
+Teal Bunbury; F; 32; 25; 2191; 6; 2; 62; 21; 3; 0/0; 3; 3; 0.25; 9.7
+Juan Fernando Caicedo; F; 27; 13; 1068; 5; 3; 26; 9; 1; 0/0; 0; 5; 0.42; 19.2
+Juan Agudelo; F; 28; 21; 1954; 3; 2; 37; 10; 0; 0/0; 2; 1; 0.14; 8.1
+Diego Fagundez; M; 25; 13; 1176; 2; 3; 22; 8; 0; 0/1; 2; 0; 0.15; 9.1
+Brandon Bye; D; 30; 30; 2657; 2; 2; 22; 7; 1; 0/0; 2; 0; 0.07; 9.1
+Antonio Mlinar Delamea; D; 17; 16; 1366; 2; 1; 8; 2; 0; 0/0; 1; 1; 0.13; 25.0
+Jalil Anibaba; D; 22; 19; 1764; 1; 2; 5; 2; 0; 0/0; 1; 0; 0.05; 20.0
+DeJuan Jones; D; 20; 14; 1296; 1; 1; 13; 4; 0; 0/0; 0; 1; 0.07; 7.7
+Wilfried Zahibo; M; 24; 18; 1509; 1; 1; 14; 3; 0; 0/0; 1; 0; 0.06; 7.1
+Michael Mancienne; D; 16; 13; 1189; 1; 0; 4; 1; 0; 0/0; 0; 1; 0.08; 25.0
+Edgar Castillo; D; 20; 20; 1693; 0; 5; 16; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Tajon Buchanan; F; 10; 4; 391; 0; 2; 11; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Andrew Farrell; D; 29; 29; 2603; 0; 1; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Scott Caldwell; M; 20; 12; 1079; 0; 1; 3; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Gabriel Somi; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Brian Wright; F; 2; 0; 10; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Zachary Herivaux; M; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Isaac Angking; M; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Nicolas Firmino; M; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Justin Rennicks; F; 2; 1; 106; 0; 0; 3; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Luis Alberto Caicedo; M; 31; 27; 2359; 0; 0; 22; 2; 0; 0/0; 0; 0; 0.00; 0.0
+
 
 Team: NYC FC
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=9668&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-EWBMH-7z1W6ZKFo-7sIHryrkYUeWRNpeNHqFBADH_q8&form_id=mp7_stats_hub_build_filter_form
+
+Heber; F; 22; 18; 1575; 15; 4; 56; 26; 4; 0/0; 6; 9; 0.86; 26.8
+Alexandru Mitrita; F; 29; 24; 2131; 12; 3; 94; 34; 4; 0/0; 8; 4; 0.51; 12.8
+Valentin Castellanos; F; 30; 23; 2052; 11; 7; 80; 31; 4; 0/0; 6; 5; 0.48; 13.8
+Maximiliano Moralez; M; 29; 28; 2434; 7; 20; 51; 25; 2; 4/8; 5; 2; 0.26; 13.7
+Ismael Tajouri-Shradi; F; 19; 11; 940; 5; 4; 26; 11; 2; 0/0; 1; 4; 0.48; 19.2
+Alexander Ring; M; 31; 31; 2790; 4; 5; 47; 15; 0; 0/0; 2; 2; 0.13; 8.5
+Jesus Medina; M; 18; 6; 726; 3; 2; 16; 8; 1; 1/1; 3; 0; 0.37; 18.8
+Ebenezer Ofori; M; 20; 14; 1261; 2; 0; 8; 2; 0; 0/0; 1; 1; 0.14; 25.0
+Anton Tinnerholm; D; 30; 30; 2632; 1; 8; 32; 12; 0; 0/0; 1; 0; 0.03; 3.1
+Gary Mackay-Steven; F; 12; 5; 525; 1; 1; 17; 7; 1; 0/0; 0; 1; 0.17; 5.9
+Keaton Parks; M; 22; 14; 1317; 1; 1; 21; 12; 0; 0/0; 1; 0; 0.07; 4.8
+Ronald Matarrita; D; 24; 24; 1979; 1; 1; 25; 6; 0; 0/0; 0; 1; 0.05; 4.0
+Ben Sweat; D; 18; 13; 1265; 0; 2; 4; 3; 0; 0/0; 0; 0; 0.00; 0.0
+Jonathan Lewis; F; 6; 2; 214; 0; 1; 1; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Tony Rocha; M; 17; 9; 871; 0; 1; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Juan Pablo Torres; M; 1; 0; 1; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Justin Haak; M; 3; 0; 6; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Joe Scally; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Daniel Bedoya; M; 1; 0; 1; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+James Sands; M; 19; 18; 1488; 0; 0; 2; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Eric Miller; D; 5; 4; 329; 0; 0; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Sebastien Ibeagha; D; 23; 11; 1112; 0; 0; 3; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Maxime Chanot; D; 31; 31; 2790; 0; 0; 12; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Alexander Callens; D; 24; 24; 2160; 0; 0; 17; 1; 0; 0/0; 0; 0; 0.00; 0.0
+
+* Abdi Mohamed; D; ; ; ; ; ; ; ; ; /; ; ; nan; nan
 
 Team: NY Red Bulls
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=399&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-MV_8kuRGrAl-pPFLfrOVD9IO-hbSWoOH9w4jTDZywh0&form_id=mp7_stats_hub_build_filter_form
+
+Daniel Royer; M; 31; 26; 2321; 11; 8; 85; 38; 2; 4/5; 7; 4; 0.43; 12.9
+Brian White; F; 19; 17; 1345; 9; 2; 29; 12; 2; 0/0; 3; 6; 0.60; 31.0
+Alejandro Romero Gamarra; M; 26; 21; 1925; 5; 6; 36; 13; 1; 0/0; 1; 4; 0.23; 13.9
+Cristian Casseres Jr.; M; 23; 21; 1801; 3; 4; 25; 6; 0; 0/0; 1; 2; 0.15; 12.0
+Alex Muyl; M; 24; 17; 1401; 3; 3; 23; 11; 1; 0/0; 2; 1; 0.19; 13.0
+Tom Barlow; F; 12; 8; 605; 3; 0; 15; 8; 2; 0/0; 2; 1; 0.45; 20.0
+Marc Rzatkowski; M; 28; 26; 2317; 2; 8; 41; 15; 0; 0/0; 2; 0; 0.08; 4.9
+Bradley Wright-Phillips; F; 24; 9; 1098; 2; 4; 33; 11; 0; 0/0; 1; 1; 0.16; 6.1
+Omir Fernandez; M; 18; 3; 568; 2; 2; 12; 6; 0; 0/0; 1; 1; 0.32; 16.7
+Aaron Long; D; 24; 24; 2115; 2; 1; 19; 5; 0; 0/0; 1; 1; 0.09; 10.5
+Michael Amir Murillo; D; 22; 18; 1694; 1; 6; 12; 3; 0; 0/0; 1; 0; 0.05; 8.3
+Kyle Duncan; D; 13; 13; 1080; 1; 2; 6; 1; 1; 0/0; 0; 1; 0.08; 16.7
+Andreas Ivan; M; 12; 5; 486; 1; 2; 21; 6; 0; 0/0; 0; 1; 0.19; 4.8
+Sean Nealis; D; 9; 3; 452; 1; 1; 2; 1; 1; 0/0; 0; 1; 0.20; 50.0
+Connor Lade; D; 11; 10; 845; 1; 1; 5; 1; 1; 0/0; 1; 0; 0.11; 20.0
+Amro Tarek; D; 20; 19; 1477; 1; 1; 8; 4; 0; 0/0; 1; 0; 0.06; 12.5
+Derrick Etienne Jr.; M; 11; 5; 465; 1; 1; 10; 3; 1; 0/0; 1; 0; 0.19; 10.0
+Kemar Lawrence; D; 22; 19; 1729; 1; 0; 5; 1; 0; 0/0; 1; 0; 0.05; 20.0
+Sean Davis; M; 30; 28; 2557; 0; 2; 13; 3; 0; 0/0; 0; 0; 0.00; 0.0
+Florian Valot; M; 2; 2; 125; 0; 1; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Vincent Bezecourt; M; 8; 7; 453; 0; 1; 11; 3; 0; 0/0; 0; 0; 0.00; 0.0
+Josh Sims; M; 7; 5; 478; 0; 1; 11; 3; 0; 0/0; 0; 0; 0.00; 0.0
+Jean-Christophe Koffi; M; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Ben Mines; M; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Rece Buckmaster; D; 6; 6; 540; 0; 0; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Marcus Epps; M; 3; 1; 109; 0; 0; 2; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Mathias Jorgensen; F; 5; 1; 117; 0; 0; 4; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Tim Parker; D; 31; 26; 2387; 0; 0; 16; 2; 0; 0/0; 0; 0; 0.00; 0.0
+
 
 Team: Orlando City
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=6900&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-MV_8kuRGrAl-pPFLfrOVD9IO-hbSWoOH9w4jTDZywh0&form_id=mp7_stats_hub_build_filter_form
+
+Nani; M; 30; 26; 2277; 12; 10; 64; 26; 4; 3/5; 8; 4; 0.47; 18.8
+Tesho Akindele; F-M; 28; 22; 1880; 10; 2; 42; 21; 2; 0/0; 7; 3; 0.48; 23.8
+Dom Dwyer; F; 27; 16; 1614; 7; 4; 66; 26; 0; 0/0; 4; 3; 0.39; 10.6
+Chris Mueller; F; 29; 16; 1370; 5; 4; 40; 13; 1; 0/0; 3; 2; 0.33; 12.5
+Benji Michel; F; 17; 9; 943; 5; 1; 11; 9; 1; 0/0; 3; 2; 0.48; 45.5
+Santiago Patiño; F; 11; 3; 322; 2; 1; 12; 3; 0; 0/0; 0; 2; 0.56; 16.7
+Sacha Kljestan; M; 23; 13; 1352; 1; 3; 19; 6; 1; 0/0; 0; 1; 0.07; 5.3
+Carlos Ascues; D; 17; 14; 1113; 1; 1; 9; 3; 0; 0/0; 1; 0; 0.08; 11.1
+Will Johnson; D; 21; 20; 1697; 1; 1; 28; 6; 0; 0/0; 0; 1; 0.05; 3.6
+Ruan; D; 25; 23; 2096; 0; 5; 8; 4; 0; 0/0; 0; 0; 0.00; 0.0
+Mauricio Pereyra; M; 6; 5; 394; 0; 3; 3; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Joao Moutinho; D; 16; 15; 1221; 0; 3; 9; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Cristian Higuita; M; 9; 7; 648; 0; 2; 6; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Danilo Acosta; D; 8; 8; 670; 0; 1; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Josue Colman; M; 8; 1; 154; 0; 1; 4; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Dillon Powers; M; 7; 7; 620; 0; 1; 4; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Lamine Sane; D; 26; 25; 2274; 0; 1; 8; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Oriol Rosell; M-D; 20; 16; 1465; 0; 1; 15; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Alex De John; D; 6; 6; 406; 0; 0; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Kamal Miller; D; 16; 14; 1350; 0; 0; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Shane O'Neill; D; 11; 8; 838; 0; 0; 3; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Robinho; M; 6; 3; 207; 0; 0; 6; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Kyle Smith; D; 23; 15; 1384; 0; 0; 6; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Sebastian Mendez; M; 23; 20; 1814; 0; 0; 10; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Robin Jansson; D; 28; 28; 2421; 0; 0; 10; 0; 0; 0/0; 0; 0; 0.00; 0.0
+
 
 Team: Philadelphia Union
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=5513&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-6X1g8UwOKb1t79-EhaxTUlP-qhTlOe-TJTqzv38hU6E&form_id=mp7_stats_hub_build_filter_form
+
+Kacper Przybylko; F; 26; 25; 2241; 15; 4; 81; 37; 4; 0/1; 8; 7; 0.60; 18.5
+Marco Fabian; M; 23; 15; 1249; 7; 1; 65; 21; 3; 2/4; 4; 3; 0.50; 10.8
+Ilsinho; M; 28; 7; 1083; 5; 8; 22; 10; 2; 0/0; 5; 0; 0.42; 22.7
+Jamiro Monteiro; M; 26; 22; 2048; 4; 9; 50; 21; 1; 2/3; 2; 2; 0.18; 8.0
+Alejandro Bedoya; M; 32; 32; 2834; 4; 4; 27; 9; 1; 0/0; 2; 2; 0.13; 14.8
+Fafa Picault; M; 32; 21; 1866; 4; 4; 53; 23; 0; 0/0; 1; 3; 0.19; 7.5
+David Accam; F; 8; 4; 337; 4; 2; 10; 6; 1; 0/0; 3; 1; 1.07; 40.0
+Sergio Santos; F; 17; 5; 622; 4; 1; 21; 7; 0; 0/0; 4; 0; 0.58; 19.0
+Brenden Aaronson; M; 28; 25; 1722; 3; 2; 34; 9; 1; 0/0; 2; 1; 0.16; 8.8
+Cory Burke; F; 7; 5; 490; 2; 0; 14; 5; 1; 0/0; 2; 0; 0.37; 14.3
+Jack Elliott; D; 34; 34; 3060; 2; 0; 25; 10; 1; 0/0; 2; 0; 0.06; 8.0
+Haris Medunjanin; M; 34; 34; 3060; 1; 10; 34; 7; 0; 0/0; 0; 1; 0.03; 2.9
+Anthony Fontana; M; 8; 0; 119; 1; 1; 3; 1; 0; 0/0; 1; 0; 0.76; 33.3
+Auston Trusty; D; 22; 22; 1966; 1; 0; 11; 4; 1; 0/0; 0; 1; 0.05; 9.1
+Kai Wagner; D; 30; 30; 2691; 0; 8; 6; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Olivier Mbaizo; D; 3; 2; 195; 0; 1; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Matthew Real; D; 3; 1; 67; 0; 1; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Warren Creavalle; M; 13; 5; 367; 0; 1; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Raymon Gaddis; D; 34; 34; 2963; 0; 1; 3; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Andrew Wooten; F; 7; 4; 352; 0; 1; 5; 2; 0; 0/0; 0; 0; 0.00; 0.0
+RJ Allen; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Michee Ngalina; F; 1; 0; 9; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Derrick Jones; M; 2; 0; 57; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Mark McKenzie; D; 7; 6; 537; 0; 0; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Fabinho; D; 1; 1; 90; 0; 0; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Aurelien Collin; D; 6; 6; 530; 0; 0; 5; 0; 0; 0/0; 0; 0; 0.00; 0.0
 
 Team: Portland Timbers
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1581&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-NOyvkMTWIqncUjxCVKRRyQMJQS1D6klM-Tc9dcmPCwI&form_id=mp7_stats_hub_build_filter_form
+
+Jeremy Ebobisse; F; 34; 25; 2310; 11; 1; 52; 21; 2; 0/0; 7; 4; 0.43; 21.2
+Brian Fernandez; F; 19; 16; 1411; 11; 1; 69; 30; 5; 0/0; 6; 5; 0.70; 15.9
+Diego Valeri; M; 31; 29; 2600; 8; 16; 83; 32; 2; 2/4; 5; 3; 0.28; 9.6
+Sebastian Blanco; M-F; 30; 28; 2511; 6; 11; 106; 32; 1; 0/0; 2; 4; 0.22; 5.7
+Cristhian Paredes; M; 22; 19; 1651; 4; 2; 37; 10; 1; 0/0; 3; 1; 0.22; 10.8
+Jorge Moreira; D; 26; 25; 2233; 2; 4; 29; 7; 0; 0/0; 1; 1; 0.08; 6.9
+Marvin Loria; M; 19; 8; 699; 2; 1; 20; 13; 2; 0/0; 2; 0; 0.26; 10.0
+Dairon Asprilla; M-F; 13; 7; 565; 2; 1; 21; 7; 1; 1/1; 1; 1; 0.32; 9.5
+Larrys Mabiala; D; 22; 22; 1904; 2; 0; 22; 7; 0; 0/0; 1; 1; 0.09; 9.1
+Tomas Conechny; M; 16; 2; 348; 1; 3; 10; 5; 0; 0/0; 0; 1; 0.26; 10.0
+Bill Tuiloma; D-M; 25; 21; 1919; 1; 0; 28; 6; 0; 0/0; 0; 1; 0.05; 3.6
+Jorge Villafaña; F; 23; 22; 1947; 0; 5; 8; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Diego Chara; M; 30; 29; 2606; 0; 2; 7; 1; 0; 0/0; 0; 0; 0.00; 0.0
+David Guzman; M; 5; 4; 349; 0; 1; 5; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Renzo Zambrano; M; 10; 9; 785; 0; 1; 7; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Julio Cascante; D; 22; 16; 1440; 0; 1; 10; 3; 0; 0/0; 0; 0; 0.00; 0.0
+Andres Flores; M; 15; 9; 778; 0; 1; 10; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Andy Polo; M; 19; 12; 1047; 0; 1; 15; 3; 0; 0/0; 0; 0; 0.00; 0.0
+Foster Langsdorf; F; 2; 0; 25; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Modou Jadama; D; 1; 1; 90; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Marco Farfan; D; 3; 3; 190; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Lucas Melano; F; 8; 1; 121; 0; 0; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Zarek Valentin; D; 21; 17; 1623; 0; 0; 3; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Eryk Williamson; M; 7; 3; 234; 0; 0; 4; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Claude Dielna; D; 15; 12; 1086; 0; 0; 13; 1; 0; 0/0; 0; 0; 0.00; 0.0
+
 
 Team: Real Salt Lake
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1899&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-BIiJ1JuarDwcEd2yLRsx5BiK21A94zOg35DVzhqx7hs&form_id=mp7_stats_hub_build_filter_form
+
+Albert Rusnak; M; 29; 28; 2456; 10; 5; 76; 31; 3; 4/5; 4; 6; 0.37; 13.2
+Sam Johnson; F; 24; 15; 1301; 9; 0; 31; 12; 4; 0/0; 6; 3; 0.62; 29.0
+Jefferson Savarino; F; 28; 27; 2320; 8; 5; 79; 37; 3; 0/0; 8; 0; 0.31; 10.1
+Damir Kreilach; M; 32; 32; 2666; 6; 5; 59; 15; 4; 1/1; 4; 2; 0.20; 10.2
+Corey Baird; F; 31; 23; 2104; 5; 4; 31; 14; 1; 0/0; 2; 3; 0.21; 16.1
+Sebastian Saucedo; F; 26; 13; 1189; 2; 4; 41; 15; 0; 0/0; 2; 0; 0.15; 4.9
+Marcelo Silva; D; 19; 14; 1342; 2; 0; 7; 3; 0; 0/0; 2; 0; 0.13; 28.6
+Nick Besler; M; 17; 7; 727; 1; 2; 3; 2; 0; 0/0; 1; 0; 0.12; 33.3
+Donny Toia; D; 24; 24; 2143; 1; 1; 11; 2; 0; 0/0; 0; 1; 0.04; 9.1
+Nedum Onuoha; D; 27; 26; 2336; 1; 0; 9; 4; 0; 0/0; 1; 0; 0.04; 11.1
+Joao Plata; F; 17; 2; 305; 1; 0; 14; 5; 1; 1/1; 1; 0; 0.30; 7.1
+Kyle Beckerman; M; 25; 24; 2134; 0; 5; 17; 4; 0; 0/0; 0; 0; 0.00; 0.0
+Aaron Herrera; D; 32; 31; 2768; 0; 4; 19; 5; 0; 0/0; 0; 0; 0.00; 0.0
+Everton Luiz; M; 27; 24; 2106; 0; 2; 8; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Erik Holt; D; 5; 5; 371; 0; 1; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Brooks Lennon; D; 28; 16; 1539; 0; 1; 10; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Luke Mulholland; M; 1; 0; 19; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Adam Henley; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Tony Beltran; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Tate Schmitt; M; 6; 1; 92; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Julian Vazquez; F; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Pablo Ruiz; M; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Luis Arriaga; F; 2; 0; 4; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Douglas Martinez; F; 1; 1; 64; 0; 0; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Justin Portillo; M; 4; 2; 194; 0; 0; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Kelyn Rowe; M; 4; 2; 180; 0; 0; 3; 3; 0; 0/0; 0; 0; 0.00; 0.0
+Justen Glad; D; 23; 23; 2064; 0; 0; 8; 2; 0; 0/0; 0; 0; 0.00; 0.0
+
 
 Team: SJ Earthquakes
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1131&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-MBrQbi5Cclm0-oKyEy-mY9aciOy7bpypzlZmvZDvA6A&form_id=mp7_stats_hub_build_filter_form
+
+Chris Wondolowski; F; 32; 24; 1982; 15; 2; 79; 33; 4; 0/0; 8; 7; 0.68; 19.0
+Vako; M; 32; 24; 2097; 8; 5; 110; 36; 3; 0/0; 4; 4; 0.34; 7.3
+Magnus Eriksson; F; 32; 32; 2807; 6; 10; 88; 23; 1; 1/1; 5; 1; 0.19; 6.8
+Shea Salinas; M; 28; 12; 1337; 6; 3; 21; 9; 1; 0/0; 4; 2; 0.40; 28.6
+Danny Hoesen; F; 30; 12; 1464; 5; 3; 59; 25; 3; 0/0; 4; 1; 0.31; 8.5
+Jackson Yueill; M; 32; 29; 2668; 3; 5; 36; 8; 0; 0/0; 1; 2; 0.10; 8.3
+Cristian Espinoza; M; 30; 30; 2533; 2; 13; 95; 36; 0; 0/0; 1; 1; 0.07; 2.1
+Tommy Thompson; D; 30; 28; 2296; 2; 1; 13; 4; 0; 0/0; 1; 1; 0.08; 15.4
+Nick Lima; D; 24; 21; 1810; 1; 2; 17; 4; 1; 0/0; 1; 0; 0.05; 5.9
+Andres Rios; F; 10; 1; 263; 1; 0; 4; 2; 0; 0/0; 1; 0; 0.34; 25.0
+Judson; M; 27; 23; 1915; 1; 0; 15; 4; 0; 0/0; 1; 0; 0.05; 6.7
+Anibal Godoy; M-D; 15; 15; 1344; 0; 2; 6; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Florian Jungwirth; D; 30; 30; 2671; 0; 2; 19; 6; 0; 0/0; 0; 0; 0.00; 0.0
+Paul Marie; D; 9; 3; 345; 0; 1; 6; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Marcos Lopez; D; 18; 15; 1168; 0; 1; 10; 4; 0; 0/0; 0; 0; 0.00; 0.0
+Jimmy Ockford; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Eric Calvillo; M; 2; 1; 73; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Luis Felipe; M; 3; 0; 39; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Francois Affolter; D; 1; 1; 90; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Kevin Partida; M; 1; 0; 1; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Jacob Akanyirige; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Gilbert Fuentes; M; 1; 0; 2; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Siad Haji; M; 4; 0; 41; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Cade Cowell; F; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Harold Cummings; D; 16; 16; 1392; 0; 0; 1; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Carlos Fierro; M; 7; 2; 225; 0; 0; 7; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Guram Kashia; D; 23; 21; 1905; 0; 0; 9; 3; 0; 0/0; 0; 0; 0.00; 0.0
+
 
 Team: Seattle Sounders
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=3500&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-JOqlv21g9fXCu-9FPUQH1F1bIViNFyWDVN4IrOrlJNs&form_id=mp7_stats_hub_build_filter_form
+
+Raul Ruidiaz; F; 22; 20; 1793; 11; 3; 72; 28; 1; 0/0; 6; 5; 0.55; 15.3
+Jordan Morris; F; 26; 24; 2047; 10; 7; 42; 20; 3; 0/0; 7; 3; 0.44; 23.8
+Nicolás Lodeiro; M; 28; 28; 2500; 7; 12; 53; 18; 3; 2/2; 4; 3; 0.25; 13.2
+Cristian Roldan; M; 29; 29; 2538; 6; 5; 31; 10; 3; 0/0; 4; 2; 0.21; 19.4
+Harry Shipp; M; 25; 15; 1382; 5; 3; 32; 12; 1; 0/0; 4; 1; 0.33; 15.6
+Kelvin Leerdam; D; 29; 27; 2393; 5; 2; 22; 5; 2; 0/0; 4; 1; 0.19; 22.7
+Victor Rodriguez; M; 17; 14; 1124; 2; 3; 26; 10; 0; 1/1; 0; 2; 0.16; 7.7
+Will Bruin; F; 9; 4; 428; 2; 1; 8; 5; 0; 0/0; 2; 0; 0.42; 25.0
+Handwalla Bwana; M; 15; 6; 567; 1; 1; 10; 4; 1; 0/0; 1; 0; 0.16; 10.0
+Roman Torres; D; 17; 12; 1127; 1; 0; 14; 4; 1; 0/0; 1; 0; 0.08; 7.1
+Brad Smith; D; 25; 22; 1974; 0; 6; 11; 4; 0; 0/0; 0; 0; 0.00; 0.0
+Joevin Jones; D-M; 17; 9; 921; 0; 2; 14; 7; 0; 0/0; 0; 0; 0.00; 0.0
+Saad Abdul-Salaam; D; 18; 11; 1062; 0; 1; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Alex Roldan; M; 9; 5; 442; 0; 1; 4; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Jordy Delem; M; 23; 17; 1439; 0; 1; 7; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Kim Kee-hee; D; 30; 30; 2622; 0; 1; 14; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Gustav Svensson; M; 22; 21; 1813; 0; 1; 19; 4; 0; 0/0; 0; 0; 0.00; 0.0
+Jonathan Campbell; D; 4; 4; 360; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Shandon Hopeau; F; 1; 0; 32; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Alfonso Ocampo-Chavez; F; 3; 1; 82; 0; 0; 1; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Emanuel Cecchini; M; 4; 1; 155; 0; 0; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Henry Wingo; M; 6; 2; 200; 0; 0; 3; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Danny Leyva; M; 6; 4; 413; 0; 0; 4; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Nouhou Tolo; D; 22; 9; 790; 0; 0; 5; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Xavier Arreaga; D; 14; 12; 1119; 0; 0; 6; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Chad Marshall; D; 8; 8; 720; 0; 0; 7; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Justin Dhillon; F; 5; 3; 264; 0; 0; 7; 3; 0; 0/0; 0; 0; 0.00; 0.0
+Luis Silva; F; 5; 2; 197; 0; 0; 11; 4; 0; 0/0; 0; 0; 0.00; 0.0
+
 
 Team: Sporting KC
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=421&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-1Z3ErTwC3eZaYkAofRa7SKyLgHnthuBTX6Tb-JGD7QY&form_id=mp7_stats_hub_build_filter_form
+
+Felipe Gutiérrez; M; 32; 31; 2722; 12; 3; 65; 29; 1; 5/6; 3; 9; 0.40; 18.5
+Johnny Russell; F; 28; 24; 2115; 9; 9; 56; 22; 2; 0/0; 8; 1; 0.38; 16.1
+Krisztian Nemeth; F; 24; 18; 1559; 8; 2; 53; 18; 1; 0/1; 7; 1; 0.46; 15.1
+Yohan Croizet; M; 20; 12; 1091; 3; 2; 24; 12; 1; 0/0; 2; 1; 0.25; 12.5
+Gianluca Busio; M-F; 22; 10; 923; 3; 1; 27; 11; 0; 0/0; 2; 1; 0.29; 11.1
+Gerso Fernandes; F; 25; 20; 1749; 2; 6; 40; 15; 0; 0/0; 1; 1; 0.10; 5.0
+Ilie Sanchez; M; 32; 27; 2509; 2; 5; 20; 4; 1; 1/1; 1; 1; 0.07; 10.0
+Benny Feilhaber; M; 17; 13; 1104; 2; 2; 19; 4; 0; 0/0; 1; 1; 0.16; 10.5
+Erik Hurtado; F; 13; 8; 815; 2; 0; 20; 9; 2; 0/0; 1; 1; 0.22; 10.0
+Graham Smith; D; 11; 10; 882; 1; 1; 8; 4; 1; 0/0; 1; 0; 0.10; 12.5
+Daniel Salloi; F; 28; 16; 1541; 1; 1; 49; 16; 0; 0/1; 1; 0; 0.06; 2.0
+Botond Barath; D; 21; 20; 1749; 1; 0; 8; 2; 0; 0/0; 0; 1; 0.05; 12.5
+Roger Espinoza; M; 16; 15; 1149; 0; 3; 16; 6; 0; 0/0; 0; 0; 0.00; 0.0
+Kelyn Rowe; M; 14; 7; 690; 0; 2; 20; 4; 0; 0/0; 0; 0; 0.00; 0.0
+Graham Zusi; M; 27; 26; 2351; 0; 2; 37; 7; 0; 0/0; 0; 0; 0.00; 0.0
+Nicolas Hasler; D; 9; 7; 635; 0; 1; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Jimmy Medranda; D; 10; 2; 176; 0; 1; 8; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Seth Sinovic; D; 22; 21; 1911; 0; 1; 10; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Rodney Wallace; D; 1; 1; 27; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Wan Kuzain Wan Kamal; M; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Jaylin Lindsey; D; 1; 1; 90; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Cameron Duke; M; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Tyler Freeman; F; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Felipe Hernandez; M; 2; 1; 95; 0; 0; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Abdul Rwatubyaye; D; 2; 1; 164; 0; 0; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Matt Besler; D; 27; 25; 2115; 0; 0; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Andreu Fontas; D; 13; 10; 964; 0; 0; 3; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Gedion Zelalem; M; 9; 5; 436; 0; 0; 3; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Luis Martins; D; 10; 9; 829; 0; 0; 6; 3; 0; 0/0; 0; 0; 0.00; 0.0
+
 
 Team: Toronto FC
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=2077&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-uXu1qHGKttVchznCyEfCuMdDY38R5ztBoEeBTC4zW1I&form_id=mp7_stats_hub_build_filter_form
+
+Alejandro Pozuelo; M; 30; 28; 2524; 12; 12; 76; 31; 4; 5/6; 10; 2; 0.43; 15.8
+Jozy Altidore; F; 22; 18; 1691; 11; 7; 50; 24; 3; 0/0; 6; 5; 0.59; 22.0
+Nick DeLeon; M; 32; 23; 1856; 6; 4; 42; 17; 1; 0/0; 2; 4; 0.29; 14.3
+Jonathan Osorio; M; 24; 18; 1756; 5; 4; 27; 14; 2; 0/1; 3; 2; 0.26; 18.5
+Jordan Hamilton; F; 14; 7; 623; 4; 0; 23; 12; 1; 0/0; 4; 0; 0.58; 17.4
+Michael Bradley; M; 27; 26; 2372; 3; 3; 22; 5; 1; 0/0; 0; 3; 0.11; 13.6
+Tsubasa Endoh; M; 13; 10; 878; 3; 2; 19; 11; 0; 0/0; 2; 1; 0.31; 15.8
+Marky Delgado; M; 30; 29; 2554; 2; 7; 41; 8; 0; 0/0; 1; 1; 0.07; 4.9
+Jay Chapman; M; 17; 5; 522; 2; 2; 7; 2; 0; 0/0; 1; 1; 0.34; 28.6
+Patrick Mullins; F; 8; 4; 345; 2; 0; 10; 3; 0; 0/0; 1; 1; 0.52; 20.0
+Nicolas Benezet; F; 8; 5; 438; 2; 0; 14; 4; 0; 0/0; 0; 2; 0.41; 14.3
+Justin Morrow; D; 28; 26; 2349; 1; 3; 15; 5; 1; 0/0; 1; 0; 0.04; 6.7
+Richie Laryea; M; 20; 16; 1468; 1; 2; 17; 4; 0; 0/0; 1; 0; 0.06; 5.9
+Ayo Akinola; F; 8; 2; 253; 1; 1; 8; 3; 0; 0/0; 1; 0; 0.36; 12.5
+Omar Gonzalez; D; 14; 14; 1260; 1; 1; 12; 4; 0; 0/0; 0; 1; 0.07; 8.3
+Ashtone Morgan; D; 9; 3; 308; 1; 0; 1; 1; 0; 0/0; 1; 0; 0.29; 100.0
+Auro; D; 23; 22; 1889; 0; 3; 8; 3; 0; 0/0; 0; 0; 0.00; 0.0
+Ryan Telfer; F; 1; 0; 3; 0; 1; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Erickson Gallardo; F-M; 5; 4; 244; 0; 1; 3; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Chris Mavinga; D; 26; 24; 2112; 0; 1; 5; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Liam Fraser; M; 9; 9; 810; 0; 1; 7; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Jacob Shaffelburg; M-F; 10; 8; 672; 0; 1; 11; 4; 0; 0/0; 0; 0; 0.00; 0.0
+Laurent Ciman; D; 17; 14; 1262; 0; 1; 11; 3; 0; 0/0; 0; 0; 0.00; 0.0
+Julian Dunn; D; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Noble Okello; M; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Griffin Dorsey; M; 1; 0; 3; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Drew Moor; D; 13; 11; 1022; 0; 0; 1; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Terrence Boyd; F; 11; 3; 339; 0; 0; 4; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Eriq Zavaleta; D; 16; 11; 1015; 0; 0; 5; 1; 0; 0/0; 0; 0; 0.00; 0.0
+
 
 Team: Vancouver Whitecaps
+BlockSource: https://www.mlssoccer.com/stats/season?franchise=1708&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-YDucQnRh99sAznaD08X8caoaqBfxccxYQQpRoMTgDLk&form_id=mp7_stats_hub_build_filter_form
+
+Fredy Montero; F; 32; 22; 2098; 8; 3; 60; 24; 2; 4/4; 5; 3; 0.34; 13.3
+Yordy Reyna; M-F; 25; 22; 1988; 7; 1; 60; 27; 1; 0/1; 3; 4; 0.32; 11.7
+Doneil Henry; D; 25; 24; 2123; 4; 1; 12; 6; 0; 0/0; 3; 1; 0.17; 33.3
+Inbeom Hwang; M; 34; 31; 2807; 3; 5; 48; 15; 1; 1/1; 2; 1; 0.10; 6.3
+Lucas Venuto; M; 22; 12; 1132; 3; 1; 14; 6; 1; 0/0; 1; 2; 0.24; 21.4
+Theo Bair; F; 17; 10; 824; 2; 2; 12; 7; 0; 0/0; 0; 2; 0.22; 16.7
+Ali Adnan; D; 28; 28; 2412; 1; 5; 38; 14; 0; 0/1; 1; 0; 0.04; 2.6
+Tosaint Ricketts; F; 8; 6; 482; 1; 2; 10; 5; 0; 0/0; 0; 1; 0.19; 10.0
+Michaell Chirinos; F; 7; 4; 412; 1; 1; 10; 6; 1; 0/0; 0; 1; 0.22; 10.0
+Lass Bangoura; M; 17; 7; 634; 1; 1; 11; 4; 0; 0/0; 0; 1; 0.14; 9.1
+Erik Godoy; D; 29; 28; 2596; 1; 1; 13; 2; 0; 0/0; 1; 0; 0.03; 7.7
+Andy Rose; M; 24; 20; 1850; 1; 1; 14; 4; 1; 0/0; 0; 1; 0.05; 7.1
+Scott Sutter; D; 16; 9; 980; 1; 0; 5; 2; 0; 0/0; 0; 1; 0.09; 20.0
+Derek Cornelius; D; 17; 16; 1426; 1; 0; 5; 2; 0; 0/0; 0; 1; 0.06; 20.0
+Jake Nerwinski; D; 26; 24; 2023; 1; 0; 6; 1; 0; 0/0; 0; 1; 0.04; 16.7
+Felipe; M; 18; 13; 1142; 1; 0; 10; 3; 1; 0/0; 0; 1; 0.08; 10.0
+Russell Teibert; M; 27; 26; 2202; 0; 3; 8; 2; 0; 0/0; 0; 0; 0.00; 0.0
+Jon Erice; M; 21; 21; 1752; 0; 2; 2; 0; 0; 0/0; 0; 0; 0.00; 0.0
+PC; D; 18; 9; 812; 0; 1; 7; 1; 0; 0/0; 0; 0; 0.00; 0.0
+Brendan McDonough; D; 1; 1; 66; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+David Norman Jr.; M; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Michael Baldisimo; M; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Georges Mukumbilwa; D-M; 1; 0; 9; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Simon Colyn; M; 0; 0; 0; 0; 0; 0; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Jasser Khmiri; D; 1; 1; 90; 0; 0; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Brett Levis; D; 9; 3; 330; 0; 0; 1; 0; 0; 0/0; 0; 0; 0.00; 0.0
+Joaquin Ardaiz; F; 16; 3; 405; 0; 0; 12; 4; 0; 0/0; 0; 0; 0.00; 0.0
