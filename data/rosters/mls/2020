@@ -1,0 +1,834 @@
+
+Season: 2020
+Competition: Major League Soccer
+Date: 3/27/2020
+
+
+Key: name; number; position; roster_status; player_category; note
+
+Key: name;
+
+
+Team: Atlanta United
+BlockSource: https://www.mlssoccer.com/players?site_path=players&position=All&club=11091
+
+Mo Adams
+Ezequiel Barco
+George Bello
+George Campbell
+Andrew Carleton
+Edgar Castillo
+Manuel Castro
+Franco Escobar
+Luiz Fernando
+Jon Gallagher
+Brad Guzan
+Emerson Hyndman
+Adam Jahn
+Alec Kann
+Lagos Kunga
+Jeff Larentowicz
+Brooks Lennon
+Pity Martinez
+Josef Martinez
+Fernando Meza
+Brendan Moore
+Jake Mulraney
+Eric Remedi
+Miles Robinson
+Matheus Rossetto
+Anton Walkes
+JJ Williams
+
+
+Team: Chicago Fire
+
+Robert Beric
+Boris Sekulic
+Ignacio Aliseda
+Michael Azira
+Jonathan Bornstein
+Chris Brady
+Brandt Bronico
+Francisco Calvo
+Javier Casas
+Elliot Collier
+Przemyslaw Frankowski
+Gaston Gimenez
+Brian Gutierrez
+Jeremiah Gutjahr
+Fabian Herbers
+Johan Kappelhof
+Kenneth Kronholm
+Alvaro Medran
+Djordje Mihailovic
+Alex Monis
+Miguel Angel Navarro
+Wyatt Omsberg
+Mauricio Pineda
+Andre Reynolds II
+Allan Rodriguez
+CJ Sapong
+Bobby Shuttleworth
+Nicholas Slonina
+Gabriel Slonina
+Connor Sparrow
+Luka Stojanovic
+
+
+Team: FC Cincinnati
+
+Saad Abdul Salaam
+Fatai Alashe
+Frankie Amaya
+Zico Bailey
+Allan Cruz
+Rashawn Dally
+Siem de Jong
+Mathieu Deplagne
+Bobby Edwards
+Greg Garza
+Andrew Gutman
+Joseph-Claude Gyau
+Nick Hagglund
+Yuya Kubo
+Jurgen Locadia
+Ben Lundt
+Kekuta Manneh
+Darren Mattocks
+Tommy McCabe
+Jimmy McLaughlin
+Haris Medunjanin
+Hassan Ndam
+Rey Ortiz
+Tom Pettersson
+Adrien Regattin
+Spencer Richey
+Caleb Stanko
+Przemyslaw Tyton
+Maikel van der Werff
+Brandon Vazquez
+Kendall Waston
+
+
+
+Team: Colorado Rapids
+BlockSource: https://www.mlssoccer.com/players?site_path=players&position=All&club=436
+
+Lalas Abubakar
+Kellyn Acosta
+Sebastian Anderson
+Cole Bassett
+Nicolas Benezet
+Kortne Ford
+Matt Hundley
+Clint Irwin
+Niki Jackson
+Kei Kamara
+Jeremy Kelly
+Jonathan Lewis
+Nicolas Mezquida
+Drew Moor
+Younes Namli
+Sam Nicholson
+Jack Price
+Andre Rawls
+Abraham Rodriguez
+Keegan Rosenberry
+Diego Rubio
+Abdul Rwatubyaye
+Andre Shinyashiki
+Auston Trusty
+Sam Vines
+Will Vint
+Danny Wilson
+Deklan Wynne
+William Yarbrough
+
+
+Team: Columbus Crew SC
+BlockSource: https://www.mlssoccer.com/players?site_path=players&position=All&club=454
+
+Fanendo Adi
+Harrison Afful
+Sebastian Berhalter
+Miguel Berry
+Chris Cadden
+Artur
+Luis Diaz
+Derrick Etienne Jr.
+Waylon Francis
+Jordan Hamilton
+Hector Jimenez
+Aboubacar Keita
+Jon Kempin
+Matt Lampson
+Jonathan Mensah
+Youness Mokhtar
+Aidan Morris
+Darlington Nagbe
+Eloy Room
+Pedro Santos
+Axel Sjoberg
+Andrew Tarbell
+Milton Valenzuela
+Josh Williams
+Vito Wormgoor
+Gyasi Zardes
+Lucas Zelarayan
+
+
+Team: FC Dallas
+
+Bryan Acosta; 8; M; La Ceiba, Honduras; 5'8; 161
+Pablo Aranguiz; 10; M; Independencia, Chile; 5'8; 143
+Francis Atuahene; 17; F; Accra, Ghana, 5'9; 170
+Michael Barrios; 21; M; Barranquilla, Colombia; 5'4; 132
+Bressan; 4; D; Caxias do Sul, Brazil; 6'; 174
+Nkosi Burgess; 28; D; Manhattan, NY; 6'4; 185
+Reggie Cannon; 2; D; Grapevine, TX; 5'11; 165
+Edwin Cerrillo; 33; M; Frisco, TX; 5'10; 180
+Jesus Ferreira; 7; F; McKinney, TX; 5'8; 140
+Jesse Gonzalez; 1; GK; Edenton, NC; 6'4; 180
+Matt Hedges; 24; D; Carmel, IN; 6'4; 185
+Ryan Hollingshead; 12; D; Granite Bay, CA; 6'1; 180
+Jimmy Maurer; 14; GK; Lawrenceville, GA; 6'2; 185
+Callum Montgomery; 25; D; Victoria, BC; 6'3; 185
+Santiago Mosquera; 11; M; Buenaventura, Colombia; 5'6; 185
+Eddie Munjoma; 27; D; Dallas, TX; 5'10; 155
+John Nelson; 26; D; Medina, OH; 5'9; 160
+Zdenek Ondrasek; 13; F; Strakonice, Czechia; 6'1; 174
+Ricardo Pepi; 16; F; El Paso, TXX;  6'1; 170
+Fafa Picault; 9; F; Miami, FL; 5'8; 168
+Paxton Pomykal; 19; M; Highland Village, TX; 5'7; 145
+Bryan Reynolds; 14; D; Fort Worth, TX; 6'3; 170
+Thomas Roberts; 23; M; Little Rock, AR; 5'11; 150
+Thiago Santos; 5; M; Sao Paulo, Brazil; 5'11; 167
+Dante Sealy; 31; F; Frisco, TX; 5'10; 135
+Brandon Servania; 18; M; Dallas, TX; 5'10; 160
+Tanner Tessman; ; M; Hoover, AL; 6'2; 190
+Ema Twumasi; 22; F; Accra, Ghana; 5'8; 160
+Reto Ziegler; 3; D; Geneva, Switzerland; 6'0; 176
+Kyle Zobeck; 30; GK; Coralville, IA; 6'0; 180
+
+
+Team: D.C. United
+
+Mohammed Abu
+Paul Arriola
+Yamil Asad
+Steven Birnbaum
+Emmanuel Boateng
+Frederic Brillant
+Russell Canouse
+Earl Edwards Jr.
+Oniel Fisher
+Edison Flores
+Julian Gressel
+Bill Hamid
+Federico Higuain
+Ola Kamara
+Felipe
+Joseph Mora
+Junior Moreno
+Moses Nyeman
+Chris Odoi-Atsem
+Kevin Paredes
+Donovan Pines
+Ulises Segura
+Chris Seitz
+Erik Sorga
+Griffin Yow
+
+
+Team: Houston Dynamo
+BlockSource: https://www.mlssoccer.com/players?site_path=players&position=All&club=1897
+
+Kyle Adams
+Jose Bizama
+Victor Cabrera
+Darwin Ceren
+Cody Cropper
+Alberth Elis
+Maynor Figueroa
+Alejandro Fuenmayor
+Boniek Garcia
+Niko Hansen
+Sam Junqua
+Adam Lundkvist
+Mauro Manotas
+Marko Maric
+Tomas Martinez
+Erik McCue
+Thomas McNamara
+Michael Nelson
+Marcelo Palomino
+Ronaldo Pena
+Darwin Quintero
+Christian Ramirez
+Memo Rodriguez
+Michael Salazar
+Aljaz Struna
+Zarek Valentin
+Matias Vera
+
+
+Team: Inter Miami
+BlockSource: https://www.mlssoccer.com/players?site_path=players&position=All&club=14880
+
+George Acosta
+Juan Agudelo
+Mikey Ambrose
+Luis Argudo
+Drake Callender
+Julian Carranza
+Jay Chapman
+AJ DeLaGarza
+Nicolas Figal
+Jerome Kiesewetter
+Grant Lillard
+Christian Makoun
+John McCarthy
+Lewis Morgan
+Dylan Nealis
+Lee Nguyen
+David Norman Jr.
+Matias Pellegrini
+Rodolfo Pizarro
+Alvas Powell
+Jairo Quinteros
+Andres Reyes
+Robbie Robinson
+Luis Robles
+Ben Sweat
+Roman Torres
+Wil Trapp
+Victor Ulloa
+Denso Ulysse
+
+
+
+Team: Los Angeles Football Club
+BlockSource: https://www.mlssoccer.com/players?site_path=players&position=All&club=11690
+
+Eduard Atuesta
+Tristan Blackmon
+Latif Blessing
+Jose Cifuentes
+Danilo Silva
+Adama Diomande
+Bryce Duke
+Phillip Ejimadu
+Mohamed El-Munir
+Francisco Ginella
+Alejandro Guido
+Jordan Harvey
+Dejan Jakovic
+Mark-Anthony Kaye
+Danny Musovski
+Diego Palacios
+Adrian Perez
+Brian Rodriguez
+Diego Rossi
+Eddie Segura
+Pablo Sisniega
+Carlos Vela
+Kenneth Vermeer
+Bradley Wright-Phillips
+
+
+Team: LA Galaxy
+
+Danilo Acosta
+Efrain Alvarez
+Julian Araujo
+David Bingham
+Joe Corona
+Emil Cuello
+Nick DePuy
+Jonathan dos Santos
+Cameron Dunbar
+Rolf Feltscher
+Giancarlo Gonzalez
+Javier Chicharito Hernandez
+Emiliano Insua
+Aleksandar Katai
+Perry Kitchen
+Sacha Kljestan
+Sebastian Lletget
+Eric Lopez
+Cristian Pavon
+Jonathan Perez
+Jorgen Skjelvik
+Daniel Steres
+Diedie Traore
+Justin Vom Steeg
+Gordon Wild
+Ethan Zubak
+
+
+Team: Minnesota United FC
+BlockSource: https://www.mlssoccer.com/players?site_path=players&position=All&club=6977
+
+Jose Aja
+Osvaldo Alonso
+Luis Amarilla
+Noah Billingsley
+Michael Boxall
+Thomas Chacon
+Hassani Dotson
+Raheem Edwards
+Fred Emmings
+Ethan Finlay
+Chase Gasper
+Jan Gregus
+Marlon Hairston
+Jacori Hayes
+Romario Ibarra
+Brent Kallman
+Robin Lod
+Romain Metanire
+Tyler Miller
+Kevin Molino
+James Musa
+Ike Opara
+Greg Ranjitsingh
+Aaron Schoenfeld
+Dayne St. Clair
+Mason Toye
+
+
+
+
+Team: Montreal Impact
+BlockSource: https://www.mlssoccer.com/players?site_path=players&position=All&club=1616
+
+Clement Bayiha
+Luis Binks
+Zachary Brault-Guillard
+Evan Bush
+Rudy Camacho
+Mathieu Choieniere
+Jorge Corrales
+Clement Diop
+Rod Fanni
+Anthony Jackson-Hamel
+Bojan Krkic
+Lassi Lappalainen
+Emanuel Maciel
+Orji Okwonkwo
+James Pantemis
+Samuel Piette
+Romell Quioto
+Jukka Raitala
+Steeven Saba
+Amar Sejdic
+Shamit Shome
+Jonathan Sirois
+Ballou Jean-Yves Tabla
+Saphir Taider
+Maximiliano Urruti
+Victor Wanyama
+Joel Waterman
+Karifa Yao
+
+
+Team: Nashville SC
+BlockSource: https://www.mlssoccer.com/players?site_path=players&position=All&club=15154
+
+David Accam
+Jalil Anibaba
+Tah Brian Anunga
+Dominique Badji
+Brayan Beckeles
+Abu Danladi
+Tanner Dieterich
+Anibal Godoy
+Luke Haakenson
+Alistair Johnston
+Derrick Jones
+Matt LaGrassa
+Cameron Lancaster
+Randall Leal
+Daniel Lovitz
+Jack Maher
+Dax McCarty
+Jimmy Medranda
+Eric Miller
+Hany Mukhtar
+Miguel Nazarit
+Elliot Panicco
+Daniel Rios
+Dave Romney
+Ken Tribbett
+Taylor Washington
+Joe Willis
+Alan Winn
+Adrian Zendejas
+Walker Zimmerman
+
+
+
+Team: New England Revolution
+BlockSource: https://www.mlssoccer.com/players?site_path=players&position=All&club=928
+
+Isaac Angking
+Gustavo Bou
+Tajon Buchanan
+Adam Buksa
+Teal Bunbury
+Alexander Buttner
+Brandon Bye
+Luis Alberto Caicedo
+Scott Caldwell
+Jeff Caldwell
+Antonio Mlinar Delamea
+Diego Fagundez
+Andrew Farrell
+Nicolas Firmino
+Carles Gil
+DeJuan Jones
+Henry Kessler
+Brad Knighton
+Michael Mancienne
+Cristian Penilla
+Justin Rennicks
+Damian Rivera
+Kelyn Rowe
+Seth Sinovic
+Matt Turner
+Wilfried Zahibo
+
+
+Team: New York City FC
+BlockSource: https://www.mlssoccer.com/players?site_path=players&position=All&club=9668
+
+Nicolas Acevedo
+Heber
+Luis Barraza
+Alexander Callens
+Valentin Castellanos
+Maxime Chanot
+Tayvon Gray
+Justin Haak
+Sebastien Ibeagha
+Sean Johnson
+Gary Mackay-Steven
+Ronaldo Matarrita
+Jesus Medina
+Alexandru Mitrita
+Maximiliano Moralez
+Keaton Parks
+Alexander Ring
+Tony Rocha
+James Sands
+Joe Scally
+Brad Stuver
+Ismael Tajouri-Shradi
+Gudmundur Thorarinsson
+Anton Tinnerholm
+Juan Pablo Torres
+Gedion Zelalem
+
+
+Team: New York Red Bulls
+
+
+Team: Orlando City SC
+BlockSource: https://www.mlssoccer.com/players?site_path=players&position=All&club=6900
+
+Tesho Akindele
+Nani
+Robinho
+Jordan Bender
+Josue Colman
+Antonio Carlos
+Junior Urso
+Alex De John
+Joey DeZart
+Daryl Dike
+Dom Dwyer
+Pedro Gallese
+Robin Jansson
+David Loera
+Sebastian Mendez
+Benji Michel
+Kamal Miller
+Joao Moutinho
+Chris Mueller
+Santiago Patino
+Andres Perea
+Mauricio Pereyra
+Oriol Rosell
+Brian Rowe
+Rodrigo Schlegel
+Kyle Smith
+Mason Stajduhar
+Ruan
+
+
+
+Team: Philadelphia Union
+BlockSource: https://www.mlssoccer.com/players?site_path=players&position=All&club=5513
+
+Brenden Aaronson
+Alejandro Bedoya
+Joe Bendik
+Andre Blake
+Cory Burke
+Aurelien Collin
+Warren Creavalle
+Jack de Vries
+Jack Elliott
+Anthony Fontana
+Matt Freese
+Raymon Gaddis
+Jakob Glesnes
+Jose Andres Martinez
+Olivier Mbaizo
+Mark McKenzie
+Jamiro Monteiro
+Michee Ngalina
+Matej Oravec
+Ilsinho
+Kacper Przybylko
+Matthew Real
+Sergio Santos
+Cole Turner
+Kai Wagner
+Andrew Wooten
+
+
+Team: Portland Timbers
+
+Dairon Asprilla
+Jeff Attinella
+Sebastian Blanco
+Blake Bodily
+Julio Cascante
+Diego Chara
+Yimmi Chara
+Steve Clark
+Tomas Conechny
+Chris Duvall
+Jeremy Ebobisse
+Marco Farfan
+Andres Flores
+Aljaz Ivacic
+Marvin Loria
+Larrys Mabiala
+Felipe Mora
+Jorge Moreira
+Jaroslaw Niezgoda
+Cristhian Paredes
+Andy Polo
+Bill Tuiloma
+Diego Valeri
+Jorge Villafana
+Eryk Williamson
+Renzo Zambrano
+Dario Zuparic
+
+
+
+Team: Real Salt Lake
+
+Luis Arriaga
+Corey Baird
+Kyle Beckerman
+Nick Besler
+Everton Luiz
+Maikel Chang
+Christopher Garcia
+Justen Glad
+Aaron Herrera
+Erik Holt
+Milan Iloski
+Sam Johnson
+Alvin Jones
+Damir Kreilach
+Zac MacMath
+Douglas Martinez
+Justin Meram
+Ashtone Morgan
+Luke Mulholland
+David Ochoa
+Nedum Onuoha
+Justin Portillo
+Andrew Putna
+Jeizon Ramirez
+Giuseppe Rossi
+Pablo Ruiz
+Albert Rusnak
+Tate Schmitt
+Marcelo Silva
+Donny Toia
+Julian Vazquez
+
+
+
+Team: San Jose Earthquakes
+BlockSource: https://www.mlssoccer.com/players?site_path=players&position=All&club=1131
+
+Jacob Akanyirige
+Oswaldo Alanis
+Tanner Beason
+Matt Bersano
+Eric Calvillo
+Cade Cowell
+Magnus Eriksson
+Cristian Espinoza
+Luis Felipe
+Carlos Fierro
+Gilbert Fuentes
+Siad Haji
+Danny Hoesen
+Florian Jungwirth
+Guram Kashia
+Nick Lima
+Marcos Lopez
+JT Marcinkowski
+Paul Marie
+Emmanuel Ochoa
+Vako
+Andres Rios
+Shea Salinas
+Judson
+Tommy Thompson
+Daniel Vega
+Casey Walls
+Chris Wondolowski
+Jackson Yueill
+
+
+Team: Seattle Sounders FC
+BlockSource: https://www.mlssoccer.com/players?site_path=players&position=All&club=3500
+
+Xavier Arreaga
+Will Bruin
+Handwalla Bwana
+Stefan Cleveland
+Jordy Delem
+Justin Dhillon
+Stefan Frei
+Yeimar Gomez Andrarde
+Miguel Ibarra
+Joevin Jones
+Kelvin Leerdam
+Danny Leyva
+Nicolas Lodeiro
+Jordan Morris
+Trey Muse
+Shane O'Neill
+Alfonso Ocampo-Chavez
+Joao Paulo
+Cristian Roldan
+Alex Roldan
+Raul Ruidiaz
+Harry Shipp
+Gustav Svensson
+Nouhou Tolo
+
+
+Team: Sporting Kansas City
+BlockSource: https://www.mlssoccer.com/players?site_path=players&position=All&club=421
+
+Botond Barath
+Matt Besler
+Gianluca Busio
+Amadou Dia
+Eric Dick
+Cameron Duke
+Roger Espinoza
+Gerso Fernandes
+Andreu Fontas
+Tyler Freeman
+Felipe Gutierrez
+Felipe Hernandez
+Erik Hurtado
+Gadi Kinda
+Jaylin Lindsey
+Luis Martins
+Tim Melia
+Alan Pulido
+John Pulskamp
+Roberto Puncec
+Winston Reid
+Johnny Russell
+Daniel Salloi
+Ilie Sanchez
+Richard Sanchez
+Khiry Shelton
+Graham Smith
+Wan Kuzain Wan Kamal
+Graham Zusi
+
+
+
+Team: Toronto FC
+BlockSource: https://www.mlssoccer.com/players?site_path=players&position=All&club=2077
+
+Achara
+Ayo Akinola
+Jozy Altidore
+Alex Bono
+Michael Bradley
+Laurent Ciman
+Auro
+Nick DeLeon
+Marky Delgado
+Griffin Dorsey
+Julian Dunn
+Tsubasa Endoh
+Liam Fraser
+Erickson Gallardo
+Omar Gonzalez
+Richie Laryea
+Jahkeele Marshall-Rutty
+Chris Mavinga
+Justin Morrow
+Patrick Mullins
+Jayden Nelson
+Noble Okello
+Jonathan Osorio
+Pablo Piatti
+Alejandro Pozuelo
+Rocco Romeo
+Jacob Shaffelburg
+Quentin Westberg
+Eriq Zavaleta
+
+
+Team: Vancouver Whitecaps FC
+
+Ali Adnan
+Theo Bair
+Michael Baldisimo
+Janio Bikel
+Lucas Cavallini
+Simon Colyn
+Derek Cornelius
+Maxime Crepeau
+Cristian Dajome
+Gianfranco Facchineri
+Erik Godoy
+Cristian Gutierrez
+Thomas Hasal
+Inbeom Hwang
+Jasser Khmiri
+Bryan Meredith
+Patrick Metcalfe
+David Milinkovic
+Fredy Montero
+Georges Mukumbilwa
+Jake Nerwinski
+Leonard Owusu
+Damiano Pecile
+Ryan Raposo
+Yordy Reyna
+Tosaint Ricketts
+Andy Rose
+Russell Teibert
+Ranko Veselinovic
+
+
