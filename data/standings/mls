@@ -2,6 +2,42 @@ Competition: Major League Soccer
 Key: position; team; games; wins; losses; ties; goals_for; goals_against; goal_difference; points
 
 
+Season: 2019
+BlockSource: https://en.wikipedia.org/wiki/2019_Major_League_Soccer_season
+
+
+Group: Eastern Conference
+
+1;  New York City FC;       34; 18;  6; 10; 63; 42; +21; 64
+2;  Atlanta United FC;      34; 18; 12;  4; 58; 43; +15; 58
+3;  Philadelphia Union;     34; 16; 11;  7; 58; 50;  +8; 55
+4;  Toronto FC[b];          34; 13; 10; 11; 57; 52;  +5; 50
+5;  D.C. United;            34; 13; 10; 11; 42; 38;  +4; 50
+6;  New York Red Bulls;     34; 14; 14;  6; 53; 51;  +2; 48
+7;  New England Revolution; 34; 11; 11; 12; 50; 57;  −7; 45
+8;  Chicago Fire;           34; 10; 12; 12; 55; 47;  +8; 42; 
+9;  Montreal Impact;        34; 12; 17;  5; 47; 60; −13; 41
+10; Columbus Crew SC;       34; 10; 16;  8; 39; 47;  −8; 38; 
+11; Orlando City SC;        34;  9; 15; 10; 44; 52;  −8; 37
+12; FC Cincinnati;          34;  6; 22;  6; 31; 75; −44; 24
+
+
+Group: Western Conference
+
+1;  Los Angeles FC;         34; 21;  4;  9; 85; 37; +48; 72
+2;  Seattle Sounders FC;    34; 16; 10;  8; 51; 49;  +2; 56
+3;  Real Salt Lake;         34; 16; 13;  5; 45; 41;  +4; 53
+4;  Minnesota United FC;    34; 15; 11;  8; 52; 42; +10; 53
+5;  LA Galaxy;              34; 16; 15;  3; 56; 55;  +1; 51
+6;  Portland Timbers;       34; 14; 13;  7; 49; 48;  +1; 49
+7;  FC Dallas;              34; 13; 12;  9; 48; 46;  +2; 48
+8;  San Jose Earthquakes;   34; 13; 16;  5; 51; 52;  −1; 44; 
+9;  Colorado Rapids;        34; 12; 16;  6; 57; 60;  −3; 42
+10; Houston Dynamo;         34; 12; 18;  4; 45; 57; −12; 40
+11; Sporting Kansas City;   34; 10; 16;  8; 49; 67; −18; 38
+12; Vancouver Whitecaps FC; 34;  8; 16; 10; 37; 58; −21; 34
+
+
 Season: 2018
 BlockSource: https://en.wikipedia.org/wiki/2018_Major_League_Soccer_season
 
