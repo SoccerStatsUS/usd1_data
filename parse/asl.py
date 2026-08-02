@@ -119,8 +119,7 @@ def process_stats():
     l = []
     for line in f:
         if not line.startswith('*'):
-            lx = load_stat(line)
-        l.append(lx)
+            l.append(load_stat(line))
 
     return [e for e in l if e]
 
@@ -155,7 +154,7 @@ def load_stat(line):
     team_name = get_full_name_stats(team, season)
 
     competition = 'American Soccer League (1921-1933)'
-    return [{
+    return {
             'name': name,
             'team': team_name,
             'season': season,
@@ -163,9 +162,7 @@ def load_stat(line):
             'games_played': season_games,
             'goals': season_goals,
             'source': 'American Soccer League (1921-1931)',
-            }]
-        
-    return l
+            }
 
 
 def process_asl_games():
