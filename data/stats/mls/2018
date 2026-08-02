@@ -1,7 +1,8 @@
 Competition: Major League Soccer
 Season: 2018
 
-Key: Player; Position; games_played; games_started; minutes; goals; assists; shots; shots_on_goal; game_winning_goals; pkgoals_attempts; HmG; RdG; G/90min; SC%
+Key: name; position; games_played; games_started; minutes; goals; assists; shots; shots_on_goal; game_winning_goals; pkgoals_attempts; HmG; RdG; G/90min; SC%
+
 
 
 Team: Atlanta United

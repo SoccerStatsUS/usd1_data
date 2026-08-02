@@ -1,7 +1,8 @@
 Competition: Major League Soccer
 Season: 2017
 
-Key: Team;	Player;	POS;	GP;	GS;	MINS;	G;	A;	SHTS;	SOG;	GWG;	PKG/A;	HmG;	RdG;	G/90min;	SC%
+Key: team; name; position; games_played; games_started; minutes; goals; assists; shots; shots_on_goal; game_winning_goals; pk_goals/a; home_goals; away_goals; g/90; sc%
+* Team;	Player;	POS;	GP;	GS;	MINS;	G;	A;	SHTS;	SOG;	GWG;	PKG/A;	HmG;	RdG;	G/90min;	SC%
 
 Team: Atlanta United
 BlockSource: https://www.mlssoccer.com/stats/season?franchise=11091&year=2017&season_type=REG&group=goals&op=Search&form_build_id=form-jQFpMw5HBJ-duofNeVWYT-gtVeRpZw4H-G023I-vy7w&form_id=mp7_stats_hub_build_filter_form

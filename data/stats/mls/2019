@@ -1,8 +1,9 @@
 Competition: Major League Soccer
 Season: 2019
 
-Key: Player; POS; GP; GS; MINS; Gsort ascending; A; SHTS; SOG; GWG; PKG/A; HmG; RdG; G/90min; SC%
 
+Key: player; position; games_played; games_started; minutes; goals; assists; shots; shots_on_goal; game_winning_goals; pkgoals_attempts; HmG; RdG; G/90min; SC%
+* Key: Player; POS; GP; GS; MINS; Gsort ascending; A; SHTS; SOG; GWG; PKG/A; HmG; RdG; G/90min; SC%
 
 Team: Atlanta United
 BlockSource: https://www.mlssoccer.com/stats/season?franchise=11091&year=2019&season_type=REG&group=goals&op=Search&form_build_id=form-IUTPM42FvWWRtQhRVfbo4cF4MwaXAZ2_IMPwbdLq18A&form_id=mp7_stats_hub_build_filter_form
