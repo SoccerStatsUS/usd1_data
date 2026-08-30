@@ -1,6 +1,6 @@
 Competition: Major League Soccer
 Season: 2014
-Key: date; type; person; team_to
+Key: date; type; person; team_to; team_from
 
 BlockSource: http://forums.bigsoccer.com/threads/2014-in-season-player-movement-scorecard.2001645/
 
@@ -457,7 +457,8 @@ Source: http://www.fcdallas.com/news/2014/03/fc-dallas-waives-defender-london-wo
 3/21/2014; sign; Billy Knutsen; San Jose Earthquakes
 Source: http://www.sjearthquakes.com/news/2014/03/signing-rookie-gk-knutsen-joins-club
 
-3/21/2014; sign; Matt Pickers; New England Revolution; waivers
+* from waivers
+3/21/2014; sign; Matt Pickers; New England Revolution
 Source: http://www.revolutionsoccer.net/news/2014/03/revs-claim-goalkeeper-matt-pickens-through-waiver-draft
 
 3/21/2014; loan; Grant Ward; Chicago Fire; Tottenham Hotspur
