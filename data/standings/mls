@@ -255,7 +255,7 @@ Season: 2011
 Key: team; games; wins; losses; ties; goals_for; goals_against; points
 
 Group: Eastern Division
-Sporting Kansas City ; 34 ; 16 ; 9 ; 12 ; 50 ; 40 ; 51 
+Sporting Kansas City ; 34 ; 13 ; 9 ; 12 ; 50 ; 40 ; 51 
 Houston Dynamo ; 34 ; 12 ; 9 ; 13 ; 45 ; 41 ; 49 
 Philadelphia Union ; 34 ; 11 ; 8 ; 15 ; 44 ; 36 ; 48 
 Columbus Crew ; 34 ; 13 ; 13 ; 8 ; 43 ; 44 ; 47 
@@ -385,9 +385,9 @@ Season: 2005
 
 Group: Eastern Division
 New England Revolution ; 32 ; 17 ; 7 ; 8 ; 55 ; 37 ; 59
-D. C. United ; 32 ; 16 ; 10 ; 6 ; 54 ; 37 ; 21
+D. C. United ; 32 ; 16 ; 10 ; 6 ; 58 ; 37 ; 54
 Chicago Fire ; 32 ; 15 ; 13 ; 4 ; 49 ; 50 ; 49
-MetroStars ; 32 ; 12 ; 9 ; 11 ; 53 ; 39 ; 47
+MetroStars ; 32 ; 12 ; 9 ; 11 ; 53 ; 49 ; 47
 Kansas City Wizards ; 32 ; 11 ; 9 ; 12 ; 52 ; 44 ; 45
 Columbus Crew ; 32 ; 11 ; 16 ; 5 ; 34 ; 45 ; 38
 
@@ -428,10 +428,10 @@ Columbus Crew ; 30 ; 10 ; 12 ; 8 ; 44 ; 44 ; 38
 
 Group: Western Division
 San Jose Earthquakes ; 30 ; 14 ; 7 ; 9 ; 45 ; 35 ; 51
-Colorado Rapids ; 30 ; 11 ; 10 ; 9 ; 48 ; 44 ; 42
+Colorado Rapids ; 30 ; 11 ; 12 ; 7 ; 40 ; 45 ; 40
 Kansas City Wizards ; 30 ; 11 ; 10 ; 9 ; 48 ; 44 ; 42
 Los Angeles Galaxy ; 30 ; 9 ; 12 ; 9 ; 35 ; 35 ; 36
-Dallas Burn ; 30 ; 6 ; 16 ; 5 ; 35 ; 64 ; 23
+Dallas Burn ; 30 ; 6 ; 19 ; 5 ; 35 ; 64 ; 23
 
 
 Season: 2002
@@ -452,45 +452,47 @@ Kansas City Wizards ; 28 ; 9 ; 10 ; 9 ; 37 ; 45 ; 36
 
 
 Season: 2001
+BlockSource: https://en.wikipedia.org/wiki/2001_Major_League_Soccer_season
 
 Group: Eastern Division
-Miami Fusion ; 26 ; 16 ; 5 ; 5 ; 57 ;36 ; 53
-NY/NJ MetroStars ; 26 ; 13 ; 3 ;10 ; 38 ;35 ; 42
-New England Revolution ; 27 ; 7 ; 6 ;14 ; 35 ;52 ; 27
-D.C. United ; 26 ; 8 ; 2 ;16 ; 42 ;50 ; 26
+Miami Fusion ; 26 ; 16 ; 5 ; 5 ; 57 ; 36 ; 53
+NY/NJ MetroStars ; 26 ; 13 ; 10 ; 3 ; 38 ; 35 ; 42
+New England Revolution ; 27 ; 7 ; 14 ; 6 ; 35 ; 52 ; 27
+D.C. United ; 26 ; 8 ; 16 ; 2 ; 42 ; 50 ; 26
 
 Group: Central Division
-Chicago Fire ; 27 ; 16 ; 5 ; 6 ; 50 ;30 ; 53
-Columbus Crew ; 26 ; 13 ; 6 ; 7 ; 49 ;36 ; 45
-Dallas Burn ; 26 ; 10 ; 5 ;11 ; 48 ;47 ; 35
-Tampa Bay Mutiny ; 27 ; 4 ; 2 ;21 ; 32 ;68 ; 14
+Chicago Fire ; 27 ; 16 ; 6 ; 5 ; 50 ; 30 ; 53
+Columbus Crew ; 26 ; 13 ; 7 ; 6 ; 49 ; 36 ; 45
+Dallas Burn ; 26 ; 10 ; 11 ; 5 ; 48 ; 47 ; 35
+Tampa Bay Mutiny ; 27 ; 4 ; 21 ; 2 ; 32 ; 68 ; 14
 
 Group: Western Division
-Los Angeles Galaxy ; 26 ; 14 ; 5 ; 7 ; 52 ;36 ; 47
-San Jose Earthquakes ; 26 ; 13 ; 6 ; 7 ; 47 ;29 ; 45
-Kansas City Wizards ; 27 ; 11 ; 3 ;13 ; 33 ;53 ; 36
-Colorado Rapids ; 26 ; 5 ; 8 ;13 ; 36 ;47 ; 23
+Los Angeles Galaxy ; 26 ; 14 ; 7 ; 5 ; 52 ; 36 ; 47
+San Jose Earthquakes ; 26 ; 13 ; 7 ; 6 ; 47 ; 29 ; 45
+Kansas City Wizards ; 27 ; 11 ; 13 ; 3 ; 33 ; 53 ; 36
+Colorado Rapids ; 26 ; 5 ; 13 ; 8 ; 36 ; 47 ; 23
 
 
 Season: 2000
+BlockSource: https://en.wikipedia.org/wiki/2000_Major_League_Soccer_season
 
 Group: Eastern Division
-MetroStars ; 32 ; 17 ; 3 ; 12 ; 64 ; 56 ; 54
-New England Revolution ; 32 ; 13 ; 6 ; 13 ; 47 ; 49 ; 45
-Miami Fusion ; 32 ; 12 ; 5 ; 15 ; 54 ; 56 ; 41
-DC United ; 32 ; 8 ; 6 ; 18 ; 44 ; 63 ; 30
+MetroStars ; 32 ; 17 ; 12 ; 3 ; 64 ; 56 ; 54
+New England Revolution ; 32 ; 13 ; 13 ; 6 ; 47 ; 49 ; 45
+Miami Fusion ; 32 ; 12 ; 15 ; 5 ; 54 ; 56 ; 41
+DC United ; 32 ; 8 ; 18 ; 6 ; 44 ; 63 ; 30
 
 Group: Central Division
-Chicago Fire ; 32 ; 17 ; 6 ; 9 ; 67 ; 51 ; 57
-Tampa Bay Mutiny ; 32 ; 16 ; 4 ; 12 ; 62 ; 50 ; 52
-Dallas Burn ; 32 ; 14 ; 4 ; 14 ; 54 ; 54 ; 46
-Columbus Crew ; 32 ; 11 ; 5 ; 16 ; 48 ; 58 ; 38
+Chicago Fire ; 32 ; 17 ; 9 ; 6 ; 67 ; 51 ; 57
+Tampa Bay Mutiny ; 32 ; 16 ; 12 ; 4 ; 62 ; 50 ; 52
+Dallas Burn ; 32 ; 14 ; 14 ; 4 ; 54 ; 54 ; 46
+Columbus Crew ; 32 ; 11 ; 16 ; 5 ; 48 ; 58 ; 38
 
 Group: Western Division
-Kansas City Wizards ; 32 ; 16 ; 9 ; 7 ; 47 ; 29 ; 57
-Los Angeles Galaxy ; 32 ; 14 ; 8 ; 10 ; 47 ; 37 ; 50
-Colorado Rapids ; 32 ; 13 ; 4 ; 15 ; 43 ; 59 ; 43
-San Jose Earthquakes ; 32 ; 7 ; 8 ; 17 ; 35 ; 50 ; 29
+Kansas City Wizards ; 32 ; 16 ; 7 ; 9 ; 47 ; 29 ; 57
+Los Angeles Galaxy ; 32 ; 14 ; 10 ; 8 ; 47 ; 37 ; 50
+Colorado Rapids ; 32 ; 13 ; 15 ; 4 ; 43 ; 59 ; 43
+San Jose Earthquakes ; 32 ; 7 ; 17 ; 8 ; 35 ; 50 ; 29
 
 
 Season: 1999
